@@ -1,0 +1,14 @@
+Tool:
+Need:
+Website:
+Download:
+Version:
+License:
+System Requirements:
+Admin: true/false
+Alternatives:
+Comment:
+Group: Advanced Usage 
+Title: Advanced Howto
+Language: EN
+

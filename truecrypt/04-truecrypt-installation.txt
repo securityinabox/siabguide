@@ -5,7 +5,6 @@ Download: https://truecrypt.ch/downloads/
 Version: 7.1a
 License: Free/Open Source Software
 System Requirements: Microsoft Windows, GNU Linux, Mac OS
-Installation Requirements: Administrator rights
 Admin: true
 Alternatives: Ubuntu full-disk encryption, dm-crypt for Linux, cryptsetup and LUKS for Linux, ScramDisk for Linux SD4L, FileVault for Mac OS, DiskCryptor for Microsoft Windows
 Comment: read 03-truecrypt-premise before installing and using this tool
@@ -16,132 +15,203 @@ Language: EN
 
 # Install TrueCrypt and Create Standard Volumes
 
-**TrueCrypt** is a program which secures your files by preventing anyone without the correct password from accessing them. It functions like an electronic safe, letting you lock up your files so that only someone with the correct password can open them. **TrueCrypt** works by letting you set up *volumes* or sections on your computer where you can securely store files. When you create data in, or move data to these volumes, **TrueCrypt** will automatically encrypt that information. As you open or take your files out, it automatically decrypts them for use. This process is called *on-the-fly* encryption.
+**TrueCrypt** is a program which secures your files by preventing anyone without the correct password from accessing them. It functions like an electronic safe, letting you lock up your files so that only someone with the correct password can open them. **TrueCrypt** works by letting you set up *volumes* or sections on your computer where you can securely store files. When you create data in, or move data to these volumes, **TrueCrypt** will automatically encrypt that information. As you open or take your files out, it automatically decrypts them for use. This process is called *on-the-fly* encryption. 
 
 ## Install TrueCrypt
 
+#### Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-01.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the  **TrueCrypt** *License* screen.
+
+#### Step 2
+
+**Check** the *I accept and agree to be bound by the license terms* option to enable the *Accept* button; **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-03.png) to activate the following screen:
+
+![Wizard Mode in the default Install mode](/sites/siabnext.ttc.io/files/media/truecrypt-win-04.png)
+
+*Figure 1: The Wizard Mode in the default Install mode*
+
+* *Install* mode: This option is for users who do not wish to hide the very fact that they use **TrueCrypt** on their computer.
+* *Extract* mode: This option is for users who wish to carry a portable version of **TrueCrypt** on a USB memory stick and do not wish to have **TrueCrypt** installed on their computer.
+
+**Note**: Some of the options (for example, entire partition and disk encryption) will not work when **TrueCrypt** is extracted only.
+
+**Note**: Although the default *Install* mode is recommended here, you may still use **TrueCrypt** in portable mode later on. To learn more about using the **TrueCrypt Traveller** mode, please refer to [**Portable TrueCrypt page**](http://security.ngoinabox.org/en/truecrypt_portable). 
+
+#### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+
+![Setup Options window](/sites/siabnext.ttc.io/files/media/truecrypt-win-06.png)
+
+*Figure 2: The Setup Options window*
+
+#### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-07.png) to activate the *Installing* screen to begin installing **TrueCrypt** on your system.
+
+#### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-08.png) and then ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-11.png) to activate the following screen:
+
+![](/sites/siabnext.ttc.io/files/media/truecrypt-win-09.png)
+
+*Figure 3: The TrueCrypt Setup confirmation dialog box*
+
+#### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-10a.png) to complete the **TrueCrypt** installation.
+
+**Note**: All users are strongly encouraged to consult [**TrueCrypt** help documentation](http://andryou.com/truecrypt/docs/index.php) after completing this tutorial.
+
+## Create a Standard Volume
+
+**TrueCrypt** lets you create two kinds of volumes: *Hidden* and *Standard*. In this section, you will learn how to create a *Standard Volume* in which to store your files. 
+
+To begin using **TrueCrypt** to create a *Standard Volume*, perform the following steps: 
+
 ### Step 1
 
-Double click ; the Open File - Security Warning dialog box may appear. If it does, click to activate the TrueCrypt License screen.
+**Double click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-52.png) or **Select Start > Programs > TrueCrypt > TrueCrypt** to open **TrueCrypt**.
 
-Step 2. Check the I accept and agree to be bound by the license terms option to enable the Accept button; click to activate the following screen:
+### Step 2
 
-Figure 1: The Wizard Mode in the default Install mode
+**Select** a drive from the list in the **TrueCrypt** pane as follows:
 
-    Install mode: This option is for users who do not wish to hide the very fact that they use TrueCrypt on their computer.
+![TrueCrypt console](/sites/siabnext.ttc.io/files/media/truecrypt-win-12.png)
 
-    Extract mode: This option is for users who wish to carry a portable version of TrueCrypt on a USB memory stick and do not wish to have TrueCrypt installed on their computer.
+*Figure 4: The TrueCrypt console*
 
-Note: Some of the options (for example, entire partition and disk encryption) will not work when TrueCrypt is extracted only.
+### Step 3*
 
-Note: Although the default Install mode is recommended here, you may still use TrueCrypt in portable mode later on. To learn more about using the TrueCrypt Traveller mode, please refer to Portable TrueCrypt page.
+*Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-13.png) to activate the *TrueCrypt Volume Creation Wizard* as follows:
 
-Step 3. Click to activate the following screen:
+![TrueCrypt Volume Creation Wizard window](/sites/siabnext.ttc.io/files/media/truecrypt-win-14.png)
 
-Figure 2: The Setup Options window
+*Figure 5: The TrueCrypt Volume Creation Wizard window* 
 
-Step 4. Click to activate the Installing screen to begin installing TrueCrypt on your system.
+There are three options for encrypting a *Standard Volume* in *figure 5*. In this chapter, we will use the *Create an encrypted file container* option. Please refer to the [**TrueCrypt**](http://www.truecrypt.org/docs/) documentation for the description of other two options.
 
-Step 5. Click and then to activate the following screen:
+### Step 4
 
-Figure 3: The TrueCrypt Setup confirmation dialog box
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
 
-Step 6. Click to complete the TrueCrypt installation.
+![Volume Type window](/sites/siabnext.ttc.io/files/media/truecrypt-win-15.png)
 
-Note: All users are strongly encouraged to consult TrueCrypt help documentation after completing this tutorial.
+*Figure 6: The Volume Type window*
 
-## 2.1 Create a Standard Volume
+The *TrueCrypt Volume Creation Wizard Volume Type* window lets you specify whether you would prefer to create a *Standard* or *Hidden* **TrueCrypt** volume. 
 
-TrueCrypt lets you create two kinds of volumes: Hidden and Standard. In this section, you will learn how to create a Standard Volume in which to store your files.
+**Important**: For more information about *How to Create a Hidden Volume*, please refer to the [**Hidden Volumes**](/en/truecrypt_hiddenvolumes) page. 
 
-To begin using TrueCrypt to create a Standard Volume, perform the following steps:
+### Step 5
 
-Step 1. Double click or Select Start > Programs > TrueCrypt > TrueCrypt to open TrueCrypt.
+**Check** the *Standard TrueCrypt Volume* option. 
 
-Step 2. Select a drive from the list in the TrueCrypt pane as follows:
+### Step 6*
 
-Figure 4: The TrueCrypt console
+*Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
 
-Step 3. Click to activate the TrueCrypt Volume Creation Wizard as follows:
+![Volume Creation Wizard - Volume Location pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-16.png)
 
-Figure 5: The TrueCrypt Volume Creation Wizard window
+*Figure 7: The Volume Creation Wizard - Volume Location pane*
 
-There are three options for encrypting a Standard Volume in figure 5. In this chapter, we will use the Create an encrypted file container option. Please refer to the TrueCrypt documentation for the description of other two options.
+You can specify where you would like to store your *Standard Volume* in the *Volume Creation Wizard - Volume Location* screen. This file can be stored like any other file. 
 
-Step 4. Click to activate the following screen:
+### Step 7
 
-Figure 6: The Volume Type window
+Either **type** in the name of the file into the text field, or **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-17.png) to activate the following screen:
 
-The TrueCrypt Volume Creation Wizard Volume Type window lets you specify whether you would prefer to create a Standard or Hidden TrueCrypt volume.
+![Specify Path and File Name navigation window](/sites/siabnext.ttc.io/files/media/truecrypt-win-18.png)
 
-Important: For more information about How to Create a Hidden Volume, please refer to the Hidden Volumes page.
+*Figure 8: The Specify Path and File Name navigation window*
 
-Step 5. Check the Standard TrueCrypt Volume option.
+**Note**: A **TrueCrypt** Volume is contained inside a normal file. This means that it can be moved, copied or even deleted! You need to remember both the location and name of the file. However, you must choose new file name for the volume you create (also refer to section [**2.3 How to Create a Standard Volume on a USB Memory Stick**](#2.3)). In this tutorial, we will create our Standard Volume in the **My Documents** folder, and name the file *My Volume* as shown in *figure 8* above. 
 
-Step 6. Click to activate the following screen:
+**Tip**: You can use any file name and file extension. For example, you can name your Standard Volume *recipes.doc,* so that it will look like a *Word* document, or *holidays.mpg*, so it will look like a movie file. This is one way you can help disguise the existence of your Standard Volume. 
 
-Figure 7: The Volume Creation Wizard - Volume Location pane
+### Step 8
 
-You can specify where you would like to store your Standard Volume in the Volume Creation Wizard - Volume Location screen. This file can be stored like any other file.
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-19.png) to close the *Specify Path and File Name* window and return to the *Volume Creation Wizard* window as follows:
 
-Step 7. Either type in the name of the file into the text field, or click to activate the following screen:
+![TrueCrypt Volume Creation Wizard with Volume Location pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-20.png)
 
-Figure 8: The Specify Path and File Name navigation window
+*Figure 9: The TrueCrypt Volume Creation Wizard displaying the Volume Location pane*
 
-Note: A TrueCrypt Volume is contained inside a normal file. This means that it can be moved, copied or even deleted! You need to remember both the location and name of the file. However, you must choose new file name for the volume you create (also refer to section 2.3 How to Create a Standard Volume on a USB Memory Stick). In this tutorial, we will create our Standard Volume in the My Documents folder, and name the file My Volume as shown in figure 8 above.
+### Step 9
 
-Tip: You can use any file name and file extension. For example, you can name your Standard Volume recipes.doc, so that it will look like a Word document, or holidays.mpg, so it will look like a movie file. This is one way you can help disguise the existence of your Standard Volume.
-
-Step 8. Click to close the Specify Path and File Name window and return to the Volume Creation Wizard window as follows:
-
-Figure 9: The TrueCrypt Volume Creation Wizard displaying the Volume Location pane
-
-Step 9. Click to activate figure 10.
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate *figure 10*.
 
 ## Create a Standard Volume on a USB Memory Stick
 
-To create a TrueCrypt Standard Volume on a USB memory stick, perform steps 1 to 7 in section 2.1 Create a Standard Volume, where you activate the Select a TrueCrypt Volume screen. Instead of choosing My Documents as your file location, navigate to and then choose your USB memory stick. Then, enter a file name and create the Standard Volume there.
+To create a **TrueCrypt** *Standard Volume* on a USB memory stick, perform steps 1 to 7 in section [**2.1 Create a Standard Volume**](#2.2), where you activate the *Select a TrueCrypt Volume* screen. Instead of choosing *My Documents* as your file location, **navigate** to and then **choose** your USB memory stick. Then, **enter** a file name and create the *Standard Volume* there. 
 
 ## Create a Standard Volume (continued)
 
-At this stage, you are ready to choose a specific encryption method (or algorithm as it is referred to on the screen) to encode the data that will be stored in your Standard Volume.
+At this stage, you are ready to choose a specific encryption method (or *algorithm* as it is referred to on the screen) to encode the data that will be stored in your *Standard Volume*. 
 
-Figure 10: The Volume Creation Wizard Encryption Options pane
+![Volume Creation Wizard Encryption Options pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-21.png)
 
-Note: You may leave the default options here as they appear. All algorithms presented in the two options here are considered secure.
+*Figure 10: The Volume Creation Wizard Encryption Options pane*
 
-Step 10. Click to activate the TrueCrypt Volume Creation Wizard screen as follows:
+**Note**: You may leave the default options here as they appear. All algorithms presented in the two options here are considered secure. 
 
-Figure 11: The Volume Creation Wizard displaying the Volume Size pane
+### Step 10
 
-The Volume Size pane lets you specify the size of the Standard Volume. In this example, it is set at 10 megabytes. However, you may specify a different size. Consider the size of the documents and file types you would like to store, and then set an appropriate volume size for them.
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png)
+ to activate the *TrueCrypt Volume Creation Wizard* screen as follows:
 
-Tip: If you would like to backup your Standard Volume to a CD later on, then you should set the size to 700MB or less.
+![Volume Creation Wizard displaying Volume Size pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-22.png)
 
-Step 11. Type in your specific volume size into the text field, and then click to activate the following screen:
+*Figure 11: The Volume Creation Wizard displaying the Volume Size pane*
 
-Figure 12: The TrueCrypt Volume Creation Wizard featuring the Volume Password pane
+The *Volume Size* pane lets you specify the size of the *Standard Volume*. In this example, it is set at 10 megabytes. However, you may specify a different size. Consider the size of the documents and file types you would like to store, and then set an appropriate volume size for them. 
 
-Important: Choosing a secure and strong password is among the most important tasks you will perform when creating a Standard Volume. A good password will protect your encrypted volume, and the stronger the password you choose, the better. You don't have to create your own passwords, or even remember them, if you use a password generation program like KeePass. Please refer to KeePass, to learn more information about password creation and storage.
+**Tip**: If you would like to backup your Standard Volume to a CD later on, then you should set the size to 700MB or less.
 
-Step 12. Type your password and then re-type your password into the Confirm text fields.
+### Step 11
 
-Important: The Next button will remain disabled until passwords in both text fields match. If your password is not particularly safe or secure, you will see a warning advising you of this. Consider changing it! Although TrueCrypt will still work with any password you have chosen, your data may not be very secure.
+**Type** in your specific volume size into the text field, and then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
 
-Step 13. Click to activate the following screen:
+![TrueCrypt Volume Creation Wizard featuring Volume Password pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-23.png)
 
-Figure 13: The TrueCrypt Volume Creation Wizard featuring the Volume Format pane
+*Figure 12: The TrueCrypt Volume Creation Wizard featuring the Volume Password pane*
 
-TrueCrypt is now ready to create a Standard Volume. Move your mouse randomly within the TrueCrypt Volume Creation Wizard window for few seconds. The longer you move the mouse, the better the quality of the encryption key.
+**Important**: Choosing a secure and strong password is among the most important tasks you will perform when creating a *Standard Volume*. A good password will protect your encrypted volume, and the stronger the password you choose, the better. You don't have to create your own passwords, or even remember them, if you use a password generation
+program like **KeePass**. Please refer to [**KeePass**](/keepass_main), to learn more information about password creation and storage.
 
-Step 14. Click to begin creating your standard volume.
+### Step 12
 
-TrueCrypt will now create a file named My Volume in the My Documents folder as earlier specified. This file will contain a TrueCrypt Standard Volume, 10 Megabytes in size, that you can use to securely store your files.
+**Type** your password and then **re-type** your password into the *Confirm* text fields.
 
-After a Standard Volume has been successfully created, the following dialog box will appear:
+**Important**: The *Next* button will remain disabled until passwords in both text fields match. If your password is not particularly safe or secure, you will see a warning advising you of this. Consider changing it! Although **TrueCrypt** will still work with any password you have chosen, your data may not be very secure. 
 
-Figure 14: The TrueCrypt volume has been successfully created message screen
+### Step 13
 
-Step 15. Click to complete creating your Standard Volume and return to the TrueCrypt console.
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
 
-Step 16. Click to close TrueCrypt Volume Creation Wizard.
+![TrueCrypt Volume Creation Wizard featuring Volume Format pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-24.png)
+
+*Figure 13: The TrueCrypt Volume Creation Wizard featuring the Volume Format pane*
+
+**TrueCrypt** is now ready to create a *Standard Volume*. Move your mouse randomly within the *TrueCrypt Volume Creation Wizard* window for few seconds. The longer you move the mouse, the better the quality of the encryption key.
+
+### Step 14
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-25.png) to begin creating your standard volume.
+
+**TrueCrypt** will now create a file named *My Volume* in the *My Documents* folder as earlier specified. This file will contain a **TrueCrypt** *Standard Volume*, 10 Megabytes in size, that you can use to securely store your files. 
+
+After a *Standard Volume* has been successfully created, the following dialog box will appear: 
+
+![TrueCrypt volume has been successfully created message](/sites/siabnext.ttc.io/files/media/truecrypt-win-26.png)
+
+*Figure 14: The TrueCrypt volume has been successfully created message screen*
+
+### Step 15
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-27.png) to complete creating your *Standard Volume* and return to the **TrueCrypt** console.
+
+### Step 16
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-28.png) to close *TrueCrypt Volume Creation Wizard*.
