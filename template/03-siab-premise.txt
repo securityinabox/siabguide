@@ -5,7 +5,9 @@ Download:
 Version: 
 License: 
 System Requirements: 
+Admin: true/false
 Alternatives: 
+Comment: 
 Group: Basic Usage 
 Title: Important premise
 Language: EN

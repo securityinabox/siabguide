@@ -6,7 +6,9 @@ Version: 7.1a
 License: Free/Open Source Software
 System Requirements: Microsoft Windows, GNU Linux, Mac OS
 Installation Requirements: Administrator rights
+Admin: true
 Alternatives: Ubuntu full-disk encryption, dm-crypt for Linux, cryptsetup and LUKS for Linux, ScramDisk for Linux SD4L, FileVault for Mac OS, DiskCryptor for Microsoft Windows
+Comment: read 03-truecrypt-premise before installing and using this tool
 Group: Basic Usage 
 Title: Portable 
 Language: EN

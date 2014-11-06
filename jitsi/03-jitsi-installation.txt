@@ -5,7 +5,9 @@ Download: https://jitsi.org/Main/Download
 Version: 2.4
 License: Free/Open Source Software
 System Requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8, Apple MacOS X, Linux
-Alternatives: Pidgin for Windows(link to hands-on guide?)
+Admin: false
+Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
+Comment: 
 Group: Basic Usage
 Title: Installation
 Language: EN

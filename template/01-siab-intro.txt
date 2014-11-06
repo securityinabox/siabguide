@@ -5,7 +5,9 @@ Download:
 Version: 
 License: 
 System Requirements: 
+Admin: true/false
 Alternatives: 
+Comment: 
 Group: Synthesis
 Title: Introduction
 Language: EN

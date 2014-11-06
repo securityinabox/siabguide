@@ -5,7 +5,9 @@ Download: https://www.mozilla.org/en-US/thunderbird/
 Version: Thunderbird 3.1.5, Enigmail 1.1.2, GPG 2.0.4
 License: Free/Open Source Software
 System Requirements: Microsoft Windows, GNU/Linux, Apple MacOS X
+Admin: false
 Alternatives: gpg4usb for Windows(link to hands-on guide?), Claws Mail for GNU Linux and Microsoft Windows, Sylpheed for GNU Linux Mac OS and Microsoft Windows, Alpine for GNU Linux Mac OS and Microsoft Windows
+Comments: read 03-thunderbird-premise before installing and using this tool
 Group: Basic Usage 
 Title: Basic Howto
 Language: EN
