@@ -1,0 +1,30 @@
+Tool: Truecrypt
+Need: Encryption
+Website: https://truecrypt.ch/
+Download: https://truecrypt.ch/downloads/
+Version: 7.1a
+License: Free/Open Source Software
+System Requirements: Microsoft Windows, GNU Linux, Mac OS
+Installation Requirements: Administrator rights
+Alternatives: Ubuntu full-disk encryption, dm-crypt for Linux, cryptsetup and LUKS for Linux, ScramDisk for Linux SD4L, FileVault for Mac OS, DiskCryptor for Microsoft Windows
+Group: Training 
+Title: Review questions
+Language: EN
+
+
+    Standard Volume Review Questions
+        What is encryption?
+        What is a Standard Volume?
+        How can you create a Standard Volume on a USB memory stick?
+        What are the different ways to dismount a Standard Volume?
+        How can you choose and maintain a good password for your Standard Volume?
+        What are the possibilities for creating a backup of your Standard Volume?
+        What are some methods to disguise the presence of your Standard Volume on the computer?
+
+    Hidden Volume Review Questions
+        What is the main difference between a Standard Volume and a Hidden Volume?
+        What type of files should you put in a Standard Volume, if you also have a hidden one?
+        Where is the Hidden Volume located?
+        What is the ideal size for the Hidden Volume?
+        What are the advantages and disadvantages of protecting your Hidden Volume from accidental erasure?
+

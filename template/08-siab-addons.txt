@@ -1,0 +1,14 @@
+Tool: 
+Need: 
+Website: 
+Download: 
+Version: 
+License: 
+System Requirements: 
+Alternatives: 
+Group: Advanced Usage 
+Title: Addons
+Language: EN
+
+
+

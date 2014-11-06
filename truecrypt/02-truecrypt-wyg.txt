@@ -1,0 +1,17 @@
+Tool: Truecrypt
+Need: Encryption
+Website: https://truecrypt.ch/
+Download: https://truecrypt.ch/downloads/
+Version: 7.1a
+License: Free/Open Source Software
+System Requirements: Microsoft Windows, GNU Linux, Mac OS
+Installation Requirements: Administrator rights
+Alternatives: Ubuntu full-disk encryption, dm-crypt for Linux, cryptsetup and LUKS for Linux, ScramDisk for Linux SD4L, FileVault for Mac OS, DiskCryptor for Microsoft Windows
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+
+* The ability to effectively protect your files from intruders or unauthorized access
+* The ability to easily and securely store copies of your important files
+

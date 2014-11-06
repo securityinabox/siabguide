@@ -1,0 +1,21 @@
+Tool: Thunderbird, gpg, Enigmail 
+Need: Secure communication, Encryption
+Website: https://www.mozilla.org/en-US/thunderbird/, http://enigmail.net/, http://www.gnupg.org/
+Download: https://www.mozilla.org/en-US/thunderbird/
+Version: Thunderbird 3.1.5, Enigmail 1.1.2, GPG 2.0.4
+License: Free/Open Source Software
+System Requirements: Microsoft Windows, GNU/Linux, Apple MacOS X
+Alternatives: gpg4usb for Windows(link to hands-on guide?), Claws Mail for GNU Linux and Microsoft Windows, Sylpheed for GNU Linux Mac OS and Microsoft Windows, Alpine for GNU Linux Mac OS and Microsoft Windows
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+**Mozilla Thunderbird** is a free and open source email client for receiving, sending and storing emails. You can manage multiple email accounts through a single program. **Enigmail** and **GnuPG** will give you access to authentication, digital signing and encryption to ensure the privacy and security of your email communication.
+
+The **Mozilla Thunderbird** email client is available for **GNU Linux**, **Mac OS**, **Microsoft Windows** and other operating systems. Managing multiple email accounts is a complex task from the digital security viewpoint; therefore, we *strongly recommend* that you use **Mozilla Thunderbird** for this purpose. The security advantages available in **Thunderbird**, a cross-platform *free* and *open source* program, are even more important when compared to its commercial equivalents like **Microsoft Outlook**. However, if you would prefer to use a program other than **Mozilla Thunderbird**, we recommend the following free and open source alternatives:
+
+  * **Claws Mail** available for **GNU Linux** and **Microsoft Windows**;
+  * **Sylpheed** available for for **GNU Linux**, **Mac OS** and **Microsoft Windows**;
+  * **Alpine** available for **GNU Linux**, **Mac OS** and **Microsoft Windows**.
+
+Note: Although we recommend using **Enigmail/GnuPG** for its ease of use with Thunderbird, you still can also use stand-alone encryption tools such as gpg4usb in conjunction with Thunderbird. Please read [gpg4usb](https://securityinabox.org/en/gpg4usb_portable "gpg4usb") chapter to see other way to encrypt your email using public key encryption method.

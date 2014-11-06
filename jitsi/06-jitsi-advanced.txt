@@ -1,0 +1,63 @@
+Tool: Jitsi
+Need: Secure communication
+Website: https://jitsi.org
+Download: https://jitsi.org/Main/Download
+Version: 2.4
+License: Free/Open Source Software
+System Requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8, Apple MacOS X, Linux
+Alternatives: Pidgin for Windows(link to hands-on guide?)
+Group: Advanced Usage
+Title: Advanced Usage and Configuration
+Language: EN
+
+# Use Jitsi to start a zRTP-encrypted SIP voice call
+
+## Step 1
+
+1. Click on the SIP contact with whom you want to start a secure voice call
+
+2. Click the button that corresponds to the type of chat you want to start: 1) an IM text chat, **2) a voice call**, 3) a video chat, or 4) a screen sharing session. In this example, we will click the third button to make a voice call
+
+**Remember, secure voice calls will only work if you are using a SIP account yourself, and calling a SIP contact. In fact, *Ostel* is one of the few SIP services that reliably supports this kind of strong, end-to-end voice encryption**
+
+## Step 2
+
+* Jitsi will initiate the voice call
+
+**Unlike OTR text chat encryption, zRTP voice encryption does not require that you generate an *identity key* before starting a secure call. This is because, as you will see below, you verify the authenticity of your contact *each time you make or receive a call*. But don't worry, the process is much simpler for voice calls than it is for text**
+
+## Step 3
+
+* The previous Steps showed how you can place a voice call using Jitsi. if you *receive* a voice call, Jitsi will display a message like this
+
+1. Click the left-most (green) *phone* button to accept the call
+
+## Step 4
+
+1. If your contact accepts your call, Jitsi will display a *Connected* message. An open padlock with the red background means that the call is not yet secure. 
+
+* If the padlock stays open, and the background stays red, hang up and try again, or try using a different account. Again, [*Ostel*](https://ostel.co) SIP accounts currently work best for this
+
+## Step 5
+
+1. If Jitsi's zRTP encryption is wokring, the message will change, the padlock will close, and the background will turn yellow. This should happen within a few seconds after the call connects.
+
+**You now have a secure voice connection with *somebody*, but you still have to make sure that your contact really is who he claims to be (Terrence, in this example)**
+
+2. You will use the short code displayed above the *Confirm* button to verify that you are speaking with the right person. Read this number aloud to the other person. They should read it aloud to you, as well. If you both have the same number, *and if you recognize one another's voices*, then your call is secure. If not, hang up and try again.
+
+3. Click *Confirm*
+
+## Step 6
+
+1. At this point the padlock background should turn green. 
+
+**Fortunately, authenticating your contact for secure voice calls is much simpler than it is for secure IM text chats. *Unfortunately*, you (and your contact) will have to do this again for each call you make or receive**
+
+2. You may click the white *X* in the upper right-hand corner of the dark grey *Secure audio* window to close it
+
+## Step 7
+
+* You have now started a secure voice call with Jitsi
+
+1. Click the right-most (red) *phone* button to hang up the call when you are done

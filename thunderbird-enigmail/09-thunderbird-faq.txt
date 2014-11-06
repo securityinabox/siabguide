@@ -1,0 +1,32 @@
+Tool: Thunderbird, gpg, Enigmail
+Need: Secure communication, Encryption, Anonymity
+Website: https://www.mozilla.org/en-US/thunderbird/, http://enigmail.net/, http://www.gnupg.org/
+Download: https://www.mozilla.org/en-US/thunderbird/
+Version: Thunderbird 3.1.5, Enigmail 1.1.2, GPG 2.0.4
+License: Free/Open Source Software
+System Requirements: Microsoft Windows, GNU/Linux, Apple MacOS X
+Alternatives: gpg4usb for Windows(link to hands-on guide?), Claws Mail for GNU Linux and Microsoft Windows, Sylpheed for GNU Linux Mac OS and Microsoft Windows, Alpine for GNU Linux Mac OS and Microsoft Windows
+Group: FAQ 
+Title: FAQ
+Language: EN
+
+**Q: What happens if I just install Enigmail and not GnuPG?**
+
+**A**: **Enigmail** just won't work. After all, it's the **GnuPG** software that provides the encryption engine that **Enigmail** uses.
+
+**Q: How many email accounts can I set up in Thunderbird?**
+
+**A**: As many as you like! **Thunderbird** is an email manager and can easily handle 20 or more email accounts!
+
+**Q: My friend has a Riseup and Gmail account. Should I convince him to install Thunderbird, Enigmail and GnuPG?**
+
+**A**: That would be ideal. Just make sure he configures all of his security settings in exactly the same way as you did. Then the two of you will have an extremely effective way of communicating in privacy and safety!
+
+**Q: Remind me one more time, which parts of an email message does Enigmail encrypt?**
+
+**A**: **Enigmail** encrypts the content of the message. It doesn't encrypt the subject line of the message, your email address or the name you chose to associate with that email account. So, if you're trying to send a confidential message, make sure the subject line doesn't give you away! And, if you want to stay anonymous, avoid displaying or even using your real name when you create your email account.
+
+**Q: I still don't understand the purpose of digitally signing my messages.**
+
+**A**: A digital signature proves that you're the real sender of a particular message and that the message hasn't been tampered with on its way to your intended recipient. Think of it as the electronic equivalent of the wax seal on an envelope, which contains a very important letter.
+

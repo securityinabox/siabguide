@@ -1,0 +1,248 @@
+Tool: Truecrypt
+Need: Encryption
+Website: https://truecrypt.ch/
+Download: https://truecrypt.ch/downloads/
+Version: 7.1a
+License: Free/Open Source Software
+System Requirements: Microsoft Windows, GNU Linux, Mac OS
+Installation Requirements: Administrator rights
+Alternatives: Ubuntu full-disk encryption, dm-crypt for Linux, cryptsetup and LUKS for Linux, ScramDisk for Linux SD4L, FileVault for Mac OS, DiskCryptor for Microsoft Windows
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Mount and Dismount a Standard Volume
+
+## Mount a Standard Volume
+
+In TrueCrypt, to mount a Standard Volume refers to making the standard volume available for use. In this section, you will learn how to mount your newly created standard volume.
+
+To begin mounting your standard volume, perform the following steps:
+
+Step 1. Double click or Select Start > Programs > TrueCrypt > TrueCrypt to open TrueCrypt.
+
+Step 2. Select any drive from the list as follows:
+
+Figure 1: The TrueCrypt console
+
+In this example the Standard Volume will be mounted as the M: drive.
+
+Note: In figure 1, the M: drive has been selected for mounting the standard volume; however, you may choose another listed drive.
+
+Step 3. Click
+
+The Select a TrueCrypt Volume screen will appear as follows:
+
+Figure 2: The Select a TrueCrypt Volume screen
+
+Step 4. Select the standard volume file that you created, then click to close figure 2 and return to the TrueCrypt console.
+
+Step 5. Click to activate the Enter password for prompt screen as follows:
+
+Figure 3: The Enter password prompt screen
+
+Step 6. Type the password in the Password: text field.
+
+Step 7. Click to begin mounting the Standard Volume.
+
+Note: If the password you typed is incorrect, TrueCrypt will prompt you to re-type your password and click . If the password is correct, the Standard Volume will be mounted as follows:
+
+Figure 4: The TrueCrypt console displaying the newly mounted Standard Volume
+
+Step 8. Double click the highlighted entry in TrueCrypt or double click the corresponding drive letter in the My Computer screen to access the Standard Volume (now mounted on drive M: on your computer).
+
+Figure 5: Accessing the Standard Volume through the My Computer screen
+
+Note: We have just successfully mounted the My Volume standard volume on a virtual disk M:. This virtual disk behaves like a real disk, except that it is entirely encrypted. Any files will be automatically encrypted when you copy, move or save them to this virtual disk (a process known as on-the-fly encryption).
+
+You can copy files to and from the Standard Volume just as you would copy them to any normal disk (for example, by dragging-and-dropping them). When you move a file out of the Standard Volume, it is automatically decrypted. Conversely if you move a file onto the Standard Volume, TrueCrypt automatically encrypts it. If your computer crashes or is suddenly switched off, TrueCrypt will immediately close the Standard Volume.
+
+Important: After transferring files to the TrueCrypt volume, make sure that no traces of the files are left behind on the computer or USB memory stick that they came from. Please refer to chapter 6. How to destroy sensitive information.
+
+## Dismount a Standard Volume
+
+In TrueCrypt, to dismount a Standard Volume simply means to make a volume unavailable for use.
+
+To close or dismount a Standard Volume and make its files accessible only to someone with a password, perform the following steps:
+
+Step 1. Select the volume from the list of mounted volumes in the main TrueCrypt window as follows:
+
+Figure 17: Selecting the Standard Volume to be dismounted
+
+Step 2. Click to dismount or close your TrueCrypt standard volume.
+
+Important: Make sure to dismount your TrueCrypt volume before putting your computer to Standby or Hibernate mode. Better yet, always shut-down your computer or laptop if you plan on leaving it unattended. This will prevent anyone from being able to gain your volume password.
+
+To retrieve a file stored in your standard volume once you have closed or dismounted it, you will have to mount it again.
+
+# Backup your volume
+
+Backing up your documents, files and folders on a regular basis is critical. Backing up your TrueCrypt volume is vital, and (fortunately) easy to do. Don't forget that your volume must be dismounted before you back it up.
+
+Step 1. Navigate to your Standard Volume file (in figure 1 below, it is located in the My Documents folder).
+
+Figure 1: The My Documents window displaying the My Volume file
+
+Step 2. Save the file to an external memory device, like a CD, DVD or a USB memory stick.
+
+Tip: If you have large amounts of data that you want to encrypt and archive repeatedly, why not create a new Standard Volume which is the same size as a CD or DVD? This could be used as a secure storage technique.
+
+Before you back up the standard volume to a removable device, make sure that the device size corresponds to the size of your volume.
+Backup Medium 	Suggested TrueCrypt Volume Size
+CD 	700mb
+DVD 	3900mb
+USB memory stick 	Suggested 25% of total capacity (e.g. For 128MB USB stick, use 30MB for your Standard Volume)
+
+# Hidden Volumes
+
+In TrueCrypt, a Hidden Volume is stored within your encrypted Standard Volume, but its existence is concealed. Even when you 'mount' or open your standard volume, it is not possible either to find or to prove the existence of the hidden volume. If you are forced to reveal your password and the location of your standard volume, then its content may be revealed, but not the existence of the hidden volume within.
+
+Imagine a briefcase with a secret compartment. You keep files that you do not mind having confiscated or losing in the normal section of your briefcase, and you keep the important and private files in the secret compartment. The point of the secret compartment (especially a well-designed one), is to hide its own existence and therefore, the documents within it.
+
+## Create a Hidden Volume
+
+The creation of a TrueCrypt Hidden Volume is similar to creating a TrueCrypt Standard Volume: Some of the panes, screens and windows are even the same.
+
+Step 1. Open TrueCrypt.
+
+Step 2. Click to activate the TrueCrypt Volume Creation Wizard.
+
+Step 3. Click to accept the default Create an encrypted file container option.
+
+Step 4. Check the Hidden TrueCrypt volume option as follows:
+
+Figure 1: The TrueCrypt Volume Creation Wizard with the Hidden TrueCrypt volume option enabled
+
+Step 5. Click to activate the following screen:
+
+Figure 2: The TrueCrypt Volume Creation Wizard - Mode window
+
+    Direct mode: This option lets you create the Hidden Volume within an existing Standard Volume.
+
+    Normal mode: This option lets you create a completely new Standard Volume in which to store the Hidden Volume.
+
+In this example, we will use the Direct mode.
+
+Note: If you would rather start a new Standard Volume, please repeat the process from section 2.2 How to Create a Standard Volume.
+
+Step 6. Check the Direct Mode option and then click to activate the TrueCrypt Volume Creation - Volume Location window.
+
+Note: Make sure the Standard Volume is unmounted before selecting it.
+
+Step 7. Click to activate the following screen:
+
+Figure 3: The TrueCrypt Volume Creation Wizard - Select a TrueCrypt Volume window
+
+Step 8. Locate the volume file using the Select a TrueCrypt Volume window as shown in figure 3.
+
+Step 9. Click to return to the TrueCrypt Volume Creation Wizard.
+
+Step 10. Click to activate the Enter password screen.
+
+Step 11. Type in password you used when creating the Standard Volume into the Password text field to activate the following screen:
+
+Figure 4: The TrueCrypt Volume Creation Wizard - Hidden Volume Message pane
+
+Step 12. Click after you have read the message to activate the Hidden Volume Encryptions Options screen.
+
+Note: Leave both the default Encryption Algorithm and Hash Algorithm settings for the Hidden Volume as they are.
+
+Step 13. Click to activate the following screen:
+
+Figure 5: The TrueCrypt Volume Creation Wizard - Hidden Volume Size window
+
+You will be prompted to specify the size of the Hidden Volume.
+
+Note: Consider the kind of documents, their quantity and size that need to be stored. Do leave some space for the Standard Volume. If you select the maximum size available for the Hidden Volume, you will not be able to put any more new files into the original Standard Volume.
+
+If your Standard Volume is 10 Megabytes(MB) in size and you specify a Hidden Volume size of 5MB (as shown in figure 6 above), you will have two volumes (one hidden and one standard volume) of approximately 5MB each.
+
+Ensure that the information you store in the Standard Volume does not exceed the 5MB you have set. This is because the TrueCrypt program itself does not automatically detect the existence of the Hidden Volume, and it could accidentally overwrite it. You may risk losing all files stored in the hidden volume if you exceed your previously established size.
+
+Step 14. Type in the desired hidden volume size into the corresponding text box as shown in figure 6.
+
+Step 15. Click to activate the Hidden Volume Password window.
+
+You must now create a different password for the hidden volume from the one used to protect your standard volume. Again, remember to choose a strong password. Please refer to the KeePass chapter to learn more about creating strong passwords.
+
+Tip: If you anticipate being forced to reveal the contents of your TrueCrypt volumes, then store your password for the standard volume in KeePass, and create a strong password that you only have to remember for hidden volume. This will help you to conceal your hidden volume, as you will not leave any trace of its existence.
+
+Step 16. Create a password and type it in twice, and then click to activate the following screen:
+
+Figure 6: The TrueCrypt Volume Creation Wizard - Hidden Volume Format pane
+
+Leave the default File System and Cluster options as they are.
+
+Step 17. Move the mouse cursor around the screen to increase the cryptographic strength of the encryption and then click to format the hidden volume.
+
+After the hidden volume has been formatted, the following screen appears:
+
+Figure 7: The TrueCrypt Volume Creation Wizard message screen
+
+Note: Figure 8 both confirms that you have successfully created a hidden volume, as well as warning you against the dangers of overwriting files in the hidden volume when storing files in the standard volume.
+
+Step 18. Click to activate the Hidden Volume Created window, and then click and return to the TrueCrypt console.
+
+The hidden volume has now been created inside your standard volume. You may now store documents in the hidden volume, which remain invisible even to someone who has obtained the password for that particular standard volume.
+
+## Mount the Hidden Volume
+
+The method for mounting or making a Hidden Volume accessible for use is exactly the same as that for a Standard Volume; the only difference is you will use the password that you have just created for the Hidden Volume.
+
+To mount or open the Hidden Volume, perform the following steps:
+
+Step 1. Select a drive from the list (in this example, drive K):
+
+Figure 8: A mount drive selected in the TrueCrypt Volume screen
+
+Step 2. Click to activate the Select a TrueCrypt Volume window.
+
+Step 3. Navigate to and then select your TrueCrypt volume file (same file as for the standard volume).
+
+Step 4. Click to return to the TrueCrypt console.
+
+Step 5. Click to activate the Enter Password for prompt screen as follows:
+
+Figure 9: The Enter Password screen
+
+Step 6. Type the password you used to create the hidden volume, and then click .
+
+Your hidden volume is now mounted (or opened) as follows:
+
+Figure 10: The TrueCrypt main screen displaying the newly mounted Hidden Volume
+
+Step 7. Double click on above entry or access it through the My Computer window.
+
+## Tips on Using a Hidden Volume Securely
+
+The purpose of the hidden disk feature is to escape a potentially dangerous situation by appearing to hand over your encrypted files, when someone in a position of power demands to see them, without actually being forced to reveal your most sensitive information. In addition to protecting your data, this may allow you to avoid further jeopardizing your own safety or exposing your colleagues and partners. For this technique to be effective, you must create a situation where the person demanding to see your files will be satisfied by what you show them and let you go.
+
+To do this, you may want to implement some of the following suggestions:
+
+    Put some confidential documents that you do not mind having exposed in the standard volume. This information must be sensitive enough that it would make sense for you to keep it in an encrypted volume.
+
+    Be aware that someone demanding to see your files may know about hidden volumes. If you are using TrueCrypt correctly, however, this person will not be able to prove that your hidden volume exists, which will make your denial more believable.
+
+    Update the files in the standard volume on a weekly basis. This will create the impression that you really are using those files.
+
+Whenever you mount a TrueCrypt volume, you can choose enable the Protect hidden volume against damage caused by writing to outer volume feature. A very important feature, it lets you add new 'decoy' files to your standard volume without the risk of you accidentally deleting or overwriting the encrypted contents of your hidden volume.
+
+As mentioned earlier, exceeding the storage limit on your standard volume may otherwise destroy your hidden files. Do not enable the Protect hidden volume feature when forced to mount a TrueCrypt volume, because doing so requires you to enter the secret password to your hidden volume and will clearly reveal that volume's existence. When you are updating your decoy files in private, however, you should always enable this option.
+
+To use the Protect hidden volume feature, perform the following steps:
+
+Step 1. Click on the Enter Password prompt shown in figure 10, above. This will activate the Mount Options window as follows:
+
+Figure 11: The Mount Options window
+
+Step 2. Check the Protect hidden volume against damage caused by writing to outer volume option.
+
+Step 3. Type in in your Hidden Volume password, and then click .
+
+Step 4. Click to mount your standard volume. After you have successfully mounted it, you will be able to add decoy files without damaging your hidden volume.
+
+Step 5. Click to dismount, or your make your standard volume unavailable for use, when you have finished modifying its contents.
+
+Remember: You only need to do this when you are updating the files in your standard volume. If forced to reveal your standard volume to someone else, you should not use the Protect hidden volume feature.
+

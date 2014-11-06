@@ -1,0 +1,14 @@
+Tool: Jitsi
+Need: Secure communication
+Website: https://jitsi.org
+Download: https://jitsi.org/Main/Download
+Version: 2.4
+License: Free/Open Source Software
+System Requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8, Apple MacOS X, Linux
+Alternatives: Pidgin for Windows(link to hands-on guide?)
+Group: Synthesis
+Title: Introduction 
+Language: EN
+
+**Jitsi** is cross-platform, **free and open-source** software that supports **Instant Messaging (IM)**, voice and video chat over the Internet. It supports many of the most popular and widely used **IM** and telephony protocols, **Jabber/XMPP** (used by **Facebook** and **Google Talk**), **AIM**, **ICQ**, **MSN**, **Yahoo! Messenger** and the **SIP** Voice-over-IP (**VoIP**) protocol. It offers additional independent encryption for **IM** through the **OTR** (**Off-the-Record**) protocol and for voice and video sessions through **ZRTP** and **SRTP**. **Jitsi** runs on **Microsoft Windows**, **Mac OS** and **Linux**. An **Android** version is under development.
+

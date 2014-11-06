@@ -1,0 +1,16 @@
+Tool: Thunderbird, gpg, Enigmail 
+Need: Secure communication, Encryption
+Website: https://www.mozilla.org/en-US/thunderbird/, http://enigmail.net/, http://www.gnupg.org/
+Download: https://www.mozilla.org/en-US/thunderbird/
+Version: Thunderbird 3.1.5, Enigmail 1.1.2, GPG 2.0.4
+License: Free/Open Source Software
+System Requirements: Microsoft Windows, GNU/Linux, Apple MacOS X
+Alternatives: gpg4usb for Windows(link to hands-on guide?), Claws Mail for GNU Linux and Microsoft Windows, Sylpheed for GNU Linux Mac OS and Microsoft Windows, Alpine for GNU Linux Mac OS and Microsoft Windows
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+* The ability to manage different e-mail accounts through a single program
+* The ability to read and compose messages after disconnecting from the Internet
+* The ability to use public key encryption to keep your email private
+

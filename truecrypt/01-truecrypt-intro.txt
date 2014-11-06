@@ -1,0 +1,17 @@
+Tool: Truecrypt
+Need: Encryption
+Website: https://truecrypt.ch/
+Download: https://truecrypt.ch/downloads/
+Version: 7.1a
+License: Free/Open Source Software
+System Requirements: Microsoft Windows, GNU Linux, Mac OS
+Installation Requirements: Administrator rights
+Alternatives: Ubuntu full-disk encryption, dm-crypt for Linux, cryptsetup and LUKS for Linux, ScramDisk for Linux SD4L, FileVault for Mac OS, DiskCryptor for Microsoft Windows
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**Truecrypt** keeps your files secure by preventing anyone without the correct password from opening them. It works like an electronic safe, which you can use to securely lock up your files.
+
+**Note**: On 28 May 2014 TrueCrypt developers web page started to inform users that TrueCrypt development is discontinued as of now. The circumstances behind this situation are not clear yet. The developers web page is offering a new version 7.2 of TrueCrypt with some functionality removed. Despite this new release we recommend that you continue to use older version 7.1a (see Downloading instructions), until we know more about what has happen and what plans are for the future of TrueCrypt development. For alternatives to TrueCrypt please have a look at the "GNU Linux, Mac OS and other Microsoft Windows Compatible Programs" section below.

@@ -1,0 +1,167 @@
+Tool: Thunderbird 
+Need: Secure communication
+Website: https://www.mozilla.org/en-US/thunderbird/
+Download: https://www.mozilla.org/en-US/thunderbird/
+Version: Thunderbird 3.1.5
+License: Free/Open Source Software
+System Requirements: Microsoft Windows, GNU/Linux, Apple MacOS X
+Alternatives: gpg4usb for Windows(link to hands-on guide?), Claws Mail for GNU Linux and Microsoft Windows, Sylpheed for GNU Linux Mac OS and Microsoft Windows, Alpine for GNU Linux Mac OS and Microsoft Windows
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+# How to Install Thunderbird
+
+To begin installing **Thunderbird**, perform the following steps:
+
+##Step 1
+
+Double click ![Thunderbird Setup 3.1.5.exe](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/thunderbird-win-01.png); the *Open File - Security Warning dialog* box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/thunderbird-en-1/02.png) to activate the following screen:
+
+![Figure 1](https://securityinabox.org/sbox/screen/thunderbird-en-1/03.png)
+
+*Figure 1: The Extracting status progress bar*
+
+After the **Thunderbird** files have completed extracting themselves, the *Welcome to the Mozilla Thunderbird Setup Wizard* window appears.
+
+##Step 2
+
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the *Mozilla Thunderbird - Setup Type* window.
+
+##Step 3
+
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) at the *Choose setup options* window. The default setup is *Standard*
+
+##Step 4
+
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to accept the default settings and activate the following screen:
+
+![Mozilla Thunderbird - Summary screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/05.png)
+
+*Figure 2: The Mozilla Thunderbird - Summary screen*
+
+##Step 5
+
+**Click** ![Install](https://securityinabox.org/sbox/screen/thunderbird-en-1/06.png) to start the installation process. The **Mozilla Thunderbird - Installing** progress status window appears. After the installation process is complete, the following screen appears:
+
+![Completing the Mozilla Thunderbird Setup Wizard screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/07.png)
+
+*Figure 3: The Completing the Mozilla Thunderbird Setup Wizard screen*
+
+##Step 6
+
+**Click** ![Finish](https://securityinabox.org/sbox/screen/thunderbird-en-1/08.png) to complete the installation process.
+
+**Tip**: **Thunderbird** will automatically launch itself if the *Launch Mozilla Thunderbird now* check box is enabled, as shown in *figure 3 above*. To open the program in the future, either **double click** the **Thunderbird** desktop icon, or **select > Programs > Mozilla Thunderbird > Mozilla Thunderbird**.
+
+# How to Disable the Global Search and Indexer option in Thunderbird
+
+**Warning**: The *Global Search and Indexer* feature in **Thunderbird** *must* be turned off to optimize its performance. Depending on the quantity and size of your emails, it may reduce the speed of your system, by continuously and unnecessarily over-writing of information to your hard drive. As your hard drive becomes increasingly full, it will slow down many unrelated system operations.
+
+To turn off the *Global Search and Indexer* option, perform the following steps:
+
+## Step 1
+
+**Select Tools > Options** in the **Thunderbird** console to activate the *Options* window.
+
+## Step 2
+
+**Click** ![Advanced](https://securityinabox.org/sbox/screen/thunderbird-en-1/09.png) to activate its associated tab as follows:
+
+![Options window displaying the Advanced tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/10.png)
+
+*Figure 4: The Options window displaying the Advanced tab*
+
+## Step 3
+
+**Click** the *Enable Global Search and Indexer* check box in the *Advanced Configuration* section to *disable* this option as shown below:
+
+![Advanced Configuration section](https://securityinabox.org/sbox/screen/thunderbird-en-1/11.png)
+
+*Figure 5: The Advanced Configuration section*
+
+Now that you have successfully disabled this option, you are ready to register an email account in **Thunderbird**.
+
+# How to Register an Email Account in Thunderbird
+
+The *System Integration* window will appear at first login. This window can be set to *Use Thunderbird as the default client for: Email*. Alternatively, you can choose to *Skip Integration*
+
+## Step 1
+
+At the *Welcome to Thunderbird* window **click** *Skip this and use my existing email* option so that it resembles the following screen:
+
+![Welcome to Thunderbird screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/12.png)
+
+*Figure 6: Welcome to Thunderbird screen*
+
+## Step 2
+
+**Type** in your name, email address and password in the corresponding text fields; **click** the check box to disable the *Remember my password* option so that your screen resembles *figure* 7 below.
+
+![Mail Account Setup window](https://securityinabox.org/sbox/screen/thunderbird-en-1/13.png)
+
+*Figure 7: The Mail Account Setup window*
+
+## Step 3
+
+**Click** ![Continue](https://securityinabox.org/sbox/screen/thunderbird-en-1/14.png) to activate the following screen:
+
+![Setup window with IMAP option enabled](https://securityinabox.org/sbox/screen/thunderbird-en-1/15.png)
+
+*Figure 8: The Mail Account Setup window with the IMAP (remote folders) option enabled*
+
+-------------------------------
+
+## IMAP and POP: Descriptions and Usage
+
+**Internet Message Access Protocol** (**IMAP**) and **Post Office Protocol** (**POP**) are two different methods used to store and receive emails.
+
+* **Internet Message Access Protocol** (**IMAP**): When using **IMAP** all your folders (including *Inbox*, *Drafts*, *Templates*, *Sent*, *Trash* and all other folders) reside on the email server. Therefore, you may access these folders from a different computer. All messages will reside on the server and initially, only the email messages headers or title bars (containing information like the date and time, message subject, name of sender, etc.) are downloaded for display on your computer. Full messages are downloaded when you open them. **Thunderbird** may also be configured to store copies of messages from all or some of the folders on your computer, so that you may work with them offline (that is, without using an Internet connection). In **IMAP** when you delete emails or folders, you do so on *both* your local computer and on the server.
+* **Post Office Protocol version 3** (**POP3**): When using **POP3** only the *Inbox* (a folder into which new incoming messages are delivered) resides on the server; all other folders are located on your local computer only. You may choose between leaving messages in the *Inbox* folder on the server after you have downloaded them to your computer, or you may delete them from the server. If you access your email account from a different computer, you will only be able to view messages in the *Inbox* folder (new messages, and old messages which you have not deleted). Note that depending on the server configuration copies of your sent emails may be stored on the server in *Sent* folder. It is worth checking this yourself.
+
+-------------------------------------
+
+## Step 4
+
+**Click** ![Done](https://securityinabox.org/sbox/screen/thunderbird-en-1/16.png) to create your account, and activate the **Thunderbird** console with the email account displayed in the sidebar at left as follows:
+
+![user interface displaying newly created riseup account](https://securityinabox.org/sbox/screen/thunderbird-en-1/17.png)
+
+*Figure 9: The Mozilla Thunderbird main user interface displaying the newly created riseup account*
+
+**Note**: To add another email account, **click Local Folders > Accounts > Create a new account: Email** to activate *figure 7* in this section, and repeat **step 2** to **step 4**.
+
+After you have successfully registered your email accounts in **Thunderbird**, the next time you open the main user interface, you will be prompted to enter your password for each account as follows:
+
+![Mail Server Password Required window](https://securityinabox.org/sbox/screen/thunderbird-en-1/20.png)
+
+*Figure 10: The Mail Server Password Required window*
+
+**Note**: Although password recording or 'remembering' features are generally not recommended from an internet privacy and security standpoint, **Thunderbird** does support a *Master Password* feature. This feature enables you to use one password to protect any passwords related to your different accounts, entered during the setup process. For more information about this feature, please refer to section [3.3 How to Configure the Security tabs in Thunderbird](https://securityinabox.org/en/thunderbird_security#3.3) - **The Password tab**.
+
+# How to Register Blogs, News Feeds and Newsgroup Accounts
+
+To create and register an account for blogs, news feeds and newsgroups, perform the following steps:
+
+## Step 1
+
+Select your account from the sidebar on the left and **click Accounts > Feeds** to activate the *Feed Account Wizard* window below:
+
+![Feed Account Wizard - Account Name window](https://securityinabox.org/sbox/screen/thunderbird-en-1/21.png)
+
+*Figure 11: Feed Account Wizard - Account Name window*
+
+## Step 2
+
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the following screen:
+
+![The Account Wizard - Congratulations window](https://securityinabox.org/sbox/screen/thunderbird-en-1/22.png)
+
+*Figure 12: The Account Wizard - Congratulations window*
+
+## Step 5
+
+**Click** ![Finish](https://securityinabox.org/sbox/screen/thunderbird-en-1/08.png) to complete the account setup process, and return to the **Thunderbird** console.
+
+Now that you have properly configured **Thunderbird** for optimal usage, please proceed to the following section [How to Configure the Security Settings in Thunderbird](https://securityinabox.org/en/thunderbird_security). 
+

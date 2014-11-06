@@ -1,0 +1,42 @@
+Tool: Jitsi
+Need: Secure communication
+Website: https://jitsi.org
+Download: https://jitsi.org/Main/Download
+Version: 2.4
+License: Free/Open Source Software
+System Requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8, Apple MacOS X, Linux
+Alternatives: Pidgin for Windows(link to hands-on guide?)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+# Install and launch Jitsi
+
+## Step 1
+
+* If Windows Firewall blocks Jitsi's access to the network, you can safely Cancel or close the window. Jitsi will still work fine, unless you need to use it in Registrarless SIP mode. (If you do, then check both the "Private networks..." and the "Public networks..." boxes and click Allow access)
+
+1. Click Cancel
+
+## Step 2
+
+* Jitsi will display the Sign in screen. At this point, you can simply click Cancel, to close the current window, then skip to the next section. Or, if you already have an IM account that you want to use with Jitsi, you can sign in by following the Steps below
+
+1. Type in your username for the IM account you want to use. (For this example, we will use a Google Talk account, but you can use any of the services shown here.
+
+2. Type in your passphrase for the IM account you want to use.
+
+3. Click *Sign in*
+
+## Step 3
+
+* Jitsi will sign you in and display the main application window.
+
+* If you want to follow along with the next section, and add an account to Jitsi the normal way, you will first have to sign out. To do so, follow the Steps below
+
+1. Click *File*
+
+2. Click *Sign out*
+
+3. Ctrl-? is the shortcut key combination for *File > Sign out*
+

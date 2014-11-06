@@ -1,0 +1,89 @@
+Tool: Jitsi
+Need: Secure communication
+Website: https://jitsi.org
+Download: https://jitsi.org/Main/Download
+Version: 2.4
+License: Free/Open Source Software
+System Requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8, Apple MacOS X, Linux
+Alternatives: Pidgin for Windows(link to hands-on guide?)
+Group: Basic Usage
+Title: Problems and Solutions 
+Language: EN
+
+# Security: Disable and remove chat history
+
+## Step 1
+
+* By default, Jitsi keeps a record of your IM text chats as well as your voice and video calls. The following Steps will show you how to access these history lists (assuming you have used Jitsi for at least one text chat and at least one voice or video call). We will then:
+
+  * Tell Jitsi not to keep such records in the future, and
+  * Delete our existing history
+
+1. Click the *clock* button on the right side of the main application window
+
+## Step 2
+
+1. This is your call history, which displays your past voice and video chats (including those made with an *Ostel* SIP account)
+
+2. Click *?* to close this window
+
+## Step 3
+
+* To access your IM chat history, you must have an active chat session with a Buddy. 
+
+1. Click the *hourglass* button
+
+## Step 4
+
+1. This is your IM text chat history, which displays your text chats, including those made with a *Google Talk* account or through *jabber.ccc.de* XMPP service
+
+2. Click *?* to close this window
+
+## Step 5
+
+* To disable logging of IM text chats, voice calls and video calls, follow the Steps below
+
+1. Click *Tools*
+
+2. Click *Options*
+
+## Step 6
+
+1. Click the *General* button
+
+2. Uncheck the *Log chat history* box
+
+## Step 7
+
+* In addition to your chat history, Jitsi collects other data that may also be sensitive. To address this issue, follow the Steps below
+
+1. Click the *Advanced* button
+
+2. Select *Logging* from the list on the left
+
+3. Uncheck *Enable packet logging*
+
+4. Click the red *X* in the upper right-hand corner to close the *Options* window
+
+**These new settings will not take effect until you restart Jitsi!**
+
+## Step 8
+
+* In order to remove *past* history data, follow the Steps below. (If you have not used Jisti for any significant IM text chats, voice calls or video calls, you can probably skip these Steps.)
+
+1. In Windows Explorer, go to
+
+  *C:\Documents and Settings\<username>\Application Data\Jitsi*
+
+2. Right-click on the *history_ver1.0* file
+
+3. Click *Delete* 
+
+  Or, if you prefer, you could:
+
+    * Drag the *history_ver1.0* file to the *Recycle Bin*, or 
+    * Click it once and press the *Delete* key on your keyboard
+
+* Empty the *Recycle Bin*
+
+**See the [How to destroy sensitive information](https://securityinabox.org/en/chapter-6) chapter for advice on disposing of data properly**

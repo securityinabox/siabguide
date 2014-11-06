@@ -1,0 +1,16 @@
+Tool: Jitsi
+Need: Secure communication
+Website: https://jitsi.org
+Download: https://jitsi.org/Main/Download
+Version: 2.4
+License: Free/Open Source Software
+System Requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8, Apple MacOS X, Linux
+Alternatives: Pidgin for Windows(link to hands-on guide?)
+Group: Synthesis
+Title: What you will get from this guide
+Language: EN
+
+* The ability to have a private and secure integrated communications system, that includes video chat sessions
+* The ability to encrypt your communication independently of your account providers
+* The ability to register and use different accounts (e.g. **Facebook**, **Google Talk**, **Yahoo Messenger**) simultaneously
+
