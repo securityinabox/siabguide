@@ -1,0 +1,17 @@
+Tool: avast!
+Need: anti-virus
+Website: http://www.avast.com/
+Download: http://www.avast.com/index#upgrade
+Version: 2014.9.0.2021
+License: Free Proprietary Software
+System Requirements: Microsoft Windows
+Admin: false
+Alternatives: Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows, [AVG Anti-Virus](http://free.avg.com/) for Microsoft Windows
+Comment:
+Required Reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+

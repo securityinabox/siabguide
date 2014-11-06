@@ -7,10 +7,12 @@ License: Free/Open Source Software
 System Requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8, Apple MacOS X, Linux
 Admin: false
 Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
-Comment: 
+Comment:
+Required Reading:
 Group: Basic Usage
 Title: Problems and Solutions 
 Language: EN
+
 
 # Security: Disable and remove chat history
 

@@ -8,9 +8,11 @@ System Requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows
 Admin: false
 Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
 Comment: This file should only be used in connection with the whole hands-on guide
+Required Reading:
 Group: Synthesis
 Title: What you will get from this guide
 Language: EN
+
 
 * The ability to have a private and secure integrated communications system, that includes video chat sessions
 * The ability to encrypt your communication independently of your account providers
