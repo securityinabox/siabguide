@@ -102,9 +102,9 @@ In this example, we will use the *Direct mode*.
 
 **Note**: Leave both the default *Encryption Algorithm* and *Hash Algorithm* settings for the *Hidden Volume* as they are. 
 
-### Step 13*
+### Step 13
 
-*Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
 
 ![Hidden Volume Size window](/sites/siabnext.ttc.io/files/media/truecrypt-win-41.png)
 

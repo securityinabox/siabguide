@@ -33,6 +33,7 @@ The **Thunderbird** main window is divided into three areas: The left sidebar di
 To disable the preview pane, perform the following step:
 
 #### Step 1
+
 **Click** ![menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png) to display the *Thunderbird Menu* and **select Options > Layout > Massage Pane F8** to disable it as follows:
 
 ![Options menu displaying Layout sub-menu and Message Pane option deselected](https://securityinabox.org/sbox/screen/thunderbird-en-1/24.png)
@@ -66,7 +67,6 @@ Email scams - also referred to as *phishing* emails - usually attempt to make yo
 The first set of assorted junk mail and security controls are accessed through the *Options - Security* window through which the majority of these privacy and security options are configured. To access them, perform the following steps:
 
 #### Step 1
-
 
 **Select Menu > Options** to activate the *Options* window.
 

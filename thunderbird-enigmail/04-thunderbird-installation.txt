@@ -20,7 +20,7 @@ To begin installing **Thunderbird**, perform the following steps:
 
 Double click ![Thunderbird Setup 3.1.5.exe](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/thunderbird-win-01.png); the *Open File - Security Warning dialog* box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/thunderbird-en-1/02.png) to activate the following screen:
 
-![Figure 1](https://securityinabox.org/sbox/screen/thunderbird-en-1/03.png)
+![Extracting status progress bar](https://securityinabox.org/sbox/screen/thunderbird-en-1/03.png)
 
 *Figure 1: The Extracting status progress bar*
 

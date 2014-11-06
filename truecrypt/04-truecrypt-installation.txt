@@ -82,9 +82,9 @@ To begin using **TrueCrypt** to create a *Standard Volume*, perform the followin
 
 *Figure 4: The TrueCrypt console*
 
-### Step 3*
+### Step 3
 
-*Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-13.png) to activate the *TrueCrypt Volume Creation Wizard* as follows:
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-13.png) to activate the *TrueCrypt Volume Creation Wizard* as follows:
 
 ![TrueCrypt Volume Creation Wizard window](/sites/siabnext.ttc.io/files/media/truecrypt-win-14.png)
 
@@ -108,9 +108,9 @@ The *TrueCrypt Volume Creation Wizard Volume Type* window lets you specify wheth
 
 **Check** the *Standard TrueCrypt Volume* option. 
 
-### Step 6*
+### Step 6
 
-*Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
 
 ![Volume Creation Wizard - Volume Location pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-16.png)
 

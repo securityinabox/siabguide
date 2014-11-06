@@ -51,9 +51,9 @@ To begin mounting your standard volume, perform the following steps:
 
 **Select** the standard volume file that you created, then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-30.png) to close *figure 2* and return to the **TrueCrypt** console.
 
-### Step 5*
+### Step 5
 
-*Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-31.png) to activate the *Enter password for* prompt screen as follows:
+**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-31.png) to activate the *Enter password for* prompt screen as follows:
 
 ![Enter password prompt](/sites/siabnext.ttc.io/files/media/truecrypt-win-32.png)
 
