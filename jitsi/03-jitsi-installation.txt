@@ -1,10 +1,12 @@
+Object_type: Tool
 Tool: Jitsi
+Platform: Microsoft Windows
 Need: Secure communication
 Website: https://jitsi.org
 Download: https://jitsi.org/Main/Download
 Version: 2.4
 License: Free/Open Source Software
-System Requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8, Apple MacOS X, Linux
+System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
 Admin: false
 Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
 Comment:

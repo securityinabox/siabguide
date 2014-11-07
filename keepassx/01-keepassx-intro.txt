@@ -1,0 +1,21 @@
+Object_type: Tool
+Tool: KeePassX
+Platform: Microsoft Windows
+Need: Secure password storage
+Website: https://www.keepassx.org/
+Download: https://www.keepassx.org/releases/KeePassX-0.4.3-win32.zip
+Version: 0.4.3
+License: Free/Open Source Software
+System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
+Admin: false
+Alternatives: 
+Comment:
+Required Reading: How-to Booklet chapter 3. [How to create and maintain good passwords](https://securityinabox.org/chapter-3)
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**KeePassX** is easy-to-use, cross-platform, free and open-source software (FOSS) that allows you to store all of your passwords in one secure, portable database.
+
+If you use KeePassX consistently for a particular account, you never actually have to know (or even *see*) your password for that application or service. The tool's *copy/paste* function takes care of moving the relevant password from the database to the required login form, then wiping it from *clipboard* memory. If, for example, you take advantage of the *Random Generator* feature of KeePassX, then configure your email account to use the generated password, you will be relying on a strong password that you have never actually seen. But it will still work! Just *remember to backup your KeePassX database!*

@@ -1,0 +1,28 @@
+Object_type: Tool
+Tool: KeePassX
+Platform: Microsoft Windows
+Need: Secure password storage
+Website: https://www.keepassx.org/
+Download: https://www.keepassx.org/releases/KeePassX-0.4.3-win32.zip
+Version: 0.4.3
+License: Free/Open Source Software
+System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
+Admin: false
+Alternatives: 
+Comment: This file should only be used in connection with the whole hands-on guide
+Required Reading: How-to Booklet chapter 3. [How to create and maintain good passwords](https://securityinabox.org/chapter-3)
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+
+* The ability to save all your passwords in one convenient and secure database
+* The ability to create and store many strong passwords without having to remember them
+
+In the sections that follow, you will learn how to:
+
+* Set a master passphrase
+* Save your newly-created database, 
+* Generate a random password for a particular service
+* Extract passwords from KeePassX when you need them 
+* Change your master passphrase. 

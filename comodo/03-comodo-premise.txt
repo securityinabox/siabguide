@@ -1,10 +1,12 @@
-Tool: Comodo for Windows
+Object_type: Tool
+Tool: Comodo
+Platform: Microsoft Windows
 Need: Firewall
 Website: https://personalfirewall.comodo.com/
 Download: https://download.comodo.com/cis/download/installs/2000/partners/cfw_installer_5732_83.exe
 Version: 5.7.32
 License: Free Proprietary Software
-System Requirements: Microsoft Windows
+System_requirements: Microsoft Windows
 Admin: true
 Alternatives: GNU/Linux built-in firewall -- [netfilter/iptables](http://www.netfilter.org/) with [GUFW](http://blog.bodhizazen.net/linux/firewall-ubuntu-gufw/) (Graphical Uncomplicated Firewall); Mac OS internal firewall, with interface add-ons [NoobProof](http://www.hanynet.com/noobproof/) and [IPSecuritas](http://www.lobotomo.com/products/IPSecuritas/); [ZoneAlarm Free Firewall](http://www.zonealarm.com/security/en-us/zonealarm-pc-security-free-firewall.htm) for Microsoft Windows; [Outpost Firewall Free](http://free.agnitum.com/) for Microsoft Windows 
 Comment:

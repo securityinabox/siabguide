@@ -1,10 +1,12 @@
-Tool: 
+Object_type: Tool/Issue
+Tool:
+Platform: 
 Need: 
 Website: 
 Download: 
 Version: 
 License: 
-System Requirements: 
+System_requirements: 
 Admin: true/false
 Alternatives: 
 Comment:

@@ -1,10 +1,12 @@
+Object_type: Tool
 Tool: Thunderbird, gpg, Enigmail
-Need: Secure communication, Encryption, Anonymity
+Platform: Microsoft Windows
+Need: Secure communication, Encryption
 Website: https://www.mozilla.org/en-US/thunderbird/, http://enigmail.net/, http://www.gnupg.org/
 Download: https://www.mozilla.org/en-US/thunderbird/
 Version: Thunderbird 3.1.5, Enigmail 1.1.2, GPG 2.0.4
 License: Free/Open Source Software
-System Requirements: Microsoft Windows, GNU/Linux, Apple MacOS X
+System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [gpg4usb](https://siabnext.ttc.io/hands-on-guide/gpg4usb-windows) for Windows, [Claws Mail](http://www.claws-mail.org/) for GNU Linux and Microsoft Windows, [Sylpheed](http://sylpheed.sraoss.jp/en/) for GNU Linux Mac OS and Microsoft Windows, [Alpine](http://www.washington.edu/alpine/) for GNU Linux Mac OS and Microsoft Windows
 Comments: read 03-thunderbird-premise before installing and using this tool
