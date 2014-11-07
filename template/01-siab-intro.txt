@@ -7,7 +7,8 @@ License:
 System Requirements: 
 Admin: true/false
 Alternatives: 
-Comment: 
+Comment:
+Required Reading:
 Group: Synthesis
 Title: Introduction
 Language: EN

@@ -7,7 +7,8 @@ License:
 System Requirements: 
 Admin: true/false
 Alternatives: 
-Comment: 
+Comment:
+Required Reading:
 Group: Basic Usage 
 Title: Important premise
 Language: EN

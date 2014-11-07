@@ -7,9 +7,10 @@ License:
 System Requirements: 
 Admin: true/false
 Alternatives: 
-Comment: 
-Group: Advanced Usage 
-Title: Add-ons
+Comment:
+Required Reading:
+Group: Basic Usage 
+Title: Portable 
 Language: EN
 
 

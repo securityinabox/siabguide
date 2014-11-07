@@ -1,0 +1,121 @@
+Tool: Comodo for Windows
+Need: Firewall
+Website: https://personalfirewall.comodo.com/
+Download: https://download.comodo.com/cis/download/installs/2000/partners/cfw_installer_5732_83.exe
+Version: 5.7.32
+License: Free Proprietary Software
+System Requirements: Microsoft Windows
+Admin: true
+Alternatives: GNU/Linux built-in firewall -- [netfilter/iptables](http://www.netfilter.org/) with [GUFW](http://blog.bodhizazen.net/linux/firewall-ubuntu-gufw/) (Graphical Uncomplicated Firewall); Mac OS internal firewall, with interface add-ons [NoobProof](http://www.hanynet.com/noobproof/) and [IPSecuritas](http://www.lobotomo.com/products/IPSecuritas/); [ZoneAlarm Free Firewall](http://www.zonealarm.com/security/en-us/zonealarm-pc-security-free-firewall.htm) for Microsoft Windows; [Outpost Firewall Free](http://free.agnitum.com/) for Microsoft Windows 
+Comment: read 03-comodo-premise before installing and using this tool
+Required Reading: [How to Protect your Computer from Viruses, Malware and Hackers](https://securityinabox.org/chapter-1)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# How to Use Comodo Firewall
+
+## Allow and Block Access Using Comodo Firewall
+
+A firewall is a program designed to protect your computer from malicious hackers and malware. Both of these may attempt to directly access your computer, or send information from your computer to a third party. **Comodo Firewall** must be configured to 'learn' or record which applications are 'safe' and permit access to them, while blocking requests from unsafe software and rogue processes to your system. It may take a little experience over time to determine which requests are legitimate, and which are threats.
+
+Every time **Comodo Firewall** receives a connection request, it activates a pop-up *Firewall Alert* prompting you to either *Allow* or *Block* access to your system to and from the Internet. The exercise that follows involving a safe program like **Firefox** will help you to become more familiar with firewall alerts and how to use them. Although exceptions are made sometimes for requests from universally accepted browsers and email programs, each time a connection request is made a *Firewall Alert* resembling the following appears:
+
+![example of a COMODO Firewall Alert](/sites/siabnext.ttc.io/files/media/comodo-win-21.png)
+
+*Figure 1: An example of a COMODO Firewall Alert*
+
+A firewall is simply a set of rules for monitoring inbound and outbound traffic. Every time you click *Allow* or *Block* **COMODO Firewall** generates a rule for that process or program network connection request. **COMODO Firewall** does this for both new or unrecognised processes and programs, as well as those listed in the *Trusted Software Vendors* list, in the *Defense+ - Tasks > Computer Security Policy* window.
+
+**Remember my answer**: This option is used to record whether you allowed or blocked a certain program from accessing **COMODO Firewall**. It will automatically allow or block connection requests from this program the next time it attempts to connect to your computer, based on whatever choice you have specified here. 
+
+**Important**: We strongly recommend disabling the *Remember my answer option* when you first start using **COMODO Firewall**. Decide whether to allow or block different connection requests, and then observe how or if your decision affects your system operation. Enable the *Remember my answer* option if and *only* if you are completely sure of your decision.
+
+**Tip**: Being strict about limiting access to you system is the best approach to computer security. Do not hesitate to block any suspicious or unidentifiable requests. If this causes a normal program to stop functioning correctly, you can allow the process to run next time you receive a firewall alert. 
+
+### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-26.png) to activate the *Properties* window to learn more about the process or program requesting access, in this case, **Firefox**:
+
+![firefox.exe Properties screen](/sites/siabnext.ttc.io/files/media/comodo-win-27.png)
+
+*Figure 2: The firefox.exe Properties screen*
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-02.png) to close the program *Properties* screen.
+
+### Step 3
+
+If you have either determined a request is unsafe, or are simply uncertain about it, based on the information displayed in the program *Properties* screen, **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-29.png) to direct **COMODO Firewall** to deny access to your system.  
+OR:  
+If you have determined that a legitimate program is making a non-malicious request, based on the information displayed in the program *Properties* screen, then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-28.png) to allow it access to your system.
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-28.png) to allow **Firefox** to access your system through **COMODO Firewall**. 
+
+### Step 5
+
+Given that **Firefox** is a safe program, **check** the ![](/sites/siabnext.ttc.io/files/media/comodo-win-30.png) option so that **COMODO Firewall** will allow **Firefox** to automatically access your system the next time. 
+
+**Note**: The *Allow* button lets you manually grant access to a process or program on a case-by-case basis. 
+
+**Tip**: **Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-31.png) to access the extensive **COMODO Firewall** help files online. 
+
+Your ability to make the correct allow or block decisions will improve as you become more confident and experienced in using **COMODO Firewall**.
+
+## Open the Comodo Firewall Main User Interface
+
+**COMODO Firewall** will automatically start working after you have installed and restarted your system. It features an extensive control panel with numerous customisable features and options. **Beginner** level users will quickly learn how to deal with **COMODO Firewall** security alerts, while **Experienced** and **Advanced** users will learn about more complex firewall configuration and management. 
+
+**Note**: All the examples shown here are based on **COMODO Firewall** in **Optimum Defense** mode. This means that the *Defense+* host intrusion prevention system is automatically enabled. If you have installed **COMODO Firewall** using the *Firewall only* option, *Defense+* will not be enabled.
+
+To open the **COMODO Firewall** main user interface, perform this step:
+
+### Step 1
+
+**Select Start > Programs > Comodo > Firewall > Comodo Firewall**. 
+
+**Note**: Alternatively, you can either **double-click** the desktop icon, or **double click** the **COMODO Firewall** icon in the *System Tray* to open the main user interface. In addition, you may **right-click** the **COMODO Firewall** icon to activate its pop-up menu, and then **select** *Open* as follows:
+
+![COMODO Firewall connectivity icon pop-up menu](/sites/siabnext.ttc.io/files/media/comodo-win-35.png)
+
+*Figure 3: The COMODO Firewall connectivity icon pop-up menu*
+
+![Comodo Firewall user interface in the default Summary mode](/sites/siabnext.ttc.io/files/media/comodo-win-36.png)
+
+*Figure 4: The Comodo Firewall user interface in the default Summary mode*
+
+## An Overview of the Comodo Firewall Main User Interface
+
+The *Firewall* pane displays a clear and concise summary of inbound and outbound requests from processes and programs attempting to get through the **COMODO Firewall**. Quite typically, there are more outbound requests than inbound. The default operating mode is *Safe Mode*, and different operating modes will be outlined later in this section. *Traffic* displays the different processes and programs in operation, and the number of requests being made in terms of percentages.
+
+**Click**![](/sites/siabnext.ttc.io/files/media/comodo-win-37.png) to activate the corresponding detailed summary of the outbound requests *at a given moment* as follows:
+
+![Active Connections window with Internet traffic details](/sites/siabnext.ttc.io/files/media/comodo-win-38.png)
+
+*Figure 5: An example of the Active Connections window displaying Internet traffic details*
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-39.png) to activate a similar *Active Connections* window for the inbound requests *at a given moment*.
+
+## Active Connections window displaying Internet traffic details
+
+Both **COMODO Firewall** and **Defense+** work together; if both programs are running, the indicator at the left of the main user interface appears as follows:
+
+![green COMODO Firewall status icon](/sites/siabnext.ttc.io/files/media/comodo-win-69.png)
+
+*Figure 6: The green COMODO Firewall status icon*
+
+If either program is disabled, the status icon will indicate whether the firewall or proactive protection component is disabled as follows:
+
+![yellow COMODO Firewall disabled status icon](/sites/siabnext.ttc.io/files/media/comodo-win-70.png)
+
+*Figure 7: The yellow COMODO Firewall disabled status icon*
+
+However if both programs have been disabled, the status icon will appear as follows:
+
+![yellow COMODO Firewall multiple protections disabled status icon](/sites/siabnext.ttc.io/files/media/comodo-win-71.png)
+
+*Figure 8: The yellow COMODO Firewall multiple protections disabled status icon*

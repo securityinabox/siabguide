@@ -7,9 +7,10 @@ License:
 System Requirements: 
 Admin: true/false
 Alternatives: 
-Comment: 
-Group: Training 
-Title: Review questions
+Comment:
+Required Reading:
+Group: Basic Usage
+Title: Update
 Language: EN
 
 

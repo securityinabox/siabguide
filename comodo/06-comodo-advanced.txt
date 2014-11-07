@@ -1,0 +1,120 @@
+Tool: Comodo for Windows
+Need: Firewall
+Website: https://personalfirewall.comodo.com/
+Download: https://download.comodo.com/cis/download/installs/2000/partners/cfw_installer_5732_83.exe
+Version: 5.7.32
+License: Free Proprietary Software
+System Requirements: Microsoft Windows
+Admin: true
+Alternatives: GNU/Linux built-in firewall -- [netfilter/iptables](http://www.netfilter.org/) with [GUFW](http://blog.bodhizazen.net/linux/firewall-ubuntu-gufw/) (Graphical Uncomplicated Firewall); Mac OS internal firewall, with interface add-ons [NoobProof](http://www.hanynet.com/noobproof/) and [IPSecuritas](http://www.lobotomo.com/products/IPSecuritas/); [ZoneAlarm Free Firewall](http://www.zonealarm.com/security/en-us/zonealarm-pc-security-free-firewall.htm) for Microsoft Windows; [Outpost Firewall Free](http://free.agnitum.com/) for Microsoft Windows 
+Comment: read 03-comodo-premise before installing and using this tool
+Required Reading: [How to Protect your Computer from Viruses, Malware and Hackers](https://securityinabox.org/chapter-1)
+Group: Advanced Usage 
+Title: Advanced Howto
+Language: EN
+
+# Advanced Configuration and Settings
+
+## Access the Firewall Behavior and Defense+ Settings windows
+
+The **COMODO Firewall** main user interface is divided into two panes, the *Firewall* pane and the *Defense+* pane. 
+
+![COMODO Firewall main user interface with Firewall and Defense+ panes](/sites/siabnext.ttc.io/files/media/comodo-win-80.png)
+
+*Figure 1: The COMODO Firewall main user interface displaying both the Firewall and Defense+ panes*
+
+The *Firewall Behavior Settings* and the *Defense+ Settings* windows can be accessed by **clicking** ![](/sites/siabnext.ttc.io/files/media/comodo-win-43.png) in either pane to activate their associated windows and their tabs.
+
+Alternatively, you may access either of them by performing the following steps:
+
+### Step 1
+
+**Open** the **COMODO Firewall** main user interface. 
+
+### Step 2
+
+**Click** either
+
+![](/sites/siabnext.ttc.io/files/media/comodo-win-60.png) OR ![](/sites/siabnext.ttc.io/files/media/comodo-win-81.png)
+
+to activate the *Firewall Tasks* or *Defense+  Tasks* panes respectively.
+
+### Step 3
+
+**Click** either 
+
+![](/sites/siabnext.ttc.io/files/media/comodo-win-82.png) OR ![](/sites/siabnext.ttc.io/files/media/comodo-win-83.png) 
+
+to activate the *Firewall Behavior Settings* tab or *Defense+ Settings* tab respectively.
+
+**Tip**: The *Firewall Security Level*, *Defense+ Security Level* and *Sandbox Security Level* which are described in the following sections can be easily and effectively set using the **COMODO Firewall** connectivity icon located in the *System Tray*. **Right click** the connectivity icon to activate the pop-up menu and sub-menu as follows:
+
+![connectivity icon pop-up menu and Firewall Security Level sub-menu](/sites/siabnext.ttc.io/files/media/comodo-win-84.png)
+
+*Figure 2: The connectivity icon pop-up menu and the Firewall Security Level sub-menu*
+
+## The Firewall Behavior Settings window
+
+The **Firewall Behavior Settings** window lets you customize firewall security by using a variety of features and options, including the firewall security level, the number and type of security alerts received and packet analysis and monitoring.
+
+![Firewall Behavior Settings window - General Settings](/sites/siabnext.ttc.io/files/media/comodo-win-44.png)
+
+*Figure 3: The Firewall Behavior Settings window - General Settings tab*
+
+The *General Settings* tab lets you specify the level of security you think appropriate for **COMODO Firewall**. The slider lets you adjust the level of security among the following options.
+
+**Block All**: This mode stops all Internet-related traffic and overrides any firewall configurations and rules you have specified. It will neither generate traffic rules for applications, nor record or 'learn' their behaviours.
+
+**Custom Policy**: This mode applies *only* the user-defined **COMODO Firewall** security policies and network traffic policies that you have previously defined in the *Firewall Tasks > Network Security Policy* and the *Defense+ Tasks > Computer Security Policy* windows. 
+
+**Safe Mode**: This mode is the default setting for the **COMODO Firewall**, including the *Optimum Proactive Defense* and *Maximum Proactive Defense* installations. 
+
+**Tip**: **COMODO Firewall** maintains an internal list of commonly used applications and files verified as safe, and does not issue pop-up alerts for them.  
+
+**Warning**: Both the *Training Mode* and *Disabled Mode* are not recommended as they may compromise the effectiveness of **COMODO Firewall** and expose your system to the risk of infection.
+
+## The Defense+ Settings window
+
+**Note**: The features and options described in this section require a profound understanding of firewalls and related security issues, and is designed largely with the **Advanced** user in mind.
+
+**Important**: If you checked either the *Firewall with Optimum Proactive Defense* or the *Firewall with Maximum Proactive Defense* options during the **COMODO Firewall** installation process, the *Defense+* host intrusion prevention system was automatically enabled. However, if you checked the *Firewall Only* option, the *Defense+* system can still be manually enabled. The *Defense+* option must be enabled in order for many of the features documented here to work. 
+
+The **COMODO Firewall** *Defense+* is a host intrusion prevention system. Any computer connected to a network is technically speaking, a host computer. The *Defense+* system constantly monitors the activities of all executable files currently residing on your computer. An executable file is simply an application or program, or a part if it, and typically but not exclusively, is identified by the following file extensions: *.bat*, *.exe*, *.dll*, *.sys*, and others.
+
+## The Defense+ Settings - General Settings tab
+
+To manually enable the *Defense+* system and activate the *Defense+ Settings* window, perform the following steps:
+
+### Step 1
+
+**Click** the *Defense+* tab in the **COMODO Firewall** main user interface and then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-50.png) to activate the following screen:
+
+![Defense+ window with default General Settings](/sites/siabnext.ttc.io/files/media/comodo-win-51.png)
+
+*Figure 6: The Defense+ window displaying the default General Settings tab*
+
+### Step 2
+
+**Move** the slider up the scale to *Safe Mode* and then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-06.png) to enable the *Defense+* system as shown above in *Figure 6*.
+
+The *Defense+ Security Level* resembles the *Firewall Behavior Security Level* which offers similar options, and lets you use a slider to choose the optimal level of host intrusion protection for your system. 
+
+**Paranoid Mode**: This mode is the highest available level of security, and monitors all and any executable files apart from those you have specified as safe, including those on the *Trusted Software Vendor* list. It generates the greatest number of security alerts, and system activity is filtered through your configuration settings.  
+
+**Safe Mode**: This mode will automatically 'learn' the behaviours of different application executables, while monitoring critical system activity. Every uncertified application will generate a *Security Alert* whenever it runs. This mode is the most widely recommended for the majority of users. 
+
+- The *Block all unknown requests if the application is closed* option automatically blocks all requests from unknown applications and programs, and those you did not specify in your *Computer Security Policy*).
+
+- The *Deactivate the Defense+ permanently (Requires a system restart)* option lets you manually disable the *Defense+* host intrusion prevention system. This option is generally not recommended.
+
+## The Defense+ Settings - Execution Control Settings tab
+
+The *Execution Control Settings* tab limits the extent to which a suspicious or unknown file can access your system resources and execute itself, and submits them for analysis. 
+
+![Defense+ Execution Control Settings](/sites/siabnext.ttc.io/files/media/comodo-win-54.png)
+
+*Figure 7: The Defense+ Execution Control Settings tab*
+
+**Tip**: **Advanced** users may create exclusions to the aforementioned tasks by clicking ![](/sites/siabnext.ttc.io/files/media/comodo-win-55.png) to activate the *Exclusions* pane, and browsing for or selecting different processes or programs for exclusion.
+
+**Note**: **Experienced** and **Advanced** users are strongly encouraged to **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-47.png) to access the extensive **COMODO** online help concerning the *Execution Control Settings*, *Sandbox Settings* and *Monitoring Settings* tabs. Alternatively, you can refer to **http://help.comodo.com/topic-72-1-155-1074-Introduction-to-Comodo-Internet-Security.html** to choose from a list of online help topics.

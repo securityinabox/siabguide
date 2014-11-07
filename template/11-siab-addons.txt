@@ -9,8 +9,8 @@ Admin: true/false
 Alternatives: 
 Comment:
 Required Reading:
-Group: Basic Usage
-Title: Security Configuration
+Group: Advanced Usage 
+Title: Add-ons
 Language: EN
 
 

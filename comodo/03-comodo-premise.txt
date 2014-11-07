@@ -1,0 +1,25 @@
+Tool: Comodo for Windows
+Need: Firewall
+Website: https://personalfirewall.comodo.com/
+Download: https://download.comodo.com/cis/download/installs/2000/partners/cfw_installer_5732_83.exe
+Version: 5.7.32
+License: Free Proprietary Software
+System Requirements: Microsoft Windows
+Admin: true
+Alternatives: GNU/Linux built-in firewall -- [netfilter/iptables](http://www.netfilter.org/) with [GUFW](http://blog.bodhizazen.net/linux/firewall-ubuntu-gufw/) (Graphical Uncomplicated Firewall); Mac OS internal firewall, with interface add-ons [NoobProof](http://www.hanynet.com/noobproof/) and [IPSecuritas](http://www.lobotomo.com/products/IPSecuritas/); [ZoneAlarm Free Firewall](http://www.zonealarm.com/security/en-us/zonealarm-pc-security-free-firewall.htm) for Microsoft Windows; [Outpost Firewall Free](http://free.agnitum.com/) for Microsoft Windows 
+Comment:
+Required Reading: [How to Protect your Computer from Viruses, Malware and Hackers](https://securityinabox.org/chapter-1)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+# Things you should know about Comodo before you start
+
+A firewall acts like a doorman or guard for your computer. It has a set of rules about what information should be let in and what information should be let out of your computer. A firewall is the first program that receives and analyses incoming information from the Internet and the last program that scans outgoing information to the Internet. 
+
+It prevents hackers or other intruders from accessing personal information stored on your computer, and prevents malware programs from sending information to the Internet without your authorisation. **COMODO Firewall** is a well-known and respected firewall software. It is free software, which means you can use it without purchasing a license. 
+
+Running a custom firewall program may initially require considerable time and effort to ensure that all the settings are correct and suited to the way you use your computer. After an initial learning period, the firewall will work seamlessly, requiring minimal intervention on your part. 
+
+**Warning**!: Never access the Internet without a firewall installed and running on your computer! Even if your Internet modem or router has its own firewall, it is strongly recommended that you have one installed on your computer as well.

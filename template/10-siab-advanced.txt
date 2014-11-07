@@ -8,6 +8,7 @@ System Requirements:
 Admin: true/false
 Alternatives:
 Comment:
+Required Reading:
 Group: Advanced Usage 
 Title: Advanced Howto
 Language: EN
