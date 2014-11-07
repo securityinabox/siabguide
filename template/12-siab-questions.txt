@@ -8,8 +8,8 @@ System Requirements:
 Admin: true/false
 Alternatives: 
 Comment: 
-Group: Advanced Usage 
-Title: Addons
+Group: Training 
+Title: Review questions
 Language: EN
 
 

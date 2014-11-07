@@ -1,0 +1,17 @@
+Tool:
+Need:
+Website:
+Download:
+Version:
+License:
+System Requirements:
+Admin:
+Alternatives:
+Comment:
+Required Reading:
+Group: Basic Usage
+Title: Problems and Solutions 
+Language: EN
+
+
+
