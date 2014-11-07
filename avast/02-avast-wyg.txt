@@ -7,7 +7,7 @@ License: Free Proprietary Software
 System Requirements: Microsoft Windows
 Admin: false
 Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows, [AVG Anti-Virus](http://free.avg.com/) for Microsoft Windows
-Comment: This file should only be used in connection with the whole hands-on guide
+Comment: This file should only be used in connection with the whole hands-on guide; read 03-avast-premise before installing and using this tool
 Required Reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
 Group: Synthesis
 Title: What you will get from this guide 

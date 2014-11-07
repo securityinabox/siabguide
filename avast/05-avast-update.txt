@@ -1,0 +1,140 @@
+Tool: avast!
+Need: anti-virus
+Website: http://www.avast.com/
+Download: http://www.avast.com/index#upgrade
+Version: 2014.9.0.2021
+License: Free Proprietary Software
+System Requirements: Microsoft Windows
+Admin: false
+Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows, [AVG Anti-Virus](http://free.avg.com/) for Microsoft Windows
+Comment: read 03-avast-premise before installing and using this tool
+Required Reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
+Group: Basic Usage 
+Title: Update
+Language: EN
+
+
+# How to Manually Update avast!
+
+## Before You Begin
+
+**avast!** runs silently in the background on your computer, automatically updating its virus definitions and program upgrades every time you connect to the Internet. However, in situations where your internet access is discontinuous, restricted or temporary in some way, performing a manual update would be more convenient or useful.
+
+**Note**: There are two ways of updating **avast!** manually: The first is through the **avast!** main user interface, and the second is through a pop-up menu that appears whenever you right click the **avast!** icon located in the *System Tray*. Furthermore, you can simply turn off the automatic update feature through the *BASIC SETTINGS* pop-up window, when you **click** ![](/sites/siabnext.ttc.io/files/media/avast-win-90.png) at the top right corner of the main user interface.
+
+## How to Use the Main User Interface to Manually Update avast!
+
+To manually update **avast!** through the main user interface, perform the following steps:
+
+### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-20.png) to activate the **avast!** main user interface as follows:
+
+![typical notification of a Program version update](/sites/siabnext.ttc.io/files/media/avast-win-41.png)
+
+*Figure 1: The Summary tab displaying the Current Status pane, displaying a typical notification of a Program version update*
+
+A program or virus definition update is indicated by an orange icon with a centred exclamation mark, instead of the usual green icon with a check mark. The program or virus definition update version is displayed in red, and the *Update* button now is now visible.
+
+![new Program version upgrade available](/sites/siabnext.ttc.io/files/media/avast-win-42.png)
+
+*Figure 2: A new Program version upgrade is available*
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-43.png) to update the *Program version* pane as follows:
+
+![Program version after update](/sites/siabnext.ttc.io/files/media/avast-win-44.png)
+
+*Figure 3: The Program version after it has been updated*
+
+The program version changes from 5.0.545 to 5.0.594 after this task has been performed.
+
+The following list briefly describes each item or status icon in the *Current Status SECURED* pane as follows:
+
+**Tip**: **Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-14.png) to either display or hide the information in the *Current Status* pane. 
+
+**Real-time shields**: This icon indicates whether the real-time shields are working properly. The real-time shields monitor all computer-related activities; there are real-time shields for email, the local file system, the web and other systems. If or when one real-time shield is turned off, either deliberately or by a malware attack, the **avast!** icon in the *System Tray* changes appearance to reflect this: ![](/sites/siabnext.ttc.io/files/media/avast-win-40.png)
+
+**Definitions auto updates**: This icon indicates whether the automated update mechanism is turned off or on. 
+
+**Virus definitions version**: This icon displays the date stamp of the most recent virus definition version. The date is displayed according to the following format: 10 refers to the year 2010, 06 refers to the month and 29 refers to the day. 
+
+**Program version**: This icon displays the most recent update of the program version.
+
+**Expiration date**: This item displays the expiration date and time of your copy of **avast!**, and is the date before which it should be renewed or re-registered.
+
+### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-46.png) to activate the following screen:
+
+![Maintenance UPDATE pane](/sites/siabnext.ttc.io/files/media/avast-win-47.png)
+
+*Figure 4: The main interface displaying the Maintenance UPDATE pane*
+
+The *Maintenance UPDATE* pane is used to update the program and virus definitions manually. 
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-48.png) to begin updating the engine and virus definitions.
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-51.png) after the engine and virus definition process has been completed, to return to the *Maintenance UPDATE* screen.
+
+Updating the **avast!** program upgrade follows a similar procedure to updating the engine and virus definitions.
+
+### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-52.png) to start the update process, and start the *Program upgrade* process. 
+ 
+### Step 7
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-51.png) after the program upgrade process has been completed, to return to the *Maintenance UPDATE* pane.
+
+## How to Use the Pop-up Menu to Manually Update avast!
+
+The **avast!** program upgrade and virus definition updates can be performed through the **avast!** pop-up menu. The pop-up menu can be used to directly access the *Maintenance UPDATE* screen.  
+
+To manually update the **avast!** *Engine and virus definitions* using the pop-up menu, perform the following steps:
+
+### Step 1
+
+**Right click** ![](/sites/siabnext.ttc.io/files/media/avast-win-20.png) in the *System Tray* to activate the following pop-up menu:
+
+![avast! pop-up menu](/sites/siabnext.ttc.io/files/media/avast-win-55.png)
+
+*Figure 5: The avast! pop-up menu*
+
+### Step 2
+
+**Select Update > Engine and virus definitions** to activate *Figure 4*, and then perform ### Steps 4 to 5**. 
+
+### Step 3
+
+**Select Update > Program** to activate *Figure 6* and then perform ### Steps 6 to 7** in section **3.1 How to Manually Update avast! Using the Main User Interface**
+
+## How to Turn Off the Automatic Update Feature in avast!
+
+In default mode, **avast!** is configured to automatically download and update its program version and virus definitions. However, this mode can be turned off through the *Settings* button in the top right corner of the main user interface.
+
+### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-90.png) to activate the **avast!** BASIC SETTINGS pop-up window, and then **select** *Updates* to activate the *UPDATE SETTINGS* pane. 
+
+### Step 2
+
+**Click** the *Manual update* option under both the ENGINE AND VIRUS DEFINITIONS and PROGRAM sections. 
+
+![Definitions auto updates turned off](/sites/siabnext.ttc.io/files/media/avast-win-91.png)
+
+*Figure 6: The SUMMARY ATTENTION pane with the Definitions auto updates turned off*
+
+Advanced users may further refine these update parameters in the *Details* and *Proxy Settings* sections. To begin doing so, perform the following step:
+
+### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-92.png) to expand the *Details* and *Proxy Settings* sections to begin modifying the parameters displayed in each section. 
+
+You have now learned about the different ways to manually update the *Engine and virus definitions* and *program upgrades* in **avast!**. To begin using **avast!**, please refer to section **4.0 How to Scan for and Deal with Viruses Update avast!**
+

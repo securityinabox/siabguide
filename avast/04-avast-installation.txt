@@ -7,11 +7,139 @@ License: Free Proprietary Software
 System Requirements: Microsoft Windows
 Admin: false
 Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows, [AVG Anti-Virus](http://free.avg.com/) for Microsoft Windows
-Comment:
+Comment: read 03-avast-premise before installing and using this tool
 Required Reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
 Group: Basic Usage
 Title: Installation
 Language: EN
 
 
+# How to Install and Register avast!
 
+## How to Install avast!
+
+Installing **avast!** is a relatively easy and quick procedure. To begin installing **avast!**, perform the following steps:
+
+### Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/avast-win-15.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/avast-win-02.png) to activate a progress status bar that runs for a minute or so depending on the speed of your computer. After the **avast!** components are completely unpacked, a dialog box is activated as follows: 
+
+![Free Antivirus Setup-avast! Installation screen](/sites/siabnext.ttc.io/files/media/avast-win-04.png)
+
+*Figure 1: The Free Antivirus Setup-avast! Installation screen*
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-05.png) to activate the following dialog box:
+
+![avast! Installation dialog box](/sites/siabnext.ttc.io/files/media/avast-win-06.png)
+
+*Figure 2: The avast! Installation dialog box*  
+
+During the **avast!** installation process, the *avast! Installation* dialog box will appear with the *Participate in the avast! community* option enabled. For reasons of internet privacy and security, it is recommended that you disable this option as shown in *Figure 2* above.
+
+### Step 3
+
+**Uncheck** the *Participate in the avast! community* check box to disable this option, and then **click** ![](/sites/siabnext.ttc.io/files/media/avast-win-05.png) to activate the following dialog box:
+
+![avast! recommends screen](/sites/siabnext.ttc.io/files/media/avast-win-07.png)
+
+*Figure 3: The avast! recommends screen*
+
+During the **avast!** installation process, the *avast! recommends* dialog box appears with the *Yes, also install the Google Chrome web browser* option enabled. We recommend that you disable this option as shown in *Figure 3* above.
+
+### Step 4
+
+**Check** the *No, do not install the Google Chrome web browser* option to disable it, and then **click** ![](/sites/siabnext.ttc.io/files/media/avast-win-05.png) to continue installing **avast!**.
+
+A notice informing you that the installation process has completed itself will appear after a few minutes.
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-09.png) to complete the software installation procedure. After a brief interval, **avast!** icon appears in your *System Tray* as follows:
+
+![avast! icon outlined in black in the System Tray](/sites/siabnext.ttc.io/files/media/avast-win-10.png)
+
+*Figure 4: The avast! icon outlined in black in the System Tray*
+
+After another brief interval, a message confirming the successful installation of **avast!** appears as follows:
+
+![avast! installation confirmation message](/sites/siabnext.ttc.io/files/media/avast-win-11.png)
+
+*Figure 5: The avast! installation confirmation message*
+
+Every time **avast!** automatically updates both its program and virus definitions, a notice will appear over the *System Tray* and resemble the following screen:
+
+![example of an avast! message](/sites/siabnext.ttc.io/files/media/avast-win-12.png)
+
+*Figure 6: An example of an avast! message* 
+
+**Important**: You *must* register your copy of the software, to ensure that the software engines, virus definitions and the program itself are updated on a regular basis.
+
+After you have properly registered **avast!**, it will continue to automatically protect you from malware and virus attacks, and issue notices which resemble the following screen:
+
+![example of notice of blocked threat](/sites/siabnext.ttc.io/files/media/avast-win-17.png)
+
+*Figure 7: An example of a notice in which a threat has been blocked.*
+
+### Step 6
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/avast-win-13.png) in the *System Tray* (refer to *Figure 4*) to activate the **avast!** main user interface, and then **click** ![](/sites/siabnext.ttc.io/files/media/avast-win-14.png) to display the *Current Status* details as follows:
+
+![avast! main user interface](/sites/siabnext.ttc.io/files/media/avast-win-16.png)
+
+*Figure 8: The avast! main user interface.*
+
+**Important**: **avast!** must be registered in order for you to continue receiving program versions and virus definition updates, which are essential to protecting your computer from different threats.
+
+## How to Register avast
+
+**Note**: If you do not register your copy of **avast!** it will stop working after 30 days. You must be connected to the Internet to register **avast!**.  
+
+To register your copy of **avast!**, perform the following steps:
+
+### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-20.png) to activate the **avast!** main user interface (*Figure 10*).
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-22.png) (through MAINTENANCE and Registration menu items) to activate the following two screens in quick succession:
+
+![Free Antivirus Registration screen](/sites/siabnext.ttc.io/files/media/avast-win-23.png)
+
+*Figure 9: The Free Antivirus Registration screen*
+
+The *avast! Free Antivirus Registration* pops-up window advises you that information is being retrieved. It is followed by another screen warning you that **avast!** will expire in 30 days if you do not register your software by then. (It also displays information about commercial software products and promotions currently available.)
+
+![Your Registration Status screen](/sites/siabnext.ttc.io/files/media/avast-win-24.png)
+
+*Figure 10: The Your Registration Status screen*
+
+### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-25.png) to activate *Figure 2* again, followed by this screen:
+
+![Antivirus Free Registration Form](/sites/siabnext.ttc.io/files/media/avast-win-26.png)
+  
+*Figure 11: The Antivirus Free Registration - Registration Form*
+
+**Note**: The *Name* and *Email* are the only *mandatory* text fields. They are identified by asterisks and outlined in small red squares. The other fields are not mandatory in the registration process. 
+
+### Step 4
+
+**Type** your name and email address into the corresponding text fields, and then **click** ![](/sites/siabnext.ttc.io/files/media/avast-win-28.png) to activate the following screen:
+
+![Thank You for Registering](/sites/siabnext.ttc.io/files/media/avast-win-29.png)
+
+*Figure 12: Thank You for Registering pop-up screen*
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/avast-win-30.png) to access the *YOUR REGISTRATION* pane in the main user interface as follows:
+
+![registration confirmation](/sites/siabnext.ttc.io/files/media/avast-win-31.png)
+
+*Figure 13: The YOUR REGISTRATION pane registration confirmation*
+
+You have now completed registering of your copy of **avast!**, and are ready to learn how to manually update the program and virus definition updates. To begin doing so, please refer to section **3.0 How to Manually Update avast!**

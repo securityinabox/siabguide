@@ -14,4 +14,12 @@ Title: Important premise
 Language: EN
 
 
+# Things you should know about avast! before you start
 
+Computer viruses are malicious programs that can destroy files, slow your computer down and use your address book to locate and infect other computers. **avast!** can protect your system against viruses that might infect your computer through downloads from the Internet, email attachments, or transfers from removable media (CDs, DVDs, floppy disks, USB memory sticks, etc).
+
+* Make sure that you do not have two anti-virus programs installed and running at the same time. If you are currently using a different program and you want to switch to **avast!**, you must first uninstall the other anti-virus program before installing **avast!**.
+
+* New anti-malware and viruses are being developed all the time. The **avast!** database must be kept up-to-date to effectively protect your computer.
+
+* Among the more insidious viruses are those which can actually prevent the installation of **avast!**, and/or viruses that **avast!** can fail to detect and delete. In these kinds of situations, fairly advanced methods are required, and some of those are discussed in section [**4.9 Advanced Virus Removal Methods**](/en/dealingwithviruses#4.9). 

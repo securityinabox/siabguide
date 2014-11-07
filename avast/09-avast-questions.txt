@@ -7,11 +7,16 @@ License: Free Proprietary Software
 System Requirements: Microsoft Windows
 Admin: false
 Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows, [AVG Anti-Virus](http://free.avg.com/) for Microsoft Windows
-Comment:
+Comment: read 03-avast-premise before installing and using this tool
 Required Reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
-Group: FAQ 
-Title: FAQ
+Group: Training 
+Title: Questions
 Language: EN
 
 
+- How can you scan a specific folder for viruses in **avast!**?	
+- For how many days will an unregistered copy of **avast!** work?
+- Is it possible to move a document that is not infected by a virus to the *Virus Chest*?
+- What is the difference between deleting a virus and moving it to the *Virus Chest*?
+- What is the difference between a boot-time scan and a full-system scan?
 
