@@ -10,7 +10,7 @@ System_requirements:
 Admin: true/false
 Alternatives: 
 Comment:
-Required Reading:
+Required_reading:
 Group: Training 
 Title: Review questions
 Language: EN

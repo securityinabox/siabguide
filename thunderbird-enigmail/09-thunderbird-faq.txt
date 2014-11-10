@@ -10,7 +10,7 @@ System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [gpg4usb](https://siabnext.ttc.io/hands-on-guide/gpg4usb-windows) for Windows, [Claws Mail](http://www.claws-mail.org/) for GNU Linux and Microsoft Windows, [Sylpheed](http://sylpheed.sraoss.jp/en/) for GNU Linux Mac OS and Microsoft Windows, [Alpine](http://www.washington.edu/alpine/) for GNU Linux Mac OS and Microsoft Windows
 Comments: read 03-thunderbird-premise before installing and using this tool
-Required Reading: [chapter 7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7 "Keeping your Internet Communication Private")
+Required_reading: [chapter 7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7 "Keeping your Internet Communication Private")
 Group: FAQ 
 Title: FAQ
 Language: EN

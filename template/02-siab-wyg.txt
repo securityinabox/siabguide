@@ -10,7 +10,7 @@ System_requirements:
 Admin: true/false
 Alternatives: 
 Comment: This file should only be used in connection with the whole hands-on guide
-Required Reading:
+Required_reading:
 Group: Synthesis
 Title: What you will get from this guide 
 Language: EN

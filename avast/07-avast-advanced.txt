@@ -10,7 +10,7 @@ System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows, [AVG Anti-Virus](http://free.avg.com/) for Microsoft Windows
 Comment: read 03-avast-premise before installing and using this tool
-Required Reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
+Required_reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
 Group: Advanced Usage 
 Title: Advanced Howto
 Language: EN

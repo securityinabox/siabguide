@@ -10,7 +10,7 @@ System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows
 Admin: false
 Alternatives: 
 Comment:
-Required Reading: How-to Booklet chapter 3. [How to create and maintain good passwords](https://securityinabox.org/chapter-3)
+Required_reading: How-to Booklet chapter 3. [How to create and maintain good passwords](https://securityinabox.org/chapter-3)
 Group: Synthesis
 Title: Introduction
 Language: EN

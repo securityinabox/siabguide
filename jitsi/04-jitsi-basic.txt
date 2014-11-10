@@ -10,7 +10,7 @@ System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows
 Admin: false
 Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
 Comment:
-Required Reading:
+Required_reading:
 Group: Basic Usage 
 Title: Basic Howto
 Language: EN

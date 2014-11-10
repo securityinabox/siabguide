@@ -10,7 +10,7 @@ System_requirements: Microsoft Windows
 Admin: true
 Alternatives: Ubuntu full-disk encryption, dm-crypt for Linux, cryptsetup and LUKS for Linux, ScramDisk for Linux SD4L, FileVault for Mac OS, DiskCryptor for Microsoft Windows
 Comment: read 03-truecrypt-premise before installing and using this tool
-Required Reading: [Protect the sensitive files on your computer](https://siabnext.ttc.io/how-to-guide/secure-file-storage)
+Required_reading: [Protect the sensitive files on your computer](https://siabnext.ttc.io/how-to-guide/secure-file-storage)
 Group: Basic Usage 
 Title: Important premise
 Language: EN
