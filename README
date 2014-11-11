@@ -44,7 +44,7 @@ The **Hands-on Guides**, however, can be used individually, and even remixed wit
 
 ### Instructions for translators
 
-In order to translate the SIAB texts, you need to use git, a very easy and versatile tool that enables to track changes in the different versions of a project.
+In order to translate the SIAB texts, you need to use git, a very easy and versatile tool that enables to keep track of changes in the different versions of a project.
 If you don't know how git works and want to know more, you can read this howto, translated in several languages: http://www-cs-students.stanford.edu/~blynn/gitmagic/ or this one (only in English): http://git-scm.com/book/en/v2
 
 However, in order to use git all you have to do is downlad and install the software ( http://git-scm.com/download ) and then write the following commands in a shell interface:
@@ -53,13 +53,15 @@ $ git clone git@git.tacticaltech.org:ttc/siab-content.git
 
 In this way you will download the whole Security in-a-box repository and will be able to edit it in your computer.
 
-new branch for each language? git checkout -b language
+!!!new branch for each language? git checkout -b language!!!
 
-If it is not the first time you are working with this repository, before starting your work, check that there have been no changes in the meantime by accessing your local SIAB directory in a shell interface and by digiting:
+If it is not the first time you are working with this repository, before you start your work, check that there have been no changes in the meantime by accessing your local SIAB directory in a shell interface and by digiting:
 
 $ git pull
 
-When your work is complete, you can share it with everybody else through these simple commands:
+In this way you will update your repository and will make sure that there are no conflicts between your changes and other former changes by others.
+
+When you are done with you work, you can share it with everybody else through these simple commands:
 
 $ git commit -a -m "Your description of what you did"
 $ git push origin master
