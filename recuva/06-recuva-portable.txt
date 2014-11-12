@@ -1,0 +1,85 @@
+Object_type: Tool
+Tool: Recuva
+Platform: Microsoft Windows
+Need: Data recovery
+Website: https://www.piriform.com/recuva
+Download: https://www.piriform.com/recuva/builds
+Version: 1.3
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [R-Linux](http://www.r-tt.com/data_recovery_linux/) for GNU Linux; [TestDisk and PhotoRec](http://www.cgsecurity.org/) for Mac OS, Microsoft Windows and GNU Linux; [NTFS Undelete](http://ntfsundelete.com/) for Microsoft Windows; [Disk Digger](http://diskdigger.org/) for Microsoft Windows; [PCInspector File Recovery](http://www.pcinspector.de/Default.htm?language=1) for Microsoft Windows; [FileRestorePlus](http://undeleteplus.com/) for Microsoft Windows
+Comment: read 03-recuva-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [5. How to recover from information loss](https://securityinabox.org/chapter-5)
+Group: Basic Usage 
+Title: Portable 
+Language: EN
+
+
+# Portable Recuva
+
+## Differences between the Installed and Portable Versions of Recuva
+
+Given that portable tools are not installed on a local computer, their existence and use may remain undetected. However, keep in mind that your external device or USB memory stick, and portable tools are only as safe as the computer you are using, and may risk being exposed to adware, malware, spyware and viruses.
+
+There are no other differences between **Portable Recuva** and the version designed to be installed.
+
+## Download and Extract Recuva Portable
+
+To begin downloading and extracting **Recuva Portable**, perform the following steps:
+
+### Step 1
+
+**Click** [**http://www.piriform.com/recuva/download/portable**](http://www.piriform.com/recuva/download/portable) to be directed to the appropriate download site, and automatically activate the following screen:
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/recuvaportable-win-02.png) to save the ![](/sites/siabnext.ttc.io/files/media/recuvaportable-win-03.png) installation file to your computer; and then **navigate** to it.
+
+### Step 3
+
+**Right click** to activate the **Windows** pop-up menu, and then **select** the Extract files... item as shown in *Figure 1* below: 
+
+![](/sites/siabnext.ttc.io/files/media/recuvaportable-win-04.png)
+
+*Figure 1: The Windows pop-up menu with the Extract files... item selected*
+
+*This will activate the following window:*
+
+### Step 4
+
+**Navigate** to the removable drive or USB memory stick as shown in *Figure 2* below, and then **click** ![](/sites/siabnext.ttc.io/files/media/recuvaportable-win-05.png) to create a new folder in which to extract the installation file.
+
+![Extraction path and options navigation window](/sites/siabnext.ttc.io/files/media/recuvaportable-win-06.png)
+
+*Figure 2: The Extraction path and options navigation window*
+
+### Step 5
+
+**Enter** a name for the new folder in the document tree as shown in *Figure 3* below:
+
+![Extraction path and options window document tree](/sites/siabnext.ttc.io/files/media/recuvaportable-win-07.png)
+
+*Figure 3: The Extraction path and options window document tree (resized)*
+
+Alternatively, you may type in a folder name in the accompanying drop-down list: ![](/sites/siabnext.ttc.io/files/media/recuvaportable-win-08.png)
+
+**Note**: Although for the purposes of this example, the new folder is entitled Recuva Portable, users may choose different name.
+
+### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/recuvaportable-win-09.png) to begin extracting its contents to newly created folder.
+
+### Step 7
+
+**Navigate** to your destination external drive or USB memory stick, as shown in *Figure 4* below, then **open** it to confirm that the **Portable Recuva** program was successfully extracted.
+
+![Portable Recuva program extracted to the destination folder on a designated external hard drive](/sites/siabnext.ttc.io/files/media/recuvaportable-win-10.png)
+
+*Figure 4: The Portable Recuva program extracted to the destination folder on a designated external hard drive*
+
+### Step 8
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/recuvaportable-win-11.png) to activate the **Portable Recuva** wizard.
+
+Please refer to the [**Recuva**](/en/recuva_main) chapter to begin configuring and using it.

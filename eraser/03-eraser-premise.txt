@@ -1,0 +1,27 @@
+Object_type: Tool
+Tool: Eraser
+Platform: Microsoft Windows
+Need: Secure file deletion
+Website: http://eraser.heidi.ie/
+Download: https://securityinabox.org/sbox/programs/EraserSetup32.exe
+Version: 5.86a; Although you may find newer versions of Eraser on the developers' website, they are not included here, as they require the installation of the .Net Framework on your Microsoft Windows. Downloading the .Net Framework may take a very long for users with low bandwith
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [secure-delete](http://www.ghacks.net/2010/08/26/securely-delete-files-with-secure-delete/) (command line tools) for GNU Linux; secure-delete [integrated with a graphical file manager](http://techthrob.com/2010/07/07/adding-a-secure-delete-option-to-nautilus-file-manager-in-linux/) for GNU Linux; Finder menu Secure Empty Trash... on Mac OS; Disk Utility to securely erase entire disk or a free space on internal or external disks on Mac OS; [CCleaner](https://siabnext.ttc.io/en/ccleaner_main) for Microsoft Windows; [Freeraser](http://www.freeraser.com/) for Microsoft Windows; [DBAN - Darik's Boot And Nuke](http://www.dban.org/) for bulk or emergency data destruction
+Comment: read 03-eraser-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to destroy sensitive information](https://securityinabox.org/chapter-6)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+# Things you should know about Eraser before you start
+
+**Eraser** is used to permanently delete or *wipe* sensitive data from your computer. It does this by writing over the data you want to delete. You can select files or folders to be wiped in this way. **Eraser** will also delete copies of files that may exist in your computer without your knowledge. This includes files you have previously deleted using the standard **Windows** deletion method, and copies of documents you have worked on in the past. 
+
+- Deleting files with **Eraser** can be performed on demand or scheduled to run at a specified times.
+- If you schedule **Eraser** to run at a certain time, then your computer must be switched on at the specified time or the wipe will not happen. 
+- Once you have deleted a file using **Eraser**, it cannot be recovered using a file recovery program.
+- For greater security, you should set **Eraser** to overwrite files selected for deletion between 3 and 7 times.
+- **Eraser** can be used to wipe the free space off your computer. This refers to permanently wiping all past traces of work that may not have been properly deleted and could, in theory, be recoverable.

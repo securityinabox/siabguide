@@ -1,0 +1,65 @@
+Object_type: Tool
+Tool: Recuva
+Platform: Microsoft Windows
+Need: Data recovery
+Website: https://www.piriform.com/recuva
+Download: https://www.piriform.com/recuva/builds
+Version: 1.3
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [R-Linux](http://www.r-tt.com/data_recovery_linux/) for GNU Linux; [TestDisk and PhotoRec](http://www.cgsecurity.org/) for Mac OS, Microsoft Windows and GNU Linux; [NTFS Undelete](http://ntfsundelete.com/) for Microsoft Windows; [Disk Digger](http://diskdigger.org/) for Microsoft Windows; [PCInspector File Recovery](http://www.pcinspector.de/Default.htm?language=1) for Microsoft Windows; [FileRestorePlus](http://undeleteplus.com/) for Microsoft Windows
+Comment: read 03-recuva-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [5. How to recover from information loss](https://securityinabox.org/chapter-5)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install Recuva
+
+Installing **Recuva** is a relatively easy and quick procedure. To begin installing **Recuva**, perform the following steps:
+
+## Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-13.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-02.png) to activate the following dialog box:  
+
+![Installer Language dialog box](/sites/siabnext.ttc.io/files/media/recuva-win-03.png)
+
+*Figure 1: The Installer Language dialog box*
+
+## Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-04.png) to activate the *Welcome to the Recuva Setup Wizard* screen.
+
+## Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-06.png) to activate the *License Agreement* screen. Please read the *License Agreement* before proceeding with the rest of the installation process.
+
+## Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-07.png) to activate the *Choose Install Location* screen.
+
+## Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-06.png) to activate the *Install Options* screen.
+
+**Note**: The *Install Options* screen appears with the *Install optional Yahoo! toolbar* option enabled. Do *not* install the **Yahoo!** toolbar, which may compromise your Internet privacy and security. 
+
+## Step 6
+
+**Check** the *Install optional Yahoo! toolbar* check box to disable it as shown in *Figure 2* below:
+
+![Install Options screen with optional Yahoo! toolbar disabled](/sites/siabnext.ttc.io/files/media/recuva-win-09.png)
+
+*Figure 2: The Install Options screen with the optional Yahoo! toolbar disabled*
+
+## Step 7
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-10.png) to begin installing **Recuva**. This will activate the installation progress bar that will disappear after the installation has completed itself in a few minutes.
+
+## Step 8
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-12.png) to complete installing **Recuva**.
+
+Now that you have successfully installed **Recuva**, you are ready to begin recovering and/or overwriting private and sensitive information. Please continue to section [**3.0 How to Perform Different Scans Using Recuva**](/en/recuva_scan#3.0).

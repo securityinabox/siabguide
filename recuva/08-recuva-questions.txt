@@ -1,0 +1,23 @@
+Object_type: Tool
+Tool: Recuva
+Platform: Microsoft Windows
+Need: Data recovery
+Website: https://www.piriform.com/recuva
+Download: https://www.piriform.com/recuva/builds
+Version: 1.3
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [R-Linux](http://www.r-tt.com/data_recovery_linux/) for GNU Linux; [TestDisk and PhotoRec](http://www.cgsecurity.org/) for Mac OS, Microsoft Windows and GNU Linux; [NTFS Undelete](http://ntfsundelete.com/) for Microsoft Windows; [Disk Digger](http://diskdigger.org/) for Microsoft Windows; [PCInspector File Recovery](http://www.pcinspector.de/Default.htm?language=1) for Microsoft Windows; [FileRestorePlus](http://undeleteplus.com/) for Microsoft Windows
+Comment: read 03-recuva-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [5. How to recover from information loss](https://securityinabox.org/chapter-5)
+Group: Training 
+Title: Review questions
+Language: EN
+
+
+- Does turning off your computer reduce the ability of **Recuva** to effectively recover your deleted documents, files and folders?
+- How does increasing the number of passes affect the secure overwriting of a given document or file?
+- Name two conditions affecting your ability to successfully recover a deleted document or file in **Recuva**.
+- There are two ways to enable a *Deep Scan* in **Recuva**; what are they?
+- Under what circumstances should you use the *Recuva Wizard* when scanning for deleted files?

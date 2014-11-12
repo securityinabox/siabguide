@@ -12,7 +12,7 @@ Alternatives:
 Comment:
 Required_reading:
 Group: Basic Usage
-Title: Security Configuration
+Title: Configuration
 Language: EN
 
 

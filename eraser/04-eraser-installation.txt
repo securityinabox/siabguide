@@ -1,0 +1,55 @@
+Object_type: Tool
+Tool: Eraser
+Platform: Microsoft Windows
+Need: Secure file deletion
+Website: http://eraser.heidi.ie/
+Download: https://securityinabox.org/sbox/programs/EraserSetup32.exe
+Version: 5.86a; Although you may find newer versions of Eraser on the developers' website, they are not included here, as they require the installation of the .Net Framework on your Microsoft Windows. Downloading the .Net Framework may take a very long for users with low bandwith
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [secure-delete](http://www.ghacks.net/2010/08/26/securely-delete-files-with-secure-delete/) (command line tools) for GNU Linux; secure-delete [integrated with a graphical file manager](http://techthrob.com/2010/07/07/adding-a-secure-delete-option-to-nautilus-file-manager-in-linux/) for GNU Linux; Finder menu Secure Empty Trash... on Mac OS; Disk Utility to securely erase entire disk or a free space on internal or external disks on Mac OS; [CCleaner](https://siabnext.ttc.io/en/ccleaner_main) for Microsoft Windows; [Freeraser](http://www.freeraser.com/) for Microsoft Windows; [DBAN - Darik's Boot And Nuke](http://www.dban.org/) for bulk or emergency data destruction
+Comment: read 03-eraser-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to destroy sensitive information](https://securityinabox.org/chapter-6)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install Eraser
+
+Installing **Eraser** is an easy and quick process. To begin installing **Eraser**, perform the following steps:
+
+As described in the How-to Booklet chapter [**6. Destroying Sensitive Information**](/chapter-6), **Eraser** wipes data from your hard disk by overwriting it with random information. The more times you overwrite the data, the less likely that it will be recovered.
+
+## Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-01.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-02.png) to activate the *InstallAware Wizard*; after some moments, the *Welcome to the InstallAware Wizard for Eraser* screen will appear.
+
+## Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-03.png) to activate the *License Agreement* screen, and then **click** checkbox to enable the *I accept the terms of the license agreement* option, and then **click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-03.png) again to activate the *Important Information* window.
+
+## Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-03.png) after reading the contents displayed in the scrolling window to activate the *Destination Folder* window and then **click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-03.png) again.
+
+## Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-03.png) to activate the following screen:
+
+![Select Program Folder](/sites/siabnext.ttc.io/files/media/eraser-win-04.png)
+
+*Figure 1: The Select Program Folder window*
+
+## Step 5
+
+**Check** the *Only for me (current user)* option to ensure that only you are permitted to use **Eraser**, and then **click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-03.png) to activate the *Completing the InstallAware Wizard for Eraser* window.
+
+## Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-03.png) and then **click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-05.png) to complete the installation process, and to run **Eraser** as follows:
+
+![Eraser main user interface](/sites/siabnext.ttc.io/files/media/eraser-win-06.png)
+
+*Figure 2: The Eraser main user interface*

@@ -1,0 +1,23 @@
+Object_type: Tool
+Tool: Recuva
+Platform: Microsoft Windows
+Need: Data recovery
+Website: https://www.piriform.com/recuva
+Download: https://www.piriform.com/recuva/builds
+Version: 1.3
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [R-Linux](http://www.r-tt.com/data_recovery_linux/) for GNU Linux; [TestDisk and PhotoRec](http://www.cgsecurity.org/) for Mac OS, Microsoft Windows and GNU Linux; [NTFS Undelete](http://ntfsundelete.com/) for Microsoft Windows; [Disk Digger](http://diskdigger.org/) for Microsoft Windows; [PCInspector File Recovery](http://www.pcinspector.de/Default.htm?language=1) for Microsoft Windows; [FileRestorePlus](http://undeleteplus.com/) for Microsoft Windows
+Comment:
+Required_reading: How-to Booklet chapter [5. How to recover from information loss](https://securityinabox.org/chapter-5)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+In situations where private or sensitive files may have been mistakenly deleted, **Recuva** can help you to scan for and restore some of them. As discussed in chapter [**6. How-to Destroy Sensitive Information**](/en/chapter-6), a file deleted using the standard **Windows** operating system *Delete* function, even after the *Recycle Bin* has been emptied, might still exist on the computer.
+
+However, there are circumstances under which **Recuva** cannot retrieve information. If you have permanently deleted or *wiped* any temporary files by running **CCleaner** with the *Secure file deletion (Slower)* option enabled, those files are virtually unrecoverable. **Recuva** cannot recover files after programs like **CCleaner** or **Eraser** have been used to wipe free disk space or if **Windows** itself has already overwritten any previously occupied space. **Recuva** also cannot recover damaged documents and files.
+
+**Recuva** can also be used to securely overwrite your private or sensitive data.

@@ -1,0 +1,19 @@
+Object_type: Tool
+Tool: Eraser
+Platform: Microsoft Windows
+Need: Secure file deletion
+Website: http://eraser.heidi.ie/
+Download: https://securityinabox.org/sbox/programs/EraserSetup32.exe
+Version: 5.86a; Although you may find newer versions of Eraser on the developers' website, they are not included here, as they require the installation of the .Net Framework on your Microsoft Windows. Downloading the .Net Framework may take a very long for users with low bandwith
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [secure-delete](http://www.ghacks.net/2010/08/26/securely-delete-files-with-secure-delete/) (command line tools) for GNU Linux; secure-delete [integrated with a graphical file manager](http://techthrob.com/2010/07/07/adding-a-secure-delete-option-to-nautilus-file-manager-in-linux/) for GNU Linux; Finder menu Secure Empty Trash... on Mac OS; Disk Utility to securely erase entire disk or a free space on internal or external disks on Mac OS; [CCleaner](https://siabnext.ttc.io/en/ccleaner_main) for Microsoft Windows; [Freeraser](http://www.freeraser.com/) for Microsoft Windows; [DBAN - Darik's Boot And Nuke](http://www.dban.org/) for bulk or emergency data destruction
+Comment: read 03-eraser-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to destroy sensitive information](https://securityinabox.org/chapter-6)
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**Eraser** is used to permanently delete sensitive data. It can also clean a digital storage device of all recoverable data.

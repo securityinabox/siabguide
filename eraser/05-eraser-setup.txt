@@ -1,0 +1,90 @@
+Object_type: Tool
+Tool: Eraser
+Platform: Microsoft Windows
+Need: Secure file deletion
+Website: http://eraser.heidi.ie/
+Download: https://securityinabox.org/sbox/programs/EraserSetup32.exe
+Version: 5.86a; Although you may find newer versions of Eraser on the developers' website, they are not included here, as they require the installation of the .Net Framework on your Microsoft Windows. Downloading the .Net Framework may take a very long for users with low bandwith
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [secure-delete](http://www.ghacks.net/2010/08/26/securely-delete-files-with-secure-delete/) (command line tools) for GNU Linux; secure-delete [integrated with a graphical file manager](http://techthrob.com/2010/07/07/adding-a-secure-delete-option-to-nautilus-file-manager-in-linux/) for GNU Linux; Finder menu Secure Empty Trash... on Mac OS; Disk Utility to securely erase entire disk or a free space on internal or external disks on Mac OS; [CCleaner](https://siabnext.ttc.io/en/ccleaner_main) for Microsoft Windows; [Freeraser](http://www.freeraser.com/) for Microsoft Windows; [DBAN - Darik's Boot And Nuke](http://www.dban.org/) for bulk or emergency data destruction
+Comment: read 03-eraser-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to destroy sensitive information](https://securityinabox.org/chapter-6)
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Configure Eraser
+
+**Note**: It is recommended that you overwrite the data at least three times.
+
+**Tip**: Each overwrite or *pass* takes time and therefore, the more passes you make, the longer the erasing process will take. This will be especially noticeable when erasing large files, or wiping free space.
+
+The number of passes can be set by accessing the *Preferences: Erasing* menu.
+
+## Step 1
+
+**Select > Edit > Preferences > Erasing...** as follows: 
+
+![Edit menu options](/sites/siabnext.ttc.io/files/media/eraser-win-07.png)
+
+*Figure 3: The Eraser [On-Demand] screen displaying the Edit menu options*
+
+*The Preferences: Erasing window appears as follows:*
+
+![Eraser Preferences: Erasing window](/sites/siabnext.ttc.io/files/media/eraser-win-08.png)
+
+*Figure 4: The Eraser Preferences: Erasing window*
+
+The *Preferences: Erasing* screen describes how the files are to be overwritten.
+
+*Description*: This column lists the name of the overwrite procedure.
+
+*Passes*: This column lists how many times the data will be overwritten.
+
+In this example, we will overwrite our data using the *Pseudorandom Data* method. By default, only one pass is made when using this option. However, for extra security we will increase the number of passes.
+
+## Step 2
+
+**Select** the *# 4 Pseudorandom Data* option as shown in *Figure 2*.
+
+## Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-09.png) to activate the *Passes* screen as follows:
+
+![Eraser Passes](/sites/siabnext.ttc.io/files/media/eraser-win-10.png)
+
+*Figure 3: The Eraser Passes screen*
+
+## Step 4
+
+**Set** the number of passes to between three and seven (remember the time/security trade-off).
+
+## Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-11.png) to return to the *Passes* screen.
+
+\# 4 Pseudorandom Data should now resemble the following:
+
+![Eraser Erase screen with item 4 selected](/sites/siabnext.ttc.io/files/media/eraser-win-12.png)
+
+*Figure 4: The Eraser Erase screen with pane showing item 4 selected*
+
+**Tip**: Make sure the check boxes labelled *Cluster Tip Area* and *Alternate Data Streams* are checked as follows (they are checked by default):
+
+![Eraser Cluster Tip Area and Alternate Data Streams in default mode](/sites/siabnext.ttc.io/files/media/eraser-win-13.png)
+
+*Figure 5: The Eraser Cluster Tip Area and Alternate Data Streams check boxes in default mode*
+
+
+- *Cluster Tip Area*: A computer hard disk is divided into small segments called 'clusters'. Usually, a file spans several clusters, and often a file will not completely fill the last cluster. The unused space on this last cluster is called the cluster tip area. This cluster tip area may contain sensitive information from the other file that was written over this cluster before and occupied more of the cluster. Information from a cluster tip may be readable by a data recovery specialist. So, **check** the *Cluster Tip Area* check box for greater security.
+- *Alternate Data Streams*: When a file is stored on your computer, it may come in different parts. For example, this text contains both text and images. These would be stored on your computer in different locations or 'streams'. So, **check** the *Alternate Data Streams* check box to ensure that all data associated with the file is deleted.
+
+## Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-11.png).
+
+You have now set the overwrite method for **Eraser** to wipe files. You should also set the same options for the *Unused Disk Space* feature that appears on the next tab in the *Preferences: Erasing* screen. However, you may set the number of passes to a *reasonable* figure -- taking into consideration that a free-space wipe will take around two hours per pass.
+
