@@ -1,0 +1,23 @@
+Object_type: Tool
+Tool: Cobian Backup
+Platform: Microsoft Windows
+Need: Backup
+Website: http://www.cobiansoft.com/cobianbackup.htm
+Download: http://files.cobiansoft.com/programz/cbSetup10.exe
+Version: 10
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Freebyte Backup](http://www.freebyte.com/fbbackup/) for Microsoft Windows; [Unison File Synchronizer](http://www.cis.upenn.edu/~bcpierce/unison/) for Microsoft Windows, Mac OS, and GNU/Linux; [Allway Sync](http://allwaysync.com/) for Microsoft Windows; [FreeFileSync](http://freefilesync.sourceforge.net/) for GNU/Linux and Microsoft Windows; [Time Machine](https://secure.wikimedia.org/wikipedia/en/wiki/Time_Machine_%28Mac_OS%29) included with Mac OS (version 10.5 and up)
+Comment:
+Required_reading: How-to Booklet chapter [5. How to Recover from Information Loss](https://securityinabox.org/chapter-5)
+Group: Training 
+Title: Review questions
+Language: EN
+
+
+- What is the difference between an incremental and a differential backup?
+- What is the best way to secure your backup?
+- How can you fit a 1GB backup onto a CD disk?
+- How can you restore just one file from a backup?
+- Is it possible to create an automated task for your computer to update the weekly backup every Friday afternoon? How do you do it? 

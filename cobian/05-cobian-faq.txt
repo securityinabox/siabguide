@@ -1,0 +1,41 @@
+Object_type: Tool
+Tool: Cobian Backup
+Platform: Microsoft Windows
+Need: Backup
+Website: http://www.cobiansoft.com/cobianbackup.htm
+Download: http://files.cobiansoft.com/programz/cbSetup10.exe
+Version: 10
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Freebyte Backup](http://www.freebyte.com/fbbackup/) for Microsoft Windows; [Unison File Synchronizer](http://www.cis.upenn.edu/~bcpierce/unison/) for Microsoft Windows, Mac OS, and GNU/Linux; [Allway Sync](http://allwaysync.com/) for Microsoft Windows; [FreeFileSync](http://freefilesync.sourceforge.net/) for GNU/Linux and Microsoft Windows; [Time Machine](https://secure.wikimedia.org/wikipedia/en/wiki/Time_Machine_%28Mac_OS%29) included with Mac OS (version 10.5 and up)
+Comment:
+Required_reading: How-to Booklet chapter [5. How to Recover from Information Loss](https://securityinabox.org/chapter-5)
+Group: FAQ 
+Title: FAQ
+Language: EN
+
+
+***Q***: If I have my archive of files on a DVD, can I decompress and decrypt my files on a computer other than my own? What about using them in an Internet cafe?
+
+***A***: You can restore your archive, whether it is encrypted or compressed, on any computer running the **Cobian Backup** program.
+
+***Q***: I have a real problem with lack of computer space. I'm not sure how much space I can save by compressing my files. Can you give me some simple examples?
+
+***A***: Most space on your computer is usually taken up by photos, video and audio files. You can see how much room they take up on your computer by right-clicking on the folder that stores them and choosing properties. If you do not have much space left on your computer, consider creating an archive of these files, and then removing the originals from your computer.
+
+***Q***: I'm always being asked to update programs I get from the Internet. If a new version of **Cobian Backup** comes along and I download it, I'm worried that I'll lose access to my compressed and encrypted files. Should I download updates?
+
+***A***: You should always download the latest updates as they often provide security and operational upgrades. **Cobian Backup** will continue to work well on your computer, and any new version will always be compatible with any backup you made using an older one.
+
+***Q***: Won't the fact that I have this program on my computer make it obvious that I have encrypted material?
+
+***A***: You do not need to keep an encrypted backup on your computer. **Cobian Backup** is not a well-known program for data encryption, as that is not its main feature.
+
+***Q***: Is it better to use this program or* **TrueCrypt** *for encrypting files?
+
+***A***: Its preferable that you use **TrueCrypt** to encrypt files on your computer. The encryption mechanism is stronger and you have the possibility of adding and deleting files from the encrypted volume. You can also backup a **TrueCrypt** volume using **Cobian Backup**.
+
+***Q***: Are there any extra things I need to know if I implement the 'Backup to ftp server' option?
+
+***A***: You need to know whether your provider offers the **FTP** service and the necessary login details. It is preferable that you use the secure version of **FTP** known as **SFTP**, if this is offered by your provider.

@@ -1,0 +1,21 @@
+Object_type: Tool
+Tool: Cobian Backup
+Platform: Microsoft Windows
+Need: Backup
+Website: http://www.cobiansoft.com/cobianbackup.htm
+Download: http://files.cobiansoft.com/programz/cbSetup10.exe
+Version: 10
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Freebyte Backup](http://www.freebyte.com/fbbackup/) for Microsoft Windows; [Unison File Synchronizer](http://www.cis.upenn.edu/~bcpierce/unison/) for Microsoft Windows, Mac OS, and GNU/Linux; [Allway Sync](http://allwaysync.com/) for Microsoft Windows; [FreeFileSync](http://freefilesync.sourceforge.net/) for GNU/Linux and Microsoft Windows; [Time Machine](https://secure.wikimedia.org/wikipedia/en/wiki/Time_Machine_%28Mac_OS%29) included with Mac OS (version 10.5 and up)
+Comment:
+Required_reading: How-to Booklet chapter [5. How to Recover from Information Loss](https://securityinabox.org/chapter-5)
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**Cobian Backup** is used for creating archives of your digital files. They can be stored on your computer, office network, removable devices or Internet servers.
+
+**Cobian Backup** is used to archive, (or to make a backup copy) of your files and directories. Backups can be stored in other directories or drives on your computer, other computers on the office network, or on removable devices (CDs, DVDs and USB memory sticks). **Cobian Backup** lets you archive your directories and files on a regular basis. It works silently in the background on your system (that is, in the system tray), checking your schedule and executing the backup process when necessary. **Cobian Backup** can also compress and encrypt files as it generates the backup file.

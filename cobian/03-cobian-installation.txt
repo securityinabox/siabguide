@@ -1,0 +1,69 @@
+Object_type: Tool
+Tool: Cobian Backup
+Platform: Microsoft Windows
+Need: Backup
+Website: http://www.cobiansoft.com/cobianbackup.htm
+Download: http://files.cobiansoft.com/programz/cbSetup10.exe
+Version: 10
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Freebyte Backup](http://www.freebyte.com/fbbackup/) for Microsoft Windows; [Unison File Synchronizer](http://www.cis.upenn.edu/~bcpierce/unison/) for Microsoft Windows, Mac OS, and GNU/Linux; [Allway Sync](http://allwaysync.com/) for Microsoft Windows; [FreeFileSync](http://freefilesync.sourceforge.net/) for GNU/Linux and Microsoft Windows; [Time Machine](https://secure.wikimedia.org/wikipedia/en/wiki/Time_Machine_%28Mac_OS%29) included with Mac OS (version 10.5 and up)
+Comment:
+Required_reading: How-to Booklet chapter [5. How to Recover from Information Loss](https://securityinabox.org/chapter-5)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install Cobian Backup
+
+**Installation Note**: Before you begin the installation process, verify that you have both the latest versions of the **Microsoft Windows Installer** and the **Microsoft.NET Framework**. 
+
+Installing **Cobian Backup** is a relatively easy and quick procedure. To begin installing **Cobian Backup**, perform the following steps:
+
+## Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-01.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-02.png) to activate the light blue *Extracting the resource* progress status bar, followed a few moments later by the following screen:
+
+![Please select a language](/sites/siabnext.ttc.io/files/media/cobian-win-03.png)
+
+*Figure 1: The Cobian Setup Please select a language window*
+
+## Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) to activate the *Please read and accept the license agreement* screen; **check** the *I accept* option, and then **click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) again to activate the following screen:
+
+![Select an installation directory](/sites/siabnext.ttc.io/files/media/cobian-win-05.png)
+
+*Figure 2: The Select an installation directory window*
+
+## Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) to activate the following screen:
+
+![Installation type and Service options](/sites/siabnext.ttc.io/files/media/cobian-win-06.png)
+
+*Figure 3: The Installation type and Service options window*
+
+## Step 4
+
+**Check** the *Use Local System account* option in the *Service options* pane, so that your own resembles *Figure 3* above. 
+
+**Important**: This option ensures that **Cobian Backup** will be running silently in the background all the time, so that your backups will occur as scheduled.
+
+## Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) to activate the following message prompt:
+
+![Cobian Backup 10 message prompt](/sites/siabnext.ttc.io/files/media/cobian-win-07.png)
+
+*Figure 4: The Cobian Backup 10 message prompt* 
+
+## Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-08.png) to activate the next installation screen, and then **click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) to continue with the installation process.
+
+## Step 7
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-09.png) to complete the installation process. After the installation process has been completed, the **Cobian Backup** icon will appear in the **Windows System Tray** as follows: ![](/sites/siabnext.ttc.io/files/media/cobian-win-10.png)
