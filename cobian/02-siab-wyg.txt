@@ -1,0 +1,19 @@
+Object_type: Tool/Issue
+Tool:
+Platform: 
+Need: 
+Website: 
+Download: 
+Version: 
+License: 
+System_requirements:
+Admin: true/false
+Alternatives: 
+Comment: This file should only be used in connection with the whole hands-on guide
+Required_reading:
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+
+

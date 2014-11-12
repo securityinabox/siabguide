@@ -61,6 +61,17 @@ $ git pull
 
 In this way you will update your repository and will make sure that there are no conflicts between your changes and other former changes by others.
 
+Remember that when you add or remove new files you need to tell git to add or remove them from the repository:
+
+* After you have added a new file, digit the command:
+	$ git add filename
+* After you have removed a file, digit the command:
+	$ git rm filename
+* If you just want to rename a file, you can do it from git by typing:
+	$ git mv old-filename new-filename
+* Likewise, if you want to move a file to a different directory, you can type:
+	$ git rm filename new-directory
+
 When you are done with you work, you can share it with everybody else through these simple commands:
 
 $ git commit -a -m "Your description of what you did"
