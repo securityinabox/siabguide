@@ -1,0 +1,19 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Data erasure
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment: read 03-ccleaner-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**CCleaner** is an easy-to-use and efficient program, essential to protecting your digital privacy and security. By permanently deleting (or *wiping*) your browser history, cookies, other temporary files created during your work session, as well as free disk space, **CCleaner** limits the ways in which hostile or malicious parties can monitor your work habits and preferences or infect your system.

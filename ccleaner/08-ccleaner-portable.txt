@@ -1,0 +1,79 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Data erasure
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment: read 03-ccleaner-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: Basic Usage 
+Title: Portable 
+Language: EN
+
+
+# Portable CCleaner
+
+## Differences between the Installed and Portable versions of CCleaner
+
+Given that portable tools are *not* installed on a local computer, their existence and use may remain undetected. However, keep in mind that your external device or USB memory stick, and portable tools are only as safe as the computer you are using, and may risk being exposed to adware, malware, spyware and viruses. 
+
+There are no other differences between **Portable CCleaner**, and this version can be installed on a local computer as well.
+
+## How to Download and Extract Portable CCleaner
+
+To begin downloading and extracting **Portable CCleaner**, perform the following steps:
+
+### Step 1
+
+**Click** [**http://www.piriform.com/ccleaner/download/portable**](http://www.piriform.com/ccleaner/download/portable) to go to the appropriate **Portable CCleaner** download site, and begin automatically downloading **Portable CCleaner**.
+
+### Step 2
+
+**Navigate** to the designated download folder, and then **right click** ![](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-01.png) to activate the **Windows** pop-up menu; **select** the *Extract All...* item as shown in *Figure 1* below:
+
+![Windows pop-up menu with Extract All... item selected](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-02.png)
+
+*Figure 1: The Windows pop-up menu with the Extract All... item selected*
+
+**Note**: **Step 2** will automatically activate the *Extract Compressed (Zipped) Folders* window:
+
+![Select a Destination](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-04.png)
+
+*Figure 2: The Select a Destination window*
+
+### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-05.png) to activate the *Select a Destination* navigation window; **navigate**  to an external device or USB memory stick, and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-06.png) to create the new **Portable CCleaner** folder in which to extract the installation file.
+
+### Step 4
+
+**Type** in a name for the new folder in the document tree as shown in *Figure 3* below: 
+
+![Select a Destination navigation window](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-07.png)
+
+*Figure 3: The Select a Destination navigation window (resized)*
+
+**Note**: Choose a different name for the **Portable CCleaner** folder, so it may appear less obvious that you are using it. 
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-08.png) to close the *Select a Destination* navigation window and return to the *Select a Destination* window, then **click** ![](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-03.png) to begin extracting its contents to the newly created folder.
+
+### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-09.png) to automatically verify that **Portable CCleaner** has been successfully extracted to the destination folder, as shown in *Figure 4* below:
+
+![CCleaner program extracted to destination folder on an external drive](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-10.png)
+
+*Figure 4: The CCleaner program extracted to the destination folder on a designated external hard drive (resized)*
+
+### Step 7
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/ccleanerportable-win-11.png) to launch **Portable CCleaner**.
+
+Please refer to the [**CCleaner**](/en/ccleaner_main) chapter to begin configuring and using it.

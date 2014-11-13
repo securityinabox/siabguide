@@ -1,0 +1,55 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Data erasure
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment: read 03-ccleaner-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Configure CCleaner
+
+Before you begin using **CCleaner**, it should be configured to securely delete all temporary files. 
+
+To configure **CCleaner**, perform the following steps:
+
+## Step 1
+
+Either **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-13.png) or **select Start > Programs > CCleaner** to activate the *Piriform CCleaner* console.
+
+## Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-14.png) to activate the following screen:
+
+![Options tab with default About pane](/sites/siabnext.ttc.io/files/media/ccleaner-win-15.png)
+
+*Figure 6: The Options tab displaying the default About pane*
+
+## Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-16.png) to activate the *Settings* pane. The *Settings* pane lets you choose the language you are most comfortable working in, and determine how **CCleaner** will delete temporary files and wipe drives. 
+
+**Note**: The *Secure Deletion* section appears with the *Normal file deletion* option enabled. 
+
+## Step 4
+
+**Click** the *Secure file deletion (Slower)* option to enable the drop-down list. 
+
+## Step 5
+
+**Expand** the *Secure file deletion (Slower)* drop-down list and **select** the *Advanced Overwrite (3 passes)* item to resemble the following screen: 
+
+![Settings pane with Secure Deletion options](/sites/siabnext.ttc.io/files/media/ccleaner-win-17.png)
+
+*Figure 5: The Settings pane displaying the Secure Deletion options*
+
+After you have set this option, **CCleaner** will overwrite the files and folders you have selected for deletion with random data, effectively wiping them from your hard disk. The *passes* in the *Secure deletion* drop-down list, refer to the number of times your data will be overwritten by random data. The greater the number of passes selected, the more times your document, file or folder will be overwritten with random data. This reduces the recoverability of that document, file or folder, but increases the length of time required by the wiping process.

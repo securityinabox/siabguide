@@ -1,0 +1,33 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Data erasure
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment: read 03-ccleaner-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: FAQ 
+Title: FAQ
+Language: EN
+
+
+***Q***: If I uninstall CCleaner, will material deleted previously remain that way?***
+
+***A***: Yes. If you have configured and run **CCleaner** *properly, deleted files will stay deleted - permanently.
+
+***Q***: If I copy CCleaner to a USB memory stick, can I use it on a computer in an Internet café to erase traces of my work there? Is there any reason I cannot use it this way?
+
+***A***: Yes! There is a [portable version of **CCleaner**](/en/ccleaner_portable). If the Internet café you are working at lets you run programs from a USB memory stick, then yes, you can use the portable version of **CCleaner** to erase traces of your having worked there. However, do keep in mind that you could be monitored at the Internet café. Also, you may run the risk of infection by connecting your USB memory stick to the computer at the Internet café.
+
+***Q***: If I only use one pass of CCleaner, will it be possible for somebody to recover my data? What about if I use 7 passes?
+
+***A***: The more passes used for wiping data, the less chance anyone has of recovering that data. However, increasing the number of passes used in wiping data also increases the length of the wiping process.
+
+***Q***: Is cleaning the Windows Registry sufficient for removing all obvious signs of my having temporarily installed and used certain programs on my computer?
+
+***A***: Ideally, you should delete all the files related to this program, use **CCleaner** to delete temporary files, clean the **Windows Registry** and wipe a free space on the disk to remove all traces of software and the tasks you performed with it.

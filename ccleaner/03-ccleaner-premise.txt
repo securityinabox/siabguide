@@ -1,0 +1,31 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Sensitive information deletion
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment:
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+The default settings on your computer system or an Internet browser automatically collect and create a data trail that a knowledgeable hostile or malicious party can follow. Every time you use an Internet browser or word processor, or program, temporary data and files are generated and stored on your computer system. It could also generate lists of recently viewed documents or web pages. For example, whenever you type a web address into your Internet browser, a list of those addresses beginning with that/those letter(s) may be displayed as follows:
+
+![browser address bar with different URLs](/sites/siabnext.ttc.io/files/media/ccleaner-win-00.png)
+
+*Figure 1: An Internet browser address bar displaying different URLs.*
+
+Although browser histories may be convenient, they also let someone identify the web sites you have visited. Moreover, your recent activities may be exposed by temporary data collected from images that appear on those web sites, including email messages or information typed into Internet forms. 
+
+To remove temporary data created every time you use a program, you would have to open each individual program directory, identify and then manually delete its temporary program files from there. **CCleaner** simply displays a list of programs and lets you choose the program(s) from which all temporary files should be deleted. 
+
+**Important**: Although **CCleaner** only erases temporary files, and not the actual documents saved on your computer, it is **strongly recommended** that you keep an up-to-date backup of your documents (please refer to the **How-to Booklet** chapter [**5. How to Recover from Information Loss**](/en/chapter-5) for more information on how to perform a backup). 
+
+After running **CCleaner** you may lose your all browser and recent document histories, and saved passwords. However, this is *precisely* the point of this tool - to minimize the different ways of infecting or monitoring your computer system.

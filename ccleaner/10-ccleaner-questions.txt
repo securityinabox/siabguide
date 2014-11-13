@@ -1,0 +1,23 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Data erasure
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment: read 03-ccleaner-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: Training 
+Title: Review questions
+Language: EN
+
+
+- What kind of information does **CCleaner** remove from your computer?
+- How does it do this?
+- What difference does the number of passes you choose make when you securely overwrite your data?
+- What is the **Windows Registry**, and why are you recommended to clean it?
+- What should you do before you clean the **Windows Registry**?

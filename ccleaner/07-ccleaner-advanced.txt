@@ -1,0 +1,103 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Data erasure
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment: read 03-ccleaner-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: Advanced Usage 
+Title: Advanced Howto
+Language: EN
+
+
+# Advanced features of CCleaner
+
+**CCleaner's** *Uninstall* and *Startup* features could improve the overall efficiency of your system. They are described below, along with the steps required to permanently delete (or *wipe*) free space on a specified drive.
+
+## How to Uninstall Programs Using CCleaner
+
+**Important**: Make sure the program to be deleted or uninstalled is not essential to the proper functioning of your computer system before you begin doing so.
+
+By deleting unused or unwanted previously installed software before running **CCleaner**, you may also remove their temporary files and folders. This may reduce the number of temporary files and folders to be deleted, as well as the length of time for the cleaning process.  
+
+The **CCleaner** *Uninstall* feature is the equivalent of the **Uninstall a program** feature found in **Control Panel**. The *Uninstall* feature lists the programs more clearly and quickly.
+
+To begin uninstalling obsolete programs, perform the following steps:
+
+### Step 1
+
+Either **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-13.png) or **select Start > Programs > CCleaner** to activate the *Piriform CCleaner* console.
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-50.png) and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-51.png) to activate the following screen:
+
+![Tools option displaying Uninstall pane](/sites/siabnext.ttc.io/files/media/ccleaner-win-52.png)
+
+*Figure 1: The Tools option displaying the Uninstall pane*
+
+**Note**: The buttons on the right of the *Programs to Remove* list are only enabled after a program has been selected for removal.
+
+### Step 3
+
+**Select** a program from the *Programs to Remove* list, and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-53.png) to uninstall the selected program.
+
+**Tip**: Advanced or experienced users will find the *Rename* and *Delete* features useful in keeping the existence of certain software private. Either feature ensures only you know about the existence of this program, keeping it safe from hostile or malicious parties which may list installed programs.
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-54.png) to rename that program. Alternatively, **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-55.png) to delete a program from that list, but *without* actually uninstalling it.
+
+## How to Disable Auto-Start Programs in CCleaner
+
+An auto-start program is configured to automatically start itself whenever you turn your computer on. Auto-start programs may start making demands on finite system resources, and slow down your computer at start-up time. 
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-50.png) and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-56.png) to activate the following screen:
+
+![Tools option with Startup pane](/sites/siabnext.ttc.io/files/media/ccleaner-win-57.png) 
+
+*Figure 2: The Tools option displaying the Startup pane*
+
+### Step 3
+
+**Select** a program from those listed in the *Startup* pane and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-58.png) to disable the program so it does not automatically start running when you turn on your computer.
+
+## How to Wipe Free Disk Space Using CCleaner
+
+In the **Windows** operating system, deleting a file merely removes a reference to that file, but may not remove its actual data. Although the area of that drive will eventually be overwritten with new files over time, a knowledgeable individual could rebuild either all or sections of that file. However, you can prevent this from happening by wiping the free space on your hard disk. **CCleaner** also lets you wipe the **Master File Table**.
+
+The **Master File Table (MFT)** is an index of all file names, their locations, and other information. When **Microsoft Windows** deletes a file it only marks the index entry for that file as deleted for reasons of efficiency. The **MFT** entry for the file and the content of the file continue to reside on the hard disk.
+
+**Note**: Performing a disk and **Master File Table** wipe consumes a considerable amount of time, and the amount of time required depends on the number of passes set.
+
+To set the drive you would like to wipe, perform the following steps:
+
+### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-61.png) and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-62.png) to activate the *Drive Wiper* pane. 
+
+### Step 2
+
+**Click** the *Wipe* ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-04.png) to activate its drop-down list, and then **select**  either the *Free Space* or the *Entire drive (All data will be erased)* item, and then **select** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-59.png) from the *Security* drop-down list.
+
+**Warning**: Only select the *Entire drive (All data will be erased)* item if you are *completely* certain that you want your documents, files and folders *and* free space erased.
+
+### Step 3
+
+**Click** the check box associated with the drive to be erased, and enable the ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-64.png); your window should now resemble the following:
+
+![](/sites/siabnext.ttc.io/files/media/ccleaner-win-65.png)
+
+*Figure 3: The Drive Wiper pane with the relevant options enabled*
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-64.png) to begin wiping your selected drive(s).

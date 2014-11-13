@@ -1,0 +1,200 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Data erasure
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment: read 03-ccleaner-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Delete temporary files
+
+In this section, we will learn how to delete all the temporary files
+created by **Microsoft Windows** and most applications that you use on your computer.
+
+### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-13.png) or **select  Start > Programs > CCleaner** to activate the **CCleaner** console. 
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-18.png) to activate the following screen:
+
+![CCleaner console with Cleaner pane](/sites/siabnext.ttc.io/files/media/ccleaner-win-19.png) 
+
+*Figure 1: The CCleaner console displaying the Cleaner pane*
+
+The *Cleaner* window is divided into two panes, the left pane displaying the *Windows* and *Application* tabs, and the right pane featuring an empty space to display information or results from a given cleaning operation. The *Analyze* and *Run Cleaner* buttons are located beneath that space.
+
+![Windows and Applications tabs with all options checked](/sites/siabnext.ttc.io/files/media/ccleaner-win-20.png) 
+
+*Figure 2: The Windows and Applications tabs with all options checked*
+
+**Note**: By using the following steps, you will delete temporary files for the items you have checked in both the *Windows* and *Applications* tabs. Given that different users have different programs installed on their computer, your own list of applications may vary somewhat from the example in *Figure 2* above.
+
+### Step 3
+
+**Scroll** down the *Windows* and *Applications* tabs and **check** all the options in the *Advanced* section too. As you check some of the options, a warning confirmation dialog box appears, explaining what each option will affect:
+
+![Warning confirmation dialog box](/sites/siabnext.ttc.io/files/media/ccleaner-win-21.png)
+
+*Figure 3: An example of a Warning confirmation dialog box*
+
+**Warning**: By checking the *Wipe Free Space* option, you will significantly increase the amount of time required for the cleaning process; as such, ensure you have at least an hour or more for this. 
+
+**Note**: **Check** all the options in the *Windows* and *Applications* tabs to enable a full and thorough cleaning of the temporary files. However, it is essential that you understand what kind of configurations and settings are being deleted. **Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-22.png) to close each message and continue with the temporary file deletion process.
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-23.png) to generate and view a list of the different temporary files available for deletion.
+
+**Tip**: Close all other programs before you begin the cleaning process. If you leave them open, **CCleaner** may not remove all the temporary files associated with those programs, and you may receive pop-up notices resembling *Figure 4* below.
+
+![notice to close Firefox](/sites/siabnext.ttc.io/files/media/ccleaner-win-24.png)
+
+*Figure 4: An example of a notice to close Firefox/Mozilla* 
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-25.png) to continue listing the files for deletion.
+
+![list of temporary files for deletion](/sites/siabnext.ttc.io/files/media/ccleaner-win-26.png)
+
+*Figure 5: An example of a list of temporary files for deletion*
+
+**Note**: **CCleaner** only deletes the temporary files generated whenever you use an application – and *not* the application itself. In *Figure 5* for example, the *Applications – Office 2003* program suite remains installed on the computer, but its temporary files have been deleted. However, to use **CCleaner** to uninstall a program, please refer to [**Advanced Options, FAQ and Review**](/en/ccleaner_faq), section **5.1 How to Uninstall Programs Using CCleaner**.
+
+### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-27.png) activate the following screen: 
+
+![Permanent file deletion confirmation prompt](/sites/siabnext.ttc.io/files/media/ccleaner-win-28.png)
+
+*Figure 6: Permanent file deletion confirmation prompt*
+
+### Step 7
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-22.png) to delete these temporary files as follows; after the deletion has been completed, the results displayed may resemble the following screen:
+
+![file deletion results](/sites/siabnext.ttc.io/files/media/ccleaner-win-29.png)
+
+*Figure 7: The file deletion results*
+
+You have now successfully deleted your temporary files from both the *Windows* and *Applications* tabs using **CCleaner**.
+
+# Clean the Windows Registry
+
+**CCleaner** also lets you clean the **Windows Registry**, a database which stores configuration information, hardware and software settings on your system. Every time you alter system configuration information, install software or perform other routine tasks, these changes are reflected and stored in the **Windows Registry**. 
+
+Over time, however, the **Windows Registry** accumulates outdated configuration information and settings, including traces of obsolete programs. The **CCleaner** *Registry* option lets you scan and remove such information, improving the overall function and speed of your system, as well as protecting your digital privacy and security.  
+
+**Tip**: A scan of the **Windows Registry** should be performed on a weekly or monthly basis.
+
+## Clean the Windows Registry Using CCleaner
+
+### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-30.png) to activate the following screen:
+
+![CCleaner user interface in Registry mode](/sites/siabnext.ttc.io/files/media/ccleaner-win-31.png)
+
+*Figure 1: The CCleaner user interface in Registry mode*
+
+The **CCleaner** *Registry* window is divided into a *Registry Cleaner* list, and a pane used to display information about any problems identified.
+
+### Step 2
+
+**Check** all the items in the *Registry Cleaner* list (as shown in *Figure 1*), and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-32.png) to begin scanning for registry-related problems to be fixed; after some time, your results may resemble the following:
+
+![results pane with a list of problems](/sites/siabnext.ttc.io/files/media/ccleaner-win-33.png)
+
+*Figure 2: The results pane displaying a list of problems to be fixed* 
+
+As a precautionary measure before you begin fixing the **Windows Registry**, you will be prompted to save a backup file of your registry. If a problem occurs after the **Windows Registry** has been cleaned, you may restore the **Windows Registry** to its original state using this backup file.
+
+### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-34.png) to activate the following confirmation dialog box as follows:
+
+![confirmation dialog box](/sites/siabnext.ttc.io/files/media/ccleaner-win-35.png)
+
+*Figure 3: The confirmation dialog box*
+
+**Tip**: If you forget where you have stored your backup registry file, simply perform a search for a *.reg* file extension. 
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-36.png) to create a backup of your registry, and activate the following screen:
+
+![Save As location browser](/sites/siabnext.ttc.io/files/media/ccleaner-win-37.png)
+
+*Figure 4: The Save As location browser*
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-38.png) after you have chosen a location for your backup file, to activate the following dialog box:
+
+![Fix Issue/Fix All Selected Issues](/sites/siabnext.ttc.io/files/media/ccleaner-win-39.png)
+
+*Figure 5: The Fix Issue/Fix All Selected Issues dialog box*
+
+**Note**: Advanced or expert level users will appreciate the ability to fix some problems and ignore others, depending on their requirements. Average users and beginners are recommended to simply fix all the selected issues.
+
+### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-40.png) or ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-41.png) to view each problem, and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-42.png) to fix only those you would like to.
+
+### Step 7
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-43.png) to fix *all* the selected issues, and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-44.png) to complete the cleaning process.
+
+**Tip**: Repeat ### Steps 2** to **7** until you no longer see any problems to be fixed.
+
+The **Windows Registry** has now been successfully cleaned.
+
+## Recover a Windows Registry Backup File
+
+If you suspect that cleaning the **Windows Registry** has caused a problem with the functioning of your system, the registry backup file you created in ### Steps 3** to **5** in section **4.1** can be used to restore the original registry and reduce interference with your system.
+
+To restore the original registry, perform the following steps:
+
+### Step 1
+
+**Select Start > Run** to activate the *Run* window, and then **type** in *regedit* as follows:
+
+![Run window](/sites/siabnext.ttc.io/files/media/ccleaner-win-45.png)
+
+*Figure 6: The Run window*
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-22.png) to activate the following screen:
+
+![Registry Editor](/sites/siabnext.ttc.io/files/media/ccleaner-win-46.png)
+
+*Figure 7: The Registry Editor*
+
+### Step 3
+
+**Select File > Import** from the *Registry Editor* menu bar to activate the *Import Registry File* screen, and then **select** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-47.png).
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-48.png) to activate the following confirmation dialog box:
+
+![registry backup file has been restored](/sites/siabnext.ttc.io/files/media/ccleaner-win-49.png)
+
+*Figure 8: A Registry Editor dialog box confirming the registry backup file has been restored*
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-22.png) to complete the restoration of the registry backup file.

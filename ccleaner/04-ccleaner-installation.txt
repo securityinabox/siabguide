@@ -1,0 +1,66 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Data erasure
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment: read 03-ccleaner-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install CCleaner
+
+As described in detail in the **How-to Booklet** chapter [**6. How to Destroy Sensitive Information**](/chapter-6), the **Microsoft Windows** standard file deletion methods do not erase the actual data from the disk (even when you have emptied the *Recycle Bin*). This also applies to temporary files. To delete them permanently (that is, to *wipe* them) from the hard disk, the files must be overwritten with random data. **CCleaner** must be configured to overwrite any deleted files in order to securely delete them, as it will not do so in default mode. **CCleaner** can also securely delete old information by wiping any free disk space  (please refer to section **5.3 How to Wipe Free Disk Space Using CCleaner**).
+
+## Install CCleaner
+
+Installing **CCleaner** is a relatively easy and quick procedure. To begin installing **CCleaner**, perform the following steps:
+
+### Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-01.png) to begin the installation process. The *Warning* dialog box may appear. If it does, **click** 
+![](/sites/siabnext.ttc.io/files/media/ccleaner-win-25.png) to activate the following screen:
+
+![Welcome to the CCleaner v4.03 Setup window](/sites/siabnext.ttc.io/files/media/ccleaner-win-03.png)
+
+*Figure 1: Welcome to the CCleaner v4.03 Setup window*
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-05.png) to activate the *Install Options - Select any additional options* window, and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-05.png) again to activate the following screen:
+
+![untitled Install Google Chrome as my default browser window](/sites/siabnext.ttc.io/files/media/ccleaner-win-07.png)
+
+*Figure 2: The untitled Install Google Chrome as my default browser window*
+
+### Step 3
+
+**Click** to disable the *Install Google Chrome as my default browser* option as shown in *Figure 2* above, to prevent it from automatically installing itself on your computer. Note, that this screen may not appear in  during your installation.
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-08.png) to activate the *Installing* screen, displaying its installation progress status bar.
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-09.png) to complete installing **CCleaner**, and activate the following pop-up message:
+
+![CCleaner Intelligent Cookie Scan pop-up message](/sites/siabnext.ttc.io/files/media/ccleaner-win-10.png)
+
+*Figure 3: The CCleaner Intelligent Cookie Scan pop-up message*
+
+### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-11.png) to avoid storing cookies permanently on your computer, and activate the **CCleaner** main console.
+
+![Piriform CCleaner main console](/sites/siabnext.ttc.io/files/media/ccleaner-win-12.png)
+
+*Figure 4: The Piriform CCleaner main console*

@@ -1,0 +1,22 @@
+Object_type: Tool
+Tool: CCleaner
+Platform: Microsoft Windows 
+Need: Data erasure
+Website: https://www.piriform.com/ccleaner
+Download: https://www.piriform.com/ccleaner/builds
+Version: 4.16
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
+Comment: This file should only be used in connection with the whole hands-on guide; read 03-ccleaner-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+
+* The ability to permanently delete traces of your activities and temporary files stored on your computer.
+* The ability to wipe the free space on disks connected to your computer
+* The ability to clean up the **Windows Registry**
+* The ability to control what programs are run when your computer starts
