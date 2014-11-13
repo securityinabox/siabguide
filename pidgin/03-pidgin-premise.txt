@@ -1,0 +1,36 @@
+Object_type: Tool
+Tool: Pidgin with OTR
+Platform: Microsoft Windows
+Need: Secure Instant Messaging
+Website: https://www.pidgin.im/
+Download: https://www.pidgin.im/download/windows/
+Version: 2.10.9 (OTR 4.0.0-1)
+License: Free/Open Source Software
+System_requirements: Microsoft Windows; GNU/Linux
+Admin: false
+Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
+Comment: read 03-pidgin-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+Before you can start using **Pidgin** you must have an existing **IM** account, after which you will register that account to **Pidgin**. For instance, if you have an **Google Account**, you can use their **IM** service **GoogleTalk** with **Pidgin**. The log-in details of your existing **IM** account are used to register and access your account through **Pidgin**. 
+
+**Note**: All users are encouraged to learn as much as possible about the privacy and security policies of their **Instant Messaging account provider**. 
+
+**Pidgin** supports the following **IM** services: [**AIM**](http://dashboard.aim.com/aim), [**Bonjour**](http://www.apple.com/support/bonjour/), [**Gadu-Gadu**](http://komunikator.gadu-gadu.pl/), [**Google Talk**](http://www.google.com/talk/), **Groupwise**, [**ICQ**](http://www.icq.com), **IRC**, [**MSN**](http://www.msn.com/), [**MXit**](http://www.mxit.com/), [**MySpaceIM**](http://www.myspace.com/guide/im), [**SILC**](http://silcnet.org/), **SIMPLE**, [**Sametime**](http://www.ibm.com/developerworks/downloads/ls/lst/), [**Yahoo!**](http://messenger.yahoo.com/), **Zephyr** and any **IM** clients running the **XMPP** messaging protocol.
+
+**Pidgin** does not permit communication between different **IM** services. For instance, if you are using **Pidgin** to access your **Google Talk** account, you will not be able to chat with a friend using an **ICQ** account. 
+
+However, **Pidgin** can be configured to manage multiple accounts based on any of the supported messaging protocols. That is, you may simultaneously use both **Gmail** and **ICQ** accounts, and chat with correspondents using *either* of those specific services (which are supported by **Pidgin**). 
+
+**Off-the-Record** (**OTR**) messaging is a plugin developed specifically for **Pidgin**. It offers the following privacy and security features: 
+
+- **Authentication**: You are assured the correspondent is who you think it is.
+- **Deniability**: After the chat session is finished, messages cannot be identified as originating from either your correspondent or you.
+- **Encryption**: No one else can access and read your instant messages.
+- **Perfect Forward Security**: If third party obtains your private keys, no previous conversations are compromised.
+
+**Note**: **Pidgin** must be installed before the **OTR** plugin.

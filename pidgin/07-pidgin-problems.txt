@@ -1,0 +1,67 @@
+Object_type: Tool
+Tool: Pidgin with OTR
+Platform: Microsoft Windows
+Need: Secure Instant Messaging
+Website: https://www.pidgin.im/
+Download: https://www.pidgin.im/download/windows/
+Version: 2.10.9 (OTR 4.0.0-1)
+License: Free/Open Source Software
+System_requirements: Microsoft Windows; GNU/Linux
+Admin: false
+Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
+Comment: read 03-pidgin-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)
+Group: Basic Usage
+Title: Problems and Solutions 
+Language: EN
+
+
+# Re-enable an Account in Pidgin
+
+From time to time, you might find that your IM account has disabled itself in **Pidgin**; perhaps because **Pidgin** program was improperly closed due to Internet connection being interrupted, or your computer frozen. Fortunately, **Pidgin** offers a way to re-enable your account. To do this, perform the following steps:
+
+## Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-13.png) or **select Start > Pidgin** to launch **Pidgin**.
+
+## Step 2
+
+**Open** the *Accounts* menu, and then **select** the *Manage Accounts* item as follows: 
+
+![Accounts menu with Manage Accounts selected](/sites/siabnext.ttc.io/files/media/pidgin-win-33.png)
+
+*Figure 18: The Accounts menu with the *Manage Accounts item selected (re-sized)*
+
+*This will open the following screen:*
+
+![Accounts window - disabled account](/sites/siabnext.ttc.io/files/media/pidgin-win-34.png)
+
+*Figure 19: The Accounts window (re-sized) displaying a disabled account*
+
+## Step 3
+
+**Click** the check box next to your account to activate the **Pidgin** password prompt as follows:   
+
+![Pidgin password prompt dialog box](/sites/siabnext.ttc.io/files/media/pidgin-win-35.png)
+
+*Figure 20: The Pidgin password prompt dialog box*
+
+## Step 4
+
+**Type** in your password so your own **Pidgin** password prompt dialog box resembles the following:
+
+![Enter password field completed](/sites/siabnext.ttc.io/files/media/pidgin-win-36.png)
+
+*Figure 21: The Pidgin password prompt dialog box with the Enter password field completed*
+
+## Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-37.png) to complete re-enabling your account as follows:
+
+![successfully re-enabled account](/sites/siabnext.ttc.io/files/media/pidgin-win-38.png)
+
+*Figure 22: An example of a successfully re-enabled account*
+
+## Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-39.png) to close the *Accounts* window.

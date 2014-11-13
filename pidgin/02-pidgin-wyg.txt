@@ -1,0 +1,20 @@
+Object_type: Tool
+Tool: Pidgin with OTR
+Platform: Microsoft Windows
+Need: Secure Instant Messaging
+Website: https://www.pidgin.im/
+Download: https://www.pidgin.im/download/windows/
+Version: 2.10.9 (OTR 4.0.0-1)
+License: Free/Open Source Software
+System_requirements: Microsoft Windows; GNU/Linux
+Admin: false
+Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
+Comment: This file should only be used in connection with the whole hands-on guide; read 03-pidgin-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+
+* The ability to organize and manage some of the most popular instant messaging services through a single program
+* The ability to have private and authenticated chat sessions

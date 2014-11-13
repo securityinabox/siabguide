@@ -1,0 +1,89 @@
+Object_type: Tool
+Tool: Pidgin with OTR
+Platform: Microsoft Windows
+Need: Secure Instant Messaging
+Website: https://www.pidgin.im/
+Download: https://www.pidgin.im/download/windows/
+Version: 2.10.9 (OTR 4.0.0-1)
+License: Free/Open Source Software
+System_requirements: Microsoft Windows; GNU/Linux
+Admin: false
+Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
+Comment: read 03-pidgin-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install Pidgin and OTR
+
+Both **Pidgin** and its associated **Off-the-Record** (**OTR**) automated encryption and authentication plugin must be installed properly for either program to work. Fortunately, the installation process for both the programs is easy and quick.
+
+## Install Pidgin
+
+### Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-01.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-02.png) to display the following screen:
+
+![Install Language confirmation box](/sites/siabnext.ttc.io/files/media/pidgin-win-03.png) 
+
+*Figure 1: The Install Language confirmation box*
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-04.png) to display the *Welcome to the Pidgin 2.10.9 Setup Wizard* screen.  
+
+### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-05.png) to display the *License Agreement* screen; after you have read the *License Agreement*, **click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-05.png) to display the *Pidgin 2.10.9 Setup - Choose Components* window.
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-05.png) to display the *Pidgin 2.10.9 Setup - Choose Install Location* window. 
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-06.png) to accept the default installation path, and display the *Pidgin 2.10.9 Setup - Installing* window to begin installing the **Pidgin** software.
+
+*A number of folders and files will begin installing themselves in rapid succession; after the installation process has been completed, the Pidgin 2.10.9 Setup - Installation Complete window will appear.*
+
+### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-05.png) to display the *Completing the Pidgin 2.10.9 Setup Wizard*.
+
+**Note**: During ### Step 3** of the installation process, **Pidgin** was configured to be included in the **Start > All Programs** list, and can be launched from there in the future. 
+
+### Step 7
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-08.png) to complete installing **Pidgin**.
+
+## Install the Off-The-Record (OTR) Plugin
+
+### Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-09.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-02.png) to display the following screen:
+
+![Welcome to the pidgin-otr Setup Wizard](/sites/siabnext.ttc.io/files/media/pidgin-win-10.png)
+
+*Figure 2: The Welcome to the pidgin-otr 4.0.0-1 Setup Wizard* 
+
+### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-05.png) to display the *License Agreement* screen; after you have completed reading the *License Agreement*, **click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-11.png) to display the *pidgin-otr 4.0.0-1 Setup - Choose Install Location* screen.  
+
+### Step 4
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-06.png) to begin the installation process.
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-08.png) to complete installing the **Pidgin-OTR** messaging software plugin.
+
+After you have completed installing both **Pidgin** and **OTR**. The following icon will appear in the Windows task bar when Pidgin is started from the **Start > All Programs** list:
+
+![Pidgin-OTR icon outlined in black](/sites/siabnext.ttc.io/files/media/pidgin-win-12.png)
+
+*Figure 3: The Pidgin-OTR icon outlined in black*
+
+Congratulations! You have successfully completed installing both the **Pidgin** and **OTR** programs!
