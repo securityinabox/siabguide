@@ -1,0 +1,20 @@
+Object_type: Tool
+Tool: gpg4usb
+Platform: Microsoft Windows
+Need: Text and files encryption
+Website: http://www.gpg4usb.org/
+Download: http://www.gpg4usb.org/download.html
+Version: 0.3.3
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Thunderbird](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows) for Microsoft Windows, GNU/Linux and MacOS X
+Comment: read 03-gpg4usb-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7); [Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman), chapter 2.4 Cryptology - Public Key Encryption (page 38)
+Group: Training 
+Title: Review questions
+Language: EN
+
+
+- What is the difference between signing and verifying a public key?
+- What is a fingerprint and how is it used?

@@ -1,0 +1,29 @@
+Object_type: Tool
+Tool: gpg4usb
+Platform: Microsoft Windows
+Need: Text and files encryption
+Website: http://www.gpg4usb.org/
+Download: http://www.gpg4usb.org/download.html
+Version: 0.3.3
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Thunderbird](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows) for Microsoft Windows, GNU/Linux and MacOS X
+Comment: read 03-gpg4usb-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7); [Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman), chapter 2.4 Cryptology - Public Key Encryption (page 38)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install gpg4usb
+
+**gpg4usb** is a portable tool that does not require installation on your computer. The software is disturbed as a zip and should be extracted directly to a USB drive or to a folder on your computer; to begin perform the following steps: 
+
+## Step 1
+
+**Locate** the **gpg4usb** zipped archive file, and then **extract** all the files to a removable USB drive or a folder on your computer:
+
+![gpg4usb program destination location](/sites/siabnext.ttc.io/files/media/gpg4usb-win-01.png)
+
+*Figure 1: The gpg4usb program destination location*

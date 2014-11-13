@@ -1,0 +1,219 @@
+Object_type: Tool
+Tool: gpg4usb
+Platform: Microsoft Windows
+Need: Text and files encryption
+Website: http://www.gpg4usb.org/
+Download: http://www.gpg4usb.org/download.html
+Version: 0.3.3
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Thunderbird](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows) for Microsoft Windows, GNU/Linux and MacOS X
+Comment: read 03-gpg4usb-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7); [Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman), chapter 2.4 Cryptology - Public Key Encryption (page 38)
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Generate a Key Pair
+
+Before you can begin encrypting and decrypting email, text messages, documents and files, you must take two preparatory steps: first you need to generate or import your encryption key pair and second you need to send your public key to your contacts and receive their public keys and import them to your key ring. We describe how to share public keys on the next page. **gpg4usb** assist you with generating your key pair on the first start of the program. Note that you can always come back to *Getting Started* window from the *Help* -> *Open Wizard* menu.
+
+### Step 1
+
+To run the **gpg4usb** program for the first time , **find and double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-02.png) to open the **gpg4usb** folder and then **double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-03.png). This will activate the *Getting Started* window. Select a language and click *Next*
+
+### Step 2
+
+At the *Choose your Action* screen, click *Create a new keypair*
+
+![Choose your Action](/sites/siabnext.ttc.io/files/media/gpg4usb-win-04.png)
+
+*Figure 2: Choose your Action*
+
+Note the other options to import existing keys available on the First Start Wizard screen. If upgrading from a previous version of gpg4usb, you can choose *import settings and/or keys from gpg4usb*. If using [Thunderbird with Enigmail](/en/thunderbird_main), you can choose the option *import keys from GnuPG*. You can also choose to import keys at a later stage by running the wizard again from the *Help* -> *Open Wizard* menu.
+
+### Step 3
+
+At the *Create a keypair* **click** *Create New Key*
+
+![Create New Key](/sites/siabnext.ttc.io/files/media/gpg4usb-win-05.png)
+
+*Figure 3: Create New Key* 
+
+### Step 4
+
+**Enter** the appropriate data into the corresponding text fields, so that your own window resembles the following:
+
+![completed Generate Key](/sites/siabnext.ttc.io/files/media/gpg4usb-win-06.png)
+
+*Figure 4: An example of a completed Generate Key form*
+
+**Important:** 
+
+* Set a secure password to protect your private key (please refer to chapter [**3. How to create and maintain secure passwords**](/en/chapter-3)).
+* We advice that you use expiration date and that you set it to less then 5 years.
+* We strongly recommend that you generate keys of at least 2048 bit size. Key of a larger size is more secure, but also requires more time to create, encrypt and decrypt texts.
+
+**Note**: You do not need to use your real name and real email address when generating your key. However, using email address of the account you will use to communicate will make it easier for your contacts to associate your key with this account.
+
+### Step 6
+
+**Click** *OK* to generate the keypair.
+
+![Generating Key...](/sites/siabnext.ttc.io/files/media/gpg4usb-win-07.png)
+
+*Figure 5: Generating Key...*
+
+![New Key Created](/sites/siabnext.ttc.io/files/media/gpg4usb-win-08.png)
+
+*Figure 6: New Key Created*
+
+### Step 7
+
+**Click** *OK* to come back to the **gpg4usb** window. After the keypair has been successfully generated, you will see a screen resembling the following: 
+
+![gpg4usb window with newly created key pair](/sites/siabnext.ttc.io/files/media/gpg4usb-win-09.png)
+
+*Figure 7: The gpg4usb window, displaying the newly created key pair* 
+
+Now that you have successfully created a key pair, you need to learn how to export your public key to share it with other people, and how to import the public keys of your correspondents.
+
+# Export and Import Keys
+
+## Export Your Public Key
+
+You must send your public key to your correspondent before they can send encrypted messages to you. 
+
+To export your public key with **gpg4usb**, perform the following steps:
+
+### Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-02.png) to open the **gpg4usb** folder.
+
+### Step 2
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-03.png) to open **gpg4usb** program 
+
+### Step3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-10a.png) to activate the following screen:
+
+![Keymanagement window with all the key pairs](/sites/siabnext.ttc.io/files/media/gpg4usb-win-10.png)
+
+*Figure 1: The Keymanagement window displaying all the key pairs*
+
+### Step 3
+
+**Check** your own key, as shown in *Figure 1* above.
+
+### Step 4
+
+**Select** the *Export To File* item from the **Key** menu as shown below:
+
+![Keymanagement window with Export To File item selected](/sites/siabnext.ttc.io/files/media/gpg4usb-win-11.png)
+
+*Figure 2: The Keymanagement window with the Export To File item selected*
+
+This will activate the following screen:
+
+![Export To Folder browse window](/sites/siabnext.ttc.io/files/media/gpg4usb-win-12.png)
+
+*Figure 3: The Export To Folder browse window*
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-13.png) to save your key pair to the **gpg4usb** program folder.
+
+### Step 6
+
+**Send** the exported file with your public key as an attachment to your correspondent.
+
+## Import a Correspondent's Public Key
+
+Before you can encrypt information and send it to your correspondent, you need to receive and import their public key. To import a correspondent's Public key using **gpg4usb**, perform the following steps:
+
+### Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-03.png) to open the **gpg4usb** program.
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-14.png) Import to activate the following screen:
+
+![Import Key dialog box](/sites/siabnext.ttc.io/files/media/gpg4usb-win-15.png)
+
+*Figure 4: The Import Key dialog box*
+
+### Step 3
+
+**Browse** and select the key you wish to import.
+
+![Open Key](/sites/siabnext.ttc.io/files/media/gpg4usb-win-16a.png)
+
+*Figure 5: Open Key*
+
+### Step 4
+
+**Click** Open to activate following window.
+
+![Key Import Details](/sites/siabnext.ttc.io/files/media/gpg4usb-win-16b.png)
+
+*Figure 6: Key Import Details*
+
+### Step 5
+
+**Click** OK to close above window and come back to **gpg4usb** main window. It will display newly imported public key as below.
+
+![newly imported public key associated with correspondent's account](/sites/siabnext.ttc.io/files/media/gpg4usb-win-16.png)
+
+*Figure 7: The gpg4usb console displaying the newly imported public key associated with your correspondent's account*
+
+Now that you have successfully imported a correspondent's public key, you must now verify and sign that imported key.
+
+## Verify a Key Pair
+
+You must verify that the imported key truly belongs to the person who purportedly sent it and then verify it as being authentic. This is an important step that both you and your email contacts should follow for each public key that you receive.
+
+To verify a key pair, perform the following steps:
+
+### Step 1
+
+**Contact** your correspondent through some means of communication other than email. 
+
+**Note**: You may use a telephone, text messages, **Voice over Internet Protocol** (**VoIP**) or any other method, but only if you are certain that you are really communicating with the right person. As a result, telephone conversations and face-to-face meetings provide the greatest assurance of the authenticity of a person's identity, if or when they can be arranged safely.
+
+### Step 2
+
+You and your correspondent should verify that the 'fingerprints' of the public keys that you have exchanged are the same.  
+
+**Note**: A fingerprint is a unique series of numbers and letters that identifies each key. The fingerprint itself is not a secret, and can be recorded and used for verification later if or when required.
+
+To view the fingerprint of key pairs you have created or public keys you have imported, perform the following steps:
+
+### Step 1
+
+**Select** a key, then **right-click** it to activate its associated pop-up menu.
+
+### Step 2
+
+**Select** the *Show Keydetails* item as shown below in *Figure 8*. 
+
+![pop-up menu associated with correspondent's key](/sites/siabnext.ttc.io/files/media/gpg4usb-win-17.png)
+
+*Figure 8: The pop-up menu associated with a correspondent's key*
+
+This will activate the following screen:
+
+![Keydetails window with key fingerprint](/sites/siabnext.ttc.io/files/media/gpg4usb-win-18.png)
+
+*Figure 9: The Keydetails window with the key fingerprint on the bottom*
+
+### Step 3
+
+**Compare** this fingerprint with the one your correspondent see in her **gpg4usb** program.
+
+Your correspondent should repeat these steps. Confirm with each other that the fingerprint for the key each of you have exchanged matches the sender's original. If they don't match, exchange your public keys again (perhaps over different email address or communication method) and repeat the verification process.
+
+If the fingerprints match each other *exactly*, then you are ready to securely send encrypted messages and files between each others.
