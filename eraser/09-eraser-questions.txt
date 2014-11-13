@@ -16,4 +16,11 @@ Title: Review questions
 Language: EN
 
 
-
+- What kind of information does **Eraser** delete from your computer?
+- What do we mean when we talk about 'deleting unused space'?
+- How does **Eraser** wipe your data? 
+- What is the minimum number of passes that we recommend you set **Eraser** to make?
+- How do you set minimum number of passes in **Eraser**? 
+- How do you schedule **Eraser** to operate at a specific time? 
+- How do you delete sub folders within a folder? 
+- How do you delete several files at once?

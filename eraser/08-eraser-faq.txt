@@ -16,4 +16,22 @@ Title: FAQ
 Language: EN
 
 
+***Q***: Can I use **Eraser** on files on my USB memory stick?
 
+***A***: Yes. You can wipe the files through using the **Windows Explorer** menu. And you can also wipe unused space on a USB memory stick by creating the appropriate task in **Eraser**.
+
+***Q***: If I don't want to use **Eraser** anymore, is it easy to uninstall? If I do so, will it affect my computer in any way? And will my files stay deleted?
+
+***A***: You can uninstall **Eraser** from the Start menu as follows: **Start &gt; Programs &gt; Eraser &gt; Uninstall Eraser**. This will not affect other programs on your computer in any way, and the files you have wiped with **Eraser** will not be recoverable.
+
+***Q***: Are there any **Windows** files that **Eraser** does not wipe?
+
+***A***: All the files you can see in your computer can be wiped. Even some files that you cannot see (such as recoverable files in unused space) will be wiped if you set the right options mentioned above.
+
+***Q***: Does **Eraser** wipe file names as well as the files themselves?
+
+***A***: Yes, all parts of the file are wiped, however you should use [**CCleaner**](/en/ccleaner_main) to wipe the recent documents list.
+
+***Q***: Will anyone ever be able to access the deleted files?
+
+***A***: Recovering data from files that have been overwritten is a highly complex and expensive process. It takes a disproportionate amount of time to recover a file that has only been overwritten once, let alone three to seven times. When using **Eraser** properly you may be sure that data has been securely deleted.

@@ -16,4 +16,79 @@ Title: Portable
 Language: EN
 
 
+# Portable Eraser
 
+## Differences between the Installed and Portable Versions of Eraser
+
+Given that portable tools are not installed on a local computer, their existence and use may remain undetected. However, keep in mind that your external device or USB memory stick, and portable tools are only as safe as the computer you are using, and may risk being exposed to adware, malware, spyware and viruses.
+
+**Portable Eraser** does not require the **.Net Framework** in order to run, and the extraction and installation time required is minimal. Aside from that, there are no other differences between **Portable Eraser** and the version designed to be installed on a local computer.
+
+## Download and Extract Portable Eraser
+
+To begin downloading and extracting **Portable Eraser**, perform the following steps:
+
+### Step 1
+
+**Click** [**http://portableapps.com/apps/utilities/eraser_portable**](http://portableapps.com/apps/utilities/eraser_portable) to be directed to the appropriate download site.
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-01.png) to activate the **Source Forge** download page.
+
+### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-02.png)
+ to save the ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-03.png) installation file to your computer; then navigate to it.
+
+### Step 4
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-03.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-04.png) to activate the *Eraser Portable | PortableApps.com Installer* window.
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-06.png) to activate the following screen: 
+
+![Choose Install Location window](/sites/siabnext.ttc.io/files/media/eraserportable-win-07.png)
+
+*Figure 2: The Choose Install Location window*
+
+### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-08.png) to activate the following screen:
+
+![Browse for Folder window](/sites/siabnext.ttc.io/files/media/eraserportable-win-09.png)
+
+*Figure 3: The Browse for Folder window*
+
+### Step 7
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-10.png) to create and **type** in a name for the newly created folder as shown below:
+
+![Browse for Folder window with newly created folder](/sites/siabnext.ttc.io/files/media/eraserportable-win-11.png)
+
+*Figure 4: The Browse for Folder window displaying the newly created folder*
+
+**Note**: Choose a different name for the **Portable Eraser** folder, so it may appear less obvious that you are using it.
+
+### Step 8
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-12.png) to confirm the destination folder into which **Portable Eraser** will be extracted, and to return to the *Choose Install Location* window. 
+
+### Step 9
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-13.png) to begin the extraction process, and then **click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-14.png) after the extraction process has been completed.
+
+### Step 10
+
+**Navigate** to your destination external drive or USB memory stick, as shown in *Figure 5* below, then **open** it to confirm that the **Portable Eraser** program has been successfully extracted.
+
+![Portable Eraser program extracted to destination folder](/sites/siabnext.ttc.io/files/media/eraserportable-win-15.png)
+
+*Figure 5: The Portable Eraser program extracted to the destination folder on a designated external hard drive (resized)*
+
+### Step 11
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/eraserportable-win-16.png) to launch **Portable Eraser**.
+
+Please refer to the [**Eraser**](/en/eraser_main) chapter to begin configuring and using it.
