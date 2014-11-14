@@ -1,0 +1,19 @@
+Object_type: Tool
+Tool: Facebook
+Platform: Social Networks
+Need: Secure social networking
+Website: https://www.facebook.com/
+Download: 
+Version: N/A
+License: Proprietary Software
+System_requirements: Web browser; Internet connection
+Admin: 
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Comment: read 03-facebook-security-premise before using this tool
+Required_reading:
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**Facebook** is a popular social networking website whose almost universal accessibility means knowledge and control of its privacy settings are extremely important.

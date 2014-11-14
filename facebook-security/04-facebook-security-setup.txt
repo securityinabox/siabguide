@@ -1,0 +1,429 @@
+Object_type: Tool
+Tool: Facebook
+Platform: Social Networks
+Need: Secure social networking
+Website: https://www.facebook.com/
+Download: 
+Version: N/A
+License: Proprietary Software
+System_requirements: Web browser; Internet connection
+Admin: 
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Comment: read 03-facebook-security-premise before using this tool
+Required_reading:
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Account, General and Security Settings
+
+## How to Create a Facebook Account
+
+To create Facebook account open your web browser, (we recommend Firefox web browser with security add-ons or Tor Browser), and type https://www.facebook.com into address bar, to arrive at Facebook's homepage. Note the s in https address that indicates that you are now communicating through secure, encrypted connection (also known as a Secure Socket Layer - SSL).
+
+### Step 1.
+
+Fill in the fields marked First Name and Last Name, fill in your e-mail address twice and create a new Password. You area also required to provide a birthday and select a gender (although only 'male' and 'female' options are given).
+
+![completed form](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-01.png)
+
+*Figure 2: A completed form*
+
+**Note**: We recommended setting up a new e-mail address to register with **Facebook**. If you use your public or work-related e-mail address, this will make it easier for possible adversaries to find you. Note also that **Facebook**'s Terms of Use require you to use your real name when using **Facebook**. This will of course make it easier for potential adversaries to find you and follow your activities. You can provide a false name, although it should be noted that this goes against **Facebook**'s Terms of Use and you may still be identifiable according to your IP address, among other things. Connecting to **Facebook** through software such as **Tor Browser** is also difficult as **Facebook** remembers your location and may mistake your logins for attempted break-ins.
+
+Considering all of the above, if you are concerned that your identification, or the linking of your **Facebook** activities to your offline work or personal life, might pose a threat to your life, liberty, health, or work, or that of your family or friends, perhaps it is better not to register or use **Facebook**. Read more about how to stay anonymous online in [*How to Remain Anonymous and Bypass Internet Censorship*](https://siabnext.ttc.io/en/chapter-8)
+
+Note: Remember, it is extremely important that you choose a strong password to protect your account and your information. Please see chapter [*3. How to create and maintain secure passwords*](https://siabnext.ttc.io/en/chapter-3).
+
+### Step 2
+
+Make sure you have read and understood Facebook's Terms of Use and Data Use Policy before clicking sign up. These contain important information about what information you are handing over to Facebook and how it will be used by them.
+
+### Step 3
+
+On the Find Your Friends screen Facebook asks you to provide your email address and password in order to look for contacts from your e-mail account on Facebook, who you can later add as Facebook contacts. We very strongly recommend that you skip this step.
+
+![The Find Your Friends screen](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-02.png)
+
+*Figure 3: The Find Your Friends screen*
+
+### Step 4
+
+On the Profile Information screen **Facebook** asks you to provide information such as the High school, College or University you attended, and your current Employer. While this information may make it easier for friends to find you, it will also make it easier for adversaries to find you too. We recommend that you **click** *skip this step*.
+
+Based on the information you provide at this step, **Facebook** will then make suggestions of possible classmates or colleagues of yours who you may wish to add as friends. Again, consider carefully who you wish to add and **do not add anyone as a contact who you do not know and trust**.
+
+If you do not wish to add any friends at this point, you can also *skip this step*.
+
+![The Profile Information screen](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-03.png)
+
+*Figure 4: The Profile Information screen*
+
+### Step 5
+
+On the Profile Picture screen **Facebook** asks you to provide a picture of yourself, either by **uploading** one or **taking** a picture with your webcam.
+
+![The Profile Picture screen](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-04.png)
+
+*Figure 5: The Profile Picture screen*
+
+Note: This picture, as well as your *cover photo* on your **Facebook** timeline, will be visible to anyone who arrives at your profile, **including people who are not your friends**, and regardless of what your privacy settings are. Consider very carefully whether you want to use a photo in which you, your friends, family, colleagues or organisation could be recognised by possible adversaries.
+
+Once you **click** *Skip* or *Save and Continue*, you will be prompted to check the inbox of the email address you provided. Here you should find an email from **Facebook** requiring you to follow a link to confirm the validity of your email address. Once you have done this, your **Facebook** page is created.
+
+## General Settings
+
+### Step 6
+
+From your **Facebook** Home page, **click** on the small arrow beside *Home* in the top right-hand corner and select *Settings*.
+
+![Options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-05.png)
+
+*Figure 6: Options*
+
+This will take you to the *Settings* menu. On the left-hand side, you can choose different categories of settings. The first tab is *General Account Settings*, where you can edit information about your name, username, email, password, networks, and language.
+
+![General Account Settings](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-06.png)
+
+*Figure 7: General Account Settings*
+
+### Step 7
+
+You should **update** your password regularly, preferably at least once every three months. Remember, it is extremely important that you choose a strong password to protect your account and your information. Please see How-to Booklet Chapter [**3. How to create and maintain secure passwords**](https://siabnext.ttc.io/en/chapter-3).
+
+![Password options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-08.png)
+
+*Figure 9: Password options*
+
+### Step 8
+
+Your network: **Facebook** allows you to join *networks*, based on criteria such as your high school, university, employer, hometown or current city, as a means of making it easier for people to find and connect with you. While this may make it easier for you to find contacts, it will also make it easier for people, including adversaries, to find you. Considering the volume of users of the site, it is improbable that you need to join a network in order to connect with the people you know and trust on **Facebook**.
+
+## Security Settings
+
+### Step 9
+
+**Click** on ![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-100.png) in the menu on the left hand side. This will open the Security Settings page.
+
+![The Security Settings page](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-17.png)
+
+*Figure 10: The Security Settings page*
+
+### Step 10
+
+**Click** on the *Login Notifications* tab. Here, you can choose to be notified if an attempt is made to log in to your **Facebook** page from a device which you have not used before. Choose whether to receive by Email or Text Message/Push Notification.
+
+**Note**: If you select to receive alerts via Text Message, this means you will link your mobile phone number to your **Facebook** account, making your activities on the site more easily identifiable.
+
+![Login Notifications options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-10.png)
+
+*Figure 12: Login Notifications options*
+
+### Step 11
+
+*Login Approvals*: For added security, you can choose to have to enter a security code every time your account is accessed from a computer or device **Facebook** does not recognise. The security code will be send as SMS to your mobile phone.
+
+**Note**: Enabling this option will make it more difficult for someone else to access your account unless they also have access to your mobile phone. However, as mentioned above, it also involves associating your mobile phone number with your **Facebook** account. You should consider the pros and cons of this for your own situation and make the choice which you consider more secure for you.
+
+![Login Approvals options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-15.png)
+
+*Figure 13: Login Approvals options*
+
+### Step 12
+
+*Code Generator*: This setting allows you to use the **Facebook** mobile app on your smartphone in order to generate login codes or new passwords.
+
+![Code Generator](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-11.png)
+
+### Step 13
+
+*Application Passwords*: If you use applications on **Facebook**, this option allows you to generate individual passwords for them. Unless you have a specific need to do so, however, we recommend avoiding Facebook applications.
+
+### Step 14
+
+*Trusted Contacts*: This option allows you to select certain contacts from your **Facebook** friends who can help you to log-in to your account if for some reason you are otherwise unable to. This is done through sharing a secret code with your contact. If you decide to use this option, be sure to choose your trusted contacts carefully and [*establish a secure means of communication*](https://siabnext.ttc.io/en/chapter-7) for sharing the code.
+
+![Trusted Contacts](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-14.png)
+
+### Step 15
+
+*Trusted Browsers*: Here you can review the browsers most frequently used to access your **Facebook** account.
+
+### Step 16
+
+*Active Sessions*: This shows details of any **Facebook** session that you may have forgotten to log out of - for example in an internet café, or a friend's computer - and therefore is still active. The location is determined by the IP address.
+
+![A list of several active sessions](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-12.png)
+
+*Figure 14: An example of a list of several active sessions*
+
+It is very important to close these sessions in order to prevent anyone else accessing your **Facebook** account, especially if you note any devices in the list which are not yours or you do not recognise. To do this, simply **click** *End Activity* beside each active session.
+
+# Privacy and Timeline Settings
+
+### Step 1
+
+To edit your **Facebook** *Privacy Settings*, **click** on the small arrow beside *Home* in the top right-hand corner and select *Settings*.
+
+![Options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-05.png)
+
+*Figure 1: Options*
+
+### Step 2
+
+This will take you to the *Settings* menu. On the left-hand side, **choose** *Privacy*.
+
+![Privacy settings page](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-25.png)
+
+*Figure 2: Privacy settings page*
+
+**Who can see my stuff?**
+
+### Step 3
+
+The first option here creates a default rule for your future status updates: *Who can see your future posts?*. Here, you can **choose** between making them available to the entire public, your **Facebook** friends, yourself only, or a custom group which you can determine. Note that you can also change this for individual status updates, so that you can decide which ones are public, which ones are for friends or which ones are for a specific group. It's also worth noting, though, that everything you post is recorded by **Facebook** (including when you select *Only Me*) and can be handed over by them to third parties.
+
+### Step 4
+
+The second option allows you to **review** the posts which other **Facebook** users have tagged you in. To see this, **click** on *Use Activity Log*.
+
+![Who can see your future posts](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-18.png)
+
+*Figure 3: Who can see your future posts*
+
+### Step 5
+
+The thrid option allows you to **restrict* access to previous status updates of yours which may have been public. **Note**, however, the limitation that individuals you tagged and their friends will still be able to see this content.
+
+![Limit previous posts](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-19.png)
+
+*Figure 4: Limit previous posts*
+
+**Who can contact me?**
+
+### Step 6
+
+In this section, you can decide who is able to send you a friend request. This is not particularly important in terms of information security, since in the end, it is still you who decides who to accept as a friend, and you should always exercise caution and avoid adding people who are unknown or untrusted. If you want to change this setting, **click** *Edit*.
+
+### Step 7
+
+*Whose messages do I want filtered into my inbox?*: **Facebook** allows you to filter the messages you receive into two folders: *Inbox* and *Other*. Here you can **choose** between Basic Filtering, which is more permissive of messages from people who are not on your friend list, and Strict Filtering, which is less permissive.
+
+![Who can contact me?](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-20.png)
+
+*Figure 5: Who can contact me?*
+
+**Who can look me up?**
+
+### Step 8
+
+Here, you can limit the ease with which people can look you up by knowing your phone number or e-mail address (although this is still technically possible), as well as limiting people's ability to find your **Facebook** page via search engines. The default settings make it as easy as possible for individuals to find you this way, including possible adversaries. **Click** *Edit* on the first two options and ensure that only **Friends** can search for you by your e-mail address and phone number. For the third option, **click** *Edit* and **uncheck** the box which says *Let other search engines link to your timeline*.
+
+![Who can look me up?](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-21.png)
+
+*Figure 6: Who can look me up?*
+
+## Timeline and Tagging
+
+As we've mentioned before, your information security on **Facebook** has a lot to do with the behaviour of your friends. In the *Timeline and Tagging* menu, you can determine what happens when friends tag you or your posts and what happens when they post on your timeline.
+
+### Step 1
+
+In the left-hand sidebar, **click** on the *Timeline and Tagging* menu.
+
+![The Timeline and Tagging menu](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-27.png)
+
+*Figure 7: The Timeline and Tagging menu*
+
+### Step 2
+
+If you want your timeline to be *truly yours*, it's advisable to **disallow** posts on your timeline from anyone but yourself. To do this, click *edit* beside *Who can post on your timeline* and select *Only Me*.
+
+### Step 3
+
+Here, you can decide what happens when other friends tag you in their posts and photographs. It is advisable that you **click** *edit* and **enable** the *Review posts that friends tag you in...* option so that you can prevent any irresponsible tagging from friends appearing on your timeline. However, this won't prevent their posts (including your tag) from being visible to their friends, or perhaps even the public, depending on their settings.
+
+![Who can add things to my timeline?](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-28.png)
+
+*Figure 8: Who can add things to my timeline?*
+
+### Step 4
+
+*Who can see things on my timeline?* This item is associated with the previous options. Previously, we've decided who gets to publish material to your timeline, and here, you get to decide who can read them. If you **click** *Edit*, you can **change** these settings so that either everyone, friends of friends, a custom group of people, or only yourself can see posts you've been tagged in, or things others post on your timeline.
+
+The first option, *View As*, is an interesting way to see what certain individuals can see on your timeline. However, keep in mind that **Facebook** can still record all of the above and share it with third parties including law enforcement.
+
+![Who can see things on my timeline?](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-29.png)
+
+*Figure 9: Who can see things on my timeline?*
+
+### Step 5
+
+How can I manage tags people add and tagging suggestions?* This refers to tags of you by other users of **Facebook**. It's best if you **switch on* the *Review tags people add to your own posts before the tags appear on Facebook* option, and **limit** the audience for the second option to *Only Me*. **Facebook** has begun using a form of **facial recognition** technology which allows it to identify photographs that look like you among your friends' and contacts' photos and suggest that they *tag* you in the photos. Naturally, for rights advocates, this could be particularly sensitive and therefore it's strongly recommended that you **deactivate** this option if it is available to you.
+
+## Blocking Users and Apps
+
+### Step 6
+
+In the menu on the left, **select** *Blocking*. Here, **Facebook** offers ample opportunities for blocking unwanted, intrusive, and sometimes potentially dangerous information.
+
+![Select Blocking from the drop-down list](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-30.png)
+
+*Figure 10: Select Blocking from the drop-down list*
+
+### Step 7
+
+*Restricted List*. Here, you can discretely add **Facebook** friends to a list which will limit them to only being able to view information you share publicly on your timeline (per the settings we explored above). To add friends to the list, **click** *Edit List*.
+
+![Restricted List](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-31.png)
+
+*Figure 11: Restricted List*
+
+Step 8. *Block users*. Here you can block a user from accessing your **Facebook** page, any of your content, or adding you as a friend.
+
+![Block Users](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-32.png)
+
+*Figure 12: Block Users*
+
+### Step 9
+
+*Block app invites*. Often, we will have **Facebook** friends who are enthusiastic about a particular application, often a game, and they will continuously send us invites to join this game. Here, you can block application invites from such friends.
+
+![Block App Invites](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-33.png)
+
+*Figure 13: Block App Invites*
+
+### Step 10
+
+*Block event invites*. Similarly, here you can block invitations to events from certain **Facebook** friends.
+
+![Block Event Invites](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-34.png)
+
+*Figure 14: Block Event Invites*
+
+### Step 11
+
+*Block application*. As the name suggests, here you can prevent an application from accessing all but your public information.
+
+![Block Apps](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-35.png)
+
+*Figure 15: Block Apps*
+
+## Followers
+
+**Facebook** gives you the option of allowing people to subscribe to your news feed, without being friends. Be aware however, that if you allow others to subscribe to your news feed, then some of your data is available for them and others in their network to see. The safest option is not to allow people to subscribe to your news feed.
+
+### Step 16
+
+**Click** on *Followers* from the menu on the left.
+
+### Step 17
+
+Ensure that *Friends* is **selected**.
+
+![Follower settings](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-36.png)
+
+*Figure 18: Follower settings*
+
+# Applications and Advertising Settings
+
+## Applications
+
+Many **Facebook** users love and actively use *applications* — for example, games and ways to empower communications, such as social readers. Each application is associated with your **Facebook** account, and the basic data of your **Facebook** account will be available to any application (such as your name, gender, public pictures and network). Also, when installing a new application, it may ask for your permission to have access to the same or other information about you and your friends. This includes a variety of data, such as age, place of residence, education, circle of friends and contacts. Thus, the application can gather and share information such as what country you come from and where you currently are. Some of this information you may consider sensitive. Therefore, for safety reasons, we recommend not to use **Facebook** applications unless you really need to.
+
+### Step 1
+
+**Click** on *Apps* in the menu on the left.
+
+![Application menu](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-37.png)
+
+*Figure 1: Application menu*
+
+### Step 2
+
+*Apps you use*. Here, you can enable or disable the so-called "Facebook Platform" which allows you to use Apps. By default, this option is enabled. It allows you, for example, to register for other sites using your **Facebook** account. On the one hand, this is convenient: no need to spend time on the registration form and fill in all the fields, especially if you do not intend to make frequent use of this site (for example, you want to leave a comment on a news story, or sign a petition). On the other hand, your comment will be linked to your **Facebook** account, recorded and possibly shared. If using Apps isn't important to you or your work, it's recommended that you **click** *Turn Off Platform* in order to better protect your privacy. If you do decide to leave the option enabled, then pay attention to the list of applications already installed at this point. Do you really need them all?
+
+### Step 3
+
+By **clicking** on an app you can see what information it has access to.
+
+![Details of an app](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-38.png)
+
+*Figure 2: Details of an app*
+
+### Step 4
+
+To remove an application, **click** on the 'x' beside the app in the list, and then **click** *Remove* in the warning window which pops up.
+
+![Remove an application](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-39.png)
+
+*Figure 3: Remove an application*
+
+### Step 5
+
+*Apps others use*. We also have to consider that some of our **Facebook** friends bring our information into the apps that they use. By **clicking** on *Apps others use*, you can **un-check** the boxes beside categories of your information which you don't want to share with your friends' applications.
+
+![Apps others use](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-40.png)
+
+*Figure 4: Apps others use*
+
+### Step 6
+
+*Instant personalisation*. **Facebook**'s *Instant Personalization* also grants certain websites access to your public profile information when you visit them. What these sites do is that they adjust their web contents to suit your wants and needs, thus creating a personalized experience. To be more secure, if this service is available in your region, you should **disable** it.
+
+### Step 7
+
+**Click** under the *Instant Personalisation* tab. **Click** on the screen which will appear to explain what *Instant Personalisation* is, and at the bottom of the next page, make sure the box marked *Enable instant personalisation on partner websites* is **unchecked**.
+
+## Advertising Settings
+
+Advertising is fundamentally important to social networking companies, as it is their source of revenue. There will always be advertisements on social networking sites such as **Facebook**, though we can make them less personal, which is the right move in terms of information security and privacy.
+
+### Step 1
+
+In the column on the left, **select** *Ads*
+
+**Facebook** currently promises not to associate your name or picture with third-party advertisements, although they leave space for this to be possible in the future. It's a good idea to change these settings so that your details still remain private in case advertising rules change in the future:
+
+### Step 2
+
+**Click** *Edit* beside *Third Party Sites*
+
+### Step 3
+
+**Select** *No-one* and **select** *Save Changes*.
+
+![Switching off Third Party Sites](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-41.png)
+
+*Figure 6: Switching off Third Party Sites*
+
+### Step 4
+
+*Social Ads*. Here, **Facebook** encourages users to become ambassadors for products or pages they have 'liked'. This means that you could be used to advertise a page or product to your friends. If this makes you uncomfortable, it's recommended that you disable it.
+
+### Step 5
+
+Under *Ads and friends*, **click** *Edit* and **select** *No-One* from the drop-down menu.
+
+![Switching off Social Ads](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-42.png)
+
+*Figure 7: Switching off Social Ads*
+
+### Step 6
+
+*Website and mobile app custom audiences*. **Facebook** by default tries to pick to display targeted advertising on your tastes and interests. To get rid of this, you need to **click** on the *Opt Out* link in this paragraph.
+
+![Select 'Opt Out'](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-43.png)
+
+*Figure 8: Select 'Opt Out'*
+
+This will open a page titled *Custom Audiences from your Website and Mobile App*, where **Facebook** gives more information about its advertising policy. In the middle of the text is the *Opt Out* button for you to **confirm**.
+
+![Opt Out](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-44.png)
+
+After a request for confirmation, you will see the result:
+
+![opted out](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/facebook-all-45.png)
+
+**Note** that changes made to this setting are not recorded by **Facebook**, but are rather stored in your browser. Unfortunately, you must **repeat** this process for every browser, app and device you use to connect to **Facebook**.
