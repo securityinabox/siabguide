@@ -1,0 +1,62 @@
+Object_type: Tool
+Tool: Tor Browser
+Platform: Microsoft Windows
+Need: Digital Anonymity and Circumvention
+Website: https://www.torproject.org/
+Download: https://www.torproject.org/download/download-easy.html.en
+Version: 3.5.3
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Riseup VPN](https://help.riseup.net/en/riseup-vpn/) -- Virtual Private Network (VPN) proxy server for Linux, MAC, Android and Microsoft Windows; [Psiphon3](http://www.psiphon3.com/) -- Virtual Private Network (VPN) solution for Microsoft Windows and Android OS; [Dynaweb FreeGate](http://www.dit-inc.us/freegate) -- free proxy tool for Microsoft Windows; [Your Freedom](http://www.your-freedom.net/) -- freemium commercial proxy tool for Linux, Mac OS and Microsoft Windows
+Comment: read 03-torbrowser-premise before installing and using this tool
+Required_reading: How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://securityinabox.org/en/chapter-8)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Access the Web Anonymously Using the Tor Browser
+
+The **Tor Browser** is designed to be very easy to use, in fact if you are familiar with using a web browser you will be able to use the **Tor Browser** as it is a version of **Firefox** modified for additional privacy and security. 
+
+**Note:** as the **Tor Browser** is designed with privacy in mind, it is configured not to save any information to your hard drive or USB stick.  This means that when you quit the **Tor Browser** all your browsing history is forgotten.
+
+## Check to Make Sure the Tor Browser is Working
+
+As with any circumvention software it is recommended to perform simple independent tests to ensure the **Tor Browser** works, by going to any website that will try to identify where are you based from the IP address we visit the site from.
+
+There are a number of free website that do this, such as: [check.torproject.org](https://check.torproject.org), [iplocation.net](http://www.iplocation.net/), [ip2location.com](http://www.ip2location.com/), [whatismyipaddress.com](http://whatismyipaddress.com/), etc. If you access these website directly without using **Tor Browser** or other circumvention tool it should display your real IP address and provide a more or less accurate physical location for you. However if you access those websites using **Tor Browser** or other circumvention tool the location and IP address you will see should be different.
+
+![Tor status and IP address differences](/sites/siabnext.ttc.io/files/media/torbrowser-win-031.png)
+
+*Figure 1: Firefox (top) & The Tor Browser (bottom) on the same computer showing Tor status and IP address differences*
+
+## Create a New Identity
+
+You can create a *new identity* for your Browser.  This means that new set of random **Tor** proxy servers will be selected for you to use. This will make you appear to come from a new location to the web servers. To do this, click on ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-022.png) and select *New Identity* from the menu.  The *Tor Browser* will briefly close, clearing your *browsing history* and *cookies* and then restart. Once they browser has restarted you can check your new location as described above in section 4.1.
+
+![Selecting New Identity](/sites/siabnext.ttc.io/files/media/torbrowser-win-032.png)
+
+*Figure 2: Selecting New Identity from TorButton menu*
+
+## Enable the NoScript add-on
+
+**Tor Browser** comes with the **NoScript** add-on pre-installed. **NoScript** can additionally protect you from malicious websites and from leaking your real identity through execution of scripts in your **Tor Browser**, however **NoScript** is disabled by default in **Tor Browser** so this additional protection is not readily available. 
+
+If you wish to enable the extra protections afforded by **NoScript**, it can be turned on by opening the **NoScript** menu and clicking *Forbid Scripts Globally* and then configuring the various *options* it provides. 
+
+We recommend that you read more about [**NoScript** in the **FireFox** chapter](/en/firefox_noscript). 
+
+![Enabling NoScript by selecting Forbid Scripts Globally](/sites/siabnext.ttc.io/files/media/torbrowser-win-033.png)
+
+*Figure 3: Enabling NoScript by selecting Forbid Scripts Globally (advised) option*
+
+## Keep the Tor Browser Up-To-Date
+
+In **[How-to Booklet chapter 1.4](/en/chapter_1_4)** we explain how important is keeping your software up to date, the **Tor Browser** is no exception.  When updates are available, the next time you start the **Tor Browser** you will be presented with a notice that your browser is out of date (*Figure 4*) and instructed to click and choose **Download Tor Browser Update**. You will be brought to the **Tor Project** website where you can get the latest release.  Once downloaded you can follow this guide to install the updated **Tor Browser**.
+
+
+![update is available](/sites/siabnext.ttc.io/files/media/torbrowser-win-034.png)
+
+*Figure 4: Tor Browser showing an update is available*

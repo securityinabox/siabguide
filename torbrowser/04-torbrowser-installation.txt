@@ -1,0 +1,66 @@
+Object_type: Tool
+Tool: Tor Browser
+Platform: Microsoft Windows
+Need: Digital Anonymity and Circumvention
+Website: https://www.torproject.org/
+Download: https://www.torproject.org/download/download-easy.html.en
+Version: 3.5.3
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Riseup VPN](https://help.riseup.net/en/riseup-vpn/) -- Virtual Private Network (VPN) proxy server for Linux, MAC, Android and Microsoft Windows; [Psiphon3](http://www.psiphon3.com/) -- Virtual Private Network (VPN) solution for Microsoft Windows and Android OS; [Dynaweb FreeGate](http://www.dit-inc.us/freegate) -- free proxy tool for Microsoft Windows; [Your Freedom](http://www.your-freedom.net/) -- freemium commercial proxy tool for Linux, Mac OS and Microsoft Windows
+Comment: read 03-torbrowser-premise before installing and using this tool
+Required_reading: How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://securityinabox.org/en/chapter-8)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Extract the Tor Browser
+
+The **Tor Browser** is a modified version of **Firefox** that will provide you with all you need to browse the Internet anonymously. This package requires no installation; it simply has to be extracted and run.
+
+To extract the **Tor Browser**, perform the following steps:
+
+## Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-001.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-002.png) to activate the program.
+The language selection screen will appear next:
+
+![language selection](/sites/siabnext.ttc.io/files/media/torbrowser-win-003.png)
+
+*Figure 1: The language selection screen*
+
+**Choose** the language from the pull-down menu and **click** OK button to activate window below.
+
+## Step 2
+
+Choose the location to extract the **Tor Browser** 
+
+**Note**: The **Tor Browser** does not automatically install itself in *C:\Program Files* directory path (unlike the majority of the installation procedures for our recommended tools) but instead creates a folder on your *Desktop*.
+
+**Important**: You may also extract and use the **Tor Browser** to a different folder on your computer or to a USB memory stick. This may help you to conceal the fact that you are using **Tor** on your computer.
+
+Either **click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-004.png) to accept the default *Desktop* folder and activate window below. Or **click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-005.png) to activate the *Browse for Folder* window and navigate to the desired folder path for extracting the **Tor Browser**.
+
+![default extraction path](/sites/siabnext.ttc.io/files/media/torbrowser-win-008.png)
+
+*Figure 2: An example of the default extraction path for the Tor Browser*
+
+## Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-004.png) to begin extracting the **Tor Browser**. Once completed you will be presented with a screen confirming the **Tor Browser** is installed and optionally to start it.
+
+![extracting process completed successfully](/sites/siabnext.ttc.io/files/media/torbrowser-win-009.png)
+
+*Figure 4: The extracting process has completed successfully*
+
+Note that the option *Run Tor Browser* is selected on the screen above. Once you **click** on *Finish* button **Tor Browser** will start automatically. 
+
+In this example, after the extraction process has been completed, the **Tor Browser** will appear on your *Desktop* in a folder called *Tor Browser*.  To use the *Tor Browser* at any time just **double click** on ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-010.png) in this folder.
+
+![Browser extracted on the Desktop](/sites/siabnext.ttc.io/files/media/torbrowser-win-011.png) 
+
+*Figure 5: The Tor Browser extracted to a directory on the Desktop*
+
+You have now successfully extracted the **Tor Browser**.
