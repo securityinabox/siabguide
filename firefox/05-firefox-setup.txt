@@ -1,0 +1,157 @@
+Object_type: Tool
+Tool: Firefox and Security Add-Ons
+Platform: Microsoft Windows
+Need: Secure Web Browsing
+Website: https://www.mozilla.org/en-US/firefox/new/
+Download: https://www.mozilla.org/en-US/firefox/new/
+Version: 24.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Google Chrome](http://www.google.com/chrome/) for GNU Linux, Mac OS and Microsoft Windows (less recommended); [Opera](http://www.opera.com/) for GNU Linux, Mac OS and Microsoft Windows (less recommended)
+Comment: read 03-firefox-premise before installing and using this tool
+Required_reading:
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Configure Firefox
+
+## Configure General Options
+
+To begin configuring **Firefox**, perform the following steps:
+
+### Step 1
+
+**Select Tools > Options...** in the **Firefox** menu bar as follows: 
+
+![Tools menu with Options selected](/sites/siabnext.ttc.io/files/media/firefox-win-03.png)
+
+*Figure 1: The Tools menu with the Options item selected* 
+
+*This will activate the Options window as follows:*
+
+![Options - default General pane](/sites/siabnext.ttc.io/files/media/firefox-win-04.png)
+
+*Figure 2: The Options window displaying the default General pane*
+
+**Tip**: **Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-05.png) if the *General* pane is not automatically displayed as shown in *Figure 2* above. 
+
+The *General* pane lets you configure a few basic **Firefox** settings, among them your preferred home page and the location of your *Downloads* folder.
+
+The default setting for the *When Firefox starts* drop-down menu is *Show my home page*, and the default home page is the *Mozilla Firefox Start Page*.
+
+**Tip**: **Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-06.png) to automatically set another page you know to be trustworthy as your home page.
+
+## Configure Privacy Options
+
+The *Privacy* pane lets you manage privacy and security options for the browser. 
+
+### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-07.png) to activate the following screen: 
+
+![Options window - Privacy pane](/sites/siabnext.ttc.io/files/media/firefox-win-08.png)
+
+*Figure 3: The Options window displaying the Privacy pane*
+
+The *Privacy* pane is divided into three sections: The *Tracking* section, the *History* section and the *Location bar* section. 
+
+- **The Tracking section**
+
+The *Do Not Track* section lets you determine whether you wish your internet activities and behaviours to be monitored or tracked by third parties, for instance, advertising companies, analytic services, or market researchers. The first time **Firefox** is installed, the default setting is *Do not tell sites anything about my preferences* and must be changed; enabling the *Tell sites I do not want to be tracked option* notifies participating companies and organizations that you do not wish to be tracked.
+
+**Note**: The *Do Not Track* option is based on an honour system and is voluntary; as such, individual web sites are neither legally nor technically compelled to respect such requests. Although a growing number of respectful and responsible organizations are participants, the *Do Not Track* option must be complemented by other add-ons or plugins that effectively target the commercial or malicious interests; enabling this option reduces your exposure to potentially harmful advertisements online. For more information about **Firefox** add-ons, please refer to [**More Useful Firefox Add-Ons**](/en/firefox_others).  
+
+![Tracking section](/sites/siabnext.ttc.io/files/media/firefox-win-09.png)
+
+*Figure 4: The Tracking section*
+
+### Step 1
+
+**Check** the *Tell sites I do not want to be tracked* option (as shown in *Figure 4* above) to have your privacy and security respected by the participants.
+
+- **The History section**
+
+The *History* section lets you manage your **Firefox** browser 'history', that is, a list of all the different sites you have visited since you began using **Firefox**. The default *Firefox will:* option is *Remember history* and must be changed to protect your internet privacy and security. 
+
+To eliminate traces of your browsing history, perform the following steps:
+
+### Step 1
+
+**Activate** the *Firefox will:* drop-down list and **select** the *Never remember history* item as shown in *Figure 3*. 
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-10.png) to activate the following screen:
+
+![Clear All History](/sites/siabnext.ttc.io/files/media/firefox-win-11.png)
+
+*Figure 5: The Clear All History window*
+
+### Step 3
+
+**Select** all check-boxes and **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-12.png) to clear **Firefox** of all potentially revealing data, and return to the *Privacy* pane. 
+
+- **The Location Bar section**
+
+The *Location Bar* section uses addresses, cookies and other temporary data from bookmarked web sites, and the web history to prompt or suggest addresses in the **Firefox** **Universal Resource Locator** (**URL**) bar for your browsing convenience. The default *When using the location bar, suggest:* option is *History and Bookmarks*, and must be changed to protect your internet privacy and security. 
+
+To eliminate traces of your browsing habits and history, perform the following steps:
+
+### Step 1
+
+**Activate** the *When using the location bar, suggest* drop-down list and then **select** the **Nothing** item as shown in *Figure 6* below and *Figure 3* above:
+
+![Location Bar displaying the Nothing item](/sites/siabnext.ttc.io/files/media/firefox-win-13.png)
+
+*Figure 6: The Location Bar displaying the Nothing item*
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-14.png) to confirm your settings and exit the *Options* window. 
+
+**Note**: For a more secure and thorough approach to deleting temporary data, please refer to the chapter on [**CCleaner**](/en/ccleaner_main).
+
+## Configure Security Options
+
+The *Security* pane is divided into two sections: the first deals with potentially threatening actions from external sources and the second, or *Passwords* section, with password management. 
+
+**Note**: For more information on password storage, please refer to the chapter on [**KeePass**](/en/keepass_main).
+
+### Step 1
+
+**Select Tools > Options** in the **Firefox** menu bar to activate the *Options* window, and then **click** the *Security* tab to activate the following screen:
+
+![Options window - Security pane](/sites/siabnext.ttc.io/files/media/firefox-win-15.png)
+
+*Figure 7: The Options window displaying the Security pane*
+
+### Step 2
+
+**Accept** the default settings in the first section. 
+
+- **The Passwords section**
+
+The *Passwords* section lets you manage your passwords. The default *Remember passwords for sites* option is enabled the first time you install and run **Firefox**, and must be disabled to ensure your password privacy and security. We recommend to securely store passwords in [**KeePass**](/en/keepass_main).
+
+### Step 3
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-14.png) to complete the configuration of the *Security* pane in the *Options* window.
+
+## Configure Advanced Options
+
+The *Advanced* tab, as its name suggests, is designed with the **Advanced** or **Experienced** **Firefox** user in mind. However, users of *all* levels will benefit from enabling the following option in the *General* tab. 
+
+- The *Warn me when websites try to redirect or reload the page* option enables **Firefox** to prevent web sites from automatically redirecting you to another page, or reloading themselves without your consent or knowledge. 
+
+ ![](/sites/siabnext.ttc.io/files/media/firefox-win-16.png)
+
+*Figure 8: The Advanced pane options with the default General tab displayed*
+
+**Step 1**. **Enable** checkbox *Warn me when websites try to redirect or reload the page* option as shown in *Figure 8* above.
+
+**Step 2**. **Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-14.png) to apply these changes and exit the *Advanced* tab.
+
+Congratulations! **Firefox** is now configured to browse the Internet in a private and secure manner.

@@ -1,0 +1,38 @@
+Object_type: Tool
+Tool: Firefox and Security Add-Ons
+Platform: Microsoft Windows
+Need: Secure Web Browsing
+Website: https://www.mozilla.org/en-US/firefox/new/
+Download: https://www.mozilla.org/en-US/firefox/new/
+Version: 24.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Google Chrome](http://www.google.com/chrome/) for GNU Linux, Mac OS and Microsoft Windows (less recommended); [Opera](http://www.opera.com/) for GNU Linux, Mac OS and Microsoft Windows (less recommended)
+Comment:
+Required_reading:
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+This chapter assumes that you already know how to use a web browser; it will not explain how to use the **Mozilla Firefox** browser functions. Its purpose is to explain some additional functions that will make using it more secure. 
+
+- **Mozilla Firefox Add-ons** (also referred to as 'extensions'), are small programs which add new features or extend existing functionality of **Firefox**.
+
+- **Mozilla Firefox Plugins** are small pieces of software, usually designed by a third party, to enable the use of their software within **Firefox** browser. 
+
+In this chapter, you will learn how to download, install and use the following **Mozilla Add-ons** to increase the privacy, safety and security of your **Firefox** web browser, and of your Internet experience as a whole. 
+
+The **NoScript** add-on is documented separately in section [**4.0 About NoScript**](/en/firefox_noscript). Other add-on are documented in [**More Useful Firefox Add-Ons**](/en/firefox_others)
+
+**Important**: The overwhelming majority of malware and spyware infections originate from web pages. It is very important that you always consider whether it is safe to open given web address, especially if you received it by email. Before you decide to open a page, we recommend that you scan the web address using the following page scanners:
+
+- [**www.virustotal.com**](http://www.virustotal.com/)
+- [**www.onlinelinkscan.com**](http://onlinelinkscan.com/)
+- [**www.phishtank.com**](http://www.phishtank.com/index.php)
+
+You can also check the reputation of a web site using the scanners listed below:
+
+- [**http://safeweb.norton.com**](http://safeweb.norton.com/)
+- [**www.urlvoid.com**](http://www.urlvoid.com/)

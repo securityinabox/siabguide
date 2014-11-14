@@ -1,0 +1,33 @@
+Object_type: Tool
+Tool: Firefox and Security Add-Ons
+Platform: Microsoft Windows
+Need: Secure Web Browsing
+Website: https://www.mozilla.org/en-US/firefox/new/
+Download: https://www.mozilla.org/en-US/firefox/new/
+Version: 24.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Google Chrome](http://www.google.com/chrome/) for GNU Linux, Mac OS and Microsoft Windows (less recommended); [Opera](http://www.opera.com/) for GNU Linux, Mac OS and Microsoft Windows (less recommended)
+Comment: read 03-firefox-premise before installing and using this tool
+Required_reading:
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install Firefox
+
+Installing **Firefox** is a simple and straightforward process. To begin installing **Firefox**, perform the following steps:
+
+## Step 1
+
+**Double click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-01.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-02.png) to activate the *Extracting* progress status bar. 
+
+*A few moments later, the The Welcome to the Firefox Setup Wizard window will appear.* 
+
+## Step 2
+
+**Follow** the steps in the guided installation process, and simply accept the default options and settings.
+
+**Note**: Do not change the default options and settings unless you know what you are doing and why you are doing so.

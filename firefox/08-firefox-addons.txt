@@ -1,0 +1,179 @@
+Object_type: Tool
+Tool: Firefox and Security Add-Ons
+Platform: Microsoft Windows
+Need: Secure Web Browsing
+Website: https://www.mozilla.org/en-US/firefox/new/
+Download: https://www.mozilla.org/en-US/firefox/new/
+Version: 24.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Google Chrome](http://www.google.com/chrome/) for GNU Linux, Mac OS and Microsoft Windows (less recommended); [Opera](http://www.opera.com/) for GNU Linux, Mac OS and Microsoft Windows (less recommended)
+Comment: read 03-firefox-premise before installing and using this tool
+Required_reading:
+Group: Advanced Usage 
+Title: Add-ons
+Language: EN
+
+
+# The NoScript Add-On
+
+![NoScript](/sites/siabnext.ttc.io/files/media/noscript_logo.png)
+
+**NoScript** is a particularly useful **Mozilla Add-on** that can help protect your computer from malicious websites on the Internet. It operates by implementing a 'white list' of sites that you have determined as acceptable, safe or trusted (like a home-banking site or an on-line journal). All other sites are considered potentially harmful and their functioning is restricted, until you have determined that the content of a particular site presents no harm; at this point, you may add it to the white list. 
+
+**NoScript** will automatically start blocking all banners, pop-up advertisements, **JavaScript** and **Java** code, as well as other potentially harmful web site attributes. **NoScript** cannot differentiate between harmful content and content necessary to correctly display a web site. It is up to you to make exceptions for those sites with content that you think is safe.
+
+## Use the NoScript Add-On
+
+Before you begin using **NoScript** ensure that it was successfully installed by **selecting Tools > Add-ons** to activate the *Add-ons* window and confirm that it has been installed.
+
+**Tip**: Although **NoScript** might seem a little frustrating at first (as the websites you have always visited may not display properly), you will immediately profit from the automated object-blocking feature. This will restrict pesky advertisements, pop-up messages and malicious code built (or hacked) into web pages.  
+
+**NoScript** will run silently in the background until it detects the presence of **JavaScript**, **Adobe Flash** or other script-like content. At that point **NoScript** will block this content and status bar will appear on the bottom of the **Firefox** window as follows: 
+
+![NoScript status bar](/sites/siabnext.ttc.io/files/media/firefox-win-50.png)
+
+*Figure 1: The NoScript status bar*
+
+The **NoScript** status bar displays information about which *objects* (for example, advertisements and pop-up messages) and *scripts* are currently prevented from executing themselves on your system. The following two figures are prime examples of **NoScript** at work: In *Figure 2*, **NoScript** has successfully blocked an advertisement created in **Adobe Flash Player** on a commercial website. 
+
+![NoScript blocking pop-up advertisement](/sites/siabnext.ttc.io/files/media/firefox-win-51.png)
+
+*Figure 2: An example of NoScript blocking a pop-up advertisement in a commercial site*
+
+In *Figure 3*, the **Twitter** web site notifies you that **JavaScript** must be enabled (at least temporarily) to view this web site. 
+
+![Twitter web site requesting that JavaScript be enabled](/sites/siabnext.ttc.io/files/media/firefox-win-52.png)
+
+*Figure 3: The Twitter web site requesting that JavaScript be enabled*
+
+Since **NoScript** does not differentiate between malicious and real code, certain key features and functions (for instance, a tool bar) may be missing. Some web pages present content, including script-like content, from more than one website. For example, a website like **www.twitter.com** has two sources of scripts (*twitter.com* and *twimg.com*): 
+
+![NoScript status bar Options](/sites/siabnext.ttc.io/files/media/firefox-win-53.png)
+
+*Figure 4: An example of the NoScript status bar Options menu*
+
+To unblock scripts in these circumstances, start by **selecting** the *Temporarily Allow [website name]* option (in this instance, *Temporarily allow twitter.com*). However, if this does not allow you to view the page you may determine, through a process of trial and error, the minimum number of websites required to view your chosen content. For instance, on **Twitter**, you must **select** the *Temporarily allow twitter.com* and *Temporarily allow twimg.com* options, in order for **Twitter** to work.
+
+**Warning**! Under **no** circumstances should you ever select the *Allow Scripts Globally (dangerous)* option. As far as possible, avoid selecting the *Allow all from this page* option. Occasionally, you may have to permit all scripts; in this situation, ensure that you only do this temporarily for sites you really trust, that is, until the end of your on-line session. It only takes a *single* injection of malicious code to compromise your on-line privacy and safety. 
+
+For websites that you trust and frequently visit, **select** the *Allow [website name]* option. (In the example above, *Allow twitter.com* and *Allow twimg.com* have been selected). Selecting this option permits **NoScript** to permanently list that website as trusted.
+
+# Useful Firefox Add-Ons
+
+The **Mozilla Firefox Add-ons** featured in this section are designed to enhance or protect the anonymity, privacy and security of your browsing sessions. To download them, please refer to the [**Downloading Firefox**](/en/firefox_main) section.
+
+## HTTPS Everywhere
+
+![HTTPS Everywhere](/sites/siabnext.ttc.io/files/media/firefox-win-101.png)
+
+**HTTPS Everywhere** is a **Mozilla Firefox** extension ensuring that you always communicate with specified list of websites over an encrypted (*https*) channel. Although many websites do offer encryption, they tend default to an unencrypted http address. The **HTTPS Everywhere** extension fixes these problems by rewriting all your requests to these sites to the **HTTPS** protocol. It runs silently in the background, ensuring that your Internet sessions with those selected sites are safe and secure. However, it works *only* when those sites are using the **HTTPS** protocol themselves.
+
+After the **HTTPS Everywhere** extension has been successfully installed, the following screen will appear:
+
+![Should HTTPS Everywhere Use the SSL Observatory?](/sites/siabnext.ttc.io/files/media/firefox-win-75.png)
+
+*Figure 1: The Should HTTPS Everywhere Use the SSL Observatory? prompt screen* 
+
+#### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-76.png) to activate the following screen: 
+
+![SSL Observatory Preferences](/sites/siabnext.ttc.io/files/media/firefox-win-77.png)
+
+*Figure 2: The SSL Observatory Preferences screen* 
+
+**Note**: If there has been a previous installation of **HTTPS Everywhere** on your **Firefox** browser, **select Tools > HTTPS Everywhere > SSL Observatory Preferences** and verify that the *Use the Observatory* and *When you see a new certificate, tell the Observatory which ISP you are connected to* options are enabled. If you are not using **Tor**, **enable** the *Check certificates even if Tor is not available* option as well.
+
+## Adblock Plus
+
+![Adblock Plus](/sites/siabnext.ttc.io/files/media/firefox-win-102.png)
+
+**Adblock Plus** is a content filtering extension designed to limit or restrict the ability of ads to display themselves. 
+
+After **Adblock Plus** has been successfully installed, the following page will be launched: 
+[**chrome://adblockplus/content/ui/firstRun.html**](chrome://adblockplus/content/ui/firstRun.html)
+ 
+![Adblock Plus chrome content](/sites/siabnext.ttc.io/files/media/firefox-win-60.png)
+
+*Figure 3: The Adblock Plus chrome content page*
+
+#### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-61.png) so that it changes to ![](/sites/siabnext.ttc.io/files/media/firefox-win-62.png) for the *Malware Blocking*, *Remove Social Media Buttons* and *Disable Tracking* options (as shown in *Figure 1* above).
+
+#### Step 2
+
+**Select Tools > Adblock Plus > Filter preferences...** to activate the following window:
+
+![Add Adblock Plus Filter Preferences with 3 filter subscriptions](/sites/siabnext.ttc.io/files/media/firefox-win-63.png)
+
+*Figure 4: The Add Adblock Plus Filter Preferences displaying three filter subscriptions*
+
+#### Step 2
+
+**Click** each filter subscription checkbox to enable it (as shown in *Figure 2* above), and then **disable** the ![](/sites/siabnext.ttc.io/files/media/firefox-win-64.png) option, to prevent *all* advertisements described or listed in these filters from displaying themselves.
+
+#### Step 3
+
+If you work in multiple languages, **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-65.png) to view different filter subscriptions, then **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-66.png) to activate a drop-down list of different subscription filters, **select** the appropriate one, and then **click**  ![](/sites/siabnext.ttc.io/files/media/firefox-win-67.png).
+
+#### Step 4
+
+To update your filter subscriptions, **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-68.png), and then **select** the *Update filters* item from the pop-up menu.
+
+## Beef Taco (Targeted Advertising Cookies Opt-Out)
+
+![Beef Taco](/sites/siabnext.ttc.io/files/media/firefox-win-103.png)
+
+**Beef Taco** is a **Mozilla Firefox** add-on which lets you manage cookies associated with advertising from a variety of companies, among them **Google**, **Microsoft** and **Yahoo**. It can be configured to delete cookies known as **Targeted Advertising Cookies Opt-Out** automatically. However, it also permits **Experienced** and **Advanced** users to specify in a more detailed way which cookies are permitted to reside on your system, and which to be eliminated.
+
+## Better Privacy
+
+![Better Privacy](/sites/siabnext.ttc.io/files/media/firefox-win-104.png)
+
+**Better Privacy** is a **Mozilla Firefox** add-on which helps to protect your system from a special cookies referred to as an **LSO** (**Local Shared Objects**) which may be placed on your computer by a **Flash** script. Those cookies are not removed by the standard **Firefox** cleaning procedure for cookies.
+
+## Other Useful Firefox Add-Ons
+
+This section describes a number of useful add-ons and extensions that are free, open-sourced (or in the process of becoming so) add-ons and extensions, that can enhance or extend your ability to browse the Web in a private and secure manner.
+
+### Cryptocat
+
+[![Cryptocat](/sites/siabnext.ttc.io/files/media/firefox-win-105.png)](https://addons.mozilla.org/en-us/firefox/addon/cryptocat/)
+
+**Cryptocat** is an open source encrypted, private Instant Messaging add-on that works in your browser. Thus in certain situations it maybe easier to use than other comparable text chat software. **Cryptocat** lets you create a virtual chat room where you can chat with all members, or have private, one-to-one conversations with individual participants. All chats are encrypted and decrypted in the users browser before sending and after receiving. **Cryptocat** is available as browser extension for **Mozilla Firefox**, **Google Chrome** and **Apple Safari** and also as a **Mac OS X** app. [**Read more...**](https://crypto.cat/)
+
+### Disconnect
+
+[![](/sites/siabnext.ttc.io/files/media/firefox-win-106.png)](https://addons.mozilla.org/en-us/firefox/user/disconnect/)
+
+**Disconnect** is designed to keep your data safe from third-party web trackers, while analysing trackers and sorting them into different groups, for instance, advertisers, analytics and social ones. [**Read more...**](https://www.disconnect.me/)
+
+### DuckDuckGo
+
+[![DuckDuckGo](/sites/siabnext.ttc.io/files/media/firefox-win-107.png)](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-ssl/)
+
+**DuckDuckGo** is designed to provide a private and safe alternative to Internet search engines such as **Google** or **Bing**. **DuckDuckGo** neither records nor shares user information, and all users have access to the same information. Either go directly to the [**DuckDuckGo**](https://duckduckgo.com/) website, or **click** the **DuckDuckGo** icon to install it as your default search engine in the search bar.
+
+### vtzilla
+
+[![vtzilla](/sites/siabnext.ttc.io/files/media/firefox-win-108.png)](https://addons.mozilla.org/en-us/firefox/addon/vtzilla/)
+
+**vtzilla** is a **Mozilla Firefox** browser extension designed to scan downloads and websites for malware and viruses. After the **vtzilla** extension has been successfully installed, the **vtzilla** toolbar (which can be toggled on and off) appears beneath the **Firefox** navigation toolbar. Simply copy and paste, or type a website address into the **vtzilla** search box, and your search request will be directed to **Virus Total**, a website that directs more than 40 different malware or virus scanners to the specified link or website. Additionally, **vtzilla** reduces the risk of infection by adding yet another level of protection to an existing anti-virus program (for instance [**avast!**](https://securityinabox.org/en/avast_main)), by scanning your downloadable files. [**Read more...**](https://www.virustotal.com/en/documentation/browser-extensions/).
+
+### ShareMeNot
+
+[![](/sites/siabnext.ttc.io/files/media/firefox-win-109.png)](https://addons.mozilla.org/en-us/firefox/addon/sharemenot/)
+
+**ShareMeNot** is designed to prevent third-party buttons (such as the Facebook “Like” button or the Twitter “tweet” button) embedded by sites across the Internet from tracking you, until you actually click on them. [**Read more...**](http://sharemenot.cs.washington.edu/.)
+
+### Click&Clean
+
+[![](/sites/siabnext.ttc.io/files/media/firefox-win-110.png)](https://addons.mozilla.org/en-US/firefox/addon/clickclean/) 
+
+**Click&Clean** is designed to automatically delete private data upon closing **Firefox**; this includes clearing records from your download history, deleting browsing history, and removing cookies, including **Flash Local Shared Objects** (**LSO**). It also deletes temporary files and empties your local cache. 
+
+**Note**: Alternatively, users may also consider using external applications, like [**CCleaner**](https://securityinabox.org/en/ccleaner_main), **Wise Disk Cleaner** etc. on **Windows** operating systems, or **Janitor** or **BleachBit** on **Linux**.
+

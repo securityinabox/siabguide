@@ -1,0 +1,21 @@
+Object_type: Tool
+Tool: Firefox and Security Add-Ons
+Platform: Microsoft Windows
+Need: Secure Web Browsing
+Website: https://www.mozilla.org/en-US/firefox/new/
+Download: https://www.mozilla.org/en-US/firefox/new/
+Version: 24.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Google Chrome](http://www.google.com/chrome/) for GNU Linux, Mac OS and Microsoft Windows (less recommended); [Opera](http://www.opera.com/) for GNU Linux, Mac OS and Microsoft Windows (less recommended)
+Comment: read 03-firefox-premise before installing and using this tool
+Required_reading:
+Group: FAQ 
+Title: FAQ
+Language: EN
+
+
+***Q***: Why would I want so many different add-ons to defend myself against malicious websites? If **NoScript** protects me from potentially dangerous scripts, for example, why do I also need other add-ons which function in a similar way?
+
+***A***: It is often a good idea to use more than one tool to address the same general security issue. (Anti-virus programs are an important exception to this rule, since they tend to conflict with one another.) These **Firefox** add-ons use very different techniques to protect your browser from a variety of threats. **NoScript**, for example, blocks all scripts from unknown websites, but users tend to 'whitelist' the websites they visit frequently, which allows them to load potentially-malicious scripts. **NoScript** users also tend to allow unknown sites to load scripts, on a temporary basis, if those scripts are necessary for the page to function properly.

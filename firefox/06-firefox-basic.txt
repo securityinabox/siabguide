@@ -1,0 +1,169 @@
+Object_type: Tool
+Tool: Firefox and Security Add-Ons
+Platform: Microsoft Windows
+Need: Secure Web Browsing
+Website: https://www.mozilla.org/en-US/firefox/new/
+Download: https://www.mozilla.org/en-US/firefox/new/
+Version: 24.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Google Chrome](http://www.google.com/chrome/) for GNU Linux, Mac OS and Microsoft Windows (less recommended); [Opera](http://www.opera.com/) for GNU Linux, Mac OS and Microsoft Windows (less recommended)
+Comment: read 03-firefox-premise before installing and using this tool
+Required_reading:
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Firefox Add-Ons
+
+In the context of **Mozilla** products, an add-on is simply a lightweight software program which adds new features or extends existing functionality. As such, add-ons are sometimes referred to as *extensions*. For instance, the **NoScript** add-on extends **Firefox** functionality to block scripts from defined servers. 
+
+A **plugin** is essentially a piece of software usually designed by a third party to enable the use of their software within **Firefox** browser. An example of a common plugin would be the **Flash** plugin designed to display **Adobe Flash** content within the **Firefox** browser window.
+
+## Install Firefox Add-Ons
+
+Downloading and installing **Mozilla Add-ons** is quick and simple. To begin downloading and installing different add-ons, perform the following steps: 
+
+### Step 1
+
+**Select Start > Mozilla Firefox** or **double-click** the **Firefox** desktop icon to open **Firefox**. 
+
+### Step 2
+
+**Type** [**https://addons.mozilla.org/**](https://addons.mozilla.org/) into the **Firefox** address bar, and then **press** *Enter* to activate the **Mozilla Add-ons for Firefox** site.
+
+### Step 3
+
+**Type** the name of the add-on into the **Mozilla** search field (the **Adblock Plus** add-on is used in this example) as follows:
+
+![Mozilla Firefox Add-ons Search bar displaying Adblock Plus](/sites/siabnext.ttc.io/files/media/firefox-win-20.png)
+
+*Figure 1: The Mozilla Firefox Add-ons Search bar displaying Adblock Plus* 
+
+### Step 4
+
+Either **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-21.png) or **press** *Enter* to display the following screen:
+
+![Search Results for Adblock Plus](/sites/siabnext.ttc.io/files/media/firefox-win-22.png)
+
+*Figure 2: The Search Results for Adblock Plus pane*
+
+**Tip**: The green *Add to Firefox* button only appears when the cursor is placed within a specified add-on section. 
+
+### Step 5
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-23.png) to activate the following screens:
+
+![](/sites/siabnext.ttc.io/files/media/firefox-win-24.png)
+
+*Figure 3: The Adblock Plus :: Search :: Add-ons for Firefox - Mozilla Firefox window*
+
+### Step 6
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-25.png) to activate the following windows:
+
+![Adblock Plus :: Search](/sites/siabnext.ttc.io/files/media/firefox-win-26.png)
+
+*Figure 4: The Adblock Plus :: Search :: Add-ons for Firefox - Mozilla Firefox with a pop-up warning*
+
+![Adblock Plus Software Installation](/sites/siabnext.ttc.io/files/media/firefox-win-27.png)
+
+*Figure 5: The Adblock Plus Software Installation window*
+
+### Step 7
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-28.png) after it becomes enabled, to begin installing the add-on; after the installation has been completed, the following screen will appear:
+
+![Adblock plus :: Search - pop-up notification](/sites/siabnext.ttc.io/files/media/firefox-win-29.png)
+
+*Figure 6: The Adblock plus :: Search :: Add-ons for Firefox - Mozilla Firefox with a pop-up notification*
+
+**Tip**: Many add-ons and extensions currently require that **Firefox** be restarted to successfully install them. **Click** either ![](/sites/siabnext.ttc.io/files/media/firefox-win-30.png) or ![](/sites/siabnext.ttc.io/files/media/firefox-win-31.png), to **select** the *Not Now* item if you prefer to restart **Firefox** later. 
+
+### Step 8
+
+**Select** *Add-ons* item in the *Tools* menu in the **Firefox** menu bar, to activate the following screen:
+
+![Tools - Add-ons item selected](/sites/siabnext.ttc.io/files/media/firefox-win-32.png)
+
+*Figure 7: The Tools menu with the Add-ons item selected*
+
+![Add-ons Manager tab with newly installed Adblock Plus](/sites/siabnext.ttc.io/files/media/firefox-win-33.png)
+
+*Figure 8: The Add-ons Manager tab displaying the newly installed Adblock Plus add-on*
+
+**Important**: **Do not install add-ons from unknown sources.** Instead, always install add-ons from the [**https://addons.mozilla.org/**](https://addons.mozilla.org/) web site for improved security.
+
+## Disable or Remove Firefox Add-Ons
+
+The *Add-ons* tab displays all installed add-ons as shown in *Figure 8*. Any **Mozilla** add-on can be either temporarily disabled by **clicking** ![](/sites/siabnext.ttc.io/files/media/firefox-win-34.png) or completely removed by **clicking** ![](/sites/siabnext.ttc.io/files/media/firefox-win-35.png). However, in some instances **Firefox** *must* be restarted for the changes to take effect.
+
+## Update Mozilla Add-ons
+
+Every so often, the various add-ons designed for use must be updated to be compatible or current with the latest version of **Firefox**. Depending on your connection speed, you may choose to either update these add-ons automatically or manually. 
+
+### Step 1
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-36.png) to activate its associated menu, and then **select** *Check for updates* item to manually update your add-ons as shown in *Figure 9* below. 
+
+![](/sites/siabnext.ttc.io/files/media/firefox-win-37.png)
+
+*Figure 9: The Add-ons Manager update button displaying its associated drop-down list*
+
+### Step 2
+
+Alternatively, **select** the *Update Add-ons Automatically* item to update your add-ons automatically as shown in *Figure 9 above*.
+
+## Update Mozilla Plugins
+
+Given that a few plugins may not automatically update themselves, users are strongly recommended to check for the latest updates of **Mozilla Plugins**. 
+
+To manually check for updates of plugins, perform the following steps:
+
+### Step 1
+
+**Click** [**https://www.mozilla.com/plugincheck**](https://www.mozilla.com/plugincheck) to activate the following site:
+
+![Mozilla Firefox Plugin Check & Updates site](/sites/siabnext.ttc.io/files/media/firefox-win-38.png)
+
+*Figure 10: The Mozilla Firefox Plugin Check & Updates site*
+
+### Step 2
+
+**Address** each plugin issue presented on the web page, indicated by the status on the button as follows:
+
+- For plugins displaying ![](/sites/siabnext.ttc.io/files/media/firefox-win-39.png) we **strongly** recommend that you *immediately* update them by clicking this button, and follow its instruction page. (Alternatively, please follow the steps after this list of buttons to disable or remove obsolete plugins.) 
+
+- For plugins displaying ![](/sites/siabnext.ttc.io/files/media/firefox-win-45.png), consider disabling or removing them unless the plugins are required and updated individually.
+
+- For plugins displaying ![](/sites/siabnext.ttc.io/files/media/firefox-win-47.png), review them individually to determine which are required, and disable or remove those which are unknown or unnecessary.
+
+To **disable** an unknown plugin or one that is no longer required, perform the following steps:
+
+### Step 1
+
+**Select Tools > Add-ons** to activate the *Add-ons Manager* tab. 
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-40.png) to reveal a complete list of **Mozilla Firefox** plugins, identify the plugin you would like to disable, and then **click**  ![](/sites/siabnext.ttc.io/files/media/firefox-win-34.png).
+
+To **remove a plugin** from your computer:
+
+### Step 1
+
+**Click Start > Control Panel**.
+
+### Step 2
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-41.png).
+
+### Step 3
+
+**Select** the relevant program from the window, and then **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-43.png). 
+
+Repeat these steps until all the issues on the *Plugin Check & Updates* page are resolved. It is *absolutely essential* that you search for updates on a **monthly basis** at minimum. Plugins are constantly being improved and upgraded to deal with all manner of evolving security problems. 
+
+**IMPORTANT**: **Adobe Flash** and **Oracle Java** are known to contain many security vulnerabilities that may let remote users assume control of your computer, and install spyware to access or monitor all your communication and data. It is **strongly** advised that you uninstall both of those programs from your computer(s), or at least disable their associated plugins in **Firefox**. For more information about how to disable or remove Java, please refer to [steps to disable Java for all browsers on your computer](https://www.java.com/en/download/help/disable_browser.xml) or [guide on how to uninstall Java from your computer](https://www.java.com/en/download/help/uninstall_java.xml).
