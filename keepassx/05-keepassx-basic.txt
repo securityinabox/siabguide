@@ -1,0 +1,208 @@
+Object_type: Tool
+Tool: KeePassX
+Platform: Microsoft Windows
+Need: Secure password storage
+Website: https://www.keepassx.org/
+Download: https://www.keepassx.org/releases/KeePassX-0.4.3-win32.zip
+Version: 0.4.3
+License: Free/Open Source Software
+System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
+Admin: false
+Alternatives: 
+Comment:
+Required_reading: How-to Booklet chapter 3. [How to create and maintain good passwords](https://securityinabox.org/chapter-3)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Edit an existing entry
+
+You may edit an existing KeePassX entry at any time. You can change your password or modify other information about the relevant application or service. In the example below, we add a *Comment* to the entry we just created. It is generally considered good security practice to change your passwords every three to six months. **Remember to set your new password in the relevant application or service (such as an email account) before changing it in KeePassX.** Otherwise, you might have to go find a backup of your KeePassX database in order to sign in using the *current* password that you were *about to change*.
+
+## Step 1
+
+![Main Window - select database(https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-edit.001.edit-entry-select-en-win.png)
+
+1. Click on the category that contains the entry you want to edit
+2. Click on the Title of the entry you want to edit
+* If you double-click on the title of the entry you want to edit, it will automatically display the Edit screen, and you can skip the next Step
+
+## Step 2
+
+![Entries menu](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-edit.002.edit-entry-edit-en-win.png)
+
+1. Click *Entries*
+2. Click *View/Edit Entry*
+* *Ctrl-E* is the shortcut key combination for *Entries > View/Edit Entry*
+
+## Step 3
+
+![Entry](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-edit.003.edit-modify-en-win.png)
+
+1. Make changes to the entry. In this example, we added a brief *comment*
+2. Click *OK*
+
+## Step 4
+
+![Save database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-edit.004.edit-entry-save.png)
+
+* Note the small asterisk (*) that has re-appeared in the KeePassX title bar. This means unsaved changes have been made. After you follow the instructions below, it should disappear
+1. Click *File*
+2. Click *Save Database*
+* *Ctrl-S* is the shortcut key combination for *File > Save Database*
+
+# Lock and minimise KeePassX
+
+## Step 1
+
+![File menu](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-minimize.001.lock_.en_.win_.png)
+
+1. Click *File*
+2. Click *Lock Workspace*
+* *Ctrl-L* is the shortcut key combination for *File > Lock Workspace*
+* If you have any unsaved changes, KeePassX will prompt you to save them before locking the workspace
+
+## Step 2
+
+![Workspace is locked](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-minimize.002.minimize-locked.en_.win_.png)
+
+1. This is what KeePassX looks like with a locked workspace
+2. Click the *Minimize* button in the upper right-hand corner of the window. The KeePassX window will disappear, but the application is still running
+3. Or, if you want to unlock your workspace instead of minimizing KeePassX, just click the *Unlock* button and the master password screen will appear
+
+## Step 3
+
+![KeePassX icon in Windows taskbar](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-minimize.003.taskbar-en-win.png)
+
+1. To restore KeePassX when it is minimized, click the KeePassX icon in the Windows Taskbar.
+
+## Step 4
+
+![master password screen](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-minimize.004.passphrase.en_.win_.png)
+
+* If the workspace was locked when KeePassX was minimized, it will automatically display the master password screen when you restore it.
+1. Type in your master passphrase
+2. Click *OK*
+
+## Step 5
+
+![minimize KeePassX](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-minimize.005.minimize.en_.win_.png)
+
+* Now, minimize KeePassX without first locking the workspace
+1. Click the *minimize* button in the upper right-hand corner
+
+## Step 6
+
+![Windows Taskbar](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-minimize.003.taskbar-en-win_0.png)
+
+1. As before, restore KeePassX by clicking the icon in the Windows Taskbar
+
+## Step 7
+
+![Main Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-minimize.006.restored.en_.win_.png)
+
+* **Note that KeePassX did not ask you for the master passphrase this time! Remember that just minimizing KeePassX is not enough to lock it. Your passwords are only protected if you do one of the following:**
+  * Lock your workspace (*Ctrl-L*)
+  * Close your KeePassX database (*Ctrl-W*), or
+  * Quit KeePassX entirely (*Ctrl-Q*)
+
+# Sign in to an online service using KeePassX
+
+Most strong passwords are difficult to memorise. KeePassX allows you to copy a password from the database and paste it into whatever application or online service requires it. For greater security, the copied password will only remain in *clipboard* memory for about 20 seconds. As a result, you might want to have the relevant application or website ready and waiting, at the login screen, before you begin to follow the steps below. That way, you will be able to paste in the necessary password more quickly.
+
+## Step 1
+
+![Main Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-use.001.url-en-win.png)
+
+1. Click on the group containing the entry you want to use
+2. Double click the Web address in the *URL* column of the entry you want to use
+
+## Step 2
+
+![webpage](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-use.002.browser-en-win.png)
+
+* This will open your Web browser, if it is not already open, and load the webpage that you assigned to the *URL* field in your KeePassX account entry
+1. You can also load the webpage yourself, then proceed from the following step
+* And, of course, KeePassX works for application passwords, encryption keys, "security questions," and other sensitive data, such as ID numbers, dates of birth, etc. Not all of your entries will have a *URL* field (or even a *username*)
+
+## Step 3
+
+![Main Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-use.003.copy-username-en-win.png)
+
+1. Double click the (hidden) username in the *Username* column of the same entry. This will copy your username to your device's "clipboard" so you can paste it into your Web browser. (You can also do this by selecting the appropriate entry and pressing the *Ctrl-B* shortcut key combination)
+* With its default settings, KeePassX will give you 20 seconds to switch back to your Web browser and paste this username into the appropriate login field. After 20 seconds, it will be wiped from your computer's "clipboard" in order to prevent someone from learning your username (and, more importantly, your password) by pasting them into a blank document if they find your device unattended. If you don't get there in time, just try again. You will get faster with practice
+* Switch to your Web browser. (You can do this by clicking on the browser window, clicking the appropriate tab in the Windows Taskbar or using the *Alt-Tab* key combination to select your browser.)
+
+## Step 4
+
+![Paste Username](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-use.004.paste-username-en-win.png)
+
+1. Right-click anywhere in the (empty) *Username* field of the login screen
+Click *Paste*. If this option is not available, it is probably for one of two reasons. Either:
+
+  * You did not successfully copy the password, or
+  * You took longer than 20 seconds to paste it here.
+
+If this happens, just go back a Step and try again
+
+* The normal shortcut key combination for *Paste* is *Ctrl-V*, and it works fine on most login screens
+
+## Step 5
+
+![Main Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-use.005.pasted-username-en-win.png)
+
+1. Your username should appear in the field where you pasted it.  
+* **If a bunch of gibberish appears instead of your username, you probably copied and pasted your password by accident. (Unless somebody with very good eye sight and a very good memory is watching you very closely...you're probably fine. Just delete it and go back a couple Steps)**
+* You might find it faster to just to type in your username manually (or allow the Web site to "remember" it) and use KeePassX only to manage your passwords. On the other hand, if you have multiple "anonymous" accounts under different usernames, you might find this feature quite helpful
+* Switch back to your KeePassX window
+
+## Step 6
+
+![Copy password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-use.006.copy-pwd-en-win.png)
+
+1. Double click on the (hidden) password value in the *Password* column of the entry you are using
+* You can also do this by selecting the appropriate entry and pressing the normal shortcut key combination for *copy*, which is *Ctrl-C*
+* Once again, you have 20 seconds to paste this value into the password field of the login screen. After that, it will be wiped from your computer's clipboard
+* Switch back to your Web browser
+
+## Step 7
+
+![Paste password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-use.007.paste-pwd-en-win.png)
+
+1. Right-click anywhere in the (empty) *Password* field of the login screen
+2. Click *Paste*
+* The normal shortcut key combination for *paste* is Ctrl-V*, and it works fine on most login screens
+
+## Step 8
+
+![Login](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-use.008.pasted-pwd-en-win.png)
+
+1. A hidden representation of your password should appear in the field where you pasted it
+2. Click *Login* (or *Sign in* or whatever the *Submit* button on this particular password screen happens to be called)
+* If KeePassX contains the correct password for this account entry, and if you copied the right value and pasted it into the right place, you should now be logged in!
+
+# Change your master passphrase
+
+## Step 1
+
+![File menu](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-change-pwd.001.png)
+
+* You should change your master passphrase from time to time, especially if you think some device on which you have used KeePassX may have been infected with malware
+1. Click *File*
+2. Click *Change Master Key*
+
+## Step 2
+
+![Change mas](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-change-pwd.002.png)
+
+1. Type in your new master passphrase
+2. Click *OK*
+
+## Step 3
+
+![Save Database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-change-pwd.003.png?t=1416222709105)
+
+1. Click *File*
+2. Click *Save Database*
+* *Ctrl-S* is the shortcut key combination for *File > Save Database*

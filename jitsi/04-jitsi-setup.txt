@@ -1,0 +1,313 @@
+Object_type: Tool
+Tool: Jitsi
+Platform: Microsoft Windows
+Need: Secure communication
+Website: https://jitsi.org
+Download: https://jitsi.org/Main/Download
+Version: 2.4
+License: Free/Open Source Software
+System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
+Admin: false
+Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
+Comment:
+Required_reading:
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Add an existing IM account to Jitsi
+
+## Step 1
+
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+1. Click *File*
+
+2. Click *Add new account*
+
+## Step 2
+
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.005.en-win.png)
+
+1. For this example, we will use a Google Talk account, but you can use almost any popular instant messaging service (except *Skype*)
+
+1. Select the appropriate IM service (*Google Talk* in this case) from the *Network* selector
+
+2. Type in your username
+
+3. Type in your passphrase
+
+4. Click *Add*
+
+## Step 3
+
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+* Once again, Jitsi will sign you in and display the main application window.
+
+* We will now confirm that this account has been added to Jitsi
+
+1. Click *Tools*
+
+2. Click *Options*
+
+## Step 4
+
+![Options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.006.en-win.png)
+
+1. Click on *Accounts* if necessary
+
+2. Your new IM account is shown here. Jitsi will remember it, and you can sign in just by entering your passphrase
+
+3. Click the red "X" in the upper right-hand corner to close the *Options* screen
+
+# Use Jitsi to create a new IM account
+
+## Step 1
+
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+* If you do not already have an account with an IM service (or if you do not want to use any of those you already have), Jitsi can help you create a new one. The account will be added to Jitsi at the same time.
+
+1. Click *File*
+
+2. Click *Add new account*
+
+## Step 2
+
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.008.en-win.png)
+
+* In this example, we will create an account on an IM service run by the Chaos Computer Club (CCC), but most free XMPP services (also known as *Jabber* services) allow you to create accounts this way
+
+1. Select *XMPP* from the network selector
+
+2. Select Create a new *XMPP* account
+
+3. Type in "jabber.ccc.de" for the account *Server*
+
+* Continue to the next Step
+
+## Step 3
+
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.008.en-win.png)
+
+1. Choose and type in a unique username (in this case *terrence.the.tester*)
+
+2. Choose a and type in a strong passphrase
+
+**This might be a good time to have KeePassX generate an extremely strong password for you. If you do, just paste it in here, and then again below. (And remember to save your updated KeePassX database!)**
+
+3. Confirm your passphrase
+
+4. Click *Add*
+
+## Step 4
+
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+* Unless your chosen username was already taken, three things will have happened simultaneously:
+
+  1. Your account has been created on the *XMPP/Jabber* IM service
+  2. That account has been added to Jitsi
+  3. You have been signed into that account
+
+# Create a SIP Voice-over-IP (VoIP) account and add it to Jitsi
+
+## Step 1
+
+![Ostel website](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009a.en-win.png)
+
+Go to the  [Ostel](https://ostel.co "Ostel") website
+
+1. Click *Sign Me Up!*
+
+## Step 2
+
+![Ostel Sign-up form](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009b.en-win_0.png)
+
+1. Type in an email address. You will use this email address if you need to access the ostel.co website to manage your SIP account
+
+2. Click *Sign up*
+
+## Step 3
+
+![Pick a Code Name](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009c.en-win.png)
+
+1. Type in a *code name* (a username) for your *Ostel* SIP account
+
+2. Choose and type in a strong passphrase for your *Ostel* SIP account
+
+**This might be a good time to have KeePassX generate an extremely strong password for you. If you do, just paste it in here, and then again below. (And remember to save your updated KeePassX database!)**
+
+3. Confirm your passphrase
+
+4. Click *Create my account*
+
+## Step 4
+
+![Welcome to Ostel](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009d.en-win.png)
+
+* You now have an *Ostel* SIP account!
+
+* Switch back to Jitsi
+
+## Step 5
+
+![Main Account Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+* We will now add your new *Ostel* account to Jitsi
+
+1. Click *File*
+
+2. Click *Add new account*
+
+## Step 6
+
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009.en-win.png)
+
+1. Select *SIP* from the Network selector
+
+2. Type in your *Ostel* username. Be sure to include "@ostel.co" at the end, as shown here
+
+3. Type in your *Ostel* passphrase
+
+4. Click *Add*
+
+## Step 7
+
+* Your *Ostel* account has now been added to Jitsi, and you should be signed in
+
+# Add an existing Facebook messaging account to Jitsi
+
+## Step 1
+
+* If you have not already set a username for your Facebook account, you can do so by following these Steps
+
+## Step 2
+
+![Main Account Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+1. Click *File*
+
+2. Click *Add new account*
+
+## Step 3
+
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.010.en-win.png)
+
+1. Select *Facebook* from the Network selector
+
+2. Type in your Facebook username
+
+3. Type in your Facebook passphrase
+
+4. Click Add
+
+# Use Jitsi to change an IM account passphrase
+
+## Step 1
+
+![Main Account Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+1. Click *Tools*
+
+2. Click *Options*
+
+## Step 2
+
+![Options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.011.en-win.png)
+
+1. Click *Accounts* if necessary
+
+2. Click *Edit*
+
+## Step 3
+
+![Account Registration Wizard](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.012.en-win.png)
+
+1. Click *Change account password*
+
+## Step 4
+
+![Change Account Password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.013.en-win.png)
+
+1. Type in your new passphrase
+
+**This might be a good time to have KeePassX generate an extremely strong password for you. If you do, just paste it in here, and then again below. (And remember to save your updated KeePassX database!)**
+
+2. The Password *quality meter* will fill up according to the strength of the new passphrase you have entered
+
+3. Confirm your new passphrase
+
+4. Click OK
+
+# Security: Protect your accounts with a master passphrase
+
+## Step 1
+
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+1. Click *Tools*
+
+2. Click *Options*
+
+## Step 2
+
+![Options - Security](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.020.en-win.png)
+
+1. Click the *Security* button
+
+2. Click the *Passwords* tab
+
+3. Check the *Use a master password* box. This will display the *Master Password* screen
+
+## Step 3
+
+![Master Password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.019.en-win.png)
+
+1. Choose and type in a strong master passphrase
+
+*This might be a good time to have KeePassX generate an extremely strong password for you. If you do, just paste it in here, and then again below. (And remember to save your updated KeePassX database!)*
+
+2. The *Password quality meter* will fill up according to the strength of the new passphrase you have entered
+
+3. Confirm your new master passphrase
+
+4. Click *OK*
+
+## Step 4
+
+* Jitsi should display the message shown here
+
+1. Click OK
+
+## Step 5
+
+![Options - Security - Change Master Password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.020.en-win.png)
+
+* In the future, to change your master passphrase, just come back to this screen and click the *Change Master Password* button
+
+1. Click the red *X* in the upper right-hand corner to close the *Options* screen
+
+# Security: Require OTR encryption for IM text chats
+
+## Step 1
+
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+1. Click *Tools*
+
+2. Click *Options*
+
+## Step 2
+
+![Options - Security - Require private messaging](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.018.en-win.png)
+
+1. Click the *Security* button
+
+2. Click the *Chat* tab
+
+3. Check the *Require private messaging* box
+
+4. Click the red *X* in the upper right-hand corner to close the *Options* screen

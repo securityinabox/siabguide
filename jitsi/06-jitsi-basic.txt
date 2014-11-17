@@ -1,0 +1,161 @@
+Object_type: Tool
+Tool: Jitsi
+Platform: Microsoft Windows
+Need: Secure communication
+Website: https://jitsi.org
+Download: https://jitsi.org/Main/Download
+Version: 2.4
+License: Free/Open Source Software
+System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
+Admin: false
+Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
+Comment:
+Required_reading:
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Add your contacts to Jitsi
+
+## Step 1
+
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+1. Click *File*
+
+2. Click *Add contact*
+
+## Step 2
+
+[Add Contact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.001-en-win.png)
+
+1. Select the account for which you are adding a contact
+
+2. If you want to add this contact to a particular *group*, select it here. (You can create new groups by clicking *File > Create group* from the main Jitsi application window)
+
+3. Enter your contact's chat *ID* (username), here
+
+* If you are both using the same chat service (such as Jitsi's own XMPP service, *Jit.si*, as shown here), then you probably don't need the "@jit.si" at the end of the *ID*. However, if Terrence were using his *CCC* account (*terrence.the.tester@jabber.ccc.de*), he would need to include Sally's full username: *sally.the.doer@jit.si*
+
+4. If you want to choose a *Display name* (nickname) for this contact, enter it here
+
+5. Click *Add*
+
+## Step 3
+
+![Main Application Window - New contact - Waiting for authorization](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.002-en-win.png) 
+
+1. The main application screen will now show your new contact, along with the message, "Waiting for authorization." Once she accepts your "invitation," you will be able to use Jitsi to chat with her
+
+## Step 4
+
+![Authorization Requested](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.003-en-win.png)
+
+* The previous steps described how you can use Jitsi to *send* an invitation to a contact. If you *receive* an invitation, on the other hand, Jitsi will display a message like this one
+
+1. Click *Authorize* to accept the invitation
+
+2. Click *Deny* to reject the invitation (and notify that sender)
+
+3. If you click *Ignore*, the sender will continue waiting for authorization without being notified one way or the other
+
+## Step 5
+
+![Main Application Window - New contact added](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.004-en-win.png)
+
+1. If the person to whom you sent your invitation clicks *Authorize*, the "Waiting for authorization" message will disappear from her entry on your main application window. You can now use Jitsi to start an IM text chat with her. (And, of course, she can start chats with you as well)
+
+# Use Jitsi to start an OTR-encrypted IM text chat
+
+## Step 1
+
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+
+* Before we can start a secure IM session with a contact, we have to configure Jitsi to use strong, end-to-end encryption. (And our contact must do the same.)
+
+1. Click *Tools*
+
+2. Click *Options*
+
+## Step 2
+
+![Options - Security - Chat tab - generate key](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.006-en-win.png)
+
+1. Click the *Security* button
+
+2. Click on the *Chat* tab
+
+3. Select the IM *Account* you want to configure to use secure, *OTR* chat encryption
+
+4. Click *Generate*
+
+## Step 3
+
+![My Private Keys](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.007-en-win.png)
+
+1. This will generate a unique identity key and display the *fingerprint* of that key. Unless you are using Jitsi on multiple devices, you should only have to do this once for each account. (However, any contact with whom you want to chat securely must *also* do this)
+
+* Click the red *X* in the upper right-hand corner to close the *Options* screen
+
+## Step 4
+
+![Main Application Window - Start an IM Chat](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.005-en-win.png)
+
+1. In the main application window, click the entry for the contact with whom you want to chat
+
+2. Click the button that corresponds to the type of chat you want to start: 1) an IM text chat, 2) a voice call, 3) a video chat, or 4) a screen sharing session. In this example, we will start a text chat
+
+**For a contact associated with an IM account, only the first of these four options (IM text chat) is secure. Many IM services (including XMPP/Jabber) support voice communication, but calls made this way will not be protected by strong, end-to-end encryption. (This is because OTR chat encryption only works for instant messages, and zRTP voice encryption only works with SIP accounts.) We will talk about secure voice calls in the next section**
+
+## Step 5
+
+![Chat Window - padlock button](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.008-en-win.png)
+
+* Depending on how you have configured it, Jitsi might automatically attempt to start a secure session once your chat begins
+
+1. If it does not, click the padlock in the upper right-hand corner of the chat window's toolbar
+
+## Step 6
+
+![Unverified private conversation](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.009-en-win.png?t=1416217038072)
+
+1. In this example, our contact started the secure session, and Jitsi tells us that an "Unverified private conversation" has begun. This means that we are chatting with *somebody* who's using OTR encryption, but we still need to make sure (in this example) that it's really Sally
+
+2. Note the padlock icon toward the right-hand side of the Jitsi toolbar. It is now closed, but there is a tiny yellow "warning" triangle on it.
+
+3. Click the *authenticate* link, which should display the chat ID of your contact
+
+## Step 7
+
+![Authenticate Contact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.010-en-win.png)
+
+* The Authenticate Buddy screen displays information you will need to make sure that your contact is really whom she claims to be
+
+1. This is the fingerprint of your *OTR* identity key. (You might recognize it from earlier, when we used Jitsi to created it)
+
+2. This is the fingerprint for the OTR identity key of the contact with whom you are currently trying to chat securely
+
+**It is extremely important that your contact tell you her identity fingerprint (and that you tell her yours) using some means of communication *other than this chat*. While this fingerprint is not a *secret*, you do need to be certain that whoever verifies the fingerprint displayed on the *Authenticate Buddy* screen is actually who you think they are. Good options include:
+
+  * An in-person conversation (always best),
+  * A phone call, voice chat or video chat if you are *confident you can recognize her voice*, or
+  * A GPG-signed email or some other secure means of digital communication that you are both comfortable using
+
+## Step 8
+
+![Check Fingerprint](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.011-en-win.png)
+
+1. Type in (or paste) the identity fingerprint you are given. Jitsi will compare this to the fingerprint shown above, which is the one that your contact is actually using
+
+2. Click on *I have not* and change it to *I have*
+
+3. Click *Authenticate Buddy*
+
+## Step 9
+
+![Encrypted Chat Window - Authenticated Contact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.012-en-win.png)
+
+1. Note that the tiny yellow triangle is gone from the padlock icon in the upper right-hand corner of your Jitsi toolbar. You can now chat securely with your contact. (Though she will have to carry out the above steps herself in order to be confident that *she* is chatting securely with *you*)
+
+* While this process might seem time consuming, rest assured that you will typically have to go through it only once for each contact. In the future, all of your sessions with that contact will automatically be encrypted and verified. (Just to be safe, though, keep an eye on that padlock icon and re-authenticate your contact if it appears open or if the tiny yellow triangle reappears)

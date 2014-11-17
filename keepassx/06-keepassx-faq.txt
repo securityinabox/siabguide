@@ -1,0 +1,29 @@
+Object_type: Tool
+Tool: KeePassX
+Platform: Microsoft Windows
+Need: Secure password storage
+Website: https://www.keepassx.org/
+Download: https://www.keepassx.org/releases/KeePassX-0.4.3-win32.zip
+Version: 0.4.3
+License: Free/Open Source Software
+System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
+Admin: false
+Alternatives: 
+Comment:
+Required_reading: How-to Booklet chapter 3. [How to create and maintain good passwords](https://securityinabox.org/chapter-3)
+Group: FAQ 
+Title: FAQ
+Language: EN
+
+
+**Q**: Nikolai, I was surprised how easy KeePass was to use. However, on the outside chance that I forget my master password, is there anything I can do to access KeePass and retrieve my password databases?
+
+**A**: Oh, that's an easy one, Elena! Nope. Sorry, there's nothing you can do in that situation. On the bright side, at least no one else will be able to access your password database! To prevent this from happening, you could use some of the methods for remembering a password that are described in the How-to Booklet chapter 3. How to create and maintain good passwords.
+
+**Q**: And if I uninstall KeePass, what will happen to my passwords?
+
+**A**: The program will be deleted from your computer; however, your database (stored in a .kdb file) will remain. You can open this file at any time in the future if you install KeePass again.
+
+**Q**: I think I accidentally deleted the database file!
+
+**A**: Hopefully, you made a backup beforehand. Also, make sure you haven't simply forgotten where you stored the file in the first place. Search your computer for a file with a .kdb extension. If you really have deleted it, take a look at the Hands-on guide to Recuva. It could help you to recover the file.

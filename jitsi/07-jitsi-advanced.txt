@@ -28,11 +28,15 @@ Language: EN
 
 ## Step 2
 
+![Voice Call](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.013-en-win.png)
+
 * Jitsi will initiate the voice call
 
 **Unlike OTR text chat encryption, zRTP voice encryption does not require that you generate an *identity key* before starting a secure call. This is because, as you will see below, you verify the authenticity of your contact *each time you make or receive a call*. But don't worry, the process is much simpler for voice calls than it is for text**
 
 ## Step 3
+
+![Receiving a voice call](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.014a-en-win.png)
 
 * The previous Steps showed how you can place a voice call using Jitsi. if you *receive* a voice call, Jitsi will display a message like this
 
@@ -40,11 +44,15 @@ Language: EN
 
 ## Step 4
 
+![Unencrypted call -- red padlock](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.014-en-win_0.png)
+
 1. If your contact accepts your call, Jitsi will display a *Connected* message. An open padlock with the red background means that the call is not yet secure. 
 
 * If the padlock stays open, and the background stays red, hang up and try again, or try using a different account. Again, [*Ostel*](https://ostel.co) SIP accounts currently work best for this
 
 ## Step 5
+
+![Encrypted call -- padlock on yellow background](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.015-en-win.png)
 
 1. If Jitsi's zRTP encryption is wokring, the message will change, the padlock will close, and the background will turn yellow. This should happen within a few seconds after the call connects.
 
@@ -56,6 +64,8 @@ Language: EN
 
 ## Step 6
 
+![Encrypted and Authenticated Call -- padlock on green background](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.016-en-win.png?t=1416217038577)
+
 1. At this point the padlock background should turn green. 
 
 **Fortunately, authenticating your contact for secure voice calls is much simpler than it is for secure IM text chats. *Unfortunately*, you (and your contact) will have to do this again for each call you make or receive**
@@ -63,6 +73,8 @@ Language: EN
 2. You may click the white *X* in the upper right-hand corner of the dark grey *Secure audio* window to close it
 
 ## Step 7
+
+![Secure Voice Call](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.017-en-win.png)
 
 * You have now started a secure voice call with Jitsi
 

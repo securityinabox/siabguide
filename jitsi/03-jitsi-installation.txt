@@ -20,11 +20,15 @@ Language: EN
 
 ## Step 1
 
+![Windows Security Alert](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.001.en-win_0.png)
+
 * If Windows Firewall blocks Jitsi's access to the network, you can safely Cancel or close the window. Jitsi will still work fine, unless you need to use it in Registrarless SIP mode. (If you do, then check both the "Private networks..." and the "Public networks..." boxes and click Allow access)
 
 1. Click Cancel
 
 ## Step 2
+
+![Protocols](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.002.en-win.png)
 
 * Jitsi will display the Sign in screen. At this point, you can simply click Cancel, to close the current window, then skip to the next section. Or, if you already have an IM account that you want to use with Jitsi, you can sign in by following the Steps below
 
@@ -35,6 +39,8 @@ Language: EN
 3. Click *Sign in*
 
 ## Step 3
+
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
 
 * Jitsi will sign you in and display the main application window.
 
