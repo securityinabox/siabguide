@@ -1,0 +1,421 @@
+Object_type: Tool
+Tool: avast!
+Platform: Microsoft Windows
+Need: anti-virus
+Website: http://www.avast.com/
+Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Version: 10.0
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
+Comment: read 03-avast-premise before installing and using this tool
+Required_reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# How to Scan for and Deal with Viruses Using avast!
+
+## Before You Begin
+
+There are two basic parts to dealing with malware and other assorted viruses when using **avast!**. The first is scanning your computer to identify such threats. The second involves either deleting or moving such threats to the **avast!** *Virus Chest*. Deleting and/or moving malware and viruses to the *Virus Chest* effectively prevents them from interacting with other programs or files on the computer.
+
+It may seem unusual to store malware or viruses in the *Virus Chest*. However, if they have attached themselves to important or sensitive information, you may want to recover or save that infected document, file or program as far as possible. Also in rare instances, **avast!** may misidentify legitimate files or programs as being malware or a virus, events referred to as 'false positives', those files or programs might be important to you or your computer operation, and you may want to examine them carefully, cure and recover.
+
+The **avast!** *Virus Chest* is an electronic 'dead zone' or 'quarantine', where you can examine the virus and determine its potential threat by either researching it on the Internet, or submitting it to a virus laboratory - an option available in **avast!** when you right-click a virus listed in the *Virus Chest*. Double clicking a virus in the *Virus Chest* will *not* activate or run the malware or virus because the *Virus Chest* keeps it isolated from the rest of your system.
+
+**Tip**: Alternatively, you can transfer important or sensitive information to the **avast!** *Virus Chest* to keep it safe during a virus attack.
+
+## A Short Guide to Dealing with Virus Outbreaks
+
+There are a number of precautions you can take to limit hostile or malicious threats to your computer system; for instance using updated anti-virus or anti-spyware programs like **avast!** and **Spybot**, avoiding dubious or problematic web sites or documents sent to you, or exercising extreme cation when inserting removable media to your computer. Please read more about those steps in [Preventing virus infection](https://securityinabox.org/en/chapter_1_1) section of chapter [1. How to protect your computer from malware and hackers](https://securityinabox.org/en/chapter-1). However, despite the precautions we sometimes find our computer infected by a virus. The following points are offered for consideration when dealing with a virus attack:
+
+* Disconnect your computer from the Internet or the local network - physically. If you have a wireless connection, disconnect your computer from the wireless network itself. If possible, switch off and/or remove your wireless card. You should disconnect from the Internet all computers that are sharing a local network with your computer.
+
+* Schedule a boot-time scan for all computers on the local network. Write down the names of any viruses that you find, so that you can research them - and then delete them, or move them to the **avast!** *Virus Chest*. To learn how to perform a boot-time scan, please refer to section [4.6 How to Perform a Boot-time Scan](https://securityinabox.org/dealingwithviruses#4.6).
+
+* Even if a virus has been either deleted or repaired, repeat the previous step, and run boot-time scans on all computers, until **avast!** no longer displays any warning messages. Depending on the severity of the malware or virus attack, you may not have to perform a boot-time scan more than once.
+
+For more information about dealing with malware or virus outbreaks, please refer to section [4.9 Advanced Virus Removal Methods](https://securityinabox.org/dealingwithviruses#4.9).
+
+## An Overview of the avast! Main User Interface
+
+The **avast!** main user interface displays numerous tabs on the left side of the window including: *Overview*, *Scan*, *Tools*, and *Settings*. All the *Scan*, *Tools* and *Settings* tabs contain a menu of items discussed below.
+
+To launch the main user interface **click** ![](https://securityinabox.org/sbox/screen/avast-en-1/22.png) from the system tray (usually bottom-right corner of your computer screen)
+
+![Main User Interface](https://securityinabox.org/sbox/screen/avast-en-1/56.png)
+
+*Figure 1: The Main User Interface*
+
+The following list briefly describes the functions of the main tabs and sub menus:
+
+**Overview**: The main user interface page displays the working status of **avast!**.
+
+**Scan**: This tab can be used to launch different scanning options including:
+
+* *Smart scan* can perform scans below one-by-one;
+* *Scan for viruses* like: *Quick Scan*, *Full System Scan*, *Removable Media Scan*, *Select Folder to Scan* and *Boot-time Scan* - discussed in details below;
+* *Scan for outdated software*;
+* *Scan for network threats* can check the security configuration of your home router and advise of settings that may need to be updated;
+* *Scan for performance issues* - is only fully available in paid version of avast!;
+
+**Tools**: This tab features a sub menu of tools including *Software Update*, *Browser Cleanup* and *Rescue Disk* described in Section [3.2 avast! Additional Tools](https://securityinabox.org/en/howtouseavast#3.2)
+
+**Settings**: This tab features a menu including *General*, *Active Protection*, *Antivirus* and *Update* as described below:
+
+* **General** includes a section on 'Maintenance' were you can configure the Logs and *Virus Chest* size and history.
+
+* **Active Protection** menu allows you configure settings for *File System*, *Mail* and *Web* scanning. **Note** it is recommended that you do not change the default settings unless you understand the impact of enabling/disable specific settings.
+
+* **Antivirus** menu allows you to configure global settings for scanning including *Exclusions* and *Alerts*
+
+* **Update** menu displays the current *Program* and *Virus Definitions* installed and allow manual update of both as described in Section [3.1 How to Manually Update avast!](https://securityinabox.org/en/howtouseavast#3.1)
+
+## How to Scan for Malware and Viruses
+
+In this section, you will learn about the available scan options, and how to use them. You will also learn how to perform a full system scan and a folder scan, as well as a boot-time scan.
+
+The *Scan* pane displays the five scan options available in **avast!**; to view them:
+
+### Step 1
+
+**Click** ![Scan](https://securityinabox.org/sbox/screen/avast-en-1/57.png)
+
+### Step 2
+
+**Click** ![Scan for viruses](https://securityinabox.org/sbox/screen/avast-en-1/95.png) to activate the following screen:
+
+![Scan tab - default Quick Scan option](https://securityinabox.org/sbox/screen/avast-en-1/96.png)
+
+*Figure 2: The Scan tab displaying the default Quick Scan option*
+
+The following brief descriptions will help you to choose the appropriate scan option:
+
+**Quick scan**: This option is recommended for users with a limited amount of time in which to scan for a potential or suspected threat.
+
+**Full system scan**: This option is recommended when users have sufficient time to schedule a thorough scan of your system. It is also recommended if this is the first time you are using an anti-virus software on your computer. The duration of this scan depends on the number of documents, files, folders and hard drives on your computer, and the computer speed. Please refer to section [4.4 How to Perform a Full system scan](https://securityinabox.org/dealingwithviruses#4.4).
+
+**Removable media scan**: This option is recommended for scanning external hard drives, USB flash drives, and other media, particularly those which are not your own. It will scan any removable device for malicious programs that automatically run whenever the device is connected.
+
+**Select folder to scan**: This option is recommended for scanning either a specific folder or multiple folders, especially if you know or suspect, that a particular file or folder might be infected. Please refer to section [4.5 How to Perform a Folder scan](https://securityinabox.org/dealingwithviruses#4.5).
+
+**Boot-time scan**: The boot-time scan lets you perform a full scan of your hard drive before the **Microsoft Windows** operating system fully starts running. This option is recommended for a complete and thorough scan of your computer system and may require some time. Please refer to section [4.6 How to Perform a Boot-time Scan](https://securityinabox.org/dealingwithviruses#4.6).
+
+**Tip**: **Clicking** ![Settings...](https://securityinabox.org/sbox/screen/avast-en-1/59.png) lets you see and refine the details of the given scan, for instance, the areas being scanned.
+
+## How to Perform a Full System scan
+
+### Step 1
+
+**Select** *Full System scan* option from the menu (see figure 2 above).
+
+### Step 2
+
+**Click** ![Start](https://securityinabox.org/sbox/screen/avast-en-1/60.png) to activate the following screen:
+
+![Scan pane - Full system scan/scan running...](https://securityinabox.org/sbox/screen/avast-en-1/61.png)
+
+*Figure 3: The Scan pane displaying Full system scan/scan running...*
+
+After the full system scan has been completed, and if a threat to your computer has been found, the *Full system scan* pane may resemble the following screen:
+
+![Scan complete - infected files found](https://securityinabox.org/sbox/screen/avast-en-1/62.png)
+
+*Figure 4: The Scan complete item displaying infected files found*
+
+If the full system scan has revealed any threats **click** on ![Show results](https://securityinabox.org/sbox/screen/avast-en-1/69.png) button to open result page. please refer to section [4.7 How to Deal with Viruses](https://securityinabox.org/dealingwithviruses#4.7) for further steps.
+
+## How to Perform a Folder Scan
+
+### Step 1
+
+**Select** *Select folder to scan* option from the menu (see figure 2 above).
+
+### Step 2
+
+**Click** ![Start](https://securityinabox.org/sbox/screen/avast-en-1/60.png) to activate the following screen:
+
+![Select the areas](https://securityinabox.org/sbox/screen/avast-en-1/63.png)
+
+*Figure 5: The Select the areas dialog box*
+
+The *Select the areas* dialog box lets you specify the folder you would like to scan. You can select more than one folder for scanning purposes. As you check the boxes besides each folder, the folder path is displayed in the *Selected paths*: text field.
+
+### Step 3
+
+**Click** ![OK](https://securityinabox.org/sbox/screen/avast-en-1/64.png) to begin scanning your folders, and activate the following screen:
+
+![Scan in progress](https://securityinabox.org/sbox/screen/avast-en-1/65.png)
+
+*Figure 6: The Folder scan in progress*
+
+**Tip**: **avast!** lets you scan individual folders though a pop-up menu that appears whenever you right-click on a folder. Simply **Select** ![](https://securityinabox.org/sbox/screen/avast-en-1/66.png) *Scan...* which appears besides the name of the folder you would like to scan for viruses.
+
+If the folder scan has revealed any threats **click** on ![Show results](https://securityinabox.org/sbox/screen/avast-en-1/69.png) button to open result page. please refer to section [4.7 How to Deal with Viruses](https://securityinabox.org/dealingwithviruses#4.7) for further steps.
+
+## How to Perform a Boot-time Scan
+
+The **avast!** boot-time scan lets you perform a full scan of your hard drive before the **Microsoft Windows** operating system fully starts running. At the moment the boot-time scan is performed, all (or majority) of malware programs and viruses are still dormant, that is, they have not had the opportunity to activate themselves, or interact with other system processes yet. As such, they may be easier exposed and removed. The boot-time scan also directly accesses the disk, bypassing the drivers for the **Windows** file system, which may be infected. This further helps find more viruses and 'rootkits' - the name for a particularly malignant form of malware.
+
+It is **strongly recommended** that you run a boot-time scan even if there is only a remote suspicion that your computer system may be compromised or infected. The **boot-time scan** and the **rescue disk** (described in section [3.2.3 Rescue Disk](https://securityinabox.org/en/howtouseavast#3.3.3)) options are the most complete and thorough scan of a computer system avast! has to offer. The boot-time scan may require some time, depending on your computer speed and the amount of data and number of hard drives you may have.
+
+To scan your system at boot time, perform the following steps:
+
+### Step 1
+
+**Click** ![Scan](https://securityinabox.org/sbox/screen/avast-en-1/57.png) to activate the *Scan* pane.
+
+### Step 2
+
+**Select** ![Boot-time scan](https://securityinabox.org/sbox/screen/avast-en-1/67.png) option from the drop down menu.
+
+### Step 3
+
+**Click** ![Start](https://securityinabox.org/sbox/screen/avast-en-1/60.png) to schedule a boot-time scan the next time you start your computer.
+
+### Step 4
+
+**Restart your computer** to start scanning.
+
+**Note**: A boot-time scan starts before the operating system and interface are fully loaded; as such the progress of the scanning is displayed in the text on your screen as follows:
+
+![The avast! Boot-time scheduled scan](https://securityinabox.org/sbox/screen/avast-en-1/68.png)
+
+*Figure 7: The avast! Boot-time scheduled scan*
+
+**avast!** will prompt you for a response if viruses are detected. You select possible actions by pressing keys with appropriate numbers on your keyboard. We recommend that you **select key 2** *Fix all automatically* to let avast! deal with all the viruses automatically.
+
+Note that moving infected file to the virus chest or removing it may result in some information or functionality of your system being inaccessible. In extreme situation, when a virus infected files vital for the functioning of the operating system, moving to chest or removing this file may result in your computer not being able to successfully start operating system again.
+
+## How to Deal with Viruses
+
+Section 4.5 and 4.6 above demonstrated how to make avast! manually scan for viruses. When a virus is found in any of those scans avast! informs you about this as shown in *figure 8*. To begin dealing with any malware or viruses detected during a scan, perform the following steps:
+
+![Scan completed - threat detected](https://securityinabox.org/sbox/screen/avast-en-1/100.png)
+
+*Figure 8: The Scan completed - threat detected*
+
+### Step 1
+
+**Click** ![Show results](https://securityinabox.org/sbox/screen/avast-en-1/69.png) to activate the following screen:
+
+![SCAN RESULTS - THREAT DETECTED! warning](https://securityinabox.org/sbox/screen/avast-en-1/70.png)
+
+*Figure 9: The SCAN RESULTS window displaying THREAT DETECTED! warning*
+
+### Step 2
+
+To display the drop-down list of possible actions to be applied, **click** the arrow beneath *Actions* as shown below.
+
+![Actions - Move to chest](https://securityinabox.org/sbox/screen/avast-en-1/72.png)
+
+*Figure 10: Actions - Move to chest*
+
+**Note**: In this exercise, we are concerned with moving infected files to the *Quarantine (Virus Chest)*. However, the drop-down list displays three other options and they are described below:
+
+**Repair**: This action will attempt to repair the infected file.
+
+**Delete**: This action will delete - permanently - the infected file.
+
+**Do nothing**: This action means exactly what it says, and is *definitely not recommended* for treating potentially harmful malware or virus threats.
+
+### Step 3
+
+**Select** the *Move to Chest* item, and then **click** ![Apply](https://securityinabox.org/sbox/screen/avast-en-1/71.png)
+
+![Detected threat moved to the Quarantine (Virus Chest)](https://securityinabox.org/sbox/screen/avast-en-1/73.png)
+
+*Figure 11: The detected threat has been moved to the Quarantine (Virus Chest)*
+
+**avast!** is also constantly monitoring the computer for viruses and malware in the background as you continue to work. When avast! detects malware or a suspicious file, it will alert you with a message similar to the screen shot below.
+
+![The Virus found](https://securityinabox.org/sbox/screen/avast-en-1/81.png)
+
+*Figure 12: The Virus found*
+
+The default action will move the file to the *Quarantine (Virus Chest)*. The next section describes how to deal with any malware or viruses detected during a scan that have been moved to the *Quarantine Virus Chest*
+
+## How to Use the Virus Chest
+
+During the **avast!** installation process, the **avast!** *Virus Chest* was created on your hard drive. The *Virus Chest* is a special folder isolated from the rest of your computer system, and used to store malware and viruses detected during the scan, as well as infected or threatened documents, files or folders.
+
+You can access content of the *Virus Chest* and decide how to deal with the files collected there:
+
+### Step 1
+
+**Click** ![Scan](https://securityinabox.org/sbox/screen/avast-en-1/57.png) and **click** ![Quarantine(Virus Chest)](https://securityinabox.org/sbox/screen/avast-en-1/74.png) to activate the following screen:
+
+![The Virus Chest displaying one virus](https://securityinabox.org/sbox/screen/avast-en-1/75.png)
+
+*Figure 13: The Virus Chest displaying one virus*
+
+### Step 2
+
+**Right click** on each item to display the menu of actions that can be applied to a selected file as follows:
+
+![The pop-up menu of actions for viruses in the Virus Chest](https://securityinabox.org/sbox/screen/avast-en-1/76.png)
+
+*Figure 14: The pop-up menu of actions for viruses in the Virus Chest*
+
+**Note**: Double clicking an item in the *Virus Chest* will not activate, open or run it. It will only display the file properties, basically the same information you would obtain by selecting *Properties* from the pop-up menu.
+
+The following list describes the actions used to deal with viruses in the pop-up menu as follows:
+
+**Delete**: The file will be deleted from the *Virus Chest* irreversibly.
+
+**Restore**: The file will be restored to its original location.
+
+**Extract**: The file will copied to a folder you will specify.
+
+**Scan**: The file will be scanned.
+
+**Submit to virus lab...**: Selecting this option will activate a virus submission form for you to fill out and submit the file for further analysis to avast! company lab. Do not submit files that may contain sensitive information!
+
+**Properties**: This option will reveal more details about the file.
+
+**Add...**: This option lets you browse your system for other files you would like to add to the *Virus Chest*. This is potentially very useful if you have files you would like to protect during a virus outbreak.
+
+**Refresh all files**: This option will update the list of the files in the *Virus Chest*, so that you will be able to view the latest files.
+
+# avast! Additional Tools
+
+**avast!** offers additional tools that help manage the health of your computer and keep software up to date. The following sections describe the **avast!** *Software Updater*, *Browser Cleanup* and *Rescue Disk*
+
+## Software Updater
+
+*Software Updater* can monitor and update software running on your computer.
+
+### Step 1
+
+**Click** ![Scan](https://securityinabox.org/sbox/screen/avast-en-1/57.png) and ![Scan for outdated software](https://securityinabox.org/sbox/screen/avast-en-1/104.png) to begin the scan. If the scan detects out of date software it will display as shown below:
+
+![Out of date software](https://securityinabox.org/sbox/screen/avast-en-1/105.png)
+
+*Figure 6 : Out of date software*
+
+### Step 2
+
+**Click** ![Update](https://securityinabox.org/sbox/screen/avast-en-1/40.png) to begin updating the application.
+
+![Software updated](https://securityinabox.org/sbox/screen/avast-en-1/38.png)
+
+*Figure 7: Software updated*
+
+![Updated software list](https://securityinabox.org/sbox/screen/avast-en-1/106.png)
+
+*Figure 8: Updated software list*
+
+## Browser Cleanup
+
+*Browser Cleanup* can detect and remove unwanted or malicious add-ons installed in your computers Internet browsers. Such add-ons can spy on your activity, cause an annoyance and slow down your browser. To review and remove unwanted add-ons:
+
+### Step 1
+
+**Click** ![Tools](https://securityinabox.org/sbox/screen/avast-en-1/35.png) from the left hand column of the avast! main screen.
+
+### Step 2
+
+**Click** ![Browser Cleanup] to activate the *Browser Cleanup* as shown below:
+
+![Browser Cleanup](https://securityinabox.org/sbox/screen/avast-en-1/42.png)
+
+*Figure 9 : Browser Cleanup screen*
+
+### Step 3
+
+**Select** the browser icon from the left hand menu to show add-ons per browser as shown below
+
+![Add-ons listed for Internet Explorer](https://securityinabox.org/sbox/screen/avast-en-1/44.png)
+
+*Figure 10 : Add-ons listed for Internet Explorer*
+
+### Step 4
+
+**Click** ![Remove](https://securityinabox.org/sbox/screen/avast-en-1/45.png) for the chosen add-on
+
+### Step 5
+
+**Click** *Yes* at the prompt *Do you really want to permanently remove these add-ons* to activate the screen below
+
+![Add-ons has been removed](https://securityinabox.org/sbox/screen/avast-en-1/46.png)
+
+*Figure 11: Add-ons has been removed*
+
+## Rescue Disk
+
+*Rescue Disk* allows you to create the USB or CD which you can use to start your computer with. This USB/CD contains avast! installation. To create the rescue disk your computer needs to be connected to the internet. But after the rescue disk is ready you can use it to scan any computer even if it is not connected to the Internet. This is useful in a situation when a different computer is infected with a virus that prevents normal functioning of the computers system, avast! or other anti-virus program. The Rescue Disk and the Boot-time Scan options are the most complete and thorough scan of a computer system avast! has to offer. The steps below describe how to create a *Rescue Disk* using a USB flash drive.
+
+**Note** *Rescue Disk* requires downloading large files from the Internet. It also requires an empty USB flash drive with a minimum of 500MB size or a CD/DVD and CD/DVD writer.
+
+### Step 1
+
+**Click** ![Tools](https://securityinabox.org/sbox/screen/avast-en-1/35.png) from the left hand column of the !avast main screen
+
+### Step 2
+
+**Click** ![Rescue Disk](https://securityinabox.org/sbox/screen/avast-en-1/47.png) to activate the *Rescue Disk* option as shown below:
+
+![Rescue Disk screen](https://securityinabox.org/sbox/screen/avast-en-1/48.png)
+
+*Figure 12: Rescue Disk screen*
+
+![Create Rescue Disk](https://securityinabox.org/sbox/screen/avast-en-1/50.png)
+
+### Step 4
+
+**Click** ![Install on USB](https://securityinabox.org/sbox/screen/avast-en-1/51.png) and then ![Yes](https://securityinabox.org/sbox/screen/avast-en-1/53.png) to begin creating a Rescue Disk as shown below.
+
+![Creating a Rescue Disk](https://securityinabox.org/sbox/screen/avast-en-1/54.png)
+
+*Figure 14: Creating a Rescue Disk*
+
+Note: A Rescue Disk can take up to 30 minutes to create.
+
+![Rescue Disk successfully created](https://securityinabox.org/sbox/screen/avast-en-1/55.png)
+
+*Figure 15 : Rescue Disk successfully created*
+
+You have now created Rescue Disk. Section [4.9 Advanced Virus Removal Methods](https://securityinabox.org/en/dealingwithviruses#4.9) will describe how to use an Anti-malware Rescue Disk.
+
+Also visit the [avast! FAQ](http://www.avast.com/faq.php?article=AVKB114#articleContent) for further information on using avast! *Rescue Disk*
+
+# Smart Scan
+
+*Smart Scan* can perform several scans discussed in this chapter all at once. This is a convenient way to run a 'health check' for malware detection, software updater and network security. In the example below, Smart Scan detects some out of date software that requires updating.
+
+### Step 1
+
+**Click** ![Scan](https://securityinabox.org/sbox/screen/avast-en-1/57.png) and ![Smart scan](https://securityinabox.org/sbox/screen/avast-en-1/36.png) to activate the screen shown below:
+
+![Smart Scan](https://securityinabox.org/sbox/screen/avast-en-1/84.png)
+
+*Figure 19: Smart Scan*
+
+When *Smart Scan* has completed, the status of each scan will be displayed as shown in the screen below.
+
+![Smart Scan - Issues found](https://securityinabox.org/sbox/screen/avast-en-1/85.png)
+
+*Figure 20 : Smart Scan - Issues found*
+
+### Step 2
+
+**Click** ![Resolve All](https://securityinabox.org/sbox/screen/avast-en-1/86.png) to begin reviewing any issues detected. *Note GrimeFighter is not available in the free version of avast!*
+
+![Software Updater screen](https://securityinabox.org/sbox/screen/avast-en-1/39.png)
+
+*Figure 21 : Software Updater screen*
+
+### Step 3
+
+**Click** ![Update](https://securityinabox.org/sbox/screen/avast-en-1/40.png) to begin updating each application that needs this.
+
+![Software updated](https://securityinabox.org/sbox/screen/avast-en-1/38.png)
+
+*Figure 22: Software updated*
+
+### Step 4
+
+Follow steps 1 to 3 above to reassess the health of your computer

@@ -1,0 +1,79 @@
+Object_type: Tool
+Tool: avast!
+Platform: Microsoft Windows
+Need: anti-virus
+Website: http://www.avast.com/
+Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Version: 10.0
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
+Comment: read 03-avast-premise before installing and using this tool
+Required_reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
+Group: Basic Usage 
+Title: Update
+Language: EN
+
+
+# How to Manually Update avast!
+
+**avast!** runs silently in the background on your computer, automatically downloading and updating its virus definitions every time you connect to the Internet. However, in situations where your internet access is discontinuous, restricted or temporary in some way, performing a manual update may be necessary.
+
+There are two ways of updating **avast!** manually: The first is through the **avast!** main user interface, and the second is through a pop-up menu that appears whenever you right click the **avast!** icon located in the *System Tray*.
+
+**Note**: it is advisable **not* to disable automatically download updates unless necessary.
+
+## How to Use the Main Screen to Manually Update avast!
+
+### Step 1
+
+**Click** ![](https://securityinabox.org/sbox/screen/avast-en-1/22.png) to activate the **avast!** main user interface.
+
+### Step 2
+
+**Click** ![Settings](https://securityinabox.org/sbox/screen/avast-en-1/18.png) and then ![Update](https://securityinabox.org/sbox/screen/avast-en-1/20.png) to activate the following screen and display the Program and Virus Definitions versions:
+
+![The Update window](https://securityinabox.org/sbox/screen/avast-en-1/24.png)
+
+*Figure 1: The Update window*
+
+### Step 3
+
+**Click** ![Update](https://securityinabox.org/sbox/screen/avast-en-1/25.png) to update the *Program version* as follows:
+
+![Update the program](https://securityinabox.org/sbox/screen/avast-en-1/27.png)
+
+*Figure 2: Update the program*
+
+### Step 4
+
+**Click** ![Update](https://securityinabox.org/sbox/screen/avast-en-1/25.png) to update the Virus Definition as following:
+
+![Updating the Virus Definition](https://securityinabox.org/sbox/screen/avast-en-1/26.png)
+
+*Figure 3: Updating the Virus Definition*
+
+![You Are Protected](https://securityinabox.org/sbox/screen/avast-en-1/23.png)
+
+*Figure 4: You Are Protected Status*
+
+## How to Use the Pop-up Menu to Manually Update avast!
+
+The **avast!** program upgrade and virus definition updates can be performed through the **avast!** pop-up menu. The pop-up menu can be used to directly access the *UPDATE* screen as shown in *figure 2*.
+
+### Step 1
+
+**Right click** ![](https://securityinabox.org/sbox/screen/avast-en-1/22.png) in the *System Tray* to activate the following pop-up menu:
+
+![The avast! pop-up menu](https://securityinabox.org/sbox/screen/avast-en-1/28.png)
+
+*Figure 5: The avast! pop-up menu*
+
+### Step 2
+
+**Select** *Update > Engine and virus definitions* to activate *Figure 3* in **step 3** above.
+
+### Step 3
+
+**Select** *Update > Program* to activate *Figure 4* in **step 3** above.

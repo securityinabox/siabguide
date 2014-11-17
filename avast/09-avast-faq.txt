@@ -3,12 +3,12 @@ Tool: avast!
 Platform: Microsoft Windows
 Need: anti-virus
 Website: http://www.avast.com/
-Download: http://www.avast.com/index#upgrade
-Version: 2014.9.0.2021
+Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Version: 10.0
 License: Free Proprietary Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows; [AVG Anti-Virus](http://free.avg.com/) for Microsoft Windows
+Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
 Comment: read 03-avast-premise before installing and using this tool
 Required_reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
 Group: FAQ 
@@ -22,7 +22,7 @@ Language: EN
 
 **Q**: *I have several computers on a network - but a slow Internet connection. How can I download the virus definition updates and share them with all of my computers?*
 
-**A**: *You can [**download the latest program updates**](http://www.avast.com/download-update) from avast! website, and distribute them to each computer on your network.*
+**A**: *You can [**download the latest definition updates**](http://www.avast.com/download-update) (*VPS - Virus Protection Software*) from avast! website. Make sure you download updates for your program version. After downloading the update file start it on each computer needing updates*
 
 **Q**: *What happens to the files in the Virus Chest if I uninstall **avast!?***
 

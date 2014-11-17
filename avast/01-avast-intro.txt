@@ -3,12 +3,12 @@ Tool: avast!
 Platform: Microsoft Windows
 Need: anti-virus
 Website: http://www.avast.com/
-Download: http://www.avast.com/index#upgrade
-Version: 2014.9.0.2021
+Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Version: 10.0
 License: Free Proprietary Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows; [AVG Anti-Virus](http://free.avg.com/) for Microsoft Windows
+Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
 Comment: read 03-avast-premise before installing and using this tool
 Required_reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
 Group: Synthesis
@@ -16,5 +16,4 @@ Title: Introduction
 Language: EN
 
 
-**avast!** is a full-featured anti-virus program that detects and removes malware and viruses from your computer. Although **avast!** is free for non-commercial use on a home or personal computer, your free copy *must* be registered after installation, otherwise it will expire in 30 days. Registration also ensures that you will automatically receive the latest **avast!** program versions and virus definitions as they become available. 
-
+**avast!** is a full-featured anti-virus program that detects and removes malware and viruses from your computer or mobile device. Although **avast!** is free for non-commercial use on a home or personal computer, your free copy *must* be registered after installation. Otherwise, after 30 days you will no longer be able to receive updates of the virus definitions and the program itself.

@@ -1,0 +1,65 @@
+Object_type: Tool
+Tool: avast!
+Platform: Microsoft Windows
+Need: anti-virus
+Website: http://www.avast.com/
+Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Version: 10.0
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
+Comment: read 03-avast-premise before installing and using this tool
+Required_reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Customised Settings
+
+Once avast! is installed and running on your computer, the following settings can be configured as required.
+
+## SSL Scanning of Email Connections
+
+By default, **avast!** *Mail Shield* tool will scan all email including SSL/TLS encrypted connections. This can can cause issues for some email clients such as **Thunderbird**. SSL scanning of email connections can be disabled to prevent **avast!** interfering with email clients.
+
+### Step 1
+
+**Click** ![Settings](https://securityinabox.org/sbox/screen/avast-en-1/18.png) from the left hand column of the !avast home screen
+
+### Step 2
+
+**Click** ![Active Protection](https://securityinabox.org/sbox/screen/avast-en-1/29.png) and **select** *Mail Shield* and *Customize* as shown below.
+
+![Mail Shield - Customise](https://securityinabox.org/sbox/screen/avast-en-1/30.png)
+
+*Figure 14: Mail Shield - Customise*
+
+### Step 3
+
+**Click** ![SSL scanning](https://securityinabox.org/sbox/screen/avast-en-1/31.png) and **unselect** *SSL Scanning* as shown below.
+
+![SSL Scanning option](https://securityinabox.org/sbox/screen/avast-en-1/32.png)
+
+*Figure 15: SSL Scanning option*
+
+## Disable voiceover sounds
+
+By default, **avast!** will enable 'Voiceover' sounds where available. This can be disabled by following the steps below.
+
+### Step 1
+
+**Click** ![Settings](https://securityinabox.org/sbox/screen/avast-en-1/18.png) from the left hand column of the !avast home screen
+
+### Step 2
+
+**Click** ![General](https://securityinabox.org/sbox/screen/avast-en-1/33.png) and **select** the *Sound* settings arrow as highlighted below.
+
+![Sound settings](https://securityinabox.org/sbox/screen/avast-en-1/34.png)
+
+*Figure 16: Sound settings*
+
+### Step 3
+
+**Unselect** *Use voiceover sounds (where available)* as shown above.
