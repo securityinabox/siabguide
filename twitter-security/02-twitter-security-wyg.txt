@@ -1,21 +1,21 @@
 Object_type: Tool
-Tool: Facebook
+Tool: Twitter
 Platform: Social Networks
 Need: Social networking
-Website: https://www.facebook.com/
+Website: https://twitter.com/
 Download: 
 Version: N/A
 License: Proprietary Software
 System_requirements: Web browser; Internet connection
 Admin: 
 Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
-Comment: This file should only be used in connection with the whole hands-on guide; read 03-facebook-security-premise before using this tool
+Comment: This file should only be used in connection with the whole hands-on guide; read 03-twitter-security-premise before using this tool
 Required_reading: [Protect yourself and your data when using social networking sites](https://siabnext.ttc.io/how-to-guide/social-networking)
 Group: Synthesis
 Title: What you will get from this guide 
 Language: EN
 
 
-* The ability to **reduce** the amount of your personal information made public when you use **Facebook**.
-* The ability to **control** who can access your profile, status updates, photos, and other data on **Facebook**, and when they can access it.
-* The ability to **reduce** the amount of your personal information made available to third parties including **Facebook**'s advertising partners and associated websites.
+* The ability to **reduce** the amount of your personal information made public when you use Twitter.
+* The ability to **control** who can access your status updates, photos, and other data shared via Twitter.
+* The ability to **reduce** the amount of your personal information made available to third parties

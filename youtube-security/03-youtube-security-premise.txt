@@ -1,0 +1,55 @@
+Object_type: Tool
+Tool: YouTube
+Platform: Social Networks
+Need: Upload and share video content
+Website: https://www.youtube.com/
+Download: 
+Version: N/A
+License: Proprietary Software
+System_requirements: Web browser; Internet connection
+Admin: 
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Comment:
+Required_reading:  [Protect yourself and your data when using social networking sites](https://siabnext.ttc.io/how-to-guide/social-networking)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+# Social networking platforms
+
+These social networking security guides aim to help you navigate the privacy and security settings of a few popular social networking platforms, with a view toward making them more secure (though less insecure is perhaps a better way of putting it). Specifically, step-by step guides are provided for Facebook and Twitter, and some general guidelines are provided for YouTube and Flickr.
+
+These social networking websites are the most popular and widely used social networking tools. They are owned by private companies and, as noted in chapter [**9. How to protect yourself and your data when using social networking sites**](https://siabnext.ttc.io/en/chapter-9), these companies make their money by collecting information about users and selling it on to advertisers.
+
+Government crackdowns will target these sites first and block them, and the companies will cave into government pressures and censor when necessary. If they are not blocked, they are actively monitored by numerous governments who collect user metadata and make requests for private information about individuals of interest, often including human rights defenders. Note, in this regard, that companies managing social networking servers have access to **all your information**, including your private data and password.
+
+It may be worth looking at alternatives to these sites, such as [**Diaspora**](http://joindiaspora.com/), [**Crabgrass**](https://securityinabox.org/en/context/01/crabgrass-online-collaboration), [**Friendica**](http://friendica.com/), [**Pidder**](https://pidder.com/), or [**SecureShare**](http://secushare.org/) which have been designed with digital security and activism in mind. The [**Social Swarm**](http://socialswarm.net/) is a think-tank run by a not-for-profit organisation which carries out discussions, awareness-raising and campaigns related to privacy on social networks, and may be a useful learning resource.
+
+If you do not wish to associate your videos with your **Google profile**, there are a number of alternatives, such as [**Vimeo**](https://www.vimeo.com). Vimeo is frequented by a smaller community of users than **YouTube**. Like **YouTube**, it facilitates connection over **SSL**, and gives users numerous privacy options and control of creative commons licenses for their videos. Other similar sites may be popular in different regions, so you way wish to explore other options. Before choosing one you should consider the following points:
+
+1. Does it provide connection over **SSL** for all uses of the site, rather than just during login? Are there no problems related to encryption, such as problems related to encryption certificates?
+2. Read the End User Licence Agreement and Privacy Policy or Data Use Policy carefully. How are your content and personal data treated? With whom are they shared?
+3. What privacy options are provided for users? Can you choose to share your videos securely with a small number of individuals, or are they all public by default? 
+4. If you will upload sensitive images, such as footage of a protest, does the site facilitate protection of those you have filmed, such as through face-blurring?
+4. Do you know the **geographical location of the servers**, under which territorial jurisdiction they fall or where the company is registered? Are you aware of how this information relates to the privacy and security of your email activity and information? Will the site's owners hand over information if they receive a governmental request to do so?
+
+## Things you should know about YouTube before you start
+
+**YouTube** is great for making your video available to its billions of users. However, as **YouTube** is owned by **Google**, if the people at **Google** find the content of your video objectionable, they will delete it. Google may collect and share user metadata *en masse* and share it with goverments including the United States government. Furthermore, Google may share specific information related to your videos (such as, for example, location data) to third parties including State bodies who request it. This means **YouTube** is not such a good place for keeping your video safe. **Google** have also been known to cave in to pressure to remove content from **YouTube** in order to avoid the site being censored. So if you want people to see your video, put a copy of it on **YouTube** – just don't put your only copy on **YouTube** for safe storage.
+
+The content you post on **YouTube** remains yours; by posting it on **YouTube** you are giving **Google** a license to distribute that content.
+
+**YouTube** is or has been reported as inaccessible in various countries, like:
+
+*  China 
+*  Burma 
+*  Iran 
+*  Libya
+*  Syria 
+*  Uzbekistan
+*  Tunisia
+*  Turkmenistan, and
+*  Turkey.
+
+See [**Google's traffic section in their Transparency Report**](https://www.google.com/transparencyreport/traffic/) for more details about current and past censorship and other disruptions.

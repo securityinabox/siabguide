@@ -1,0 +1,117 @@
+Object_type: Tool
+Tool: Twitter
+Platform: Social Networks
+Need: Social networking
+Website: https://twitter.com/
+Download: 
+Version: N/A
+License: Proprietary Software
+System_requirements: Web browser; Internet connection
+Admin: 
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Comment: read 03-twitter-security-premise before using this tool
+Required_reading: [Protect yourself and your data when using social networking sites](https://siabnext.ttc.io/how-to-guide/social-networking)
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Account, Security, Password and Mobile Settings
+
+## Basic Account Settings on Twitter
+
+**Twitter**'s Basic Account Settings allow you to control how people can find your profile, what information you share and the level of security your account requires when you are using the web-browser based version of **Twitter** (that is to say, not a client, smartphone app, or GSM phone).
+
+### Step 1
+
+In order to access your account settings **login to your account** using [**Mozilla Firefox**](/en/firefox_main) browser and **click** on the ![](/sites/siabnext.ttc.io/files/media/twitter-en-all-01.png) icon at the top right of the screen to open the **options menu**. 
+
+![Options menu](/sites/siabnext.ttc.io/files/media/twitter-en-all-02.png)
+
+*Figure 1: Options menu*
+
+### Step 2
+
+In the drop-down menu, **choose** *Settings*. This will open the settings page. 
+
+### Step 3
+
+On the settings page, you have a list of pages on the left-hand side where you can click between various categories of settings.
+
+![Settings categories](/sites/siabnext.ttc.io/files/media/twitter-en-all-03.png)
+
+*Figure 2: Settings categories*
+
+The first category is basic account settings.
+
+### Step 4
+
+At the top of the Account Settings list, you will find the username and e-mail settings. Choose carefully whether you want to use your real name or a pseudonym as your **username**, and which email address you wish to associate with your profile. It may be best to [set up a new e-mail address](/en/riseup_createaccount) using the [**Tor Browser**](/en/tor_main) and connect to **Twitter** only using **Tor** if you wish to protect your identity.
+
+![Username and email settings](/sites/siabnext.ttc.io/files/media/twitter-en-all-04.png)
+
+*Figure 2: Username and email settings*
+
+## Security and Privacy Settings on Twitter
+
+### Step 5
+
+**Click** on *Security and privacy* in the left-hand sidebar in order to access the Security and Privacy settings page. 
+
+### Step 6
+
+**Login verifications.** Here, **Twitter** gives you the option of sending a message to your mobile phone or smartphone any time your account is accessed. This is reccommendable if you are are also using the **Twitter** application on your smartphone. In this case, **choose** the *Send login verifications to the Twitter app* option.  
+
+**Note** that while this may be useful in alerting you to an unauthorised attempt to access your account, associating your mobile phone to your Twitter account makes your account more easily identifiable and is not advisable if you want to use **Twitter** anonymously or with a pseudonym. 
+
+### Step 7
+
+**Photo tagging.** Here, **Twitter** allows you to control who, if anyone, can tag you in photos they upload. Since there is no option to *approve* or *disapprove* tagging in photos, it's advised that you choose the option *Do not allow anyone to tag me in photos*. This is particularly important in cases where you may be photographed during protests, for example, which could later be used as evidence.
+
+![Tagging options](/sites/siabnext.ttc.io/files/media/twitter-en-all-05.png)
+
+*Figure 3: Tagging options* 
+
+### Step 8
+
+**Tweet privacy**. Here, **Twitter** allows you to control who can see your tweets: the public in general, or only individuals who you *allow* to follow you. Note that even if you choose the *Protect my tweets* option, they are still acessible to **Twitter** and therefore can still be recorded and handed over to third parties. 
+
+### Step 9
+
+**Tweet location**. Here, **Twitter** gives you the option of adding a location to your tweets. This option is disabled by default. If sharing your location widely is appropriate in order to stay safe, then this option may be useful. However, it is generally reccommended that you leave this feature **disabled** as your location information can also be very useful to your adversaries. 
+
+### Step 10
+
+**Discoverability**. Here, **Twitter** gives you the option of allowing people to find your **Twitter** account if they already have your e-mail address. If you wish to maintain more privacy for your twitter account, it's reccommended that you **disable** this option.
+
+![Discoverability options](/sites/siabnext.ttc.io/files/media/twitter-en-all-06.png)
+
+*Figure 4: Discoverability options*
+
+### Step 11
+
+**Personalisation and promotion**. Here, **Twitter** gives you the option of allowing them to monitor your behaviour on **Twitter** and other websites and tailor the content and advertisements you see based on this, as well as sharing your data with third parties. It is reccommended that you **uncheck** these boxes for more privacy.
+
+## Password settings on Twitter
+
+### Step 12
+
+Here, **Twitter** allows you to change your password. It's reccommended that you select a strong, memorable password and update it regularly. For more, see [**How to create and maintain strong passwords**](/en/chapter-3). 
+
+![Password options](/sites/siabnext.ttc.io/files/media/twitter-en-all-07.png)
+
+*Figure 5: Password options*
+
+**Note** that **Twitter** also gives you the option of associating your mobile phone to your account for "enhanced security". While this may be useful in certain circumstances, as noted above, it is not reccommended if you wish to maintain a degree of privacy regarding your identity while using **Twitter**. 
+
+### Step 13
+
+Once you have updated your password, **click** *Save changes*.
+
+## Mobile settings on Twitter
+
+### Step 14
+
+You can **open** *Twitter's* mobile settings by **clicking** on *Mobile* in the menu on the left-hand side. 
+
+Here, **Twitter** encourages you to download the smartphone app and also gives you the option of activiating *Twitter text messaging*, which allows you to tweet directly from your mobile phone. As noted above, it is not advisable to associate your **Twitter** account to your mobile phone if you wish to maintain a degree of privacy or anonymity while tweeting. Also, remember that **text messages** sent over the GSM network are not encrypted and are easily interceptable and traceable to their authors. For more, see [**How to use mobile phones as securely as possible**](/en/chapter-10).

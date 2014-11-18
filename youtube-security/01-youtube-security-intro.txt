@@ -1,19 +1,19 @@
 Object_type: Tool
-Tool: Facebook
+Tool: YouTube
 Platform: Social Networks
-Need: Social networking
-Website: https://www.facebook.com/
+Need: Upload and share video content
+Website: https://www.youtube.com/
 Download: 
 Version: N/A
 License: Proprietary Software
 System_requirements: Web browser; Internet connection
 Admin: 
 Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
-Comment: read 03-facebook-security-premise before using this tool
+Comment: read 03-youtube-security-premise before using this tool
 Required_reading:  [Protect yourself and your data when using social networking sites](https://siabnext.ttc.io/how-to-guide/social-networking)
 Group: Synthesis
 Title: Introduction
 Language: EN
 
 
-**Facebook** is a popular social networking website whose almost universal accessibility means knowledge and control of its privacy settings are extremely important.
+**YouTube** is a service, owned by **Google**, which allows users to upload and share video content. It has become popular among human rights defenders for sharing campaigns and evidence of human rights abuses, among other things.

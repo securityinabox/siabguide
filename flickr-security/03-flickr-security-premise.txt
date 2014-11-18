@@ -1,7 +1,7 @@
 Object_type: Tool
-Tool: Facebook
+Tool: Flickr
 Platform: Social Networks
-Need: Social networking
+Need: Image hosting and sharing
 Website: https://www.facebook.com/
 Download: 
 Version: N/A
@@ -9,7 +9,7 @@ License: Proprietary Software
 System_requirements: Web browser; Internet connection
 Admin: 
 Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
-Comment:
+Comment: read 03-flickr-security-premise before using this tool
 Required_reading: [Protect yourself and your data when using social networking sites](https://siabnext.ttc.io/how-to-guide/social-networking)
 Group: Basic Usage 
 Title: Important premise
@@ -33,14 +33,8 @@ Other similar sites may be popular in different regions, so you way wish to expl
 3. What privacy options are provided for users? Can you choose to share your videos securely with a small number of individuals, or are they all public by default?
 4. Do you know the **geographical location of the servers**, under which territorial jurisdiction they fall or where the company is registered? Are you aware of how this information relates to the privacy and security of your email activity and information? Will the site's owners hand over information if they receive a governmental request to do so?
 
-## Things you should know about Facebook before you start
+## Things you should know about Flickr before you start
 
-**Facebook** is the world's most popular social networking site. It can be and has been used widely by human rights advocates in order to build networks, communicate, organise and publicise events or issues. However, it is also a potentially rich source of information for those opposed to the activities of rights advocates. Therefore, knowledge of the different account and privacy settings available is extremely important.
+**Flickr** is owned by Yahoo! and also facilitates integration with other accounts including Google and Facebook. Content posted on **Flickr** remains yours, to which you can attribute different creative commons licenses or copyright. You are giving Yahoo! a license to distribute your photos or videos by submitting content. Because of the diverse licensing attribution, **Flickr** is great both for finding pictures to be used in campaigns and as a resource for sharing images with colleagues, allies and members of your networks. However,  it's highly likely that **Flickr** user data is gathered and monitored by a number of governments.
 
-**Facebook** is actively monitored by numerous governments, including the United States government. Moreover, **Facebook**'s Data Use Policy states that they will share your information in response to legal requests including governmental investigations.
-
-It is important to keep in mind that, due to the open nature of **Facebook**, your security and privacy depends heavily on that of your friends and contacts. While practicing these guidelines alone will give you more privacy and security, it will be much less effective if your Facebook contacts do not practice them too. Therefore, it's important to spread these practices among your friends, family and other contacts on **Facebook** so as to improve your security, as well as theirs.
-
-Many people use **Facebook Groups** as a way of communicating and organising socially, politically and professionally. While Facebook gives you the ability to create a "secret" group, it's worth noting that all the information shared in such groups is shared not only between members but also with Facebook and whoever has access to their data, which can include state agencies or other third parties who request it. As an alternative we recommend the **Crabgrass** service provided by **RiseUp.Net**, although it's worth noting that it is specifically designed for activism. For more, see [*Hands-on: Crabgrass Secure Online Collaboration Platform*](https://securityinabox.org/en/context/01/crabgrass-online-collaboration).
-
-You should always stay up-to-date on the **Facebook Privacy Settings**. The settings outlined in this guide will help keep your Facebook account more secure (as of June 2014). However, it is always advisable to look at the official **Facebook [help page](https://www.facebook.com/help/privacy)** for Privacy and Security settings for any updates, or advice for any questions you may have.
+For more information, read on Yahoo!'s [**Privacy Policy**](http://privacy.yahoo.com).

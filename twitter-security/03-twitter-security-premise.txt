@@ -1,8 +1,8 @@
 Object_type: Tool
-Tool: Facebook
+Tool: Twitter
 Platform: Social Networks
 Need: Social networking
-Website: https://www.facebook.com/
+Website: https://twitter.com/
 Download: 
 Version: N/A
 License: Proprietary Software
@@ -33,14 +33,12 @@ Other similar sites may be popular in different regions, so you way wish to expl
 3. What privacy options are provided for users? Can you choose to share your videos securely with a small number of individuals, or are they all public by default?
 4. Do you know the **geographical location of the servers**, under which territorial jurisdiction they fall or where the company is registered? Are you aware of how this information relates to the privacy and security of your email activity and information? Will the site's owners hand over information if they receive a governmental request to do so?
 
-## Things you should know about Facebook before you start
+## Things you should know about Twitter before you start
 
-**Facebook** is the world's most popular social networking site. It can be and has been used widely by human rights advocates in order to build networks, communicate, organise and publicise events or issues. However, it is also a potentially rich source of information for those opposed to the activities of rights advocates. Therefore, knowledge of the different account and privacy settings available is extremely important.
+**Twitter** states in its terms of service: “This license is you authorising us to make your Tweets available to the rest of the world and to let others do the same. But what’s yours is yours – you own your content.” Moreover, **Twitter** reserves the right to hand over your information to governments should a request be made.
 
-**Facebook** is actively monitored by numerous governments, including the United States government. Moreover, **Facebook**'s Data Use Policy states that they will share your information in response to legal requests including governmental investigations.
+Though **Twitter** is a website, many people interact with and manage **Twitter** via desktop and smartphone applications that are known as **Twitter** clients. If you use a **Twitter** client you should make sure it is connecting to the site securely, over an encrypted connection, see [**Keeping your webmail private**](/en/chapter_7_1) in [**Chapter 7: How to keep your Internet communication private**](/en/chapter-7).
 
-It is important to keep in mind that, due to the open nature of **Facebook**, your security and privacy depends heavily on that of your friends and contacts. While practicing these guidelines alone will give you more privacy and security, it will be much less effective if your Facebook contacts do not practice them too. Therefore, it's important to spread these practices among your friends, family and other contacts on **Facebook** so as to improve your security, as well as theirs.
+Furthermore, like **Facebook**, many people use **Twitter** in conjunction with numerous other websites and applications in order to share status updates, photos, locations, links, and so forth. Using these applications pose many potential security vulnerabilities, and it is very important that the privacy settings on all other applications are made as secure as possible.
 
-Many people use **Facebook Groups** as a way of communicating and organising socially, politically and professionally. While Facebook gives you the ability to create a "secret" group, it's worth noting that all the information shared in such groups is shared not only between members but also with Facebook and whoever has access to their data, which can include state agencies or other third parties who request it. As an alternative we recommend the **Crabgrass** service provided by **RiseUp.Net**, although it's worth noting that it is specifically designed for activism. For more, see [*Hands-on: Crabgrass Secure Online Collaboration Platform*](https://securityinabox.org/en/context/01/crabgrass-online-collaboration).
-
-You should always stay up-to-date on the **Facebook Privacy Settings**. The settings outlined in this guide will help keep your Facebook account more secure (as of June 2014). However, it is always advisable to look at the official **Facebook [help page](https://www.facebook.com/help/privacy)** for Privacy and Security settings for any updates, or advice for any questions you may have.
+Twitter is actively monitored by numerous governments, including the United States government. Moreover, Twitter's Terms of Service states that they will share your information in response to legal requests including governmental investigations. For more information, see Twitter's [**Transparency Report**](https://transparency.twitter.com/)

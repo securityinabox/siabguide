@@ -1,0 +1,31 @@
+Object_type: Tool
+Tool: YouTube
+Platform: Social Networks
+Need: Upload and share video content
+Website: https://www.youtube.com/
+Download: 
+Version: N/A
+License: Proprietary Software
+System_requirements: Web browser; Internet connection
+Admin: 
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Comment: read 03-youtube-security-premise before using this tool
+Required_reading:  [Protect yourself and your data when using social networking sites](https://siabnext.ttc.io/how-to-guide/social-networking)
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+- Never post a video of any individual without their consent. And even with their consent, try to think of any possible repercussions before posting it.
+
+- When you navigate to **YouTube**, do so by typing http**s**://www.youtube.com into your browser's address bar - this will ensure that the communication between your computer and **YouTube**'s servers will be encrypted by a **Secure Socket Layer** (SSL) connection. To avoid having to do this each time you connect, we reccommend connecting to **YouTube** using [**Firefox**](/en/firefox_main) with add-ons such as [**HTTPS Everywhere**](/en/firefox_others#5.5).
+
+- For more privacy, try creating a new, anonymised **Google** account which is created and only accessed while using the [**Tor Browser**](/en/tor_main). Use only this account for uploading videos to **YouTube** and your location and other identifying data will be hidden from **Google** and others such as your Internet Service Provider. However, it is often impossible to view videos on **YouTube** using the **Tor Browser**. For viewing videos, it may be best to create another account and use a browser such as [**Firefox with Add-ons**](/en/firefox_main)
+
+- For uploading sensitive videos from an [Android](/en/glossary#Android) device, consider using the [Guardian Project](/en/glossary#guardian_project)'s [InformaCam](https://guardianproject.info/apps/informacam) app, which allows users a certain amound of control over their videos' metadata and facilitates uploading over the Tor network when used in conjunction with [**Orbot**](/en/orbot_main).
+
+- Make use of **YouTube**'s **face-blurring** option for videos in which people may not wish to be identified, such as protests. Read more [**here**](http://support.google.com/youtube/bin/static.py?hl=en&guide=1388381&page=guide.cs&answer=2640535).
+
+- Always keep a back-up copy of any video you share via **YouTube**.
+
+- Use the *private* setting in order to share video with specific individuals only.

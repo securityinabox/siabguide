@@ -1,0 +1,103 @@
+Object_type: Tool
+Tool: Twitter
+Platform: Social Networks
+Need: Social networking
+Website: https://twitter.com/
+Download: 
+Version: N/A
+License: Proprietary Software
+System_requirements: Web browser; Internet connection
+Admin: 
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Comment: read 03-twitter-security-premise before using this tool
+Required_reading: [Protect yourself and your data when using social networking sites](https://siabnext.ttc.io/how-to-guide/social-networking)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Twitter Clients and Apps
+
+## General Guidelines on Clients and Apps
+
+**Twitter** users can allow various third-party applications, including other social networking and photo-sharing sites to interact with their **Twitter** accounts, for example in order to share photos uploaded via websites such as **Instagram**, or **TwitPic**. However as mentioned in [**How to protect yourself and your data when using social networking sites**](/en/chapter-9) you must be careful when integrating your profiles on different social networking sites. These third-party sites have their own terms of use, privacy policies and privacy settings which are not necessarily the same as **Twitter**'s. Therefore, although your **Twitter** account may be relatively secure, your profiles on third-party app websites may be completely exposed, and if you use the same username or email address for all such websites, you could easily be tracked down. The number of such websites and apps is vast, and only a few are explored in this guide. However it is vital that you research and update your security settings on all third-party appls linked to your **Twitter** page. If you do not consider them secure enough, delete your profile and revoke its access to your **Twitter** account.
+
+Should you wish to revoke the access of an application to your **Twitter** profile:
+
+### Step 1
+
+Go to *Settings* of your account and **click** the *Apps* tab on the left-hand side.
+
+![Settings menu](/sites/siabnext.ttc.io/files/media/twitter-en-all-10.png)
+
+*Figure 1: Settings menu*
+
+### Step 2
+
+Having opened the list of apps connected to your **Twitter** account, **select** the app to which you wish to revoke access, click ![](/sites/siabnext.ttc.io/files/media/twitter-en-all-12.png).
+
+![sample list of apps](/sites/siabnext.ttc.io/files/media/twitter-en-all-11.png)
+
+*Figure 2: A sample list of apps*
+
+## Instagram
+
+**Instagram** is a popular image-sharing smartphone application which belongs to [**Facebook**](/en/Facebook_main) and is often used in conjunction with **Twitter**. Since it is primarily a mobile application, using **Instagram** with **Twitter** already associates your account to your mobile device, which may mean a lot of information such as your location will be shared with **Facebook**, **Instagram** and **Twitter**, all of whom may then share it with third parties including the State. It is therefore not reccommended that you use **Instagram** on the same account or even device through which any kind of sensitive information may pass.
+
+## TwitPic
+
+Many **Twitter** users make use of the website **TwitPic** for uploading and storing the photos which they share over **Twitter**. Keep in mind that **TwitPic** is a separate company which does not belong to **Twitter** and has different Terms of Use and a different Privacy Policy. In this regard, it is important to note that **TwitPic** does **not** allow users the option of hiding their profile or photos. All photos uploaded to **TwitPic** are public by default and this cannot be changed. If you use the same username for your **Twitter** and **TwitPic** accounts, an adversary could very easily have access to all the photos you have uploaded to **TwitPic**.
+
+**TwitPic** allows other users to tag you in photos they take. This could potentially put you at risk if someone tags you in a sensitive photo, as this information will then be made public. Therefore it is recommended that you disallow other users from tagging  you in their photos.
+
+### Step 1
+
+**Login** to your **TwitPic** account using **Firefox** browser and **click** on *Settings* in the menu at the top right of the screen.
+
+![TwitPic homepage menu bar](/sites/siabnext.ttc.io/files/media/twitter-en-all-22.png)
+
+*Figure 3: The TwitPic homepage menu bar*
+
+### Step 2
+
+Under *privacy*, **uncheck** the box marked *Allow others to tag my photos* and **click** on *Save Changes* button.
+
+![Tagging options](/sites/siabnext.ttc.io/files/media/twitter-en-all-13.png)
+
+*Figure 4: Tagging options*
+
+If you would like to delete sensitive images from **TwitPic**:
+
+### Step 3
+
+**Click** *Profile* in the menu at the top right of the screen.
+
+### Step 4
+
+**Click** *Delete* beside the photo you wish to delete.
+
+![Image Options](/sites/siabnext.ttc.io/files/media/twitter-en-all-14.png)
+
+*Figure 5: Image Options*
+
+If you would like to delete your **TwitPic** account.
+
+### Step 5
+
+**Click** *Settings* in the menu at the top right of the screen.
+
+### Step 6
+
+Under the *Delete Account* section, **type** the words from the "captcha" image into the box.
+
+!["captcha" image shown before you delete your profile](/sites/siabnext.ttc.io/files/media/twitter-en-all-15.png)
+
+*Figure 6: This "captcha" image is shown before you can delete your profile*
+
+### Step 7
+
+**Click** ![](/sites/siabnext.ttc.io/files/media/twitter-en-all-16.png)
+
+## Smartphone Apps
+
+A number of Clients and Apps for interacting with **Twitter** are also available for smartphones such as the iPhone, Android, Blackberrys or Windows Phones. It is very important to keep in mind that smartphones have certain security issues which are inherent, and the use of these Apps or Clients on smartphones may be more insecure than using them on your computer: for example they may not connect to the Twitter server in encrypted way, leaving the content of your tweets exposed. For more information on how to reduce risk while using smartphones, see [**How to use smartphones as securely as possible**](/en/chapter-11).
