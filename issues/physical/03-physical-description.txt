@@ -1,0 +1,27 @@
+Object_type: Issue
+Issue: Protect your information from physical threats
+Platform: Computer; Storage devices; Physical environment; LANs; Mobile devices
+Need: Digital Security Fundamentals
+Connected_tools: 
+Comment:
+Further_reading: *1.2 Security Awareness*, *1.3 Threat Assessment*, *2.1 Windows Security*, and *4. Case Study 1* in the [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman) book; [Protection Manual](http://www.frontlinedefenders.org/manuals/protection) and [Protection Handbook](http://www.frontlinedefenders.org/security-training) for Human Rights Defenders
+Group: Main issue
+Title: Description
+Language: EN
+
+
+# Assessing your risks
+
+Many organisations underestimate the importance of keeping their offices and their equipment physically secure. As a result, they often lack a clear policy describing what measures they should take to protect computers and backup storage devices from theft, severe weather conditions, accidents, and other [*physical threats*](/en/glossary#Physical_threat). The importance of such policies may seem obvious, but formulating them properly can be more complicated than it sounds. Many organisations, for example, have good quality locks on their office doors, and many even have secure windows; but if they do not pay attention to the number of keys that have been created, and who has copies of those keys, their sensitive information remains vulnerable.
+
+When assessing the risks and vulnerabilities that you or your organisation face, you must evaluate several different levels at which your data may be threatened.
+
+- Consider the communication channels you use and how you use	them. Examples might include paper letters, faxes, landline phones, mobile phones, emails and [*Skype*](/en/glossary#Skype) messages.
+
+- Consider how you store important information. Computer hard drives, email and web servers, USB memory sticks, external USB hard drives, CDs and DVDs, mobile phones, printed paper and hand-written	notes are all likely possibilities.
+
+- Consider where these items are located, physically. They could be in the office, at home, in a trash bin out back or, increasingly, 'somewhere on the Internet.' In this last case, it might be quite challenging to to determine the particular piece of information's actual, physical location.
+
+Keep in mind that the same piece of information might be vulnerable on many different levels. Just as you might rely on anti-virus software to protect the contents of a USB memory stick from [*malware*](/en/glossary#Malware), you must rely on a detailed physical security plan to protect the same information from theft, loss or destruction. While some security practices, such as having a good off-site backup policy, are helpful against both digital and physical threats, others are clearly more specific.
+
+When you decide whether to carry your USB memory stick in your pocket or sealed in a plastic bag at the bottom of your luggage, you are making a decision about physical security, even though the information you are trying to protect is digital. As usual, the correct policy depends greatly on the situation. Are you walking across town or travelling across a border? Will somebody else be carrying your bag? Is it raining? These are the sorts of questions that you should consider when making decisions like this. 

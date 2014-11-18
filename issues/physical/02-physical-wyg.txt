@@ -1,0 +1,16 @@
+Object_type: Issue
+Issue: Protect your information from physical threats
+Platform: Computer; Storage devices; Physical environment; LANs; Mobile devices
+Need: Digital Security Fundamentals
+Connected_tools: 
+Comment:This file should only be used in connection with the whole hands-on guide
+Further_reading: *1.2 Security Awareness*, *1.3 Threat Assessment*, *2.1 Windows Security*, and *4. Case Study 1* in the [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman) book; [Protection Manual](http://www.frontlinedefenders.org/manuals/protection) and [Protection Handbook](http://www.frontlinedefenders.org/security-training) for Human Rights Defenders
+Group: Synthesis
+Title: What you can learn from this chapter 
+Language: EN
+
+
+* More about a few of the [*physical threats*](/en/glossary#Physical_threats) to your computer and to the information stored on it
+* How best to secure computer equipment against some of these threats
+* How to create a healthy operating environment for computers and network equipment
+* What to consider when creating a security plan for the computers in your office

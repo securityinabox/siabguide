@@ -1,0 +1,23 @@
+Object_type: Issue
+Issue: Protect your information from physical threats
+Platform: Computer; Storage devices; Physical environment; LANs; Mobile devices
+Need: Digital Security Fundamentals
+Connected_tools: 
+Comment:
+Further_reading: *1.2 Security Awareness*, *1.3 Threat Assessment*, *2.1 Windows Security*, and *4. Case Study 1* in the [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman) book; [Protection Manual](http://www.frontlinedefenders.org/manuals/protection) and [Protection Handbook](http://www.frontlinedefenders.org/security-training) for Human Rights Defenders
+Group: Solution
+Title: Tools
+Language: EN
+
+
+# Software and settings related to physical security
+
+- Make sure that, when you restart your computer, it asks you for a password before allowing you to run software and access files. If it does not, you can enable this feature in Windows by clicking on the *Start* menu, selecting the Control Panel, and double-clicking on User Accounts. In the User Accounts screen, select your own account and click Create a Password. Choose a secure password, as discussed in [***Chapter 3: How to create and maintain good passwords***](/en/chapter-3), enter your password, confirm it, click Create Password and click Yes, Make Private. 
+
+- There are a few settings in your computer's [*BIOS*](/en/glossary#BIOS) that are relevant to physical security. First, you should configure your computer so that it will not *[boot](/en/glossary#Booting)* from the USB device, CD-ROM or DVD drives. Second, you should set a password on the [*BIOS*](/en/glossary#BIOS) itself, so that an intruder can not simply undo the previous setting. Again, be sure to choose a secure password.
+
+- If you rely on a secure password database, as discussed in [***Chapter 3***](/en/chapter-3), to store your Windows or [*BIOS*](/en/glossary#BIOS) passwords for a particular computer, make sure that you do not keep your only copy of the database on that computer.
+
+- Get in the habit of locking your account whenever you step away from your computer. On Windows, you can do this quickly by holding down the Windows logo key and pressing the L key. This will only work if you have created a password for your account, as described above. 
+
+- [*Encrypt*](/en/glossary#Encryption) sensitive information on computers and storage devices in your office. See [***Chapter 4: How to protect the sensitive files on your computer***](/en/chapter-4) for additional details and pointers to the appropriate Hands-on Guides.

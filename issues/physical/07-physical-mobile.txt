@@ -1,0 +1,17 @@
+Object_type: Issue
+Issue:
+Platform: 
+Need: 
+Connected_tools: 
+Comment:
+Further_reading:
+Group: Solution
+Title: Mobile devices
+Language: EN
+
+
+# Portable devices
+
+- Keep your laptop, your mobile phone and other portable devices that contain sensitive information with you at all times, especially if you are travelling or staying at a hotel. Travelling with a laptop [*security cable*](/en/glossary#Security_cable) is a good idea, although it is sometimes difficult to find an appropriate object to which you can attach one. Remember that meal times are often exploited by thieves, many of whom have learnt to check hotel rooms for laptops during hours of the day when they are likely to be unattended. 
+
+- If you have a laptop, tablet or other mobile device, try to avoid putting them on display. There is no need to show thieves that you are carrying such valuable hardware or to show individuals who might want access to your data that your shoulder bag contains a hard drive full of information. Avoid using your portable devices in public areas, and consider carrying your laptop in something that does not look like a laptop bag. 

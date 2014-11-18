@@ -1,0 +1,62 @@
+Object_type: Issue
+Issue: Protect your information from physical threats
+Platform: Computer; Storage devices; Physical environment; LANs; Mobile devices
+Need: Digital Security Fundamentals
+Connected_tools: 
+Comment:
+Further_reading: *1.2 Security Awareness*, *1.3 Threat Assessment*, *2.1 Windows Security*, and *4. Case Study 1* in the [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman) book; [Protection Manual](http://www.frontlinedefenders.org/manuals/protection) and [Protection Handbook](http://www.frontlinedefenders.org/security-training) for Human Rights Defenders
+Group: Solution 
+Title: Prevention
+Language: EN
+
+
+# Protecting your information from physical intruders
+
+Malicious individuals seeking access to your sensitive information represent one important class of [*physical threat*](/en/glossary#Physical_threat). It would be a mistake to assume that this is the only such threat to the security of your
+information, but it would be even more shortsighted to ignore it.There are a number of steps you can take to help reduce the risk of physical intrusion. The categories and suggestions below, many of which may apply to your home as well as your office, represent a foundation upon which you should build in accordance with your own particular physical security situation.
+
+## Around the office
+
+- Get to know your neighbours. Depending on the security climate 	in your country and in your neighbourhood, one of two things may be possible. Either you can turn them into allies who will help you keep an eye on your office, or you can add them to the list of potential threats that your security plan must address.
+
+- Review how you protect all of the doors, windows and other points of entry that lead into your office.
+
+- Consider installing a surveillance camera or a motion-sensor alarm.
+
+- Try to create a reception area, where visitors can be met before they enter the office, and a meeting room that is separate from your normal work space.
+
+## In the office
+
+- Protect network cables by running them inside the office.
+
+- Lock network devices such as [*servers*](/en/glossary#Server), [*routers*](/en/glossary#Router), [*switches*](/en/glossary#Router), [hubs](/en/glossary#Router) and modems into secure rooms or cabinets. An intruder with physical access to such equipment can install [*malware*](/en/glossary#Malware) capable of stealing data in transit or attacking other computers on your network even after he leaves. In some circumstances it may be beneficial to hide servers, computers or other equipment in attics, over a fake ceiling, or even with a neighbor, and use them through wireless connection.
+
+- If you have a wireless network, it is critical that you secure your [*access point*](/en/glossary#Router) so that intruders cannot join your network or monitor your traffic. If you are using an insecure wireless network, anyone in your neighbourhood with a laptop becomes a potential intruder. This is an unusual definition of 'physical', but it helps to consider that a malicious individual who can monitor your wireless network has the same access as one who can sneak into your office and connect an ethernet cable. The steps required to secure a wireless network will vary, depending on your [*access point*](/en/glossary#Router) hardware and software, but they are rarely difficult to follow.
+
+## At your work
+
+- You should position your computer screen carefully, both on your desk and when you are away from the office, in order to prevent others from reading what is displayed there. In the office, this means	considering the location of windows, open doors and the guest waiting area, if you have one.
+
+- Most desktop computer cases have a slot where you can attach a padlock that will prevent anyone without a key from getting inside. If you have cases like this in the office, you should lock them so that intruders cannot tamper with their internal hardware. You might also consider this feature when purchasing new computers.
+
+- Use a locking [*security cable*](/en/glossary#Security_cable), where possible, to prevent intruders from stealing the computers themselves. This is especially important for laptops and small desktops that could be hidden inside a bag or under a coat.
+
+# Maintaining a healthy environment for your computer hardware
+
+Like many electronic devices, computers are quite sensitive. They do not adapt well to unstable electricity supplies, extreme temperatures, dust, high humidity or mechanical stress. There are a number of things you can do to protect your computers and network equipment from such threats:
+
+- Electrical problems such as power surges, blackouts and brownouts can cause physical damage to a computer. Irregularities like this can 'crash' your hard drive, damaging the information it contains, or physically harm the electronic components in your computer.
+
+  - If you can afford them, you should install *Uninterruptible Power Supplies* ([*UPS'*](/en/glossary#UPS)) on important computers in your office. A [*UPS*](/en/glossary#UPS) stabilises electricity supply and provides temporary power in the event of a blackout.
+
+  - Even where [*UPS'*](/en/glossary#UPS) are deemed inappropriate or too costly, you can still provide power filters or surge protectors, either of which will help protect you from power surges.
+
+  - Test your electrical network before you connect important equipment to it. Try to use power sockets that have three slots, one of them being a 'ground line', or 'earth'. And, if possible, take a day or two to see how the electrical system in a new office behaves when powering inexpensive devices, such as lamps and fans, before putting your computers at risk.
+
+- To defend against accidents in general, avoid placing important hardware in passages, reception areas or other easily accessible locations. UPS', power filters, surge protectors, power strips and extension cables, particularly those attached to servers and networking equipment, should be positioned where they will not be switched off by an accidental misstep.
+
+- If you have access to high-quality computer cables, power strips and extension cables, you should purchase enough to serve your entire office and pick up a few extras. Power strips that fall out of wall sockets, fail to hold plugs securely and spark constantly are more than just annoying. They can be quite damaging to the physical security of any computers attached to them. They can also lead frustrated users to secure their loose computer cables to a sparking power strip with tape, which creates an obvious fire hazard.
+
+- If you keep any of your computers inside cabinets, make sure they have adequate ventilation, or they might overheat
+
+- Computer equipment should not be housed near radiators, heating vents, air conditioners or other ductwork

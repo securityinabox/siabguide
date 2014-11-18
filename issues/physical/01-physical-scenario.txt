@@ -1,0 +1,13 @@
+Object_type: Issue
+Issue: Protect your information from physical threats
+Platform: Computer; Storage devices; Physical environment; LANs; Mobile devices
+Need: Digital Security Fundamentals
+Connected_tools: 
+Comment:
+Further_reading: *1.2 Security Awareness*, *1.3 Threat Assessment*, *2.1 Windows Security*, and *4. Case Study 1* in the [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman) book; [Protection Manual](http://www.frontlinedefenders.org/manuals/protection) and [Protection Handbook](http://www.frontlinedefenders.org/security-training) for Human Rights Defenders
+Group: Synthesis
+Title: Scenario
+Language: EN
+
+
+No matter how much effort you have put into building a digital barrier around your computer, you could still wake up one morning to find that it, or a copy of the information on it, has been lost, stolen, or damaged by any number of unfortunate accidents or malicious acts. Anything from a power surge to an open window to a spilt cup of coffee might lead to a situation in which all of your data are lost and you are no longer able to use your computer. A careful risk assessment, a consistent effort to maintain a healthy computing environment and a written [*security policy*](/en/glossary#Security_policy) can help avoid this type of disaster.
