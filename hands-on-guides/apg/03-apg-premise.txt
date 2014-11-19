@@ -1,0 +1,22 @@
+Object_type: Tool
+Tool: Android Privacy Guard (APG)
+Platform: Google Android
+Need: File and email encryption
+Website: http://www.thialfihar.org/projects/apg/
+Download: https://play.google.com/store/apps/details?id=org.thialfihar.android.apg
+Version: 1.08
+License: Free/Open Source Software
+System_requirements: Android 1.5 or higher
+Admin: false
+Alternatives: 
+Comment:
+Required_reading: How-to Booklet Chapter [3. How to create and maintain secure passwords](https://securityinabox.org/chapter-3); How-to Booklet Chapter [7. How to keep your Internet communication private](https://securityinabox.org/chapter-7); How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://securityinabox.org/chapter-10); How-to Booklet Chapter [11. How to use smartphones as securely as possible](https://securityinabox.org/en/chapter-11)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+# Introduction to APG
+
+- **APG** integrates with the k9 Email client for android and makes email encryption a smooth affair. But first, you need to know how email encryption works. This is explained in Chapter [**7.4.Advanced Email Security**](https://siabdev.ngoinabox.org/en/chapter_7_4).
+- **APG** can also be used to encrypt and decrypt files locally on your device with either a passphrase or public/private keypair.

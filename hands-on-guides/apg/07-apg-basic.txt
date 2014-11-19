@@ -1,0 +1,91 @@
+Object_type: Tool
+Tool: Android Privacy Guard (APG)
+Platform: Google Android
+Need: File and email encryption
+Website: http://www.thialfihar.org/projects/apg/
+Download: https://play.google.com/store/apps/details?id=org.thialfihar.android.apg
+Version: 1.08
+License: Free/Open Source Software
+System_requirements: Android 1.5 or higher
+Admin: false
+Alternatives: 
+Comment:
+Required_reading: How-to Booklet Chapter [3. How to create and maintain secure passwords](https://securityinabox.org/chapter-3); How-to Booklet Chapter [7. How to keep your Internet communication private](https://securityinabox.org/chapter-7); How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://securityinabox.org/chapter-10); How-to Booklet Chapter [11. How to use smartphones as securely as possible](https://securityinabox.org/en/chapter-11)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Use APG to encrypt and decrypt files
+
+## Step 1
+
+After opening **APG**, **press** ![](/sites/siabnext.ttc.io/files/media/apg-and-01.png).
+
+## Step 2
+
+**Choose** the file to encrypt by pressing the folder symbol and select the file from the file manager.
+
+## Step 3
+
+If you want to have the original file deleted after it has been encrypted, **check** *Delete after encryption*. This is recommended in most cases.
+
+## Step 4
+
+In the lower part of the window you can choose between two encryption methods: Public Key encryption or Passphrase (by tapping on the arrows left or right). If you do not have a Public/Private key pair and are not familiar with Public/Private key schemes, choose *Pass phrase*.
+
+## Step 5
+
+**Type** a passphrase and repeat it. For secure passphrases, see How-to Booklet Chapter [**3. How to create and maintain secure passwords**](/en/chapter-3).
+
+## Step 6
+
+**Press** *Encrypt*
+
+![Encryption options](/sites/siabnext.ttc.io/files/media/apg-and-02.png)
+
+*Figure 1: Encryption options*
+
+## Step 7
+
+The next window will ask you to give a name to the encrypted file. If you press *OK* with out making any other changes; then the encrypted file is saved in the **APG** folder with the original file name and a ".gpg" extension. **Important:** if you change the name of the file, make sure it ends with ".gpg"
+
+![Select file name](/sites/siabnext.ttc.io/files/media/apg-and-03.png)
+
+*Figure 2: Select file name*
+
+## Step 8
+
+The device will begin to encrypt the selected file. Depending on the size of the file, this may take some time.
+
+## Step 9
+
+To **decrypt**, **press** ![](/sites/siabnext.ttc.io/files/media/apg-and-04.png)
+
+## Step 10
+
+**Choose** which file to decrypt. You may wish to choose *delete after decryption* if you want the original, unencrypted file to be deleted.
+
+![Choose file to decrypt](/sites/siabnext.ttc.io/files/media/apg-and-05.png)
+
+*Figure 3: Choose file to decrypt*
+
+## Step 11
+
+A window will appear asking for your passphrase: **type** it in as prompted.
+
+![Enter passphrase](/sites/siabnext.ttc.io/files/media/apg-and-06.png)
+
+*Figure 4: Enter passphrase*
+
+## Step 12
+
+Another window will ask where to store the decrypted file and under which name. The default is again the **APG** folder.
+
+![Select a name for the decrypted file](/sites/siabnext.ttc.io/files/media/apg-and-07.png)
+
+*Figure 5: Select a name for the decrypted file*
+
+## Step 13
+
+The device will begin to decrypt the selected file. Depending on the size of the file, this may take some time.

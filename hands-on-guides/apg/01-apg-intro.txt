@@ -1,0 +1,19 @@
+Object_type: Tool
+Tool: Android Privacy Guard (APG)
+Platform: Google Android
+Need: File and email encryption
+Website: http://www.thialfihar.org/projects/apg/
+Download: https://play.google.com/store/apps/details?id=org.thialfihar.android.apg
+Version: 1.08
+License: Free/Open Source Software
+System_requirements: Android 1.5 or higher
+Admin: false
+Alternatives: 
+Comment:
+Required_reading: How-to Booklet Chapter [3. How to create and maintain secure passwords](https://securityinabox.org/chapter-3); How-to Booklet Chapter [7. How to keep your Internet communication private](https://securityinabox.org/chapter-7); How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://securityinabox.org/chapter-10); How-to Booklet Chapter [11. How to use smartphones as securely as possible](https://securityinabox.org/en/chapter-11)
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**Android Privacy Guard** (APG) is a free and open source application for Android devices, created by [Thialfiar](http://www.thialfihar.org/), that lets you encrypt and decrypt single files or emails. It aims provide **OpenPGP** encryption for Android devices, although not all features of OpenPGP are implemented yet. Its public/private key scheme lets you encrypt, decrypt and sign files and messages. You can also use it without any public/private key pair to encrypt single files with asymmetric encryption, securing the files with a password or passphrase. For email encryption we recommend to use it in combination with **K9**, an Android email client, for which there is also a [Hands on Guide](/en/k9_apg_main).
