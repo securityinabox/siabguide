@@ -1,0 +1,31 @@
+Object_type: Issue
+Issue: Keep your online communication private
+Platform: Email; Instant messaging; VoIP
+Need: Secure Communication
+Connected_tools: [RiseUp](https://siabnext.ttc.io/en/glossary#RiseUp) email service; [Pidgin with OTR](https://siabnext.ttc.io/hands-on-guide/pidgin-windows); [Jitsi](https://siabnext.ttc.io/hands-on-guide/jitsi-windows); [Thunderbird with Enigmail and GPG](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows)
+Comment:
+Further_reading: 2.5 Spoofing section in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [On Riseup Email](https://help.riseup.net/en/email); [Instructions on using Gmail](https://mail.google.com/support/bin/topic.py?topic=12769); [How to import your gmail contacts into Thunderbird](http://email.about.com/od/mozillathunderbirdtips/qt/et_gmail_addr.htm)
+Group: Solution
+Title: Best practices
+Language: EN
+
+
+# Keeping your webmail private
+
+The Internet is an open network through which information typically travels in a readable format. If a normal email message is intercepted on the way to a recipient, its contents can be read quite easily. And, because the Internet is just one large, worldwide network that relies on intermediary computers to direct traffic, many different people may have the opportunity to intercept a message in this way. Your *Internet Service Provider [*ISP*](/en/glossary#ISP)* is the first recipient of an email message as it begins its journey to the recipient. Similarly, the recipient's [*ISP*](/en/glossary#ISP)  is the last stop for your message before it is delivered. Unless you take certain precautions, your messages can be read or tampered with at either of these points, or anywhere in between.
+
+It has long been possible to secure the Internet connection between your computer and the websites that you visit. You often encounter this level of security when entering passwords or credit card information into websites. The technology that makes it possible is called Secure Sockets Layer [*SSL*](/en/glossary#SSL) [*encryption*](/en/glossary#Encryption) . You can tell whether or not you are using [*SSL*](/en/glossary#SSL) by looking closely at your Web browser's **address bar**. 
+
+All Web addresses normally begin with the letters **HTTP**, as can be seen in the example below:
+
+![](/sites/siabnext.ttc.io/files/media/riseup-http.png)
+
+When you are visiting a secure website, its address will begin with **HTTPS**. 
+
+![](/sites/siabnext.ttc.io/files/media/riseup-https.png)
+
+The extra **S** on the end signifies that your computer has opened a secure connection to the website. You may also notice a 'lock' symbol, either in the **address bar** or in the **status bar** at the bottom of your browser window. These are clues to let you know that anyone who might be monitoring your Internet connection will no longer be able to eavesdrop on your communication with that particular website.
+
+In addition to protecting passwords and financial transactions, this type of  [*encryption*](/en/discussion#Encryption) is perfect for securing your webmail. However, many webmail providers do not offer secure access, and others require that you enable it explicitly, either by setting a preference or by typing in the **HTTPS** manually. You should always make sure that your connection is secure before logging in, reading your email, or sending a message. 
+
+You should also pay close attention if your browser suddenly begins to complain about invalid [*security certificates*](/en/glossary#Security_certificate) when attempting to access a secure webmail account. It could mean that someone is tampering with the communication between your computer and the server in order to intercept your messages. Finally, if you rely on webmail to exchange sensitive information, it is important that your browser be as reliable as possible. Consider installing Mozilla [*Firefox*](/en/glossary#Firefox) and its security-related add-ons.

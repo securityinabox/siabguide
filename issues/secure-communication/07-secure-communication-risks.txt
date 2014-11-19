@@ -1,0 +1,32 @@
+Object_type: Issue
+Issue: Keep your online communication private
+Platform: Email; Instant messaging; VoIP
+Need: Secure Communication
+Connected_tools: [RiseUp](https://siabnext.ttc.io/en/glossary#RiseUp) email service; [Pidgin with OTR](https://siabnext.ttc.io/hands-on-guide/pidgin-windows); [Jitsi](https://siabnext.ttc.io/hands-on-guide/jitsi-windows); [Thunderbird with Enigmail and GPG](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows)
+Comment:
+Further_reading: 2.5 Spoofing section in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [On Riseup Email](https://help.riseup.net/en/email); [Instructions on using Gmail](https://mail.google.com/support/bin/topic.py?topic=12769); [How to import your gmail contacts into Thunderbird](http://email.about.com/od/mozillathunderbirdtips/qt/et_gmail_addr.htm)
+Group: Solution 
+Title: Implied risks 
+Language: EN
+
+
+# Notice about Skype's security
+
+[*Skype*](/en/glossary#Skype) is a very common instant messaging and VoIP tool that also supports calls to landlines and mobile phones. Despite its popularity, several issues make this software not a secure choice. Some of these issues are described below.
+
+While according to Skype, it [*encrypts*](/en/glossary#Encryption) both messages and voice calls, this would only happen when both communicating sides are using Skype programs. Skype does not encrypt calls to phone or text sent as SMS messages.
+
+If both communicating sides are using (a genuine) Skype program, its encryption may make the call nominally more secure than an ordinary call over phone. But because Skype is a closed-source program, making an independent audit and evaluation of its proclamations about encryption impossible, it is thus impossible to verify how well Skype is protecting the users and their information and communication. [***Chapter 1: How to protect your computer from malware and hackers***](/en/chapter-1) addresses the virtues of *Free and Open-Source Software* [*FOSS*](/en/glossary#FOSS) in the [***Keeping your software up-to-date***](/en/chapter_1_4) section.
+
+As mentioned, while we can't recommend Skype as a secure communication tool, it is very important to take some precautions if one still decides to use Skype as a tool for their sensitive communication:
+
+- Download and install Skype only from its official website [www.skype.com](http://www.skype.com) to avoid a Skype program infected with spyware. It is important to always double-check the URL to make sure you are connecting to the official site. In some countries the Skype website is blocked, and/or several fake sites claiming to be Skype's official site are in operation. In many such cases, the version of Skype available is likely infected with malware designed to spy on any communication. Use circumvention tools described in [Chapter 8](/en/chapter-8) to connect to the Skype website and download a genuine version of Skype program whenever you want to install or upgrade to newest version of the software.
+- It is very important to change your Skype password regularly. Skype allows for multiple logins from different locations and does not inform you about the number of simultaneous sessions. This poses a big risk that if your password is compromised, anyone with that password can also be logged in. All logged sessions receive all the text communication and have access to calls history. Changing the password is the only way to disable such rogue sessions (by forcing a re-login).
+- It is also advisable to set the privacy settings on Skype so that it does not keep a history of chats.
+- It is recommended to disable the Skype setting which automatically accepts incoming files, as this has occasionally been used to introduce malware/spyware onto computers.
+- Always independently verify the identity of the person with whom you are communicating. It is easier to do this when voice chatting, especially if you know the person you want to talk to.
+- Decide if your Skype username should identify your or have any relationship to your real name, or the name of you organisation.
+- Always have alternative ways for communicating - Skype can become unavailable at any moment.
+- Be careful of what you say - develop a code system to discuss sensitive topics without using specific terminology.
+
+Despite Skype's popularity, the above concerns make it questionable for a secure experience, and we recommend you start using tools like Jitsi for VoIP and [*Pidgin*](/en/glossary#Pidgin) with the [*OTR*](/en/glossary#OTR) plugin for secure instant messaging.

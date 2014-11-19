@@ -1,0 +1,33 @@
+Object_type: Issue
+Issue: Keep your online communication private
+Platform: Email; Instant messaging; VoIP
+Need: Secure Communication
+Connected_tools: [RiseUp](https://siabnext.ttc.io/en/glossary#RiseUp) email service; [Pidgin with OTR](https://siabnext.ttc.io/hands-on-guide/pidgin-windows); [Jitsi](https://siabnext.ttc.io/hands-on-guide/jitsi-windows); [Thunderbird with Enigmail and GPG](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows)
+Comment:
+Further_reading: 2.5 Spoofing section in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [On Riseup Email](https://help.riseup.net/en/email); [Instructions on using Gmail](https://mail.google.com/support/bin/topic.py?topic=12769); [How to import your gmail contacts into Thunderbird](http://email.about.com/od/mozillathunderbirdtips/qt/et_gmail_addr.htm)
+Group: Solution
+Title: Advanced
+Language: EN
+
+
+# Advanced Email Security
+
+The tools and concepts discussed below are recommended for experienced computer users.
+
+## Using Public Key Encryption in Email
+
+It is possible to achieve a greater level of email privacy, even with an unsecured email account. In order to do this, you will need to learn about public key  [**encryption**](/en/glossary#Encryption). This technique allows you to encode individual messages, making them unreadable to anyone but the intended recipients. The ingenious aspect of public key [**encryption**](/en/glossary#Encryption) is that you do not have to exchange any secret information with your contacts about how you are going to encode messages in the future.
+
+This technique can be used with any email service, even one that lacks a secure communication channel, because individual messages are [**encrypted**](/en/glossary#Encryption) before they leave your computer. 
+
+Remember that by using [**encryption**](/en/glossary#Encryption), you could attract attention to yourself. The type of [**encryption**](/en/glossary#Encryption) used when you access a secure website, including a webmail account, is often viewed with less suspicion than the type of public key [**encryption**](/en/glossary#Encryption) being discussed here. In some circumstances, if an email containing this sort of [**encrypted**](/en/glossary#Encryption)  data is intercepted or posted on a public forum, it could incriminate the person who sent it, regardless of the content of the message. You might sometimes have to choose between the privacy of your message and the need to remain inconspicuous.
+
+## Encrypting and authenticating individual messages
+
+Public key [**encryption**](/en/glossary#Encryption) may seem complicated at first, but it is quite straightforward once you understand the basics, and the tools are not difficult to use. Simple, user-friendly and portable, the **gpg4usb** program can encrypt email messages and files even when you are not connected to the Internet.
+
+The **Mozilla** [**Thunderbird**](/en/glossary#Thunderbird) email program can be used with an extension called [**Enigmail**](/en/glossary#Enigmail) to encrypt and decrypt email messages quite easily.
+
+The authenticity of your email is another important aspect of communication security. Anyone with Internet access and the right tools can impersonate you by sending messages from a fake email address that is identical to your own. The danger here is more apparent when considered from the perspective of the recipient. Imagine, for example, the threat posed by an email that appears to be from a trusted contact but is actually from someone whose goal is to disrupt your activities or learn sensitive information about your organisation.
+
+Given that we cannot see or hear our correspondents through email, we typically rely on a sender's address to verify her identity, which is why we are so easily fooled by fake emails. [**Digital signatures**](/en/glossary#Digital_signature), which also rely on public key [**encryption**](/en/glossary#Encryption), provide a more secure means of proving one's identity when sending a message. The [***portable gpg4usb***](/en/gpg4usb_portable) guide or [***How to use Enigmail with Thunderbird***](/en/thuderbird_encryption) section of the [***Thunderbird Guide***](/en/thunderbird_main) explains in detail how this is done.

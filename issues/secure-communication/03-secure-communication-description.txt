@@ -1,0 +1,19 @@
+Object_type: Issue
+Issue: Keep your online communication private
+Platform: Email; Instant messaging; VoIP
+Need: Secure Communication
+Connected_tools: [RiseUp](https://siabnext.ttc.io/en/glossary#RiseUp) email service; [Pidgin with OTR](https://siabnext.ttc.io/hands-on-guide/pidgin-windows); [Jitsi](https://siabnext.ttc.io/hands-on-guide/jitsi-windows); [Thunderbird with Enigmail and GPG](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows)
+Comment:
+Further_reading: 2.5 Spoofing section in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [On Riseup Email](https://help.riseup.net/en/email); [Instructions on using Gmail](https://mail.google.com/support/bin/topic.py?topic=12769); [How to import your gmail contacts into Thunderbird](http://email.about.com/od/mozillathunderbirdtips/qt/et_gmail_addr.htm)
+Group: Main issue
+Title: Description
+Language: EN
+
+
+# Securing your email
+
+There are a few important steps that you can take in order to increase the security of your email communication. The first is to make sure that only the person to whom you send a given message is able to read it. This is discussed in the  [*Keeping your webmail private*](/en/chapter_7_1#Keeping_your_webmail_private) and  [*Switching to a more secure emailaccount*](/en/chapter_7_1#Switching_to_a_more_secure_email_account) sections, below. Going beyond the basics, it is sometimes critical that your email contacts have the ability to verify that a particular message truly came from you and not from someone who might be attempting to impersonate you. One way to accomplish this is described under [*Advanced email security*](/en/chapter_7_4), in the [*Encrypting and authenticating individual email messages*](/en/chapter_7_4#Encrypting_and_authenticating_individual_email_messages) section.
+
+You should also know what to do if you think the privacy of your email account may have been violated. The [*Tips on responding to suspected email surveillance*](/en/chapter_7_2) section addresses this question. 
+
+Remember, too, that secure email will not do you any good if everything you type is recorded by spyware and periodically sent over the Internet to a third party.[*Chapter 1: How to protect your computer from malware and hackers*](/en/chapter-1) offers some advice on how to prevent this sort of thing, and [*Chapter 3: How to create and maintain secure passwords*](/en/chapter-3) will help you protect your accounts for the email and instant messaging tools described below.

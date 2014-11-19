@@ -1,0 +1,39 @@
+Object_type: Issue
+Issue: Keep your online communication private
+Platform: Email; Instant messaging; VoIP
+Need: Secure Communication
+Connected_tools: [RiseUp](https://siabnext.ttc.io/en/glossary#RiseUp) email service; [Pidgin with OTR](https://siabnext.ttc.io/hands-on-guide/pidgin-windows); [Jitsi](https://siabnext.ttc.io/hands-on-guide/jitsi-windows); [Thunderbird with Enigmail and GPG](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows)
+Comment:
+Further_reading: 2.5 Spoofing section in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [On Riseup Email](https://help.riseup.net/en/email); [Instructions on using Gmail](https://mail.google.com/support/bin/topic.py?topic=12769); [How to import your gmail contacts into Thunderbird](http://email.about.com/od/mozillathunderbirdtips/qt/et_gmail_addr.htm)
+Group: Solution
+Title: Tools
+Language: EN
+
+
+# Switching to a more secure email account
+
+Few webmail providers offer [*SSL*](/en/glossary#SSL) access to your email. Yahoo and Hotmail, for instance, provide a secure connection *only* while you log in, to protect your password, but your messages themselves are sent and received insecurely. In addition, Yahoo, Hotmail and some other free webmail providers insert the [*IP address*](/en/glossary#IP_address) of the computer you are using into all of the messages you send.
+
+Gmail accounts, on the other hand, use a secure connection during log-in and all the way until you log out. You can confirm this along the way by looking at the address bar and observing the URL starting with 'https', where the 's' denotes a secure connection.  And, unlike Yahoo or Hotmail, Gmail avoids revealing your [*IP address*](/en/glossary#IP_address) to email recipients. However, it is not recommend that you rely entirely on Google for the confidentiality of your sensitive email communication. Google scans and records the content of its users' messages for a wide variety of purposes and has, in the past, conceded to the demands of governments that restrict digital freedom. See the [***Further reading***](/en/chapter_7_5) section for more information about Google's privacy policy.
+
+If possible, you should create a new [*RiseUp*](/en/glossary#RiseUp) email account by visiting [*https://mail.riseup.net*](https://mail.riseup.net).[*RiseUp*](/en/glossary#RiseUp) offers free email to activists around the world and takes great care to protect the information stored on their servers. They have long been a trusted resource for those in need of secure email solutions. And, unlike Google, they have very strict policies regarding their users' privacy and no commercial interests that might some day conflict with those policies. In order to create a new [*RiseUp*](/en/glossary#RiseUp) account, however, you will need two 'invite codes.' These codes can be given out by anyone who already has a  [*RiseUp*](/en/glossary#RiseUp) account. If you have a bound copy of this booklet, you should have received your 'invite codes' along with it. Otherwise, you will need to find two  [*RiseUp*](/en/glossary#RiseUp) users and ask them each to send you a code.
+
+Both Gmail and [*RiseUp*](/en/glossary#RiseUp) are more than just webmail providers. They can also be used with an email client, such as Mozilla [*Thunderbird*](/en/glossary#Thunderbird) , that supports the techniques described under [***Advanced email security***](/en/chapter_7_4) . Ensuring that your email client makes an [*encrypted*](/en/glossary#Encryption)  connection to your provider is just as important as accessing your webmail through **HTTPS**. If you use an email client, see the [***Thunderbird Guide***](/en/thunderbird_main) for additional details. A the very least, however, you should be sure to enable [*SSL*](/en/glossary#SSL)  or [*encryption*](/en/glossary#Encryption) for both your incoming and outgoing mail servers.
+
+Regardless of what secure email tools you decide to use, keep in mind that every message has a sender and one or more recipients. You yourself are only part of the picture. Even if you access your email account securely, consider what precautions your contacts may or may not take when sending, reading and replying to messages. Try to learn where your contacts' email providers are located, as well. Naturally, some countries are more aggressive than others when it comes to email surveillance. **To ensure private communication, you and your contacts should all use secure email services hosted in relatively safe countries.** And, if you want to be certain that messsages are not intercepted between your email server and a contact's email server, you might all choose to use accounts from the same provider.  [*RiseUp*](/en/glossary#RiseUp) is one good choice.
+
+# Securing other Internet communication tools
+
+Much like email, instant messaging and [*VoIP*](/en/glossary#VoIP) software can be secure or insecure, depending on the tools you choose and how you use them.
+
+## Securing your instant messaging software
+
+Instant messaging, also called 'chat,' is not normally secure, and can be just as vulnerable to surveillance as email. Luckily, there are programs that can help secure the privacy of your chat sessions. Just like with email, though, a secure communications channel requires that both you and your instant messaging contacts use the same software and take the same security precautions.
+
+There is a chat program called [*Pidgin*](/en/glossary#Pidgin) that supports many existing instant messaging protocols, which means that you can easily begin using it without having to change your account name or recreate your list of contacts. In order to have private, [*encrypted*](/en/glossary#Encryption) conversations through [*Pidgin*](/en/glossary#Pidgin) , you will need to install and activate the *Off-the-Record [*OTR*](/en/glossary#OTR)* plug-in. Fortunately, this is a fairly simple process.
+
+## Securing your VoIP software
+
+[*VoIP*](/en/glossary#VoIP) calls to other [*VoIP*](/en/glossary#VoIP) users are generally free of charge. Some programs allow you to make inexpensive calls to phones as well, including international numbers. Needless to say, these features can be extremely useful. Some of today's more popular [*VoIP*](/en/glossary#VoIP) programs include [Skype](http://www.skype.com) (see below), [Jitsi](http://jitsi.org/), [Google Hangouts](http://www.google.com/hangouts), and [Yahoo! Voice](http://voice.yahoo.com/).
+
+Normally, voice communication over the Internet is no more secure than unprotected email and instant messaging. When using voice communication to exchange sensitive information it is important to choose a tool that encrypts the call all the way from your computer to the recipient's computer. It also best to use Free and Open-Source Software, preferably those reviewed, tested, and recommended by a trusted community. Taking above criteria we would recommend that you try [*Jitsi*](http://jitsi.org/) as your choice for VoIP.
