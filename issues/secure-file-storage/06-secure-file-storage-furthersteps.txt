@@ -1,0 +1,14 @@
+Object_type: Issue
+Issue: Protect the sensitive files on your computer 
+Platform: Computer; Mobile devices; Storage devices
+Need: Secure Data Storage
+Connected_tools: [Truecrypt](https://siabnext.ttc.io/hands-on-guide/truecrypt-windows)
+Comment:
+Further_reading: 2.4 Cryptology chapter, 2.8 Steganography Chapter and 4.2 Case Study 3 in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [TrueCrypt Documentation](http://andryou.com/truecrypt/docs/index.php); [TrueCrypt FAQ](http://andryou.com/truecrypt/faq.php)
+Group: Solution 
+Title: Further steps
+Language: EN
+
+
+* For additional information on securing your files, see the *2.4 Cryptology* chapter, the *2.8 Steganography* Chapter and *4.2 Case Study 3* from the [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman) book.
+* The [TrueCrypt Documentation](http://andryou.com/truecrypt/docs/index.php) discusses in details many aspects of information encryption and [TrueCrypt FAQ](http://andryou.com/truecrypt/faq.php) provides answers to some common questions about TrueCrypt.

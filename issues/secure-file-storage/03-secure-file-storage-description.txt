@@ -1,0 +1,17 @@
+Object_type: Issue
+Issue: Protect the sensitive files on your computer 
+Platform: Computer; Mobile devices; Storage devices
+Need: Secure Data Storage
+Connected_tools: [Truecrypt](https://siabnext.ttc.io/hands-on-guide/truecrypt-windows)
+Comment:
+Further_reading: 2.4 Cryptology chapter, 2.8 Steganography Chapter and 4.2 Case Study 3 in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [TrueCrypt Documentation](http://andryou.com/truecrypt/docs/index.php); [TrueCrypt FAQ](http://andryou.com/truecrypt/faq.php)
+Group: Main issue
+Title: Description
+Language: EN
+
+
+# Encrypting your information
+
+[*Encrypting*](/en/glossary#Encryption) your information is a bit like keeping it in a locked safe. Only those who have a key or know the lock's combination (an [*encryption*](/en/glossary#Encryption) key or password, in this case) can access it. The analogy is particularly appropriate for [*TrueCrypt*](/en/glossary#TrueCrypt) and tools like it, which create secure containers called 'encrypted volumes' rather than simply protecting one file at a time. You can put a large number of files into an [*encrypted*](/en/glossary#Encryption) volume, but these tools will not protect anything that is stored elsewhere on your computer or USB memory stick.
+
+While other software can provide similar strength *[encryption](/en/glossary#Encryption)*, [*TrueCrypt*](/en/glossary#TrueCrypt) contains several important features to allow you to design your information security strategy. It offers the possibility of permanently **encrypting the whole disk of your computer** including all your files, all temporary files created during your work, all programs you have installed and all Windows operating system files. TrueCrypt supports *[encrypted](/en/glossary#Encryption)* volumes on portable storage devices. It provides 'deniability' features described in the [***Hiding your sensitive information***](/en/chapter_4_2) section below. In addition TrueCrypt is a [*free and open source*](/en/glossary#FOSS) program.

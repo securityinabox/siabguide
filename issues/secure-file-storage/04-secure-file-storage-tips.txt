@@ -1,0 +1,28 @@
+Object_type: Issue
+Issue: Protect the sensitive files on your computer 
+Platform: Computer; Mobile devices; Storage devices
+Need: Secure Data Storage
+Connected_tools: [Truecrypt](https://siabnext.ttc.io/hands-on-guide/truecrypt-windows)
+Comment:
+Further_reading: 2.4 Cryptology chapter, 2.8 Steganography Chapter and 4.2 Case Study 3 in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [TrueCrypt Documentation](http://andryou.com/truecrypt/docs/index.php); [TrueCrypt FAQ](http://andryou.com/truecrypt/faq.php)
+Group: Solution
+Title: Tips
+Language: EN
+
+
+# Tips on using file encryption safely
+
+Storing confidential data can be a risk for you and for the people you work with. *[Encryption](/en/glossary#Encryption)* reduces this risk but does not eliminate it. The first step to protecting sensitive information is to reduce how much of it you keep around. Unless you have a good reason to store a particular file, or a particular category of information within a file, you should simply delete it (see [***Chapter 6: How to destroy sensitive information***](/en/chapter-6) for more information about how to do this securely). The second step is to use a good file [*encryption*](/en/glossary#Encryption) tool, such as [*TrueCrypt*](/en/glossary#TrueCrypt).
+
+Returning to the analogy of a locked safe, there are a few things you should bear in mind when using [*TrueCrypt*](/en/glossary#TrueCrypt) and tools like it. No matter how sturdy your safe is, it won't do you a whole lot of good if you leave the door open. When your [*TrueCrypt*](/en/glossary#TrueCrypt) volume is 'mounted' (whenever you can access the contents yourself), your data may be vulnerable, so you should keep it closed except when you are actually reading or modifying the files inside it. 
+
+
+There are a few situations when it is especially important that you remember not to leave your [*encrypted*](/en/glossary#Encryption) volumes mounted:
+
+* Disconnect them when you walk away from your computer for any length of time. Even if you typically leave your computer running overnight, you need to ensure that you do not leave your sensitive files accessible to physical or remote intruders while you are gone.
+* Disconnect them before putting your computer to sleep. This applies to both 'suspend' and 'hibernation' features, which are typically used with laptops but may be present on desktop computers as well.
+* Disconnect them before allowing someone else to handle your computer. When taking a laptop through a security checkpoint or border crossing, it is important that you disconnect all [*encrypted*](/en/glossary#Encryption) volumes and shut your computer down completely.
+* Disconnect them before inserting an untrusted USB memory stick or other external storage device, including those belonging to friends and colleagues.
+* If you keep an [*encrypted*](/en/glossary#Encryption) volume on a USB memory stick, remember that just removing the device may not immediately disconnect the volume. Even if you need to secure your files in a hurry, you have to dismount the volume properly, then disconnect the external drive or memory stick, then remove the device. You might want to practice until you find the quickest way to do all of these things.
+	
+If you decide to keep your [*TrueCrypt*](/en/glossary#TrueCrypt) volume on a USB memory stick, you can also keep a copy of the [*TrueCrypt*](/en/glossary#TrueCrypt) program with it. This will allow you to access your data on other people's computers. The usual rules still apply, however: if you don't trust the machine to be free of [*malware*](/en/glossary#Malware), you probably shouldn't be typing in your passwords or accessing your sensitive data.

@@ -1,0 +1,16 @@
+Object_type: Issue
+Issue: Protect the sensitive files on your computer 
+Platform: Computer; Mobile devices; Storage devices
+Need: Secure Data Storage
+Connected_tools: [Truecrypt](https://siabnext.ttc.io/hands-on-guide/truecrypt-windows)
+Comment: This file should only be used in connection with the whole hands-on guide
+Further_reading: 2.4 Cryptology chapter, 2.8 Steganography Chapter and 4.2 Case Study 3 in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [TrueCrypt Documentation](http://andryou.com/truecrypt/docs/index.php); [TrueCrypt FAQ](http://andryou.com/truecrypt/faq.php) 
+Group: Synthesis
+Title: What you can learn from this chapter 
+Language: EN
+
+
+* How to [*encrypt*](/en/glossary#Encryption) information on your computer
+* What risks you might face by keeping your data [encrypted](/en/glossary#Encryption)
+* How to protect data on USB memory sticks, in case they are lost or stolen
+* What steps you can take to hide information from physical or remote intruders

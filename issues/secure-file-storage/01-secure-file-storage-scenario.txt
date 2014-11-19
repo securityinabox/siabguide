@@ -1,0 +1,15 @@
+Object_type: Issue
+Issue: Protect the sensitive files on your computer 
+Platform: Computer; Mobile devices; Storage devices
+Need: Secure Data Storage
+Connected_tools: [Truecrypt](https://siabnext.ttc.io/hands-on-guide/truecrypt-windows)
+Comment:
+Further_reading: 2.4 Cryptology chapter, 2.8 Steganography Chapter and 4.2 Case Study 3 in [Digital Security and Privacy for Human Rights Defenders](http://www.frontlinedefenders.org/esecman); [TrueCrypt Documentation](http://andryou.com/truecrypt/docs/index.php); [TrueCrypt FAQ](http://andryou.com/truecrypt/faq.php)
+Group: Synthesis
+Title: Scenario
+Language: EN
+
+
+Unauthorised access to the information on your computer or portable storage devices can be carried out remotely, if the 'intruder' is able to read or modify your data over the Internet; or physically, if he manages to get hold of your hardware. You can protect yourself against either type of threat by improving the physical and network security of your data, as discussed in [***Chapter 1: How to protect your computer from malware and hackers***](/en/chapter-1) and [***Chapter 2: How to protect your information from physical threats***](/en/chapter-2). It is always best to have several layers of defence, however, which is why you should also protect the files themselves. That way, your sensitive information is likely to remain safe even if your other security efforts prove inadequate.
+
+There are two general approaches to the challenge of securing your data in this way. **You can *[encrypt](/en/glossary#Encryption)* your files**, making them unreadable to anyone but you, or **you can hide them** in the hope that an intruder will be unable to find your sensitive information. There are tools to help you with either approach, including a [*FOSS*](/en/glossary#FOSS) application called [*TrueCrypt*](/en/glossary#TrueCrypt), which can both *[encrypt](/en/glossary#Encryption)* and hide your files.
