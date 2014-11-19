@@ -1,0 +1,21 @@
+Object_type: Tool
+Tool: Riseup
+Platform: Email
+Need: Secure email service
+Website: https://riseup.net/
+Download: 
+Version: N/A
+License: Free/Open Source Software
+System_requirements: Internet connection; Web browser and/or Email client
+Admin:
+Alternatives: 
+Comment: This file should only be used in connection with the whole hands-on guide; read 03-riseup-premise before using this tool
+Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+
+* A community-driven and an advertisement-free email account
+* The ability to access your email over the Internet or with an email program, and conduct private email communications over an encrypted connection
+* The ability to change your email address, set your email box size, and invite others to join **RiseUp**

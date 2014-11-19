@@ -1,0 +1,23 @@
+Object_type: Tool
+Tool: Riseup
+Platform: Email
+Need: Secure email service
+Website: https://riseup.net/
+Download: 
+Version: N/A
+License: Free/Open Source Software
+System_requirements: Internet connection; Web browser and/or Email client
+Admin:
+Alternatives: 
+Comment: read 03-riseup-premise before using this tool
+Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)
+Group: Training 
+Title: Review questions
+Language: EN
+
+
+- What is the difference between reading your email over webmail and reading through an email client program?
+- What is a *Secure Sockets Layer (SSL)* and how does it work? 
+- What is a virtual keyboard and how does it work? 
+- How can you add an alias to your email account? 
+- For what length of time is a newly created invite code valid?
