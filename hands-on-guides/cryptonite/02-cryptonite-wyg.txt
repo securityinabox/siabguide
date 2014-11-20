@@ -1,0 +1,19 @@
+Object_type: Tool
+Tool: Cryptonite
+Platform: Google Android
+Need: File Encryption
+Website: https://code.google.com/p/cryptonite/
+Download: https://play.google.com/store/apps/details?id=csh.cryptonite&hl=en
+Version: 0.7.6
+License: Free/Open Source Software
+System_requirements: Android 2.2 or higher
+Admin: false
+Alternatives:
+Comment: This file should only be used in connection with the whole hands-on guide; read 03-cryptonite-premise before installing and using this tool
+Required_reading: How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://siabnext.ttc.io/how-to-guide/anonymity-and-circumvention); How-to Booklet chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+
+* The ability to **encrypt** and **decrypt** files locally on your device or on Dropbox or similar services.

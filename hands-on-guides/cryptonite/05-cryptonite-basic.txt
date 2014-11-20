@@ -1,0 +1,137 @@
+Object_type: Tool
+Tool: Cryptonite
+Platform: Google Android
+Need: File Encryption
+Website: https://code.google.com/p/cryptonite/
+Download: https://play.google.com/store/apps/details?id=csh.cryptonite&hl=en
+Version: 0.7.6
+License: Free/Open Source Software
+System_requirements: Android 2.2 or higher
+Admin: false
+Alternatives: 
+Comment: read 03-cryptonite-premise before installing and using this tool
+Required_reading: How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://siabnext.ttc.io/how-to-guide/anonymity-and-circumvention); How-to Booklet chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Use Cryptonite for local file encryption
+
+## Step 1
+
+When opening **Cryptonite** you see a screen with three tabs on the top: *dropbox*, *local* and *expert*. We use the first feature, *local*, here. **Tap** on *local*.
+
+![Options for use](/sites/siabnext.ttc.io/files/media/cryptonite-and-06.png)
+
+*Figure 8: Options for use*
+
+## Step 2
+
+To create an encrypted volume, **tap** *Create local volume*. A message will appear as shown below, read it carefully then tap on **create volume**.
+
+![Warning regarding creation of volumes](/sites/siabnext.ttc.io/files/media/cryptonite-and-08.png)
+
+*Figure 9: Warning regarding creation of volumes*
+
+## Step 3
+
+Choose amongst the different grades of encryption. *Standard* or *Paranoia* are our recommendations. 
+
+ ![Encryption methods](/sites/siabnext.ttc.io/files/media/cryptonite-and-09.png)
+
+*Figure 10: Encryption methods*
+
+## Step 4
+
+A file browser opens. Choose a folder which is used as the place for encryption. Remember which folder you choose! Instead you can create a new folder by clicking on ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-29.png) from the top right of the screen.
+
+ ![Select folder](/sites/siabnext.ttc.io/files/media/cryptonite-and-10.png)
+
+*Figure 11: Select folder*
+
+## Step 5
+
+If you are creating a new folder, **type** the new folder name as shown below.
+
+ ![How to create a new folder](/sites/siabnext.ttc.io/files/media/cryptonite-and-11.png)  ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-12.png)
+
+*Figure 12 and 13: How to create a new folder*
+
+## Step 6
+
+The new folder is created as shown below. **Click** on *Use current folder*.
+
+ ![Select a folder](/sites/siabnext.ttc.io/files/media/cryptonite-and-13.png)  ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-14.png)
+
+*Figure 14 and 15: Select a folder*
+
+## Step 7
+
+A window will appear asking you to type in a password. **Enter** your password as shown below.
+
+ ![Enter passphrase](/sites/siabnext.ttc.io/files/media/cryptonite-and-15.png)  ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-16.png)
+
+*Figure 16 and 17: Enter passphrase*
+
+## Step 8
+
+**Confirm** your password.
+
+ ![Confirm your password](/sites/siabnext.ttc.io/files/media/cryptonite-and-17.png)
+
+*Figure 18: Confirm your password*
+
+Congratulations! you just have created an encrypted volume to securely store files.
+
+# Upload files to the Cryptonite folder
+
+## Step 1
+
+Tap *decrypt local folder* and choose the folder you just selected before.
+
+![Decryption options](/sites/siabnext.ttc.io/files/media/cryptonite-and-20.png)  
+
+*Figure 19: Decryption options*
+
+## Step 2
+
+**Browse** to the folder you created and **click** *Select current folder*
+
+![Select a folder](/sites/siabnext.ttc.io/files/media/cryptonite-and-18.png)
+
+*Figure 20: Select a folder*
+
+## Step 3
+
+Enter the password you created earlier for this folder to access it.
+
+![Enter your password](/sites/siabnext.ttc.io/files/media/cryptonite-and-19.png)
+
+*Figure 21: Enter your password*
+
+## Step 3
+
+**Tap** *upload file to this folder* to securely save one or more files to it.
+
+![Folder selection](/sites/siabnext.ttc.io/files/media/cryptonite-and-21.png)
+
+*Figure 22: Folder selection*
+
+## Step 4
+
+A message will appear as shown below.
+
+![Warning](/sites/siabnext.ttc.io/files/media/cryptonite-and-22.png)
+
+*Figure 23: Warning*
+
+## Step 5
+
+When done, **tap** *forget decryption*. This causes **Cryptonite** to delete a temporary file it has used for the previous operation and closes the folder in an encrypted state.
+
+**Tip**: To check what you just did, **exit** **Cryptonite**, and navigate with your file browser to the encrypted volume you just created. You should find two files: one meta file that describes the encryption used (but not the password, of course) and one file that contains your encrypted file with a rather erratic file name.
+
+**Note**: The original file is still in its original place. 
+
+**Note**: Depending on your device, you may be able to create a local volume, too, that you can mount. This is much more comfortable since you can access it in its decrypted state with your file browser or any application.  

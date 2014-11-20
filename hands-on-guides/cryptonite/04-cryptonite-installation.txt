@@ -1,0 +1,60 @@
+Object_type: Tool
+Tool: Cryptonite
+Platform: Google Android
+Need: File Encryption
+Website: https://code.google.com/p/cryptonite/
+Download: https://play.google.com/store/apps/details?id=csh.cryptonite&hl=en
+Version: 0.7.6
+License: Free/Open Source Software
+System_requirements: Android 2.2 or higher
+Admin: false
+Alternatives: 
+Comment: read 03-cryptonite-premise before installing and using this tool
+Required_reading: How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://siabnext.ttc.io/how-to-guide/anonymity-and-circumvention); How-to Booklet chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install Cryptonite
+
+## Step 1
+
+**Download** the app from the [Google play store](https://play.google.com/store/apps/details?id=csh.cryptonite)
+
+![Cryptonite in the Google Play store](/sites/siabnext.ttc.io/files/media/cryptonite-and-01.png)
+
+*Figure 1: Cryptonite in the Google Play store*
+
+## Step 2
+
+**Read** carefully the permissions required by the app and install it by tapping the **Install** button.
+
+
+![Permissions required and installation](/sites/siabnext.ttc.io/files/media/cryptonite-and-02.png) ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-03.png)
+
+*Figure 2 and 3: Permissions required and installation*
+
+## Step 3
+
+**Tap** *Open* to run the app for the first time.
+
+![App installed](/sites/siabnext.ttc.io/files/media/cryptonite-and-04.png)
+
+*Figure 4: App installed*
+
+## Step 4
+
+A message will appear as shown below, **read** it carefully and **click** on *I understand*.
+
+![Warning concerning development status](/sites/siabnext.ttc.io/files/media/cryptonite-and-05.png) 
+
+*Figure 5: Warning concerning development status*
+
+## Step 5
+
+In the *Preferences* tab, make sure *Use external storage* is *not* activated. 
+
+![Preferences](/sites/siabnext.ttc.io/files/media/cryptonite-and-27.png) ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-28.png)
+
+*Figure 6 and 7: Preferences*
