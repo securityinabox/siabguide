@@ -1,0 +1,27 @@
+Object_type: Tool
+Tool: KeePassDroid
+Platform: Google Android
+Need: Secure password storage
+Website: http://www.keepassdroid.com/
+Download: https://play.google.com/store/apps/details?id=com.android.keepass
+Version: 1.99.11
+License: Free/Open Source Software
+System_requirements: Android 1.5 or higher
+Admin: false
+Alternatives:
+Comment:
+Required_reading: How-to Booklet chapter [3. How to create and maintain good passwords](https://siabnext.ttc.io/how-to-guide/passwords); Hands-On Guide chapter [KeePass - Secure Password Storage](https://siabnext.ttc.io/hands-on-guide/keepassx-windows)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+# Introduction to KeePassDroid
+
+**KeePassDroid** is an easy-to-use tool that helps you store and manage all your passwords in a highly secure database. You can copy your existing KeePass database file from your computer to the **KeePassDroid** application on the mobile device (or other way around: from the mobile device to your computer).
+
+**Note**: Before copying your password database to a mobile device and opening it, consider that security and the protection of the mobile device may not match the security on your computer and your password database may be more at risk. Instead of copying the database from your computer, you could create a unique database for your device which will only have the passwords you need on it. 
+
+The database is protected by a 'master password' that you create. This password is also used to encrypt the entire contents of the database. You can store your existing passwords in **KeePassDroid** or have it generate one for you. **KeePassDroid** does not require any prior configuration or specific installation instructions. It's ready to go when you are!
+
+By using **KeePassDroid** all the time, you never actually have to see or know what your password is. The copy/paste functions take care of moving it from the database to the required window. For example, if you use KeePassDroid's *Random Generator* to create a password for a new account, you will be using a strong password that you would never have to remember!

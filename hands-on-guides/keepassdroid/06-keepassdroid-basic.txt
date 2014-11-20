@@ -1,0 +1,186 @@
+Object_type: Tool
+Tool: KeePassDroid
+Platform: Google Android
+Need: Secure password storage
+Website: http://www.keepassdroid.com/
+Download: https://play.google.com/store/apps/details?id=com.android.keepass
+Version: 1.99.11
+License: Free/Open Source Software
+System_requirements: Android 1.5 or higher
+Admin: false
+Alternatives:
+Comment: read 03-keepassdroid-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [3. How to create and maintain good passwords](https://siabnext.ttc.io/how-to-guide/passwords); Hands-On Guide chapter [KeePass - Secure Password Storage](https://siabnext.ttc.io/hands-on-guide/keepassx-windows)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Copy a KeePassDroid password
+
+Given that a secure password is not easily memorized, **KeePassDroid** lets you copy it from the database and paste it onto whatever account or website requires it.
+
+## Step 1
+
+Open the password entry you wish to use and **tap** the menu icon (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-016.png)):
+
+![Password options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-017.png)
+
+*Figure 12: Password options*
+
+## Step 2
+
+**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-018.png)
+
+## Step 3
+
+**Open** the related account or site and **paste** the password by **tapping** and holding on the appropriate field and selecting *Paste*:
+
+![Text edition options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-019.png)
+
+*Figure 13: Text edition options*
+
+# Edit an entry
+
+You can change your password or modify other details stored in the entry. It is generally considered good security practice to change a password every three to six months.
+
+## Step 1
+
+**Tap** the *Group* that contains the entry you wish to edit and then **tap** the entry to view its contents.
+
+![Entry Contents](/sites/siabnext.ttc.io/files/media/keepassdroid-and-020.png)
+
+*Figure 1: Entry Contents*
+
+## Step 2
+
+**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-021.png) to start editing the information. 
+
+![Edit information](/sites/siabnext.ttc.io/files/media/keepassdroid-and-023.png)
+
+*Figure 2: Edit information*
+
+## Step 3
+
+When you have finished, **tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-022.png) to save all changes.
+
+# Generate a random password
+
+Long, randomly-generated passwords are strong and secure as their generation is based on mathematical principles and cannot be simply guessed by someone who is trying to break into one of your accounts. **KeePassDroid** supplies a *Password Generator*, to help you with this process. 
+
+![Edit password entry](/sites/siabnext.ttc.io/files/media/keepassdroid-and-024.png)
+
+*Figure 3: Edit password entry screen*
+
+## Step 1
+
+**Tap** the button ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-025.png) from within either the *Add Entry* or *Edit Entry* screen (Fig. 3 above), to activate the *Password Generator* screen as follows:
+
+![Password Generator](/sites/siabnext.ttc.io/files/media/keepassdroid-and-026.png)
+
+*Figure 4: Password Generator*
+
+The *Password Generator* screen automatically gives you a random, short 8-character password. However, we recommend that you use a longer password. You generate a longer, more secure password by selecting the following options as in our example: 
+
+
+- **Length** at least 16-characters
+- **Check** Upper-case Letter
+- **Check** Lower-case Letter
+- **Check** Digits
+- **Check** Minus
+- **Check** Underline 
+- **Check** Brackets
+
+**Note:** To generate passwords longer than 16-characters, replace the number in the field with your desired figure. 
+
+See Fig. 4 above.
+
+## Step 2
+
+**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-027.png) to have **KeePassDroid** generate a new random password.
+
+## Step 3
+
+**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-028.png) to copy the generated password into your account entry and bring you back to the edit screen.
+
+![Entry information](/sites/siabnext.ttc.io/files/media/keepassdroid-and-029.png)
+
+*Figure 5: Entry information*
+
+## Step 4
+
+**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-030.png) to accept the password and return to the *Entry* screen as follows:
+
+![Entry screen](/sites/siabnext.ttc.io/files/media/keepassdroid-and-031.png)
+
+*Figure 6: Entry screen*
+
+# Lock your password database
+
+## Step 1
+
+**Tap** on the **Lock icon** (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-032.png)) which is at the top of the main screens while **KeePassDroid** is open. This will instantly lock your database. You will be presented with the following screen requiring you to enter your *master password* to unlock. 
+
+![Locked Database](/sites/siabnext.ttc.io/files/media/keepassdroid-and-033.png)
+
+*Figure 7: Locked Database*
+
+# Create a backup of your password database
+
+The **KeePassDroid** database file on your Android device is denoted by its *.kdb* file extension. You can copy this file to your computer or your USB memory stick. No one else will be able to open the database without the master password.
+
+By default, the database is stored in a folder named *keepass* on your phone. The exact location is */mnt/sdcard/keepass*.
+
+**Note**: You need to have KeePass installed on your computer, or a portable version of KeePass located on your USB memory stick, to be able to open your database which you copied from your Android device. 
+
+Please see [**KeePass chapter**](/en/keepass_main) for more information.
+
+# Reset your master password
+
+You can change the Master Password at any time. This can be done once you have opened the password database.
+
+## Step 1
+
+**tap** the menu icon (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-016.png)) found on the top right of the main screens. 
+
+![Menu options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-034.png)
+
+*Figure 8: Menu options*
+
+## Step 2
+
+**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-035.png) to activate the following screen:
+
+![Enter a new password](/sites/siabnext.ttc.io/files/media/keepassdroid-and-036.png)
+
+*Figure 9: Enter a new password*
+
+## Step 3
+
+Type in your new master password in the **Password** and the **Confirm Password** fields, Then **tap** OK.
+
+![Enter a new password](/sites/siabnext.ttc.io/files/media/keepassdroid-and-037.png)
+
+*Figure 10: Enter a new password*
+
+# Change your clipboard timeout
+
+For greater security, the password is copied to the clipboard for a limited duration before it is automatically cleared from the clipboard. You have the option to change this duration to **30 seconds**, **1 minute** or **5 minutes**.
+
+There is also an option **Never** but we recommend that you do not select this.
+
+You can see these options in the following screen by going to: **Menu** (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-016.png)) > **Settings** > **Application** > **Clipboard timeout**
+
+![Clipboard timeout options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-038.png)
+
+*Figure 11: Clipboard timeout options*
+
+# Set your database lock timeout
+
+You also have the option to lock your database when the application is inactive for a specific time. Your database will automatically lock after 5 minutes of not being used. If you wish to shorten this, **tap**: **Menu** (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-016.png)) > **Settings** > **Application** > **Application timeout**
+
+![Application timeout options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-039.png)
+
+*Figure 12:* Application timeout options.
+
+**Select** **30 seconds**, **1 minute** or, the default **5 minutes**. As before, there is an option to **Never** timeout, but we recommend against using this.

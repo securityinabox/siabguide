@@ -1,0 +1,19 @@
+Object_type: Tool
+Tool: KeePassDroid
+Platform: Google Android
+Need: Secure password storage
+Website: http://www.keepassdroid.com/
+Download: https://play.google.com/store/apps/details?id=com.android.keepass
+Version: 1.99.11
+License: Free/Open Source Software
+System_requirements: Android 1.5 or higher
+Admin: false
+Alternatives:
+Comment: read 03-keepassdroid-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [3. How to create and maintain good passwords](https://siabnext.ttc.io/how-to-guide/passwords); Hands-On Guide chapter [KeePass - Secure Password Storage](https://siabnext.ttc.io/hands-on-guide/keepassx-windows)
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+KeePassDroid is a secure and easy-to-use password management tool for your Android device.

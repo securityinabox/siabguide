@@ -1,0 +1,115 @@
+Object_type: Tool
+Tool: KeePassDroid
+Platform: Google Android
+Need: Secure password storage
+Website: http://www.keepassdroid.com/
+Download: https://play.google.com/store/apps/details?id=com.android.keepass
+Version: 1.99.11
+License: Free/Open Source Software
+System_requirements: Android 1.5 or higher
+Admin: false
+Alternatives:
+Comment: read 03-keepassdroid-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [3. How to create and maintain good passwords](https://siabnext.ttc.io/how-to-guide/passwords); Hands-On Guide chapter [KeePass - Secure Password Storage](https://siabnext.ttc.io/hands-on-guide/keepassx-windows)
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Create a new password database
+
+In the sections that follow, you will be taught how to create a master password, save your newly-created database, generate a random password for a particular program and create a backup copy of the database.
+
+## Step 1
+
+To open **KeePassDroid** you **tap** the application's icon.
+
+![](/sites/siabnext.ttc.io/files/media/trans-keepassdroid.png)
+
+## Step 2
+
+To create a new password database, **tap** *create*. 
+
+![Open/create database](/sites/siabnext.ttc.io/files/media/keepassdroid-and-005.png)
+
+*Figure 3: Open/create database screen.*
+
+This will activate the *Enter database password* screen as below:
+
+![Enter database password](/sites/siabnext.ttc.io/files/media/keepassdroid-and-006.png)
+
+*Figure 4: Enter database password screen.*
+
+## Step 3
+
+In this step you will create a single, unique and strong master password, which you **must** remember, that will be used to lock and unlock your database of passwords.
+
+**Type** in the master password you have invented into the *password* and *confirm password* fields as shown below:
+
+![Enter a master password](/sites/siabnext.ttc.io/files/media/keepassdroid-and-007.png)
+
+*Figure 5: Enter a master password*
+
+**Tip**: Have a look at [**3. How to create and maintain good passwords**](/en/chapter_3_1) for more information on how to create a strong master password.
+
+## Step 4
+
+**Tap** **OK** to create and open your Keepass database.
+
+![KeePassDroid home](/sites/siabnext.ttc.io/files/media/keepassdroid-and-008.png)
+
+*Figure 6: KeePassDroid home screen*
+
+Congratulations! You have successfully created your secure password database. Now you can use it to safely store all your current and future passwords.
+
+**Note**: If you use KeePass on another mobile device or computer, you can copy its database to your device and then open it with **KeePassDroid** or **KeePass**.
+
+# Add a group
+
+**KeePassDroid** stores passwords entries in groups to keep your information organized, the default groups are **Email** and **Internet**, but you can create your own group by **tapping** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-009.png), typing the name of the group and then ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-010.png).
+
+![Adding a new group](/sites/siabnext.ttc.io/files/media/keepassdroid-and-011.png) ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-012.png)
+
+*Figures 7 and 8: Adding a new group*
+
+**Tap** your newly created group to open it and begin adding password entries.
+
+# Add a password entry
+
+The **Add entry** screen lets you add account information, passwords and other important details into your newly-created database. 
+
+## Step 1
+
+**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-013.png) to activate the *Add Entry* screen as follows:
+
+![Adding a new password entry](/sites/siabnext.ttc.io/files/media/keepassdroid-and-014.png)
+
+*Figures 9: Adding a new password entry*
+
+**Note**: The *Add Entry* screen presents you with a number of fields to be completed. None of these fields are mandatory; information submitted here is largely for your own convenience. Filling them in may prove useful in situations where you are searching for a particular entry.
+
+A brief explanation of these different text boxes is presented as follows:
+
+  - **Name**: A name to describe the particular password entry. For example, your *twitter* account.
+
+  - **Username**: The user name associated with the password entry. For example, *TherobotONO*
+
+  - **URL**: The internet site associated with the password entry. For example, *https://twitter.com*
+
+  - **Password**: The password for your account. This section also allows you to [*generate a random password*](#2.4) if you do not want to come up with one your self.
+
+  - **Confirm passwords**: The confirmation of the password.
+
+  - **Comments**: This is where you type in descriptive or general information about the account or site for which you are storing information. For example: Mail server settings: *POP3 SSL, pop.gmail.com, Port 995; SMTP TLS, smtp.gmail.com, Port: 465*
+
+**Note**: Creating or modifying the password entries in **KeePassDroid** does not update your account password! Think of **KeePassDroid** as a secure electronic address book for your passwords. It only stores what you write in it, nothing more.
+
+## Step 2
+
+**Tap** **save** to save your changes.
+
+Your new entry now appears in the group.
+
+![New entry in the newly-created group](/sites/siabnext.ttc.io/files/media/keepassdroid-and-015.png)
+
+*Figure 11: New entry appearing in the newly-created group*

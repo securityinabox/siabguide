@@ -1,0 +1,37 @@
+Object_type: Tool
+Tool: KeePassDroid
+Platform: Google Android
+Need: Secure password storage
+Website: http://www.keepassdroid.com/
+Download: https://play.google.com/store/apps/details?id=com.android.keepass
+Version: 1.99.11
+License: Free/Open Source Software
+System_requirements: Android 1.5 or higher
+Admin: false
+Alternatives:
+Comment: read 03-keepassdroid-premise before installing and using this tool
+Required_reading: How-to Booklet chapter [3. How to create and maintain good passwords](https://siabnext.ttc.io/how-to-guide/passwords); Hands-On Guide chapter [KeePass - Secure Password Storage](https://siabnext.ttc.io/hands-on-guide/keepassx-windows)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install KeePassDroid
+
+## Step 1
+
+On your Android device, **download** and **install** the app from the [**Google Play**](https://play.google.com/store/apps/details?id=com.android.keepass) store by pressing ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-002.png)
+
+![KeyPassDroid download page](/sites/siabnext.ttc.io/files/media/keepassdroid-and-001.png)
+
+*Figure 1: KeyPassDroid download page*
+
+## Step 2
+
+Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully, once your are happy with the permissions that will be granted, press ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-003.png) and the installation will complete.  If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+
+![Permissions necessary for KeyPassDroid](/sites/siabnext.ttc.io/files/media/keepassdroid-and-004.png)
+
+*Figure 2: Permissions necessary for KeyPassDroid*
+
+**NOTE**: **KeePassDroid** can also be downloaded [directly](https://code.google.com/p/keepassdroid/downloads/list?can=1&q=) or from the third party [F-Droid](https://f-droid.org/repository/browse/?fdfilter=keepass&fdid=com.android.keepass) store.
