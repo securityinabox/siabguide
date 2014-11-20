@@ -1,0 +1,23 @@
+Object_type: Tool
+Tool: K9 with APG
+Platform: Google Android
+Need: Email encryption on Android devices
+Website: https://code.google.com/p/k9mail
+Download: https://play.google.com/store/apps/details?id=com.fsck.k9
+Version: 4.011
+License: Free/Open Source Software
+System_requirements:Android 1.5 or higher; APG must be installed before installing K-9
+Admin: false
+Alternatives: 
+Comment: read 03-k9-premise before installing and using this tool
+Required_reading: How-to Booklet Chapter [7. How to keep your Internet communication private](https://siabnext.ttc.io/how-to-guide/secure-communication); How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet Chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**K-9** is a free and open source email client for Android devices, that integrates seamlessly with **Android Privacy Guard**. 
+
+**Android Privacy Guard** (APG) is a free and open source application for Android devices, created by [Thialfihar](http://www.thialfihar.org/), that lets you encrypt and decrypt single files or emails. It aims to be an OpenPGP implementation for Android, although not all features of OpenPGP are implemented yet. Its Public/Private key scheme lets you encrypt, decrypt and sign files and messages. You can also use it to encrypt single files with symmetric encryption, securing the files with a password. 
+
+The use of these two tools allows for easy encrypting and decrypting of OpenPGP email messages.

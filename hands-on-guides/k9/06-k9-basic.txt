@@ -1,0 +1,52 @@
+Object_type: Tool
+Tool: K9 with APG
+Platform: Google Android
+Need: Email encryption on Android devices
+Website: https://code.google.com/p/k9mail
+Download: https://play.google.com/store/apps/details?id=com.fsck.k9
+Version: 4.011
+License: Free/Open Source Software
+System_requirements:Android 1.5 or higher; APG must be installed before installing K-9
+Admin: false
+Alternatives: 
+Comment: read 03-k9-premise before installing and using this tool
+Required_reading: How-to Booklet Chapter [7. How to keep your Internet communication private](https://siabnext.ttc.io/how-to-guide/secure-communication); How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet Chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Use K9 with APG
+
+Before you can start sending and receiving encrypted email, you need to ensure that you have all your OpenPGP keys imported into APG.  To do this you need to copy your keys from your computer to your phone. 
+
+Once copied over, complete the following steps to import your keys into APG.
+
+## Step 1
+
+**Open** **APG**. 
+
+## Step 2
+
+**Tap** the *menu* button, and **choose** *manage secret keys*.
+
+![](/sites/siabnext.ttc.io/files/media/k9apgimp-and-01.png)  
+
+## Step 3
+
+**Press** the menu button again and select import keys 
+![](/sites/siabnext.ttc.io/files/media/k9apgimp-and-02.png) , enter the location you stored your private key pair in and press *OK*.  Once imported, repeat the above steps and import your public keys from the *manage public keys* menu.
+
+![Key management options](/sites/siabnext.ttc.io/files/media/k9apgimp-and-03.png)
+
+*Figure 7: Key management options*
+
+## Step 4
+
+To import your public keys, **repeat** steps 2 and 3, choosing *manage public keys* at step 2.
+
+## Step 5
+
+Once your keypair(s) and your collection of public keys are imported into APG, **K-9** will give you the options to *sign* and *encrypt* messages when writing emails, or if you received encrypted mail, it will allow you to decrypt it.
+
+![](/sites/siabnext.ttc.io/files/media/k9apgimp-and-06.png) ![](/sites/siabnext.ttc.io/files/media/k9apgimp-and-07.png) 

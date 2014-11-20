@@ -1,0 +1,25 @@
+Object_type: Tool
+Tool: K9 with APG
+Platform: Google Android
+Need: Email encryption on Android devices
+Website: https://code.google.com/p/k9mail
+Download: https://play.google.com/store/apps/details?id=com.fsck.k9
+Version: 4.011
+License: Free/Open Source Software
+System_requirements:Android 1.5 or higher; APG must be installed before installing K-9
+Admin: false
+Alternatives: 
+Comment:
+Required_reading: How-to Booklet Chapter [7. How to keep your Internet communication private](https://siabnext.ttc.io/how-to-guide/secure-communication); How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet Chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+# Introduction to K9
+
+- You need an email account.
+- You need an OpenPGP key-pair and public keys of the people you wish to communicate with.
+- You need to be familiar with the concept of public/private key encryption.
+- You need to be online when setting up and using **K-9**.
+- Due to the nature of data storage on smartphones, the private key you generate or import can not be deleted securely.
