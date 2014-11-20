@@ -1,0 +1,68 @@
+Object_type: Tool
+Tool: ChatSecure
+Platform: Google Android
+Need: Secure and anonymous chat
+Website: https://guardianproject.info/apps/chatsecure
+Download: https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im
+Version: Gibberbot 0.0.9-RC4
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher
+Admin: false
+Alternatives:
+Comment: read 03-chatsecure-premise before installing and using this tool
+Required_reading:  How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://siabnext.ttc.io/how-to-guide/anonymity-and-circumvention); How-to Booklet chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# Configure ChatSecure
+
+## Step 1
+
+A drop down selection of languages will appear. **Scroll** and **tap** the language you desire for **Gibberbot**.
+
+![Language options](/sites/siabnext.ttc.io/files/media/gibberbot-and-05.png) 
+
+*Figure 4: Language options*
+
+## Step 2
+
+**Tap** *Get Started* and *Next* 3 times to go through the general information about **Gibberbot**
+
+![Information about Gibberbot](/sites/siabnext.ttc.io/files/media/gibberbot-and-06.png) ![](/sites/siabnext.ttc.io/files/media/gibberbot-and-07.png) 
+
+![Information about Gibberbot](/sites/siabnext.ttc.io/files/media/gibberbot-and-08.png) ![](/sites/siabnext.ttc.io/files/media/gibberbot-and-09.png) 
+
+*Figures 5, 6, 7, and 8: Information about Gibberbot*
+
+## Step 3
+
+An account configuration page is shown:
+
+
+![Account configuration page](/sites/siabnext.ttc.io/files/media/gibberbot-and-10.png) 
+
+*Figure 9: Account configuration page*
+
+## Step 4
+
+**Add** *IM* *user* and *server* data (for example "Joe@gmail.com"), and then **add** your associated password.
+
+![Add account details](/sites/siabnext.ttc.io/files/media/gibberbot-and-11.png) 
+
+*Figure 10: Add account details*
+
+**Note:** Do **not** check *Remember password*, in case you lose your device.
+
+## Step 5
+
+If you have installed and switched on [**Orbot**](/en/Orbot_main), **check** *Connect using Orbot* for anonymity
+
+![Connect via Tor](/sites/siabnext.ttc.io/files/media/gibberbot-and-12.png) 
+
+*Figure 11: Connect via Tor option*
+
+## Step 6
+
+**Tap** the *Sign in* button. Once this is done, you are ready to use **Gibberbot**

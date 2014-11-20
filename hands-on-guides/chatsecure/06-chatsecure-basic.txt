@@ -1,0 +1,91 @@
+Object_type: Tool
+Tool: ChatSecure
+Platform: Google Android
+Need: Secure and anonymous chat
+Website: https://guardianproject.info/apps/chatsecure
+Download: https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im
+Version: Gibberbot 0.0.9-RC4
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher
+Admin: false
+Alternatives:
+Comment: read 03-chatsecure-premise before installing and using this tool
+Required_reading:  How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://siabnext.ttc.io/how-to-guide/anonymity-and-circumvention); How-to Booklet chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Use ChatSecure
+
+## Step 1
+
+When you open **Gibberbot** and access your account, you can chat with any of your contacts by **tapping** their name.
+
+![Online contacts](/sites/siabnext.ttc.io/files/media/gibberbot-and-13.png) 
+
+*Figure 12: Online contacts*
+
+## Step 2
+
+When the chat is initiated, *Warning: This chat is NOT encrypted* will alert you that your communications are not secure.
+
+![Open chat window](/sites/siabnext.ttc.io/files/media/gibberbot-and-14.png) 
+
+*Figure 13: Open chat window*
+
+## Step 3
+
+You can begin an encrypted conversation by **tapping** ![](/sites/siabnext.ttc.io/files/media/gibberbot-and-15.png) 
+
+## Step 4
+
+If any of your contacts uses an enabled OTR client like Gibberbot, [Pidgin](/glossary#Pidgin) or ChatSecure, the warning sign will change to *This chat is secure but the identities of the participants have NOT been verified* in yellow.
+
+![Secure chat with unverified fingerprint](/sites/siabnext.ttc.io/files/media/gibberbot-and-16.png) 
+
+*Figure 14: Secure chat with unverified fingerprint*
+
+# Verify the identity of your contact
+
+## Step 1
+
+**Select** the option *Verify* in the menu that shows by **tapping** ![](/sites/siabnext.ttc.io/files/media/gibberbot-and-17.png) .
+
+## Step 2
+
+**Compare** in person or through a phone call or SMS, the two fingerprint values shown.
+
+## Step 3
+
+If the values are identical, select the option *Verify Secret* in the menu that shows as below.
+
+![Verification options](/sites/siabnext.ttc.io/files/media/gibberbot-and-18.png) 
+
+*Figure 15: Verification options*
+
+## Step 4
+
+A window will appear as shown below, **click** on *Yes* after making sure that the person with the fingerprint is the same person who you want to talk to.
+
+![Confirm key verification](/sites/siabnext.ttc.io/files/media/gibberbot-and-19.png) 
+
+*Figure 16: Confirm key verification*
+
+## Step 5
+
+Return to your chat with the *Back* button
+
+## Step 6
+
+Once the identity is verified a green sign *This chat is secured and verified* will show in during chat.
+
+![Verified secure chat](/sites/siabnext.ttc.io/files/media/gibberbot-and-20.png) 
+
+*Figure 17: Verified secure chat*
+
+## Step 6
+
+When fingerprints are verified all subsequent chat sessions with this contact will be secured and will show the same green sign. 
+
+**Note:** If you chat with **Gibberbot** and Pidgin or some other secure chat, with the same account, at the same time, some problems might occur due to different fingerprints. Be sure to log out of all other clients before logging in again with Gibberbot.

@@ -1,0 +1,19 @@
+Object_type: Tool
+Tool: ChatSecure
+Platform: Google Android
+Need: Secure and anonymous chat
+Website: https://guardianproject.info/apps/chatsecure
+Download: https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im
+Version: Gibberbot 0.0.9-RC4
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher
+Admin: false
+Alternatives:
+Comment: read 03-chatsecure-premise before installing and using this tool
+Required_reading:  How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://siabnext.ttc.io/how-to-guide/anonymity-and-circumvention); How-to Booklet chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**Gibberbot** is a free and open source application for Android devices, created by the [Guardian Project](https://guardianproject.info/), that lets you organize and manage your different Instant Messaging (IM) accounts using a single interface. It uses [**Off-the-Record (OTR)**](/en/glossary#OTR) software which ensures authenticated and secure communications between clients including **Gibberbot**, **ChatSecure**, **Jitsi**, and [**Pidgin**](/en/glossary#Pidgin). **Gibberbot** can also add a layer of anonymity and protect your communications from many forms of Internet surveillance by connecting through [**Orbot**](/en/glossary#Orbot), which allows your smartphone's internet traffic to be routed through the [**Tor network**](/en/glossary#Tor).
