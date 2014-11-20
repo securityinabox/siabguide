@@ -1,7 +1,7 @@
 Object_type: Tool
 Tool: Android Privacy Guard (APG)
 Platform: Google Android
-Need: File and email encryption
+Need: File and Email Encryption
 Website: http://www.thialfihar.org/projects/apg/
 Download: https://play.google.com/store/apps/details?id=org.thialfihar.android.apg
 Version: 1.08
@@ -9,10 +9,10 @@ License: Free/Open Source Software
 System_requirements: Android 1.5 or higher
 Admin: false
 Alternatives: 
-Comment: This file should only be used in connection with the whole hands-on guide
-Group: Synthesis
-Title: What you will get from this guide 
+Comment:
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-* The ability to use encryption for single files and for email communication
+* How-to Chapter [Protecting your Computer from Viruses, Malware and Hackers](https://securityinabox.org/chapter-1)[Malware]

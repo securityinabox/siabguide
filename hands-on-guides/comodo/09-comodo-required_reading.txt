@@ -10,9 +10,9 @@ System_requirements: Microsoft Windows
 Admin: true
 Alternatives: GNU/Linux built-in firewall -- [netfilter/iptables](http://www.netfilter.org/) with [GUFW](http://blog.bodhizazen.net/linux/firewall-ubuntu-gufw/) (Graphical Uncomplicated Firewall); Mac OS internal firewall, with interface add-ons [NoobProof](http://www.hanynet.com/noobproof/) and [IPSecuritas](http://www.lobotomo.com/products/IPSecuritas/); [ZoneAlarm Free Firewall](http://www.zonealarm.com/security/en-us/zonealarm-pc-security-free-firewall.htm) for Microsoft Windows; [Outpost Firewall Free](http://free.agnitum.com/) for Microsoft Windows 
 Comment: read 03-comodo-premise before installing and using this tool
-Group: Synthesis
-Title: Introduction
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-**COMODO Firewall** is a full featured and renowned firewall, free for personal use. It helps to protect your computer from unauthorised connections to and from the Internet. This chapter is designed to address the needs of both the **Beginner** and **Advanced** user.
+* Required_reading: [How to Protect your Computer from Viruses, Malware and Hackers](https://securityinabox.org/chapter-1)[Malware]

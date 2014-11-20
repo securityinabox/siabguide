@@ -10,7 +10,6 @@ System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [Freebyte Backup](http://www.freebyte.com/fbbackup/) for Microsoft Windows; [Unison File Synchronizer](http://www.cis.upenn.edu/~bcpierce/unison/) for Microsoft Windows, Mac OS, and GNU/Linux; [Allway Sync](http://allwaysync.com/) for Microsoft Windows; [FreeFileSync](http://freefilesync.sourceforge.net/) for GNU/Linux and Microsoft Windows; [Time Machine](https://secure.wikimedia.org/wikipedia/en/wiki/Time_Machine_%28Mac_OS%29) included with Mac OS (version 10.5 and up)
 Comment:
-Required_reading: How-to Booklet chapter [5. How to Recover from Information Loss](https://securityinabox.org/chapter-5)
 Group: Basic Usage 
 Title: Basic Howto
 Language: EN

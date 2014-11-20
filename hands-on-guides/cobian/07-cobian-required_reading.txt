@@ -9,12 +9,10 @@ License: Free Proprietary Software
 System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [Freebyte Backup](http://www.freebyte.com/fbbackup/) for Microsoft Windows; [Unison File Synchronizer](http://www.cis.upenn.edu/~bcpierce/unison/) for Microsoft Windows, Mac OS, and GNU/Linux; [Allway Sync](http://allwaysync.com/) for Microsoft Windows; [FreeFileSync](http://freefilesync.sourceforge.net/) for GNU/Linux and Microsoft Windows; [Time Machine](https://secure.wikimedia.org/wikipedia/en/wiki/Time_Machine_%28Mac_OS%29) included with Mac OS (version 10.5 and up)
-Comment: This file should only be used in connection with the whole hands-on guide
-Group: Synthesis
-Title: What you will get from this guide 
+Comment:
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-* The ability to back up all documents, files and folders
-* The ability to compress and decompress your backup files
-* The ability to encrypt and decrypt your archived files
+* How-to Chapter [How to Recover from Information Loss](https://securityinabox.org/chapter-5)[Information Loss]

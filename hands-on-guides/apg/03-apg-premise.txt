@@ -10,7 +10,6 @@ System_requirements: Android 1.5 or higher
 Admin: false
 Alternatives: 
 Comment:
-Required_reading: How-to Booklet Chapter [3. How to create and maintain secure passwords](https://securityinabox.org/chapter-3); How-to Booklet Chapter [7. How to keep your Internet communication private](https://securityinabox.org/chapter-7); How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://securityinabox.org/chapter-10); How-to Booklet Chapter [11. How to use smartphones as securely as possible](https://securityinabox.org/en/chapter-11)
 Group: Basic Usage 
 Title: Important premise
 Language: EN

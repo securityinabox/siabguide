@@ -1,7 +1,7 @@
 Object_type: Tool
-Tool: Flickr
+Tool: Facebook
 Platform: Social Networks
-Need: Image hosting and sharing
+Need: Social networking
 Website: https://www.facebook.com/
 Download: 
 Version: N/A
@@ -9,10 +9,12 @@ License: Proprietary Software
 System_requirements: Web browser; Internet connection
 Admin: 
 Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
-Comment: This file should only be used in connection with the whole hands-on guide; read 03-flickr-security-premise before using this tool
-Group: Synthesis
-Title: What you will get from this guide 
+Comment: read 03-facebook-security-premise before using this tool
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-* Tips on how to protect your privacy and that of other individuals while using Flickr to share pictures.
+* How-to Chapter [How to protect yourself and your data when using social networking sites](https://securityinabox.org/chapter-9)[Social Networks]
+* Facebook's [Terms of Use](https://www.facebook.com/legal/terms) and [Data Use Policy](https://www.facebook.com/about/privacy/)
+

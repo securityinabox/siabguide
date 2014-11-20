@@ -10,7 +10,6 @@ System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [BleachBit](http://bleachbit.sourceforge.net/) for GNU Linux and Microsoft Windows; Titanium’s Software [OnyX and Maintenance](http://www.titanium.free.fr/) for Mac OS
 Comment:
-Required_reading: How-to Booklet chapter [6. How to Destroy Sensitive Information](https://securityinabox.org/chapter-6)
 Group: Basic Usage 
 Title: Important premise
 Language: EN

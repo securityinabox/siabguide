@@ -10,7 +10,6 @@ System_requirements: Web browser; Internet connection
 Admin: 
 Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
 Comment: read 03-facebook-security-premise before using this tool
-Required_reading:  [Protect yourself and your data when using social networking sites](https://siabnext.ttc.io/how-to-guide/social-networking)
 Group: Synthesis
 Title: Introduction
 Language: EN

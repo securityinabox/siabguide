@@ -10,7 +10,6 @@ System_requirements: Android 2.2 or higher
 Admin: false
 Alternatives: 
 Comment: read 03-cryptonite-premise before installing and using this tool
-Required_reading: How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://siabnext.ttc.io/how-to-guide/anonymity-and-circumvention); How-to Booklet chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
 Group: Basic Usage
 Title: Installation
 Language: EN

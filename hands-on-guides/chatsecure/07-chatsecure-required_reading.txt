@@ -1,0 +1,20 @@
+Object_type: Tool
+Tool: ChatSecure
+Platform: Google Android
+Need: Secure and anonymous chat
+Website: https://guardianproject.info/apps/chatsecure
+Download: https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im
+Version: Gibberbot 0.0.9-RC4
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher
+Admin: false
+Alternatives:
+Comment: read 03-chatsecure-premise before installing and using this tool
+Group: Required Reading
+Title: Required Reading
+Language: EN
+
+
+* How-to Chapter [How to remain anonymous and bypass censorship on the Internet](https://securityinabox.org/chapter-8)[Anonymous Browsing]
+* How-to Chapter [How to use mobile phones as securely as possible](https://securityinabox.org/chapter-10)[Mobile Phones]
+* How-to Chapter [How to use mobile computing devices securely](https://securityinabox.org/en/chapter-11)[Smartphones]

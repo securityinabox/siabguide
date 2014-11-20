@@ -10,7 +10,6 @@ System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [secure-delete](http://www.ghacks.net/2010/08/26/securely-delete-files-with-secure-delete/) (command line tools) for GNU Linux; secure-delete [integrated with a graphical file manager](http://techthrob.com/2010/07/07/adding-a-secure-delete-option-to-nautilus-file-manager-in-linux/) for GNU Linux; Finder menu Secure Empty Trash... on Mac OS; Disk Utility to securely erase entire disk or a free space on internal or external disks on Mac OS; [CCleaner](https://siabnext.ttc.io/en/ccleaner_main) for Microsoft Windows; [Freeraser](http://www.freeraser.com/) for Microsoft Windows; [DBAN - Darik's Boot And Nuke](http://www.dban.org/) for bulk or emergency data destruction
 Comment: read 03-eraser-premise before installing and using this tool
-Required_reading: How-to Booklet chapter [6. How to destroy sensitive information](https://securityinabox.org/chapter-6)
 Group: Basic Usage 
 Title: Basic Howto
 Language: EN

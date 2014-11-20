@@ -10,7 +10,6 @@ System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
 Comment:
-Required_reading: [Protect your device from malware and hackers](https://siabnext.ttc.io/how-to-guide/malware)
 Group: Basic Usage 
 Title: Important premise
 Language: EN
