@@ -1,0 +1,11 @@
+Object_type: Issue
+Howto: Keep your online communication private
+Need: Secure Communication
+Connected_tools: RiseUp email service; Pidgin with OTR; Jitsi; Thunderbird with Enigmail and GPG
+Comment:
+Chapter: 
+Title: 
+Language: EN
+
+
+

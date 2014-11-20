@@ -1,0 +1,54 @@
+Object_type: Tool/Issue
+Tool:
+Platform: 
+Need: 
+Website: 
+Download: 
+Object_type: Tool
+Tool: ObscuraCam
+Platform: Google Android
+Need: Hide faces in photos
+Website: https://guardianproject.info/apps/obscuracam/
+Download: https://play.google.com/store/apps/details?id=org.witness.sscphase1
+Version: 2.0-RC2b
+License: Free/Open Source Software
+System_requirements: Android
+Admin: false
+Alternatives: 
+Comment: read 03-obscuracam-premise before installing and using this tool
+Required_reading: How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet Chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install ObscuraCam
+
+## Step 1
+
+**Download** the app from the [Google play store](https://play.google.com/store/apps/details?id=org.witness.sscphase1&hl=en)
+
+![ObscuraCam in the Google Play store](/sites/siabnext.ttc.io/files/media/obscuracam-and-02.png)
+
+*Figure 1: ObscuraCam in the Google Play store*
+
+## Step 2
+
+**Confirm** the permissions required by the app and begin installation by tapping the *Install* button.
+
+![Confirmation of permissions and installation process](/sites/siabnext.ttc.io/files/media/obscuracam-and-03.png) ![Confirmation of permissions and installation process](/sites/siabnext.ttc.io/files/media/obscuracam-and-04.png)
+![Confirmation of permissions and installation process](/sites/siabnext.ttc.io/files/media/obscuracam-and-05.png)
+
+*Figures 3, 4, and 5: Confirmation of permissions and installation process*
+
+## Step 3
+
+**Tap** *Open* to run the app for the first time.
+
+** Step 4
+
+**Read** the *Terms of Use* carefully. You can **accept** by tapping *I Accept*.
+
+![Terms of Use](/sites/siabnext.ttc.io/files/media/obscuracam-and-06.png)
+
+*Figure 6: Terms of Use*

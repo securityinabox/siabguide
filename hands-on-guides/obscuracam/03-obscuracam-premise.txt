@@ -1,0 +1,23 @@
+Object_type: Tool
+Tool: ObscuraCam
+Platform: Google Android
+Need: Hide faces in photos
+Website: https://guardianproject.info/apps/obscuracam/
+Download: https://play.google.com/store/apps/details?id=org.witness.sscphase1
+Version: 2.0-RC2b
+License: Free/Open Source Software
+System_requirements: Android
+Admin: false
+Alternatives: 
+Comment:
+Required_reading: How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet Chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+# Introduction to ObscuraCam
+
+- **ObscuraCam**'s automatic face-recognition does not always work, but you can easily select and obscure faces manually.
+- On some versions of the Android operating system, the option to *delete the original media file* does not work. If you rely on this option, please check to make sure that you do not have **ObscuraCam** photos (with visible faces!) somewhere on your device.
+- If you use **ObscuraCam** to send photos to yourself or to someone else, the tool **does not** provide additional protection (such as end-to-end encryption) for the photo in transit.

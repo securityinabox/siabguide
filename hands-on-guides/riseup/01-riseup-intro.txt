@@ -1,6 +1,6 @@
 Object_type: Tool
 Tool: Riseup
-Platform: Email
+Platform: Email; Internet
 Need: Secure email service
 Website: https://riseup.net/
 Download: 
@@ -10,7 +10,6 @@ System_requirements: Internet connection; Web browser and/or Email client
 Admin:
 Alternatives: 
 Comment: read 03-riseup-premise before using this tool
-Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)
 Group: Synthesis
 Title: Introduction
 Language: EN

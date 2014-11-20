@@ -1,0 +1,100 @@
+Object_type: Tool
+Tool: ObscuraCam
+Platform: Google Android
+Need: Hide faces in photos
+Website: https://guardianproject.info/apps/obscuracam/
+Download: https://play.google.com/store/apps/details?id=org.witness.sscphase1
+Version: 2.0-RC2b
+License: Free/Open Source Software
+System_requirements: Android
+Admin: false
+Alternatives: 
+Comment: read 03-obscuracam-premise before installing and using this tool
+Required_reading: How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet Chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Take photos with ObscuraCam
+
+You can use **ObscuraCam** to hide some or all of the faces that appear in your photos. It works on pictures that you take with the **ObscuraCam** app itself, but you can also blur faces in other photos, as long as you have a way to copy or move the image files onto your Android device.
+
+To take a photo on your Android device without showing your subjects' faces, perform the following steps: 
+
+## Step 1
+
+**Tap** the **Camera** button
+
+![ObscuraCam home screen](/sites/siabnext.ttc.io/files/media/obscuracam-and-07.png)
+
+*Figure 7: ObscuraCam home screen*
+
+## Step 2
+
+**Take** a photo by clicking on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-08.png)
+
+## Step 3
+
+**Tap** the **Save** button by clicking on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-09.png)
+
+**ObscuraCam** will attempt to identify faces automatically. For each face that it recognizes, it will add an image "*tag*" (a rectangle used to select content that should be hidden). 
+
+![An automatically 'tagged' face](/sites/siabnext.ttc.io/files/media/obscuracam-and-10.png)
+
+*Figure 8: An automatically 'tagged' face* 
+
+## Step 4
+
+**Select** or **modify** the content you want to hide
+
+Image tags can be modified in the following ways:
+
+- **Tap** a portion of your photo that you want to hide in order to add a tag.
+- **Tap** an existing tag (the border should turn green) and then tap *Delete Tag* in order to remove it
+
+![Tagging options](/sites/siabnext.ttc.io/files/media/obscuracam-and-12.png)
+
+*Figure 9: Tagging options*
+
+**Tap** and **drag** the very centre of a tag in order to move it (thereby changing which portion of your image will be hidden).
+
+![Moving a tag](/sites/siabnext.ttc.io/files/media/obscuracam-and-11.png)
+
+*Figure 10: Moving a tag*
+
+**Tap** and **drag** close to one side of the tag (but inside the rectangle) in order to change the size and shape of the tag.
+
+![Resize a tag](/sites/siabnext.ttc.io/files/media/obscuracam-and-11.png)
+
+*Figure 11: Resize a tag*
+
+# Hide faces in existing photos
+
+To hide your subjects' faces in an existing photo, perform the following steps: 
+
+## Step 1
+
+**Copy or move** the desired image file onto your Android device, if it is not already there.
+
+## Step 2
+
+**Tap** the ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-14.png) button.
+
+## Step 3
+
+**Select** the photo which you want to edit.
+
+**ObscuraCam** will attempt to identify faces **automatically**.
+
+![Automatically detected face](/sites/siabnext.ttc.io/files/media/obscuracam-and-10.png)
+
+*Figure 12: Automatically detected face*
+
+## Step 4
+
+**Select** or **modify** the content you want to hide.
+
+# Change the "blur" mode
+
+
