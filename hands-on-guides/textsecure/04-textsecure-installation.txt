@@ -1,0 +1,50 @@
+Object_type: Tool
+Tool: TextSecure
+Platform: Google Android
+Need: Secure mobile messaging
+Website: https://whispersystems.org/
+Download: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
+Version: 0.5.7
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher
+Admin: false
+Alternatives:
+Comment: read 03-textsecure-premise before installing and using this tool
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install TextSecure
+
+## Step 1
+
+**Download** the app from [from Google play store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en)
+
+![TextSecure in the Google Play store](/sites/siabnext.ttc.io/files/media/textsecure-and-02.png)
+
+*Figure 1: TextSecure in the Google Play store*
+
+## Step 2
+
+**Install** the app (by **clicking** the appropriate install button).
+
+![Permissions necessary for downloading](/sites/siabnext.ttc.io/files/media/textsecure-and-03.png)
+
+*Figure 2: Permissions necessary for downloading*
+
+## Step 3
+
+**Read** and accept the [*GNU*](/en/glossary#GNU) license.
+
+![End User License Agreement](/sites/siabnext.ttc.io/files/media/textsecure-and-04.png)
+
+*Figure 3: End User License Agreement*
+
+## Step 4
+
+**Create** a password or passphrase to encrypt the data stored on your phone
+
+![Create and repeat a password or passphrase](/sites/siabnext.ttc.io/files/media/textsecure-and-05.png)
+
+*Figure 4: Create and repeat a password or passphrase*

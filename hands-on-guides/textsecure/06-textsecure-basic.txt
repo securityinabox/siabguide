@@ -1,0 +1,152 @@
+Object_type: Tool
+Tool: TextSecure
+Platform: Google Android
+Need: Secure mobile messaging
+Website: https://whispersystems.org/
+Download: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
+Version: 0.5.7
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher
+Admin: false
+Alternatives:
+Comment: read 03-textsecure-premise before installing and using this tool
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Establish secure communication
+
+It is required to do a one-time secure connection per phone number with which you like to use **TextSecure**. To do this:
+
+## Step 1
+
+Go to the *Menu*, and **click** on *secure session* 
+
+![Menu options](/sites/siabnext.ttc.io/files/media/textsecure-and-09.png)
+
+*Figure 8: Menu options*
+
+## Step 2
+
+**Enter** or **select** the desired contact to **Initiate Key Exchange**
+
+![Secure session initiation](/sites/siabnext.ttc.io/files/media/textsecure-and-10.png)     ![Secure session initiation](/sites/siabnext.ttc.io/files/media/textsecure-and-1011.png)
+
+*Figures 9 and 10: Secure session initiation*
+
+## Step 3
+
+**Press** *send*.
+
+Your **TextSecure** app will send a message to the recipient, whose **TextSecure** app will **AUTOMATICALLY** respond with a message to establish a **secure connection**. This process must be carried out once for each phone number or contact.
+
+![Key exchange messages](/sites/siabnext.ttc.io/files/media/textsecure-and-11.png)     ![Key exchange messages](/sites/siabnext.ttc.io/files/media/textsecure-and-12.png)
+
+*Figures 11 and 12: Key exchange messages*
+
+## Step 4
+
+When the secure connection with this contact is established, a locked padlock icon will appear on the top-left corner.
+
+![Key exchange message sent](/sites/siabnext.ttc.io/files/media/textsecure-and-13.png)
+
+*Figure 12: Key exchange message sent*
+
+ **Note**: You can change the settings to prevent **TextSecure** from replying automatically by **choosing** *Menu*, and then *Settings*
+
+![Menu options](/sites/siabnext.ttc.io/files/media/textsecure-and-14.png)
+
+*Figure 13: Menu options*
+
+## Step 5
+
+**Scroll** down to *Complete Key Exchanges*. This option will automatically complete key exchanges for new secure sessions or for existing sessions with the same identity key.
+
+![Settings](/sites/siabnext.ttc.io/files/media/textsecure-and-15.png)
+
+*Figure 14: Settings*
+
+## Step 5
+
+**Uncheck** the box to turn this option off as it appears below.
+
+![omplete Key Exchanges unchecked](/sites/siabnext.ttc.io/files/media/textsecure-and-16.png)
+
+*Figure 15: Complete Key Exchanges unchecked*
+
+# Verify the identity of your contact
+
+To verify that connection you established is with the right person, you can follow these steps.
+
+## Step 1
+
+**Select** the text message that was automatically sent by **TextSecure** to establish the secure connection.
+
+![Sample selected text message](/sites/siabnext.ttc.io/files/media/textsecure-and-17.png)
+
+*Figure 16: Sample selected text message*
+
+## Step 2
+
+**Select** *Menu* and then **tap** *Secure Session Options* to activate the following screen:
+
+![Menu options](/sites/siabnext.ttc.io/files/media/textsecure-and-18.png)
+
+*Figure 17: Menu options*
+
+## Step 3
+
+**Tap** *Verify Recipient Identity*. This will display a set of characters for you as well as the person on the other side.
+
+![Secure session options](/sites/siabnext.ttc.io/files/media/textsecure-and-19.png)
+ 
+*Figure 18: Secure session options*
+
+## Step 4
+
+Contact the other person (via phone or other secure channels) and confirm they see the same set of characters.
+
+# Exchange encrypted messages
+
+## Step 1
+
+**Tap** the **TextSecure** icon.
+
+## Step 2
+
+**Compose** a new message.
+
+![Home screen](/sites/siabnext.ttc.io/files/media/textsecure-and-20.png)
+
+*Figure 19: Home screen*
+
+## Step 3
+
+**Select** the desired contact.
+
+![Contact selection field](/sites/siabnext.ttc.io/files/media/textsecure-and-21.png)
+
+*Figure 20: Contact selection field*
+
+## Step 4
+
+**Verify** the padlock appears in the send button to signify that your text will be secure.
+
+![Message composition field](/sites/siabnext.ttc.io/files/media/textsecure-and-2213.png)
+
+*Figure 21: Message composition field*
+
+## Step 5
+
+**Write** the message.
+
+![Sample message](/sites/siabnext.ttc.io/files/media/textsecure-and-2313.png)
+
+*Figure 22: Sample message*
+
+## Step 6
+
+**Click** *Send*.
+
+**Important:** If the padlock doesn't appear next to the send button as you are writing your text message, it means that the message you will be sending is travelling in plain-text, and is can be intercepted and recorded along the way.

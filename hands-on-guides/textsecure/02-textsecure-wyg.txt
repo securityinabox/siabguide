@@ -1,0 +1,20 @@
+Object_type: Tool
+Tool: TextSecure
+Platform: Google Android
+Need: Secure mobile messaging
+Website: https://whispersystems.org/
+Download: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
+Version: 0.5.7
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher
+Admin: false
+Alternatives:
+Comment: This file should only be used in connection with the whole hands-on guide; read 03-textsecure-premise before installing and using this tool
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+
+* Text messages to other TextSecure users can be encrypted when sent
+* Text messages are stored in an encrypted database on your device, protected by a passphrase
+* If your phone is lost or stolen, your messages will remain unreadable to those without the passphrase

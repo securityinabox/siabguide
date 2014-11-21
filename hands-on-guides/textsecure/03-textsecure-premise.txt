@@ -1,0 +1,24 @@
+Object_type: Tool
+Tool: TextSecure
+Platform: Google Android
+Need: Secure mobile messaging
+Website: https://whispersystems.org/
+Download: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
+Version: 0.5.7
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher
+Admin: false
+Alternatives:
+Comment:
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+# Introduction to TextSecure
+
+- Using this application will prevent anyone from being able to read the content of your text messages, but will not hide the fact that you are sending messages, nor will it hide the destination of the message.
+
+- You should consider SMS costs, as establishing a secure connection for sending text messages will require **TextSecure** to use an SMS-message whereby both sides will send AND receive a message to establish this connection.
+
+- In some countries, an encryption programme such as **TextSecure** may be illegal or subject to legal constraints.

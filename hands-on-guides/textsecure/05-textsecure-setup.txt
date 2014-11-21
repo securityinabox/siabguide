@@ -1,0 +1,44 @@
+Object_type: Tool
+Tool: TextSecure
+Platform: Google Android
+Need: Secure mobile messaging
+Website: https://whispersystems.org/
+Download: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
+Version: 0.5.7
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher
+Admin: false
+Alternatives:
+Comment: read 03-textsecure-premise before installing and using this tool
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+## Configure TextSecure
+
+## Step 1
+
+**Click** on the TextSecure icon, and enter your TextSecure password.
+
+![Enter password or passphrase](/sites/siabnext.ttc.io/files/media/textsecure-and-06.png)
+
+*Figure 5: Enter password or passphrase*
+
+## Step 2
+
+The application will ask you if you want to copy the existing text message database on your device. It is recommended to **copy** your messages in order to have them encrypted, and **delete** them from the old location.
+
+![Migrating text message database](/sites/siabnext.ttc.io/files/media/textsecure-and-07.png) ![Migrating text message database](/sites/siabnext.ttc.io/files/media/textsecure-and-08.png)
+
+*Figures 6 and 7: Migrating text message database*
+
+## Step 3
+
+**Check** to make sure your old messages appear in the **TextSecure** app inbox.
+
+## Step 4
+
+**Delete** your messages from their previous location.
+
+At this point you are ready to use **TextSecure** as your texting application. **Note:** If you do not wish to exchange encrypted text messages, you can still use **TextSecure** to securely *store* the messages you send and receive, meaning that should you lose your device, they will remain unreadable to anyone who should find it.
