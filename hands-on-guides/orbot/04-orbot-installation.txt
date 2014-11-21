@@ -1,0 +1,36 @@
+Object_type: Tool
+Tool: Orbot
+Platform: Google Android
+Need: Digital Anonymity and Circumvention
+Website: https://guardianproject.info/apps/orbot/
+Download: https://play.google.com/store/apps/details?id=org.torproject.android
+Version: 14.0.4.3
+License: Free/Open Source Software
+System_requirements: Android 2.3 or higher
+Admin: false
+Alternatives: 
+Comment: read 03-orbot-premise before installing and using this tool
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# Install OrBot
+
+## Step 1
+
+On your Android device, **download** and **install** the app from the [Google Play store](https://play.google.com/store/apps/details?id=org.torproject.android) store by pressing ![](/sites/siabnext.ttc.io/files/media/orbot-and-002.png)
+
+![Orbot in the Google Play store](/sites/siabnext.ttc.io/files/media/orbot-and-001.png)
+
+*Figure 1: Orbot in the Google Play store*
+
+**Note:** **Orbot** can also be downloaded [directly](https://guardianproject.info/releases/orbot-latest.apk) or from the third party [F-Droid](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=org.torproject.android) and [Amazon](http://www.amazon.com/The-Guardian-Project-Orbot-Proxy/dp/B00E7TIFGQ) stores.
+
+## Step 2
+
+Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully. Once your are happy with the permissions that will be granted, press ![](/sites/siabnext.ttc.io/files/media/orbot-and-003.png) and the installation will complete.  If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+
+![Permissions required](/sites/siabnext.ttc.io/files/media/orbot-and-004.png)
+
+*Figure 2: Permissions required*

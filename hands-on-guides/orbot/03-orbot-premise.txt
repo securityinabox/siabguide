@@ -1,0 +1,19 @@
+Object_type: Tool
+Tool: Orbot
+Platform: Google Android
+Need: Digital Anonymity and Circumvention
+Website: https://guardianproject.info/apps/orbot/
+Download: https://play.google.com/store/apps/details?id=org.torproject.android
+Version: 14.0.4.3
+License: Free/Open Source Software
+System_requirements: Android 2.3 or higher
+Admin: false
+Alternatives:
+Comment:
+Required_reading:
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+Orbot provides Android devices with access to the [*Tor Network*](https://securityinabox.org/glossary#Tor)[Glossary #Tor]. Form more information see [**Tor - Digital Anonymity and Circumvention**](https://securityinabox.org/tor_main)[Tor Main].

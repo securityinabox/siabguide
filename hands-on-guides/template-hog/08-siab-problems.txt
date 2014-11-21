@@ -10,7 +10,6 @@ System_requirements:
 Admin:
 Alternatives:
 Comment:
-Required_reading:
 Group: Basic Usage
 Title: Problems and Solutions 
 Language: EN

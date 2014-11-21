@@ -1,0 +1,21 @@
+Object_type: Tool
+Tool: Orbot
+Platform: Google Android
+Need: Digital Anonymity and Circumvention
+Website: https://guardianproject.info/apps/orbot/
+Download: https://play.google.com/store/apps/details?id=org.torproject.android
+Version: 14.0.4.3
+License: Free/Open Source Software
+System_requirements: Android 2.3 or higher
+Admin: false
+Alternatives: 
+Comment: read 03-orbot-premise before installing and using this tool
+Group: Required Reading
+Title: Required Reading
+Language: EN
+
+
+* How-to Chapter [How to remain anonymous and bypass censorship on the Internet](https://securityinabox.org/chapter-8)[Anonymous Browsing]
+* How-to Chapter [How to use mobile phones as securely as possible](https://securityinabox.org/chapter-10)[Mobile Phones]
+* How-to Chapter [How to use smartphones as securely as possible](https://securityinabox.org/en/chapter-11)[Smartphones]
+

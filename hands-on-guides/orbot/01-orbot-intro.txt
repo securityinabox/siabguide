@@ -1,0 +1,18 @@
+Object_type: Tool
+Tool: Orbot
+Platform: Google Android
+Need: Digital Anonymity and Circumvention
+Website: https://guardianproject.info/apps/orbot/
+Download: https://play.google.com/store/apps/details?id=org.torproject.android
+Version: 14.0.4.3
+License: Free/Open Source Software
+System_requirements: Android 2.3 or higher
+Admin: false
+Alternatives: 
+Comment: read 03-orbot-premise before installing and using this tool
+Group: Synthesis
+Title: Introduction
+Language: EN
+
+
+**Orbot** is an Android-platform mobile phone application created by the [Guardian Project](https://guardianproject.info/), that is designed to increase the anonymity of your activities on the Internet.

@@ -10,7 +10,6 @@ System_requirements:
 Admin: true/false
 Alternatives: 
 Comment:
-Required_reading:
 Group: Basic Usage
 Title: Update
 Language: EN

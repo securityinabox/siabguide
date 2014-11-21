@@ -10,7 +10,6 @@ System_requirements:
 Admin: true/false
 Alternatives: 
 Comment:
-Required_reading:
 Group: FAQ 
 Title: FAQ
 Language: EN

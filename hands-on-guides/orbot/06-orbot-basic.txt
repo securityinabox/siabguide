@@ -1,0 +1,96 @@
+Object_type: Tool
+Tool: Orbot
+Platform: Google Android
+Need: Digital Anonymity and Circumvention
+Website: https://guardianproject.info/apps/orbot/
+Download: https://play.google.com/store/apps/details?id=org.torproject.android
+Version: 14.0.4.3
+License: Free/Open Source Software
+System_requirements: Android 2.3 or higher
+Admin: false
+Alternatives: 
+Comment: read 03-orbot-premise before installing and using this tool
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# Start and stop Orbot
+
+## Step 1
+
+**Touch and hold** the grey **Orbot** icon in the centre of the screen until it turns yellow and says *Orbot is starting*.
+
+![Activating Orbot](/sites/siabnext.ttc.io/files/media/orbot-and-014.png) ![](/sites/siabnext.ttc.io/files/media/orbot-and-015.png) 
+
+*Figures 1 and 2: Activating Orbot*
+
+## Step 2
+
+The first time you start **Orbot** a notification will appear to confirm you connected successfully to the **Tor** network. **Tap** ![](/sites/siabnext.ttc.io/files/media/orbot-and-016.png) to see the green **Orbot** indication that **Orbot** is running.
+
+![Orbot finishes connecting](/sites/siabnext.ttc.io/files/media/orbot-and-017.png) ![](/sites/siabnext.ttc.io/files/media/orbot-and-018.png) 
+
+*Figures 3 and 4: Orbot finishes connecting*
+
+**Note:** You will only see the notification screen (Fig. 3) the first time you start **Orbot** after installation.
+
+## Step 3
+
+To disconnect **Orbot** you **touch and hold** the green **Orbot** until it turns grey.  Or if you want to disconnect and quit **Orbot**, **tap** the menu icon (![](/sites/siabnext.ttc.io/files/media/orbot-and-019.png)) in the top right of the screen and select ![](/sites/siabnext.ttc.io/files/media/orbot-and-020.png) .
+
+![Exiting Orbot](/sites/siabnext.ttc.io/files/media/orbot-and-021.png)
+
+*Figures 5: Exiting Orbot*
+
+In order to browse or chat on the internet anonymously, you need to install an app (browser or chat) which can route your communication through a proxy in conjunction with **Orbot**. Please read the related *Hands-on Guides* for using [**Orweb**](/en/Orweb_main) and [**Gibberbot**](/en/gibberbot_main) with **Orbot**.
+
+## Step 4
+
+If at any stage you want to appear to come from a new location, you can get a *new identity* from **Orbot** by **swiping** *left* or *right* on the green **Orbot** image.  The image will briefly spin and then display *You've switched to a new Tor Identity*.
+
+![Getting a new Tor Identity](/sites/siabnext.ttc.io/files/media/orbot-and-022.png)
+
+*Figure 6: Getting a new Tor Identity*
+
+# Configure Orbot to use a Bridge
+
+If **Tor** access is restricted or you wish to disguise the fact that you are using **Tor**, you can configure **Orbot** to use **bridges**.
+
+## Step 1
+
+**Tap** the ![](/sites/siabnext.ttc.io/files/media/orbot-and-023.png) icon at the top of the screen to be brought to the settings screen.
+
+## Step 2
+
+Scroll down to the **bridges** section and check the box next to *Use Bridges*.
+
+![Enabling Bridges](/sites/siabnext.ttc.io/files/media/orbot-and-024.png)
+
+*Figure 7: Enabling Bridges*
+
+## Step 3
+
+**Tap** the *Bridges* section underneath *Use Bridges* to be presented with a screen to enter the *IP address* of the *bridge* you want to use. Once correctly entered, **tap** ![](/sites/siabnext.ttc.io/files/media/orbot-and-025.png). Restart **Orbot** to begin using the *bridge*.
+
+![Adding a bridge](/sites/siabnext.ttc.io/files/media/orbot-and-026.png)
+
+*Figure 8: Adding a bridge*
+
+**Note:** to learn more about how to get bridge addresses see the [Tor Hands on Guide](/en/tor_anonymitynetwork#3.3).
+
+# Configure Orbot to start automatically
+
+To make sure you never forget to start **Orbot** it can be configured to start when you turn on your Android Device.
+
+## Step 1
+
+**Tap** the ![](/sites/siabnext.ttc.io/files/media/orbot-and-023.png) icon at the top of the screen to be brought to the settings screen.
+
+## Step 2
+
+**Check** the *Start Orbot on boot* option at the top of the settings screen.
+
+![Starting Orbot automatically](/sites/siabnext.ttc.io/files/media/orbot-and-027.png)
+
+*Figure 9: Starting Orbot automatically*

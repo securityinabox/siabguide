@@ -10,7 +10,6 @@ System_requirements:
 Admin: true/false
 Alternatives:
 Comment:
-Required_reading:
 Group: Advanced Usage 
 Title: Advanced Howto
 Language: EN

@@ -12,4 +12,8 @@ Mobile Phones | https://securityinabox.org/chapter-10
 Smartphones | https://securityinabox.org/en/chapter-11
 
 KeePass Main | https://securityinabox.org/en/keepass_main
+Tor Main | https://securityinabox.org/tor_main
+
+Glossary | https://securityinabox.org/glossary
+Glossary #Tor | https://securityinabox.org/glossary#Tor
 
