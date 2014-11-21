@@ -10,9 +10,9 @@ System_requirements: Microsoft Windows; GNU/Linux
 Admin: false
 Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
 Comment: read 03-pidgin-premise before installing and using this tool
-Group: Synthesis
-Title: Introduction
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-**Pidgin** is a free and open source client that lets you organize and manage your different **Instant Messaging (IM)** accounts using a single interface. The **Off-the-Record (OTR)** plug-in designed for use with **Pidgin** ensures authenticated and secure communications between **Pidgin** users.
+* How-to Chapter [Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)[Private Communication]

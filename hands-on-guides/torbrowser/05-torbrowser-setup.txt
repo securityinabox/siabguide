@@ -10,7 +10,6 @@ System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [Riseup VPN](https://help.riseup.net/en/riseup-vpn/) -- Virtual Private Network (VPN) proxy server for Linux, MAC, Android and Microsoft Windows; [Psiphon3](http://www.psiphon3.com/) -- Virtual Private Network (VPN) solution for Microsoft Windows and Android OS; [Dynaweb FreeGate](http://www.dit-inc.us/freegate) -- free proxy tool for Microsoft Windows; [Your Freedom](http://www.your-freedom.net/) -- freemium commercial proxy tool for Linux, Mac OS and Microsoft Windows
 Comment: read 03-torbrowser-premise before installing and using this tool
-Required_reading: How-to Booklet Chapter [8. How to remain anonymous and bypass censorship on the Internet](https://securityinabox.org/en/chapter-8)
 Group: Basic Usage
 Title: Configuration
 Language: EN

@@ -10,7 +10,6 @@ System_requirements: Web browser; Internet connection
 Admin: 
 Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
 Comment: This file should only be used in connection with the whole hands-on guide; read 03-youtube-security-premise before using this tool
-Required_reading:  [Protect yourself and your data when using social networking sites](https://siabnext.ttc.io/how-to-guide/social-networking)
 Group: Synthesis
 Title: What you will get from this guide 
 Language: EN

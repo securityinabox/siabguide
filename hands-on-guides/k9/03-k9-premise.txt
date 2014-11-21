@@ -10,7 +10,6 @@ System_requirements:Android 1.5 or higher; APG must be installed before installi
 Admin: false
 Alternatives: 
 Comment:
-Required_reading: How-to Booklet Chapter [7. How to keep your Internet communication private](https://siabnext.ttc.io/how-to-guide/secure-communication); How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet Chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
 Group: Basic Usage 
 Title: Important premise
 Language: EN

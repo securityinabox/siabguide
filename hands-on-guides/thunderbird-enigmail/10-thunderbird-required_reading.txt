@@ -9,13 +9,10 @@ License: Free/Open Source Software
 System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [gpg4usb](https://siabnext.ttc.io/hands-on-guide/gpg4usb-windows) for Windows; [Claws Mail](http://www.claws-mail.org/) for GNU Linux and Microsoft Windows; [Sylpheed](http://sylpheed.sraoss.jp/en/) for GNU Linux Mac OS and Microsoft Windows; [Alpine](http://www.washington.edu/alpine/) for GNU Linux Mac OS and Microsoft Windows
-Comments: This file should only be used in connection with the whole hands-on guide; read 03-thunderbird-premise before installing and using this tool
-Group: Synthesis
-Title: What you will get from this guide 
+Comment: read 03-thunderbird-premise before installing and using this tool
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-* The ability to manage different e-mail accounts through a single program
-* The ability to read and compose messages after disconnecting from the Internet
-* The ability to use public key encryption to keep your email private
-
+* How-to Chapter [Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)[Private Communication]

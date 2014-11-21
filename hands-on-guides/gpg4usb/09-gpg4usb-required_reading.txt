@@ -10,10 +10,11 @@ System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [Thunderbird](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows) for Microsoft Windows, GNU/Linux and MacOS X
 Comment: read 03-gpg4usb-premise before installing and using this tool
-Group: Training 
-Title: Review questions
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-- What is the difference between signing and verifying a public key?
-- What is a fingerprint and how is it used?
+* How-to Chapter [Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)[Private Communication]
+* [Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman), chapter 2.4 Cryptology - Public Key Encryption (page 38)
+

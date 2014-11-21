@@ -10,25 +10,11 @@ System_requirements:Android 1.5 or higher; APG must be installed before installi
 Admin: false
 Alternatives: 
 Comment: read 03-k9-premise before installing and using this tool
-Group: Basic Usage
-Title: Installation
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-# Install K9
-
-## Step 1
-
-**Download** the app from the [Google play store](https://play.google.com/store/apps/details?id=com.fsck.k9)
-
-## Step 2
-
-**Install** the app by tapping the **Install** button
-
-## Step 3
-
-**Confirm** the permissions required by the app and tap **Accept & download**
-
-## Step 4
-
-**Tap** *Open* to run the app for the first time
+* How-to Chapter [How to keep your Internet communication private](https://securityinabox.org/chapter-7)[Private Communication]
+* How-to Chapter [How to use mobile phones as securely as possible](https://securityinabox.org/chapter-10)[Mobile Phones]
+* How-to Chapter [How to use mobile computing devices securely](https://securityinabox.org/en/chapter-11)[Smartphones]

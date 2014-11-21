@@ -10,7 +10,6 @@ System_requirements: Internet connection; Web browser and/or Email client
 Admin:
 Alternatives: 
 Comment: read 03-riseup-premise before using this tool
-Required_reading: How-to Booklet chapter [7. Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)
 Group: Basic Usage 
 Title: Basic Howto
 Language: EN

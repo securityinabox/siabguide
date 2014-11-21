@@ -10,11 +10,9 @@ System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows
 Admin: false
 Alternatives: 
 Comment:
-Group: Training 
-Title: Review questions
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-1. What makes a strong password?
-2. How can you modify an existing password entry in KeePass?
-3. How can you generate a thirty-character password in KeePass?
+* How-to Chapter [How to create and maintain good passwords](https://securityinabox.org/chapter-3)[Secure Passwords]

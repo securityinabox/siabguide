@@ -10,7 +10,6 @@ System_requirements: Android 1.5 or higher
 Admin: false
 Alternatives:
 Comment: read 03-keepassdroid-premise before installing and using this tool
-Required_reading: How-to Booklet chapter [3. How to create and maintain good passwords](https://siabnext.ttc.io/how-to-guide/passwords); Hands-On Guide chapter [KeePass - Secure Password Storage](https://siabnext.ttc.io/hands-on-guide/keepassx-windows)
 Group: Basic Usage 
 Title: Basic Howto
 Language: EN

@@ -2,6 +2,7 @@ url_id | url
 
 Malware | https://securityinabox.org/chapter-1
 Secure Passwords | https://securityinabox.org/chapter-3
+Secure Storage | https://securityinabox.org/chapter-4
 Information Loss | https://securityinabox.org/chapter-5
 Sensitive Information | https://securityinabox.org/chapter-6
 Private Communication | https://securityinabox.org/chapter-7
@@ -9,4 +10,6 @@ Anonymous Browsing | https://securityinabox.org/chapter-8
 Social Networks | https://securityinabox.org/chapter-9
 Mobile Phones | https://securityinabox.org/chapter-10
 Smartphones | https://securityinabox.org/en/chapter-11
+
+KeePass Main | https://securityinabox.org/en/keepass_main
 

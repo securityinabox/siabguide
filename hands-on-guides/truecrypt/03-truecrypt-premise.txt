@@ -10,7 +10,6 @@ System_requirements: Microsoft Windows
 Admin: true
 Alternatives: GNU Linux [Ubuntu](http://www.ubuntu.com/) full-disk encryption; [dm-crypt](http://www.saout.de/misc/dm-crypt/) for GNU Linux; [cryptsetup and LUKS](http://code.google.com/p/cryptsetup/) for GNU Linux; [SD4L - ScramDisk](http://sd4l.sourceforge.net/) for GNU Linux; FileVault for Mac OS; [DiskCryptor](https://diskcryptor.net/wiki/Main_Page) for Microsoft Windows
 Comment: read 03-truecrypt-premise before installing and using this tool
-Required_reading: [Protect the sensitive files on your computer](https://siabnext.ttc.io/how-to-guide/secure-file-storage)
 Group: Basic Usage 
 Title: Important premise
 Language: EN

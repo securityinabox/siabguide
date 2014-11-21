@@ -10,9 +10,10 @@ System_requirements: Android 1.5 or higher
 Admin: false
 Alternatives:
 Comment: read 03-keepassdroid-premise before installing and using this tool
-Group: Synthesis
-Title: Introduction
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-KeePassDroid is a secure and easy-to-use password management tool for your Android device.
+* How-to Chapter [How to create and maintain good passwords](https://securityinabox.org/en/chapter-3)[Secure Passwords]
+* Hands-On Guide Chapter [KeePass - Secure Password Storage](https://securityinabox.org/en/keepass_main)[KeePass Main]

@@ -1,0 +1,18 @@
+Object_type: Tool
+Tool:
+Platform:
+Need:
+Website:
+Download:
+Version:
+License:
+System_requirements:
+Admin:
+Alternatives:
+Comment:
+Group: Required Reading
+Title: Required Reading
+Language: EN
+
+
+

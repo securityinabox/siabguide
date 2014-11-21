@@ -10,7 +10,6 @@ System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [R-Linux](http://www.r-tt.com/data_recovery_linux/) for GNU Linux; [TestDisk and PhotoRec](http://www.cgsecurity.org/) for Mac OS, Microsoft Windows and GNU Linux; [NTFS Undelete](http://ntfsundelete.com/) for Microsoft Windows; [Disk Digger](http://diskdigger.org/) for Microsoft Windows; [PCInspector File Recovery](http://www.pcinspector.de/Default.htm?language=1) for Microsoft Windows; [FileRestorePlus](http://undeleteplus.com/) for Microsoft Windows
 Comment:
-Required_reading: How-to Booklet chapter [5. How to recover from information loss](https://securityinabox.org/chapter-5)
 Group: Basic Usage 
 Title: Important premise
 Language: EN
