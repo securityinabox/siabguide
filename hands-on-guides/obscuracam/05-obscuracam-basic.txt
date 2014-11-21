@@ -10,7 +10,6 @@ System_requirements: Android
 Admin: false
 Alternatives: 
 Comment: read 03-obscuracam-premise before installing and using this tool
-Required_reading: How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet Chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
 Group: Basic Usage 
 Title: Basic Howto
 Language: EN
@@ -97,4 +96,81 @@ To hide your subjects' faces in an existing photo, perform the following steps:
 
 # Change the "blur" mode
 
+There are different modes which you could select in order to blur the face in the picture you want in different ways. 
+**Click** on the center of the green border of the image to see the different options as shown below
 
+![](/sites/siabnext.ttc.io/files/media/obscuracam-and-12.png)
+
+**First option:** If you **click** on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-21.png) your image will look like the following:
+
+![redacted face](/sites/siabnext.ttc.io/files/media/obscuracam-and-13.png)
+
+*Figure 13: A redacted face*
+
+**Second option:** If you **click** on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-22.png) your image will look like the following:
+
+![pixelated face](/sites/siabnext.ttc.io/files/media/obscuracam-and-10.png)
+
+*Figure 14: A pixelated face*
+
+**Third option:** If you **click** on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-23.png), the area **outside** the selection will be pixelated, and your image will look like the following:
+
+![crowdpixelated image](/sites/siabnext.ttc.io/files/media/obscuracam-and-15.png)
+
+*Figure 15: A crowdpixelated image*
+
+**Fourth option:** If you **click** on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-24.png) your image will look like the following:
+
+![masked face](/sites/siabnext.ttc.io/files/media/obscuracam-and-16.png)
+
+*Figure 16: A masked face*
+
+# Share photos
+
+**Note:** Make sure that you remove all metadata from the photos that you are taking with your Android phone before sharing it with anyone. Hiding the identity of the photographed person using **Obscuracam** doesn't remove the metadata which has a lot of details including location, camera specifications, and other information.
+
+You can share the photos you created with **Obscuracam** by following the below steps:
+
+## Step 1
+
+Click on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-26.png) or on *Menu* and then *Share* to open the image sharing options.
+
+![Image sharing options](/sites/siabnext.ttc.io/files/media/obscuracam-and-20.png) ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-19.png)
+
+*Figure 17 and 18: Image sharing options*
+
+## Step 2
+
+Choose the service that you want to use to share the image you want with your network.
+
+# Delete original media
+
+## Step 1
+
+When clicking *Save*, a window will appear asking if you want to delete the original media file. 
+
+![Deletion option](/sites/siabnext.ttc.io/files/media/obscuracam-and-17.png)
+
+*Figure 18: Deletion option*
+
+## Step 2
+
+**Click** on **Yes** if the original media file on your smartphone would put you or other people at risk. 
+
+## Step 3
+
+If you wish to delete a picture from a gallery or photo album, first of all, **select** the image that you want to delete from your gallery or any other image viewer application you are using.
+
+![Menu](/sites/siabnext.ttc.io/files/media/obscuracam-and-18.png)
+
+*Figure 19: Menu*
+
+## Step 4
+
+**Click** on **Delete** as shown below
+
+![delete option](/sites/siabnext.ttc.io/files/media/obscuracam-and-27.png)
+
+*Figure 20: The delete option*
+
+**Note:** In Android 2.2 you might not be able to delete the original media file. In case this happens, connect your Android device with your computer so you can delete the original image.

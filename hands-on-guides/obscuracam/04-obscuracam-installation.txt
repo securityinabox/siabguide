@@ -16,7 +16,6 @@ System_requirements: Android
 Admin: false
 Alternatives: 
 Comment: read 03-obscuracam-premise before installing and using this tool
-Required_reading: How-to Booklet Chapter [10. How to use mobile phones as securely as possible](https://siabnext.ttc.io/how-to-guide/mobile-phones); How-to Booklet Chapter [11. How to use mobile computing devices securely](https://siabnext.ttc.io/how-to-guide/smartphones)
 Group: Basic Usage
 Title: Installation
 Language: EN

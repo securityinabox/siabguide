@@ -10,9 +10,10 @@ System_requirements: Android
 Admin: false
 Alternatives: 
 Comment: read 03-obscuracam-premise before installing and using this tool
-Group: Synthesis
-Title: Introduction
+Group: Required Reading
+Title: Required Reading
 Language: EN
 
 
-**ObscuraCam** is a free camera application for Android devices, created by the [Guardian Project](https://guardianproject.info/), that has the ability to recognize and hide faces. It allows you to blur or delete the faces of those you photograph in order to protect their identities. 
+* How-to Chapter [How to use mobile phones as securely as possible](https://securityinabox.org/chapter-10)[Mobile Phones]
+* How-to Chapter [How to use smartphones as securely as possible](https://securityinabox.org/en/chapter-11)[Smartphones]
