@@ -1,0 +1,30 @@
+Object_type: Tool
+Tool: Orweb
+Platform: Google Android
+Need: Anonymity and Circumvention
+Website: https://guardianproject.info/apps/orweb/
+Download: https://play.google.com/store/apps/details?id=info.guardianproject.browser&hl=en
+Version: 0.6.1
+License: Free/Open Source Software
+System_requirements: Android 1.6 or higher; Orbot pre-installed
+Admin: false
+Alternatives: 
+Comment:
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+# Introduction to Orweb
+
+**Note:** There is a [bug](http://xordern.net/ip-leakage-of-mobile-tor-browsers.html) in the current version of **Orweb** (0.6.1 and older) that may leak information about you, such as your IP address, to the website owners if you are viewing HTML5 based videos.  **Orweb** will still allow you to circumvent censorship and prevent you from being spied on by your *Internet Service Provider* (ISP) but we do not recommend it to be used to view sites that may be considered hostile. For more information on the issue see the developers' [response](https://guardianproject.info/2014/06/30/recent-news-on-orweb-flaws/).
+
+**Orweb** will only work properly after installing and configuring [**Orbot**](/en/Orbot_main).
+
+Remember, if you previously created a mail or blog without using **Orweb**, the site will still know your real location even if you return using **Orweb**.
+
+If you want stronger anonymity while using **Orweb** other steps need to be taken including:
+
+- never access accounts made in your real name
+- never give your personal data
+- never do the same things that you do when not trying to be anonymous.
