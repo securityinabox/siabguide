@@ -1,78 +1,83 @@
 Object_type: Tool
 Tool: avast!
 Platform: Microsoft Windows
-Need: anti-virus
+Need: Anti-malware
 Website: http://www.avast.com/
-Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Download: http://www.avast.com/index#upgrade
 Version: 10.0
 License: Free Proprietary Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
+Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
 Comment: read 03-avast-premise before installing and using this tool
 Group: Basic Usage 
 Title: Update
 Language: EN
 
 
-# How to Manually Update avast!
+# Update avast!
 
-**avast!** runs silently in the background on your computer, automatically downloading and updating its virus definitions every time you connect to the Internet. However, in situations where your internet access is discontinuous, restricted or temporary in some way, performing a manual update may be necessary.
+*avast!* runs silently in the background, automatically updating its malware definitions whenever you are connected to the Internet. However, you might want to request a manual update if, for example, you have been without an Internet connection for a while. There are two ways to do this:
 
-There are two ways of updating **avast!** manually: The first is through the **avast!** main user interface, and the second is through a pop-up menu that appears whenever you right click the **avast!** icon located in the *System Tray*.
+1. Using the main *avast!* screen
+2. Using the pop-up menu that appears when you right click the *avast!* icon in the *System Tray*. 
 
-**Note**: it is advisable **not* to disable automatically download updates unless necessary.
+We recommend that you avoid disabling automatic updates unless absolutely necessary.
 
-## How to Use the Main Screen to Manually Update avast!
+## Step 1
 
-### Step 1
+![Avast img 33](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.050.png)[Avast img 33]
 
-**Click** ![](https://securityinabox.org/sbox/screen/avast-en-1/22.png) to activate the **avast!** main user interface.
+The steps below will help you carry out a manual update of avast! using its main screen.
 
-### Step 2
+1. Click the *Settings* tab
 
-**Click** ![Settings](https://securityinabox.org/sbox/screen/avast-en-1/18.png) and then ![Update](https://securityinabox.org/sbox/screen/avast-en-1/20.png) to activate the following screen and display the Program and Virus Definitions versions:
+## Step 2
 
-![The Update window](https://securityinabox.org/sbox/screen/avast-en-1/24.png)
+![Avast img 34](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.051.png)[Avast img 34]
 
-*Figure 1: The Update window*
+1. Click the *Update* tab
+* *avast!* is configured to update itself automatically, but you can follow the steps shown here if, for example, you have been offline for awhile and want to make *certain* that avast! is up-to-date.
+2. Click *Update*
 
-### Step 3
+## Step 3
 
-**Click** ![Update](https://securityinabox.org/sbox/screen/avast-en-1/25.png) to update the *Program version* as follows:
+![Avast img 34](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.052.png)[Avast img 34]
 
-![Update the program](https://securityinabox.org/sbox/screen/avast-en-1/27.png)
+1. The progress bar will track the installation of new malware definitions
 
-*Figure 2: Update the program*
+## Step 4
 
-### Step 4
+![Avast img 35](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.053.png)[Avast img 35]
 
-**Click** ![Update](https://securityinabox.org/sbox/screen/avast-en-1/25.png) to update the Virus Definition as following:
+1. When *avast!* says it is up-to-date, click *OK*
 
-![Updating the Virus Definition](https://securityinabox.org/sbox/screen/avast-en-1/26.png)
+## Step 5
 
-*Figure 3: Updating the Virus Definition*
+![Avast img 36](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.054.png)[Avast img 36]
 
-![You Are Protected](https://securityinabox.org/sbox/screen/avast-en-1/23.png)
+1. To update the *avast!* software itself—rather than just the list of malware that it knows about—click the lower *Update* button in the *Program* pane.
 
-*Figure 4: You Are Protected Status*
+## Step 6
 
-## How to Use the Pop-up Menu to Manually Update avast!
+![Avast img 37](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.055.png)[Avast img 37]
 
-The **avast!** program upgrade and virus definition updates can be performed through the **avast!** pop-up menu. The pop-up menu can be used to directly access the *UPDATE* screen as shown in *figure 2*.
+1. The progress bar will track the installation of updates for the *avast!* software itself
 
-### Step 1
+## Step 7
 
-**Right click** ![](https://securityinabox.org/sbox/screen/avast-en-1/22.png) in the *System Tray* to activate the following pop-up menu:
+![Avast img 38](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.056.png)[Avast img 38]
 
-![The avast! pop-up menu](https://securityinabox.org/sbox/screen/avast-en-1/28.png)
+1. When Avast is done updating its software, click *OK* in the *Program* pane
+2. Click *OK*
 
-*Figure 5: The avast! pop-up menu*
+## Step 8
 
-### Step 2
+You can also update *avast!* by right-clicking its system tray icon
 
-**Select** *Update > Engine and virus definitions* to activate *Figure 3* in **step 3** above.
+![Avast img 39](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.073.png)[Avast img 39]
 
-### Step 3
-
-**Select** *Update > Program* to activate *Figure 4* in **step 3** above.
+1. Right click the *avast!* icon in the *Windows* system tray
+2. Click *Update*
+3. Click *Engine and virus definitions* to update the list of malware that *avast!* can detect and remove
+4. Click *Program* to update the *avast!* software itself.

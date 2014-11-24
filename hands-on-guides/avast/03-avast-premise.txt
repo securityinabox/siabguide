@@ -1,14 +1,15 @@
 Object_type: Tool
 Tool: avast!
 Platform: Microsoft Windows
-Need: anti-virus
+Need: Anti-malware
 Website: http://www.avast.com/
-Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Download: http://www.avast.com/index#upgrade
 Version: 10.0
 License: Free Proprietary Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
+Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
+Comment:
 Comment:
 Group: Basic Usage 
 Title: Important premise
@@ -17,10 +18,10 @@ Language: EN
 
 # Things you should know about avast! before you start
 
-Computer viruses are malicious programs that can destroy files, spy on your activity, slow your computer down and use your address book to locate and infect other computers. **avast!** can protect your system against viruses that might infect your computer through downloads from the Internet, email attachments, or transfers from removable media (CDs, DVDs, floppy disks, USB memory sticks, etc).
+Computer viruses are malicious programs that can destroy files, slow your computer down and use your address book to locate and infect other computers. **avast!** can protect your system against viruses that might infect your computer through downloads from the Internet, email attachments, or transfers from removable media (CDs, DVDs, floppy disks, USB memory sticks, etc).
 
-* Make sure that you do not have two anti-virus programs installed and running at the same time. If you are currently using a different program and you want to switch to **avast!**, you must first uninstall the other anti-virus program before installing **avast!**.
+- Make sure that you do not have two anti-virus programs installed and running at the same time. If you are currently using a different program and you want to switch to **avast!**, you must first uninstall the other anti-virus program before installing **avast!**.
 
-* New malware and viruses are being developed all the time. The **avast!** database and program itself must be kept up-to-date to effectively protect your computer.
+- New anti-malware and viruses are being developed all the time. The **avast!** database must be kept up-to-date to effectively protect your computer.
 
-* Among the more insidious viruses are those which can actually prevent the installation or running of **avast!**, and/or viruses that **avast!** can fail to detect and delete. In these kinds of situations, fairly advanced methods are required, and some of those are discussed in section [**4.9 Advanced Virus Removal Methods**](https://securityinabox.org/en/dealingwithviruses#4.9). 
+- Among the more insidious viruses are those which can actually prevent the installation of **avast!**, and/or viruses that **avast!** can fail to detect and delete. In these kinds of situations, fairly advanced methods are required, and some of those are discussed toward the end of this guide.

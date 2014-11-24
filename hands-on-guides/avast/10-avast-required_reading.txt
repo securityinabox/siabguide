@@ -1,0 +1,18 @@
+Object_type: Tool
+Tool: avast!
+Platform: Microsoft Windows
+Need: anti-virus
+Website: http://www.avast.com/
+Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Version: 10.0
+License: Free Proprietary Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
+Comment: read 03-avast-premise before installing and using this tool
+Group: Required Reading
+Title: Required Reading
+Language: EN
+
+
+* How-to Chapter [Protecting your Computer from Viruses, Malware and Hackers](https://securityinabox.org/chapter-1)[Malware]

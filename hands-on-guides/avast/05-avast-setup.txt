@@ -1,64 +1,206 @@
 Object_type: Tool
 Tool: avast!
 Platform: Microsoft Windows
-Need: anti-virus
+Need: Anti-malware
 Website: http://www.avast.com/
-Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Download: http://www.avast.com/index#upgrade
 Version: 10.0
 License: Free Proprietary Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
+Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
 Comment: read 03-avast-premise before installing and using this tool
 Group: Basic Usage
 Title: Configuration
 Language: EN
 
 
-# Customised Settings
+# Configure avast! (optional)
 
-Once avast! is installed and running on your computer, the following settings can be configured as required.
+We recommend changing a few of Avast's default settings. The steps below will help you: 
 
-## SSL Scanning of Email Connections
-
-By default, **avast!** *Mail Shield* tool will scan all email including SSL/TLS encrypted connections. This can can cause issues for some email clients such as **Thunderbird**. SSL scanning of email connections can be disabled to prevent **avast!** interfering with email clients.
-
-### Step 1
-
-**Click** ![Settings](https://securityinabox.org/sbox/screen/avast-en-1/18.png) from the left hand column of the !avast home screen
-
-### Step 2
-
-**Click** ![Active Protection](https://securityinabox.org/sbox/screen/avast-en-1/29.png) and **select** *Mail Shield* and *Customize* as shown below.
-
-![Mail Shield - Customise](https://securityinabox.org/sbox/screen/avast-en-1/30.png)
-
-*Figure 14: Mail Shield - Customise*
-
-### Step 3
-
-**Click** ![SSL scanning](https://securityinabox.org/sbox/screen/avast-en-1/31.png) and **unselect** *SSL Scanning* as shown below.
-
-![SSL Scanning option](https://securityinabox.org/sbox/screen/avast-en-1/32.png)
-
-*Figure 15: SSL Scanning option*
-
-## Disable voiceover sounds
-
-By default, **avast!** will enable 'Voiceover' sounds where available. This can be disabled by following the steps below.
+* Reduce the amount of information that your computer sends to the company that makes *avast!*
+* Disable a handful of unusual features that go beyond core anti-malware functionality
+* Enable a few additional *avast!* privacy features
 
 ### Step 1
 
-**Click** ![Settings](https://securityinabox.org/sbox/screen/avast-en-1/18.png) from the left hand column of the !avast home screen
+![Avast img 49](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.066.png)[Avast img 49]
+
+1. Click the *Settings* tab
 
 ### Step 2
 
-**Click** ![General](https://securityinabox.org/sbox/screen/avast-en-1/33.png) and **select** the *Sound* settings arrow as highlighted below.
+![Avast img 50](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.067.png)[Avast img 50]
 
-![Sound settings](https://securityinabox.org/sbox/screen/avast-en-1/34.png)
-
-*Figure 16: Sound settings*
+1. Uncheck the box next to *Participate in the Avast community*
+2. Click *OK*
 
 ### Step 3
 
-**Unselect** *Use voiceover sounds (where available)* as shown above.
+By default, Avast's *Mail Shield* will scan all email, including messages sent or received through an encrypted connection. This can can cause issues for mail clients like **Thunderbird**. The following steps will help you disable the scanning of encrypted email connections to prevent **avast!** from interfering with your mail client.
+
+![Avast img 51](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.068.png)[Avast img 51]
+
+1. Click *Settings*
+
+### Step 4
+
+![Avast img 52](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.069.png)[Avast img 52]
+
+1. Click *Active protection*
+2. Click the *Customize* link next to *Mail Shield*
+
+### Step 5
+
+![Avast img 53](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.070.png)[Avast img 53]
+
+1. Click *SSL Scanning*
+2. **Uncheck** the box next to *Scan SSL Connections*
+
+### Step 6
+
+The following Step will prevent *avast!* from adding text to your outgoing emails.
+
+![Avast img 54](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.072.png)[Avast img 54]
+
+1. Click *Behaviour*
+2. **Uncheck** the box next to *Insert note into clean message (outgoing)*
+3. Click *OK*
+
+## Configure the Avast extension for Mozilla Firefox
+
+If you had the *Mozilla Firefox* browser on your computer when you installed *avast!*, the installer will have loaded a browser-specific extension. The following steps will help you configure that extension and improve its privacy.
+
+### Step 1 (Firefox)
+
+![Avast img 55](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.034.png)[Avast img 55]
+
+* Launch *Mozilla Firefox*
+1. Check the *Allow this installation* box
+2. Click *Continue*
+
+### Step 2 (Firefox)
+
+![Avast img 56](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.035.png)[Avast img 56]
+
+1. The *avast!* extension may be disabled on your browser's homepage. In order to configure it, you must visit an actual website
+
+### Step 3 (Firefox)
+
+![Avast img 57](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.036.png)[Avast img 57]
+
+1. Go to any website.
+2. Click the *avast!* button
+3. Click *Settings*
+
+### Step 4 (Firefox)
+
+![Avast img 58](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.037.png)[Avast img 58]
+
+1. Check the box next to *Do not track*
+* Scroll down, if necessary, to see additional configuration options
+
+### Step 5 (Firefox)
+
+![Avast img 59](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.038.png)[Avast img 59]
+
+1. **Uncheck** the box next to *SiteCorrect*
+2. **Uncheck** the box next to *Statistics*
+3. **Uncheck** the box next to *Search engine results*
+4. **Uncheck** the box next to *SafePrice*
+5. Click *Save*
+
+### Step 6 (Firefox)
+
+![Avast img 60](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.039.png)[Avast img 60]
+
+1. Click the *X* in the upper, right-hand corner of the *avast!* window.
+
+## Configure the Avast extension for Google Chrome
+
+If you had the *Google Chrome* browser on your computer when you installed *avast!*, the installer will have loaded a browser-specific extension. The following steps will help you configure that extension and improve its privacy.
+
+### Step 1 (Chrome)
+
+![Avast img 61](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.040.png)[Avast img 61]
+
+* Launch *Google Chrome*.
+1. Click *Enable extension*
+
+### Step 2 (Chrome)
+
+![Avast img 62](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.041.png)[Avast img 62]
+
+1. If the *avast!* button is disabled, go to an actual webpage
+2. Click the *avast!* button
+3. Click *Settings*
+
+### Step 3 (Chrome)
+
+![Avast img 63](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.042.png)[Avast img 63]
+
+1. Check the box next to *Do not track*
+* Scroll down, if necessary, to see additional configuration options
+
+### Step 4 (Chrome)
+
+![Avast img 64](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.043.png)[Avast img 64]
+
+1. **Uncheck** the box next to *SiteCorrect*
+2. **Uncheck** the box next to *Statistics*
+3. **Uncheck** the box next to *Search engine results*
+4. Click *Save*
+
+### Step 5 (Chrome)
+
+![Avast img 65](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.044.png)[Avast img 65]
+
+1. Click the *X* in the upper, right-hand corner
+
+## Configure the Avast extension for Microsoft Internet Explorer
+
+When you installed *avast!*, the installer will have added a browser-specific extension for Microsoft Internet Explorer. The following steps will help you configure that extension and improve its privacy.
+
+### Step 1 (Internet Explorer)
+
+![Avast img 66](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.045.png)[Avast img 66]
+
+* Launch *Microsoft Internet Explorer*.
+1. Click *Choose add-ons*
+
+### Step 2 (Internet Explorer)
+
+![Avast img 67](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.046.png)[Avast img 67]
+
+1. Click the *Enable* button next to *avast! Online Security*
+2. Click *Done*
+
+### Step 3 (Internet Explorer)
+
+![Avast img 68](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.047.png)[Avast img 68]
+
+1. Click the *avast!* button
+
+### Step 4 (Internet Explorer)
+
+![Avast img 69](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.048.png)[Avast img 69]
+
+1. Click *Settings*
+
+### Step 5 (Internet Explorer)
+
+![Avast img 70](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.049.png)[Avast img 70]
+
+1. **Uncheck** the box next to *Statistics*
+2. Check the box next to *Do not track*
+* Scroll down, if necessary, to see additional configuration options
+
+### Step 6 (Internet Explorer)
+
+![Avast img 71](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.065.png)[Avast img 71]
+
+1. **Uncheck** the box next to *SafePrice*
+2. **Uncheck** the box next to *Search engine results*
+3. **Uncheck** the box next to *SiteCorrect*
+4. Click *Save*

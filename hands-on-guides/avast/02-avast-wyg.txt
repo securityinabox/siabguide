@@ -1,21 +1,21 @@
 Object_type: Tool
 Tool: avast!
 Platform: Microsoft Windows
-Need: anti-virus
+Need: Anti-malware
 Website: http://www.avast.com/
-Download: http://files.avast.com/iavs9x/avast_free_antivirus_setup.exe
+Download: http://www.avast.com/index#upgrade
 Version: 10.0
 License: Free Proprietary Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [Avira Free Antivirus](https://www.avira.com/en/avira-free-antivirus) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
+Alternatives: [Avira AntiVir Personal Edition](http://www.free-av.com/) for Microsoft Windows; [AVG Anti-Virus Free](http://free.avg.com/) for Microsoft Windows; Bitdefender [Antivirus Free Edition](http://www.bitdefender.com/solutions/free.html)
 Comment: This file should only be used in connection with the whole hands-on guide; read 03-avast-premise before installing and using this tool
 Group: Synthesis
 Title: What you will get from this guide 
 Language: EN
 
 
-* The ability to scan for and remove viruses from your computer
-* The ability to protect your computer from new virus infections
-* The ability to receive free program version and virus definition updates from the Internet
+* The ability to scan for and remove malware from your computer
+* The ability to protect your computer from new malware infections
+* The ability to update both *avast!* itself and the list of malware that it can detect and remove
 

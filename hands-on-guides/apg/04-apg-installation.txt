@@ -33,4 +33,4 @@ Download** the app from the [Google Play](https://play.google.com/store/apps/det
 
 **Tap** *Open* to run the app for the first time.
 
-There are no further initial steps needed for file encryption with a password. If you want to use **AGP in combination with the k9 email client**, please go to the [**K9+APG Hands on Guide**](/en/k9_apg_main).
+There are no further initial steps needed for file encryption with a password. If you want to use **AGP in combination with the k9 email client**, please go to the [**K9+APG Hands on Guide**](https://securityinabox.org/en/k9_apg_main)[K9 Main].

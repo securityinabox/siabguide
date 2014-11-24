@@ -19,7 +19,7 @@ Language: EN
 
 ## Step 1
 
-After opening **APG**, **press** ![](/sites/siabnext.ttc.io/files/media/apg-and-01.png).
+After opening **APG**, **press** ![](https://securityinabox.org/sbox/screen/apg-en/01.png)[APG img 01].
 
 ## Step 2
 
@@ -35,13 +35,13 @@ In the lower part of the window you can choose between two encryption methods: P
 
 ## Step 5
 
-**Type** a passphrase and repeat it. For secure passphrases, see How-to Booklet Chapter [**3. How to create and maintain secure passwords**](/en/chapter-3).
+**Type** a passphrase and repeat it. For secure passphrases, see How-to Booklet Chapter [**3. How to create and maintain secure passwords**](https://securityinabox.org/chapter-3)[Secure Passwords].
 
 ## Step 6
 
 **Press** *Encrypt*
 
-![Encryption options](/sites/siabnext.ttc.io/files/media/apg-and-02.png)
+![Encryption options](https://securityinabox.org/sbox/screen/apg-en/02.png)[APG img 02]
 
 *Figure 1: Encryption options*
 
@@ -49,7 +49,7 @@ In the lower part of the window you can choose between two encryption methods: P
 
 The next window will ask you to give a name to the encrypted file. If you press *OK* with out making any other changes; then the encrypted file is saved in the **APG** folder with the original file name and a ".gpg" extension. **Important:** if you change the name of the file, make sure it ends with ".gpg"
 
-![Select file name](/sites/siabnext.ttc.io/files/media/apg-and-03.png)
+![Select file name](https://securityinabox.org/sbox/screen/apg-en/03.png)[APG img 03]
 
 *Figure 2: Select file name*
 
@@ -59,13 +59,13 @@ The device will begin to encrypt the selected file. Depending on the size of the
 
 ## Step 9
 
-To **decrypt**, **press** ![](/sites/siabnext.ttc.io/files/media/apg-and-04.png)
+To **decrypt**, **press** ![](https://securityinabox.org/sbox/screen/apg-en/04.png)
 
 ## Step 10
 
 **Choose** which file to decrypt. You may wish to choose *delete after decryption* if you want the original, unencrypted file to be deleted.
 
-![Choose file to decrypt](/sites/siabnext.ttc.io/files/media/apg-and-05.png)
+![Choose file to decrypt](https://securityinabox.org/sbox/screen/apg-en/05.png)[APG img 05]
 
 *Figure 3: Choose file to decrypt*
 
@@ -73,7 +73,7 @@ To **decrypt**, **press** ![](/sites/siabnext.ttc.io/files/media/apg-and-04.png)
 
 A window will appear asking for your passphrase: **type** it in as prompted.
 
-![Enter passphrase](/sites/siabnext.ttc.io/files/media/apg-and-06.png)
+![Enter passphrase](https://securityinabox.org/sbox/screen/apg-en/06.png)[APG img 06]
 
 *Figure 4: Enter passphrase*
 
@@ -81,7 +81,7 @@ A window will appear asking for your passphrase: **type** it in as prompted.
 
 Another window will ask where to store the decrypted file and under which name. The default is again the **APG** folder.
 
-![Select a name for the decrypted file](/sites/siabnext.ttc.io/files/media/apg-and-07.png)
+![Select a name for the decrypted file](https://securityinabox.org/sbox/screen/apg-en/07.png)[APG img 07]
 
 *Figure 5: Select a name for the decrypted file*
 

@@ -17,5 +17,5 @@ Language: EN
 
 # Introduction to APG
 
-- **APG** integrates with the k9 Email client for android and makes email encryption a smooth affair. But first, you need to know how email encryption works. This is explained in Chapter [**7.4.Advanced Email Security**](https://siabdev.ngoinabox.org/en/chapter_7_4).
+- **APG** integrates with the k9 Email client for android and makes email encryption a smooth affair. But first, you need to know how email encryption works. This is explained in Chapter [**7.4.Advanced Email Security**](https://securityinabox.org/chapter_7_4)[Advanced Email].
 - **APG** can also be used to encrypt and decrypt files locally on your device with either a passphrase or public/private keypair.
