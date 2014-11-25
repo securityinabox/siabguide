@@ -21,7 +21,7 @@ Language: EN
 
 ***Q***: If I copy CCleaner to a USB memory stick, can I use it on a computer in an Internet café to erase traces of my work there? Is there any reason I cannot use it this way?
 
-***A***: Yes! There is a [portable version of **CCleaner**](/en/ccleaner_portable). If the Internet café you are working at lets you run programs from a USB memory stick, then yes, you can use the portable version of **CCleaner** to erase traces of your having worked there. However, do keep in mind that you could be monitored at the Internet café. Also, you may run the risk of infection by connecting your USB memory stick to the computer at the Internet café.
+***A***: Yes! There is a [portable version of **CCleaner**](https://securityinabox.org/ccleaner_portable)[CCleaner Portable]. If the Internet café you are working at lets you run programs from a USB memory stick, then yes, you can use the portable version of **CCleaner** to erase traces of your having worked there. However, do keep in mind that you could be monitored at the Internet café. Also, you may run the risk of infection by connecting your USB memory stick to the computer at the Internet café.
 
 ***Q***: If I only use one pass of CCleaner, will it be possible for somebody to recover my data? What about if I use 7 passes?
 

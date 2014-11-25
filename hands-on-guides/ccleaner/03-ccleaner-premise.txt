@@ -17,7 +17,7 @@ Language: EN
 
 The default settings on your computer system or an Internet browser automatically collect and create a data trail that a knowledgeable hostile or malicious party can follow. Every time you use an Internet browser or word processor, or program, temporary data and files are generated and stored on your computer system. It could also generate lists of recently viewed documents or web pages. For example, whenever you type a web address into your Internet browser, a list of those addresses beginning with that/those letter(s) may be displayed as follows:
 
-![browser address bar with different URLs](/sites/siabnext.ttc.io/files/media/ccleaner-win-00.png)
+![browser address bar with different URLs](https://securityinabox.org/sbox/screen/ccleaner-en-1/00.png)
 
 *Figure 1: An Internet browser address bar displaying different URLs.*
 

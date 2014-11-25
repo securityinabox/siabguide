@@ -17,7 +17,7 @@ Language: EN
 
 # Install CCleaner
 
-As described in detail in the **How-to Booklet** chapter [**6. How to Destroy Sensitive Information**](/chapter-6), the **Microsoft Windows** standard file deletion methods do not erase the actual data from the disk (even when you have emptied the *Recycle Bin*). This also applies to temporary files. To delete them permanently (that is, to *wipe* them) from the hard disk, the files must be overwritten with random data. **CCleaner** must be configured to overwrite any deleted files in order to securely delete them, as it will not do so in default mode. **CCleaner** can also securely delete old information by wiping any free disk space  (please refer to section **5.3 How to Wipe Free Disk Space Using CCleaner**).
+As described in detail in the **How-to Booklet** chapter [**How to Destroy Sensitive Information**](https://securityinabox.org/chapter-6)[Sensitive Information], the **Microsoft Windows** standard file deletion methods do not erase the actual data from the disk (even when you have emptied the *Recycle Bin*). This also applies to temporary files. To delete them permanently (that is, to *wipe* them) from the hard disk, the files must be overwritten with random data. **CCleaner** must be configured to overwrite any deleted files in order to securely delete them, as it will not do so in default mode. **CCleaner** can also securely delete old information by wiping any free disk space  (please refer to section **5.3 How to Wipe Free Disk Space Using CCleaner**).
 
 ## Install CCleaner
 
@@ -25,18 +25,18 @@ Installing **CCleaner** is a relatively easy and quick procedure. To begin insta
 
 ### Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-01.png) to begin the installation process. The *Warning* dialog box may appear. If it does, **click** 
-![](/sites/siabnext.ttc.io/files/media/ccleaner-win-25.png) to activate the following screen:
+**Double click** ![ccsetup416_slim.exe](https://securityinabox.org/sbox/screen/ccleaner-en-1/01.png)[Ccleaner img 02] to begin the installation process. The *Warning* dialog box may appear. If it does, **click** 
+![Yes](https://securityinabox.org/sbox/screen/ccleaner-en-1/25.png)[Ccleaner img 03] to activate the following screen:
 
-![Welcome to the CCleaner v4.03 Setup window](/sites/siabnext.ttc.io/files/media/ccleaner-win-03.png)
+![Welcome to the CCleaner v4.03 Setup window](https://securityinabox.org/sbox/screen/ccleaner-en-1/03.png)[Ccleaner img 04]
 
 *Figure 1: Welcome to the CCleaner v4.03 Setup window*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-05.png) to activate the *Install Options - Select any additional options* window, and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-05.png) again to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/ccleaner-en-1/05.png)[Ccleaner img 05] to activate the *Install Options - Select any additional options* window, and then **click** ![Next](https://securityinabox.org/sbox/screen/ccleaner-en-1/05.png)[Ccleaner img 05] again to activate the following screen:
 
-![untitled Install Google Chrome as my default browser window](/sites/siabnext.ttc.io/files/media/ccleaner-win-07.png)
+![untitled Install Google Chrome as my default browser window](https://securityinabox.org/sbox/screen/ccleaner-en-1/07.png)[Ccleaner img 06]
 
 *Figure 2: The untitled Install Google Chrome as my default browser window*
 
@@ -46,20 +46,20 @@ Installing **CCleaner** is a relatively easy and quick procedure. To begin insta
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-08.png) to activate the *Installing* screen, displaying its installation progress status bar.
+**Click** ![Install](https://securityinabox.org/sbox/screen/ccleaner-en-1/08.png)[Ccleaner img 07] to activate the *Installing* screen, displaying its installation progress status bar.
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-09.png) to complete installing **CCleaner**, and activate the following pop-up message:
+**Click** ![Finish](https://securityinabox.org/sbox/screen/ccleaner-en-1/09.png)[Ccleaner img 08] to complete installing **CCleaner**, and activate the following pop-up message:
 
-![CCleaner Intelligent Cookie Scan pop-up message](/sites/siabnext.ttc.io/files/media/ccleaner-win-10.png)
+![CCleaner Intelligent Cookie Scan pop-up message](https://securityinabox.org/sbox/screen/ccleaner-en-1/10.png)[Ccleaner img 09]
 
 *Figure 3: The CCleaner Intelligent Cookie Scan pop-up message*
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-11.png) to avoid storing cookies permanently on your computer, and activate the **CCleaner** main console.
+**Click** ![No](https://securityinabox.org/sbox/screen/ccleaner-en-1/11.png)[Ccleaner img 10] to avoid storing cookies permanently on your computer, and activate the **CCleaner** main console.
 
-![Piriform CCleaner main console](/sites/siabnext.ttc.io/files/media/ccleaner-win-12.png)
+![Piriform CCleaner main console](https://securityinabox.org/sbox/screen/ccleaner-en-1/12.png)[Ccleaner img 11]
 
 *Figure 4: The Piriform CCleaner main console*

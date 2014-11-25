@@ -31,13 +31,13 @@ To begin uninstalling obsolete programs, perform the following steps:
 
 ### Step 1
 
-Either **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-13.png) or **select Start > Programs > CCleaner** to activate the *Piriform CCleaner* console.
+Either **click** ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/13.png)[Ccleaner img 12] or **select Start > Programs > CCleaner** to activate the *Piriform CCleaner* console.
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-50.png) and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-51.png) to activate the following screen:
+**Click** ![Tools](https://securityinabox.org/sbox/screen/ccleaner-en-1/50.png)[Ccleaner img 49] and then **click** ![Uninstall](https://securityinabox.org/sbox/screen/ccleaner-en-1/51.png)[Ccleaner img 50] to activate the following screen:
 
-![Tools option displaying Uninstall pane](/sites/siabnext.ttc.io/files/media/ccleaner-win-52.png)
+![Tools option displaying Uninstall pane](https://securityinabox.org/sbox/screen/ccleaner-en-1/52.png)[Ccleaner img 51]
 
 *Figure 1: The Tools option displaying the Uninstall pane*
 
@@ -45,13 +45,13 @@ Either **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-13.png) or 
 
 ### Step 3
 
-**Select** a program from the *Programs to Remove* list, and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-53.png) to uninstall the selected program.
+**Select** a program from the *Programs to Remove* list, and then **click** ![Uninstall](https://securityinabox.org/sbox/screen/ccleaner-en-1/53.png)[Ccleaner img 52] to uninstall the selected program.
 
 **Tip**: Advanced or experienced users will find the *Rename* and *Delete* features useful in keeping the existence of certain software private. Either feature ensures only you know about the existence of this program, keeping it safe from hostile or malicious parties which may list installed programs.
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-54.png) to rename that program. Alternatively, **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-55.png) to delete a program from that list, but *without* actually uninstalling it.
+**Click** ![Rename](https://securityinabox.org/sbox/screen/ccleaner-en-1/54.png)[Ccleaner img 53] to rename that program. Alternatively, **click** ![Delete](https://securityinabox.org/sbox/screen/ccleaner-en-1/55.png)[Ccleaner img 54] to delete a program from that list, but *without* actually uninstalling it.
 
 ## How to Disable Auto-Start Programs in CCleaner
 
@@ -59,15 +59,15 @@ An auto-start program is configured to automatically start itself whenever you t
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-50.png) and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-56.png) to activate the following screen:
+**Click** ![Tools](https://securityinabox.org/sbox/screen/ccleaner-en-1/50.png)[Ccleaner img 49] and then **click** ![Startup](https://securityinabox.org/sbox/screen/ccleaner-en-1/56.png)[Ccleaner img 55] to activate the following screen:
 
-![Tools option with Startup pane](/sites/siabnext.ttc.io/files/media/ccleaner-win-57.png) 
+![Tools option with Startup pane](https://securityinabox.org/sbox/screen/ccleaner-en-1/57.png)[Ccleaner img 56]
 
-*Figure 2: The Tools option displaying the Startup pane*
+*Figure 2: Tools option - Startup pane*
 
 ### Step 3
 
-**Select** a program from those listed in the *Startup* pane and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-58.png) to disable the program so it does not automatically start running when you turn on your computer.
+**Select** a program from those listed in the *Startup* pane and then **click** ![Disable](https://securityinabox.org/sbox/screen/ccleaner-en-1/58.png)[Ccleaner img 57] to disable the program so it does not automatically start running when you turn on your computer.
 
 ## How to Wipe Free Disk Space Using CCleaner
 
@@ -81,22 +81,22 @@ To set the drive you would like to wipe, perform the following steps:
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-61.png) and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-62.png) to activate the *Drive Wiper* pane. 
+**Click** ![Tools](https://securityinabox.org/sbox/screen/ccleaner-en-1/61.png)[Ccleaner img 58] and then **click** ![Drive Wiper](https://securityinabox.org/sbox/screen/ccleaner-en-1/62.png)[Ccleaner img 59] to activate the *Drive Wiper* pane. 
 
 ### Step 2
 
-**Click** the *Wipe* ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-04.png) to activate its drop-down list, and then **select**  either the *Free Space* or the *Entire drive (All data will be erased)* item, and then **select** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-59.png) from the *Security* drop-down list.
+**Click** the *Wipe* ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/04.png)[Ccleaner img 60] to activate its drop-down list, and then **select**  either the *Free Space* or the *Entire drive (All data will be erased)* item, and then **select** ![Advanced Overwrite](https://securityinabox.org/sbox/screen/ccleaner-en-1/59.png)[Ccleaner img 61] from the *Security* drop-down list.
 
 **Warning**: Only select the *Entire drive (All data will be erased)* item if you are *completely* certain that you want your documents, files and folders *and* free space erased.
 
 ### Step 3
 
-**Click** the check box associated with the drive to be erased, and enable the ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-64.png); your window should now resemble the following:
+**Click** the check box associated with the drive to be erased, and enable the ![Wipe](https://securityinabox.org/sbox/screen/ccleaner-en-1/64.png)[Ccleaner img 62]; your window should now resemble the following:
 
-![](/sites/siabnext.ttc.io/files/media/ccleaner-win-65.png)
+![Drive Wiper pane with the relevant options enabled](https://securityinabox.org/sbox/screen/ccleaner-en-1/65.png)[Ccleaner img 63]
 
 *Figure 3: The Drive Wiper pane with the relevant options enabled*
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-64.png) to begin wiping your selected drive(s).
+**Click** ![Wipe](https://securityinabox.org/sbox/screen/ccleaner-en-1/64.png)[Ccleaner img 62] to begin wiping your selected drive(s).

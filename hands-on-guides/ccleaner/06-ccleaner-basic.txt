@@ -22,19 +22,19 @@ created by **Microsoft Windows** and most applications that you use on your comp
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-13.png) or **select  Start > Programs > CCleaner** to activate the **CCleaner** console. 
+**Click** ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/13.png)[Ccleaner img 12] or **select  Start > Programs > CCleaner** to activate the **CCleaner** console. 
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-18.png) to activate the following screen:
+**Click** ![Cleaner](https://securityinabox.org/sbox/screen/ccleaner-en-1/18.png)[Ccleaner img 17] to activate the following screen:
 
-![CCleaner console with Cleaner pane](/sites/siabnext.ttc.io/files/media/ccleaner-win-19.png) 
+![CCleaner console with Cleaner pane](https://securityinabox.org/sbox/screen/ccleaner-en-1/19.png)[Ccleaner img 18]
 
 *Figure 1: The CCleaner console displaying the Cleaner pane*
 
 The *Cleaner* window is divided into two panes, the left pane displaying the *Windows* and *Application* tabs, and the right pane featuring an empty space to display information or results from a given cleaning operation. The *Analyze* and *Run Cleaner* buttons are located beneath that space.
 
-![Windows and Applications tabs with all options checked](/sites/siabnext.ttc.io/files/media/ccleaner-win-20.png) 
+![Windows and Applications tabs with all options checked](https://securityinabox.org/sbox/screen/ccleaner-en-1/20.png)[Ccleaner img 19]
 
 *Figure 2: The Windows and Applications tabs with all options checked*
 
@@ -44,47 +44,47 @@ The *Cleaner* window is divided into two panes, the left pane displaying the *Wi
 
 **Scroll** down the *Windows* and *Applications* tabs and **check** all the options in the *Advanced* section too. As you check some of the options, a warning confirmation dialog box appears, explaining what each option will affect:
 
-![Warning confirmation dialog box](/sites/siabnext.ttc.io/files/media/ccleaner-win-21.png)
+![Warning confirmation dialog box](https://securityinabox.org/sbox/screen/ccleaner-en-1/21.png)[Ccleaner img 20]
 
 *Figure 3: An example of a Warning confirmation dialog box*
 
 **Warning**: By checking the *Wipe Free Space* option, you will significantly increase the amount of time required for the cleaning process; as such, ensure you have at least an hour or more for this. 
 
-**Note**: **Check** all the options in the *Windows* and *Applications* tabs to enable a full and thorough cleaning of the temporary files. However, it is essential that you understand what kind of configurations and settings are being deleted. **Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-22.png) to close each message and continue with the temporary file deletion process.
+**Note**: **Check** all the options in the *Windows* and *Applications* tabs to enable a full and thorough cleaning of the temporary files. However, it is essential that you understand what kind of configurations and settings are being deleted. **Click** ![OK](https://securityinabox.org/sbox/screen/ccleaner-en-1/22.png)[Ccleaner img 21] to close each message and continue with the temporary file deletion process.
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-23.png) to generate and view a list of the different temporary files available for deletion.
+**Click** ![Analyze](https://securityinabox.org/sbox/screen/ccleaner-en-1/23.png)[Ccleaner img 22] to generate and view a list of the different temporary files available for deletion.
 
 **Tip**: Close all other programs before you begin the cleaning process. If you leave them open, **CCleaner** may not remove all the temporary files associated with those programs, and you may receive pop-up notices resembling *Figure 4* below.
 
-![notice to close Firefox](/sites/siabnext.ttc.io/files/media/ccleaner-win-24.png)
+![notice to close Firefox](https://securityinabox.org/sbox/screen/ccleaner-en-1/24.png)[Ccleaner img 23]
 
 *Figure 4: An example of a notice to close Firefox/Mozilla* 
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-25.png) to continue listing the files for deletion.
+**Click** ![Yes](https://securityinabox.org/sbox/screen/ccleaner-en-1/25.png)[Ccleaner img 24] to continue listing the files for deletion.
 
-![list of temporary files for deletion](/sites/siabnext.ttc.io/files/media/ccleaner-win-26.png)
+![list of temporary files for deletion](https://securityinabox.org/sbox/screen/ccleaner-en-1/26.png)[Ccleaner img 25]
 
 *Figure 5: An example of a list of temporary files for deletion*
 
-**Note**: **CCleaner** only deletes the temporary files generated whenever you use an application – and *not* the application itself. In *Figure 5* for example, the *Applications – Office 2003* program suite remains installed on the computer, but its temporary files have been deleted. However, to use **CCleaner** to uninstall a program, please refer to [**Advanced Options, FAQ and Review**](/en/ccleaner_faq), section **5.1 How to Uninstall Programs Using CCleaner**.
+**Note**: **CCleaner** only deletes the temporary files generated whenever you use an application – and *not* the application itself. In *Figure 5* for example, the *Applications – Office 2003* program suite remains installed on the computer, but its temporary files have been deleted. However, to use **CCleaner** to uninstall a program, please refer to [**Advanced Options, FAQ and Review**](https://securityinabox.org/en/ccleaner_faq)[CCleaner FAQ], section **5.1 How to Uninstall Programs Using CCleaner**.
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-27.png) activate the following screen: 
+**Click** ![Run Cleaner](https://securityinabox.org/sbox/screen/ccleaner-en-1/27.png)[Ccleaner img 26] activate the following screen: 
 
-![Permanent file deletion confirmation prompt](/sites/siabnext.ttc.io/files/media/ccleaner-win-28.png)
+![Permanent file deletion confirmation prompt](https://securityinabox.org/sbox/screen/ccleaner-en-1/28.png)[Ccleaner img 27]
 
 *Figure 6: Permanent file deletion confirmation prompt*
 
 ### Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-22.png) to delete these temporary files as follows; after the deletion has been completed, the results displayed may resemble the following screen:
+**Click** ![OK](https://securityinabox.org/sbox/screen/ccleaner-en-1/22.png)[Ccleaner img 21] to delete these temporary files as follows; after the deletion has been completed, the results displayed may resemble the following screen:
 
-![file deletion results](/sites/siabnext.ttc.io/files/media/ccleaner-win-29.png)
+![file deletion results](https://securityinabox.org/sbox/screen/ccleaner-en-1/29.png)[Ccleaner img 28]
 
 *Figure 7: The file deletion results*
 
@@ -102,9 +102,9 @@ Over time, however, the **Windows Registry** accumulates outdated configuration 
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-30.png) to activate the following screen:
+**Click** ![Registry](https://securityinabox.org/sbox/screen/ccleaner-en-1/30.png)[Ccleaner img 29] to activate the following screen:
 
-![CCleaner user interface in Registry mode](/sites/siabnext.ttc.io/files/media/ccleaner-win-31.png)
+![CCleaner user interface in Registry mode](https://securityinabox.org/sbox/screen/ccleaner-en-1/31.png)[Ccleaner img 30]
 
 *Figure 1: The CCleaner user interface in Registry mode*
 
@@ -112,9 +112,9 @@ The **CCleaner** *Registry* window is divided into a *Registry Cleaner* list, an
 
 ### Step 2
 
-**Check** all the items in the *Registry Cleaner* list (as shown in *Figure 1*), and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-32.png) to begin scanning for registry-related problems to be fixed; after some time, your results may resemble the following:
+**Check** all the items in the *Registry Cleaner* list (as shown in *Figure 1*), and then **click** ![Scan for Issues](https://securityinabox.org/sbox/screen/ccleaner-en-1/32.png)[Ccleaner img 31] to begin scanning for registry-related problems to be fixed; after some time, your results may resemble the following:
 
-![results pane with a list of problems](/sites/siabnext.ttc.io/files/media/ccleaner-win-33.png)
+![results pane with a list of problems](https://securityinabox.org/sbox/screen/ccleaner-en-1/33.png)[Ccleaner img 32]
 
 *Figure 2: The results pane displaying a list of problems to be fixed* 
 
@@ -122,9 +122,9 @@ As a precautionary measure before you begin fixing the **Windows Registry**, you
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-34.png) to activate the following confirmation dialog box as follows:
+**Click** ![Fix selected issues](https://securityinabox.org/sbox/screen/ccleaner-en-1/34.png)[Ccleaner img 33] to activate the following confirmation dialog box as follows:
 
-![confirmation dialog box](/sites/siabnext.ttc.io/files/media/ccleaner-win-35.png)
+![confirmation dialog box](https://securityinabox.org/sbox/screen/ccleaner-en-1/35.png)[Ccleaner img 34]
 
 *Figure 3: The confirmation dialog box*
 
@@ -132,17 +132,17 @@ As a precautionary measure before you begin fixing the **Windows Registry**, you
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-36.png) to create a backup of your registry, and activate the following screen:
+**Click** ![Yes](https://securityinabox.org/sbox/screen/ccleaner-en-1/36.png)[Ccleaner img 35] to create a backup of your registry, and activate the following screen:
 
-![Save As location browser](/sites/siabnext.ttc.io/files/media/ccleaner-win-37.png)
+![Save As location browser](https://securityinabox.org/sbox/screen/ccleaner-en-1/37.png)[Ccleaner img 36]
 
 *Figure 4: The Save As location browser*
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-38.png) after you have chosen a location for your backup file, to activate the following dialog box:
+**Click** ![Save](https://securityinabox.org/sbox/screen/ccleaner-en-1/38.png)[Ccleaner img 37] after you have chosen a location for your backup file, to activate the following dialog box:
 
-![Fix Issue/Fix All Selected Issues](/sites/siabnext.ttc.io/files/media/ccleaner-win-39.png)
+![Fix Issue/Fix All Selected Issues](https://securityinabox.org/sbox/screen/ccleaner-en-1/39.png)[Ccleaner img 38]
 
 *Figure 5: The Fix Issue/Fix All Selected Issues dialog box*
 
@@ -150,11 +150,11 @@ As a precautionary measure before you begin fixing the **Windows Registry**, you
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-40.png) or ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-41.png) to view each problem, and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-42.png) to fix only those you would like to.
+**Click** ![<<](https://securityinabox.org/sbox/screen/ccleaner-en-1/40.png)[Ccleaner img 39] or ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/41.png)[Ccleaner img 40] to view each problem, and then **click** ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/40.png)[Ccleaner img 41] to fix only those you would like to.
 
 ### Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-43.png) to fix *all* the selected issues, and then **click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-44.png) to complete the cleaning process.
+**Click** ![Fix All Selected Issues](https://securityinabox.org/sbox/screen/ccleaner-en-1/43.png)[Ccleaner img 42] to fix *all* the selected issues, and then **click** ![Close](https://securityinabox.org/sbox/screen/ccleaner-en-1/44.png)[Ccleaner img 43] to complete the cleaning process.
 
 **Tip**: Repeat ### Steps 2** to **7** until you no longer see any problems to be fixed.
 
@@ -170,30 +170,30 @@ To restore the original registry, perform the following steps:
 
 **Select Start > Run** to activate the *Run* window, and then **type** in *regedit* as follows:
 
-![Run window](/sites/siabnext.ttc.io/files/media/ccleaner-win-45.png)
+![Run window](https://securityinabox.org/sbox/screen/ccleaner-en-1/45.png)[Ccleaner img 44]
 
 *Figure 6: The Run window*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-22.png) to activate the following screen:
+**Click** ![OK](https://securityinabox.org/sbox/screen/ccleaner-en-1/22.png)[Ccleaner img 21] to activate the following screen:
 
-![Registry Editor](/sites/siabnext.ttc.io/files/media/ccleaner-win-46.png)
+![Registry Editor](https://securityinabox.org/sbox/screen/ccleaner-en-1/46.png)[Ccleaner img 45]
 
 *Figure 7: The Registry Editor*
 
 ### Step 3
 
-**Select File > Import** from the *Registry Editor* menu bar to activate the *Import Registry File* screen, and then **select** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-47.png).
+**Select File > Import** from the *Registry Editor* menu bar to activate the *Import Registry File* screen, and then **select** ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/47.png)[Ccleaner img 46].
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-48.png) to activate the following confirmation dialog box:
+**Click** ![Open](https://securityinabox.org/sbox/screen/ccleaner-en-1/48.png)[Ccleaner img 47] to activate the following confirmation dialog box:
 
-![registry backup file has been restored](/sites/siabnext.ttc.io/files/media/ccleaner-win-49.png)
+![registry backup file has been restored](https://securityinabox.org/sbox/screen/ccleaner-en-1/49.png)[Ccleaner img 48]
 
 *Figure 8: A Registry Editor dialog box confirming the registry backup file has been restored*
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/ccleaner-win-22.png) to complete the restoration of the registry backup file.
+**Click** ![OK](https://securityinabox.org/sbox/screen/ccleaner-en-1/22.png)[Ccleaner img 21] to complete the restoration of the registry backup file.

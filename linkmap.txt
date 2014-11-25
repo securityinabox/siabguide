@@ -15,6 +15,9 @@ Smartphones | https://securityinabox.org/en/chapter-11
 
 Hands on Guides | https://securityinabox.org/handsonguides
 Advanced Virus Removal | https://securityinabox.org/dealingwithviruses#4.9
+CCleaner Main | https://securityinabox.org/ccleaner_main
+CCleaner FAQ | https://securityinabox.org/en/ccleaner_faq
+CCleaner Portable | https://securityinabox.org/ccleaner_portable
 Firefox Main | https://securityinabox.org/en/Firefox_main
 K9 Main | https://securityinabox.org/en/k9_apg_main
 KeePass Main | https://securityinabox.org/en/keepass_main
@@ -102,6 +105,82 @@ Avast img 68 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-w
 Avast img 69 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.048.png
 Avast img 70 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.049.png
 Avast img 71 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.065.png
+
+Ccleaner img 01 | https://securityinabox.org/sbox/screen/ccleaner-en-1/00.png
+Ccleaner img 02 | https://securityinabox.org/sbox/screen/ccleaner-en-1/01.png
+Ccleaner img 03 | https://securityinabox.org/sbox/screen/ccleaner-en-1/25.png
+Ccleaner img 04 | https://securityinabox.org/sbox/screen/ccleaner-en-1/03.png
+Ccleaner img 05 | https://securityinabox.org/sbox/screen/ccleaner-en-1/05.png
+Ccleaner img 06 | https://securityinabox.org/sbox/screen/ccleaner-en-1/07.png
+Ccleaner img 07 | https://securityinabox.org/sbox/screen/ccleaner-en-1/08.png
+Ccleaner img 08 | https://securityinabox.org/sbox/screen/ccleaner-en-1/09.png
+Ccleaner img 09 | https://securityinabox.org/sbox/screen/ccleaner-en-1/10.png
+Ccleaner img 10 | https://securityinabox.org/sbox/screen/ccleaner-en-1/11.png
+Ccleaner img 11 | https://securityinabox.org/sbox/screen/ccleaner-en-1/12.png
+Ccleaner img 12 | https://securityinabox.org/sbox/screen/ccleaner-en-1/13.png
+Ccleaner img 13 | https://securityinabox.org/sbox/screen/ccleaner-en-1/14.png
+Ccleaner img 14 | https://securityinabox.org/sbox/screen/ccleaner-en-1/15.png
+Ccleaner img 15 | https://securityinabox.org/sbox/screen/ccleaner-en-1/16.png
+Ccleaner img 16 | https://securityinabox.org/sbox/screen/ccleaner-en-1/17.png
+Ccleaner img 17 | https://securityinabox.org/sbox/screen/ccleaner-en-1/18.png
+Ccleaner img 18 | https://securityinabox.org/sbox/screen/ccleaner-en-1/19.png
+Ccleaner img 19 | https://securityinabox.org/sbox/screen/ccleaner-en-1/20.png
+Ccleaner img 20 | https://securityinabox.org/sbox/screen/ccleaner-en-1/21.png
+Ccleaner img 21 | https://securityinabox.org/sbox/screen/ccleaner-en-1/22.png
+Ccleaner img 22 | https://securityinabox.org/sbox/screen/ccleaner-en-1/23.png
+Ccleaner img 23 | https://securityinabox.org/sbox/screen/ccleaner-en-1/24.png
+Ccleaner img 24 | https://securityinabox.org/sbox/screen/ccleaner-en-1/25.png
+Ccleaner img 25 | https://securityinabox.org/sbox/screen/ccleaner-en-1/26.png
+Ccleaner img 26 | https://securityinabox.org/sbox/screen/ccleaner-en-1/27.png
+Ccleaner img 27 | https://securityinabox.org/sbox/screen/ccleaner-en-1/28.png
+Ccleaner img 28 | https://securityinabox.org/sbox/screen/ccleaner-en-1/29.png
+Ccleaner img 29 | https://securityinabox.org/sbox/screen/ccleaner-en-1/30.png
+Ccleaner img 30 | https://securityinabox.org/sbox/screen/ccleaner-en-1/31.png
+Ccleaner img 31 | https://securityinabox.org/sbox/screen/ccleaner-en-1/32.png
+Ccleaner img 32 | https://securityinabox.org/sbox/screen/ccleaner-en-1/33.png
+Ccleaner img 33 | https://securityinabox.org/sbox/screen/ccleaner-en-1/34.png
+Ccleaner img 34 | https://securityinabox.org/sbox/screen/ccleaner-en-1/35.png
+Ccleaner img 35 | https://securityinabox.org/sbox/screen/ccleaner-en-1/36.png
+Ccleaner img 36 | https://securityinabox.org/sbox/screen/ccleaner-en-1/37.png
+Ccleaner img 37 | https://securityinabox.org/sbox/screen/ccleaner-en-1/38.png
+Ccleaner img 38 | https://securityinabox.org/sbox/screen/ccleaner-en-1/39.png
+Ccleaner img 39 | https://securityinabox.org/sbox/screen/ccleaner-en-1/40.png
+<!-- Ccleaner img 40 | https://securityinabox.org/sbox/screen/ccleaner-en-1/41.png -- cannot be displayed because it contains errors -->
+<!-- Ccleaner img 41 | https://securityinabox.org/sbox/screen/ccleaner-en-1/42.png -- cannot be displayed because it contains errors -->
+Ccleaner img 42 | https://securityinabox.org/sbox/screen/ccleaner-en-1/43.png
+Ccleaner img 43 | https://securityinabox.org/sbox/screen/ccleaner-en-1/44.png
+Ccleaner img 44 | https://securityinabox.org/sbox/screen/ccleaner-en-1/45.png
+Ccleaner img 45 | https://securityinabox.org/sbox/screen/ccleaner-en-1/46.png
+Ccleaner img 46 | https://securityinabox.org/sbox/screen/ccleaner-en-1/47.png
+Ccleaner img 47 | https://securityinabox.org/sbox/screen/ccleaner-en-1/48.png
+Ccleaner img 48 | https://securityinabox.org/sbox/screen/ccleaner-en-1/49.png
+Ccleaner img 49 | https://securityinabox.org/sbox/screen/ccleaner-en-1/50.png
+Ccleaner img 50 | https://securityinabox.org/sbox/screen/ccleaner-en-1/51.png
+Ccleaner img 51 | https://securityinabox.org/sbox/screen/ccleaner-en-1/52.png
+Ccleaner img 52 | https://securityinabox.org/sbox/screen/ccleaner-en-1/53.png
+Ccleaner img 53 | https://securityinabox.org/sbox/screen/ccleaner-en-1/54.png
+Ccleaner img 54 | https://securityinabox.org/sbox/screen/ccleaner-en-1/55.png
+Ccleaner img 55 | https://securityinabox.org/sbox/screen/ccleaner-en-1/56.png
+Ccleaner img 56 | https://securityinabox.org/sbox/screen/ccleaner-en-1/57.png
+Ccleaner img 57 | https://securityinabox.org/sbox/screen/ccleaner-en-1/58.png
+Ccleaner img 58 | https://securityinabox.org/sbox/screen/ccleaner-en-1/61.png
+Ccleaner img 59 | https://securityinabox.org/sbox/screen/ccleaner-en-1/62.png
+Ccleaner img 60 | https://securityinabox.org/sbox/screen/ccleaner-en-1/04.png
+Ccleaner img 61 | https://securityinabox.org/sbox/screen/ccleaner-en-1/59.png
+Ccleaner img 62 | https://securityinabox.org/sbox/screen/ccleaner-en-1/64.png
+Ccleaner img 63 | https://securityinabox.org/sbox/screen/ccleaner-en-1/65.png
+Ccleaner img 64 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/02.png
+Ccleaner img 65 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/04.png
+Ccleaner img 66 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/05.png
+Ccleaner img 67 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/06.png
+Ccleaner img 68 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/07.png
+Ccleaner img 69 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/08.png
+Ccleaner img 70 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/03.png
+Ccleaner img 71 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/09.png
+Ccleaner img 72 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/10.png
+Ccleaner img 73 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/11.png
+
+
 
 Crabgrass img 01 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-1.png
 Crabgrass img 02 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-2.png
