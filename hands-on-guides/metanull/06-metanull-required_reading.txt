@@ -1,0 +1,19 @@
+Object_type: Tool
+Tool: Metanull
+Platform: Microsoft Windows 
+Need: Image Metadata Removal
+Website: http://woronoi.blogspot.de/2012/05/metanull-11.html
+Download: http://woronoi.blogspot.de/2012/05/metanull-11.html
+Version: 1.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: 
+Comment: read 03-metanull-premise before installing and using this tool
+Group: Required Reading
+Title: Required Reading
+Language: EN
+
+
+* How-to Chapter [How to destroy sensitive information](https://securityinabox.org/chapter-6)[Sensitive Information]
+

@@ -1,0 +1,24 @@
+Object_type: Tool
+Tool: Metanull
+Platform: Microsoft Windows 
+Need: Image Metadata Removal
+Website: http://woronoi.blogspot.de/2012/05/metanull-11.html
+Download: http://woronoi.blogspot.de/2012/05/metanull-11.html
+Version: 1.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: 
+Comment: read 03-metanull-premise before installing and using this tool
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+* How to download metanull
+
+- Read the brief [Hands on Guides](https://securityinabox.org/handsonguides)[Hands on Guides] introduction
+- Go to the [**Metanull Download page**](http://woronoi.blogspot.de/2012/05/metanull-11.html)
+- **Click** on the arrow on the left of the page, and then **click** on *Download*
+- **Click** *Save file* and choose a location to save the *executable file*, which you will use to open the program.
+- You will need to go directly to the .zip file to unpack it in order to execute the program and run it. You don't need to install this software on your computer.

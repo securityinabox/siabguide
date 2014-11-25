@@ -1,0 +1,96 @@
+Object_type: Tool
+Tool: Metanull
+Platform: Microsoft Windows 
+Need: Image Metadata Removal
+Website: http://woronoi.blogspot.de/2012/05/metanull-11.html
+Download: http://woronoi.blogspot.de/2012/05/metanull-11.html
+Version: 1.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives: 
+Comment: read 03-metanull-premise before installing and using this tool
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# How to clean a single file
+
+## To clean a single file:
+
+### Step 1
+
+**Click** on the Metanull.exe executable file to run it.
+
+**Note**: You don't need to install this software on your computer in order to use it.
+
+### Step 2
+
+To clean a single file, **check** the circle beside *single file* and click *select*
+
+![Metanull home screen](https://securityinabox.org/sbox/screen/Metanull-en/01.png)[Metanull img 01]
+
+*Figure 1: Metanull home screen*
+
+### Step 3
+
+Select the file you wish to clean by clicking **Select**
+
+### Step 4
+
+Under *Copy the result image(s) to*, **click** *Browse* and **select** a location to which you want your cleaned files to be saved
+
+![A selected file and destination](https://securityinabox.org/sbox/screen/Metanull-en/02.png)[Metanull img 02]
+
+*Figure 2: A selected file and destination*
+
+### Step 5
+
+**Click Null it** to remove the metadata from this image
+
+![Completed process](https://securityinabox.org/sbox/screen/Metanull-en/03.png)[Metanull img 03]
+
+*Figure 3: Completed process*
+
+### Step 6
+
+**Locate** the cleaned file, right click it and **check** *properties* to ensure the meta data has been cleaned.
+
+## To clean a folder full of files:
+
+### Step 1
+
+**Click** on the Metanull.exe executable file
+
+### Step 2
+
+To clean a folder, **check** the circle beside *Batch folder*
+
+![Metanull home screen](https://securityinabox.org/sbox/screen/Metanull-en/04.png)[Metanull img 04]
+
+*Figure 4: Metanull home screen*
+
+### Step 3
+
+**Select** the folder you wish to clean by clicking on **Browse**
+
+### Step 4
+
+Under *Copy the result image(s) to*, **click** *Browse* and select a location to which you want your cleaned files to be saved
+
+![A selected folder and destination](https://securityinabox.org/sbox/screen/Metanull-en/05.png)[Metanull img 05]
+
+*Figure 5: A selected folder and destination*
+
+### Step 5
+
+**Click Null it** to remove the metadata from this file
+
+![Completed process](https://securityinabox.org/sbox/screen/Metanull-en/06.png)[Metanull img 06]
+
+*Figure 6: Completed process*
+
+### Step 6
+
+**Locate** the selected files and double-check that the metadata has been removed by going to the *properties* of the images.

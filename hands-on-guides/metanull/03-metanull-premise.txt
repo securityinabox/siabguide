@@ -1,0 +1,27 @@
+Object_type: Tool
+Tool: Metanull
+Platform: Microsoft Windows 
+Need: Image Metadata Removal
+Website: http://woronoi.blogspot.de/2012/05/metanull-11.html
+Download: http://woronoi.blogspot.de/2012/05/metanull-11.html
+Version: 1.0
+License: Free/Open Source Software
+System_requirements: Microsoft Windows
+Admin: false
+Alternatives:
+Comment:
+Group: Basic Usage 
+Title: Important premise
+Language: EN
+
+
+Digital cameras and mobile phones create image file formats such as TIFF (Tagged Image File Format) and JPEG (Joint Photographic Experts Group), These files contains hidden data or metadata called EXIF (Exchangeable image file format) which can include the date, time and sometimes the GPS coordinates of the picture, the brand and serial number of the device which took it as well as a thumbnail of the original image. **Metanull** can remove the metadata from your image files so the image you have won't have kind of information that identify you in it. 
+
+- Make sure to securely delete, hide or encrypt the original version of the image that you stripped the metadata from. Metanull doesn't delete the original version of the images by default. 
+
+- Make sure to check out the image's properties after using Metanull to ensure that there are no metadata left in the image before you share it with anyone.
+
+- Metanull has been tested with a range of different images, but since it is not possible to test it with every known image type, there is the possibility that it may corrupt some files. Be sure to keep backups of your files.
+
+- Metanull doesn't protect you against [facial recognition technology](https://en.wikipedia.org/wiki/Facial_recognition_system) 
+

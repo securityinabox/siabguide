@@ -12,6 +12,7 @@ Social Networks | https://securityinabox.org/chapter-9
 Mobile Phones | https://securityinabox.org/chapter-10
 Smartphones | https://securityinabox.org/en/chapter-11
 
+Hands on Guides | https://securityinabox.org/handsonguides
 Advanced Virus Removal | https://securityinabox.org/dealingwithviruses#4.9
 K9 Main | https://securityinabox.org/en/k9_apg_main
 KeePass Main | https://securityinabox.org/en/keepass_main
@@ -98,6 +99,12 @@ Avast img 68 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-w
 Avast img 69 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.048.png
 Avast img 70 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.049.png
 Avast img 71 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.065.png
+
+Metanull img 01 | https://securityinabox.org/sbox/screen/Metanull-en/01.png
+Metanull img 02 | https://securityinabox.org/sbox/screen/Metanull-en/02.png
+Metanull img 03 | https://securityinabox.org/sbox/screen/Metanull-en/03.png
+Metanull img 05 | https://securityinabox.org/sbox/screen/Metanull-en/05.png
+Metanull img 06 | https://securityinabox.org/sbox/screen/Metanull-en/06.png
 
 Glossary | https://securityinabox.org/glossary
 Glossary #Tor | https://securityinabox.org/glossary#Tor
