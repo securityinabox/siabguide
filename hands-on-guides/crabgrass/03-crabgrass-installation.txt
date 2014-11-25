@@ -1,0 +1,66 @@
+Object_type: Tool
+Tool: Crabgrass
+Platform: Social Networks
+Need: Secure online collaboration platform
+Website: https://we.riseup.net/
+Download: 
+Version: Crabgrass version 0.5.3.2
+License: [GNU Affero General Public License (AGPL)](http://www.gnu.org/licenses/agpl-3.0.html)
+System_requirements: An Internet connection; Any web browser
+Admin: false
+Alternatives: 
+Comment:
+Group: Basic Usage
+Title: Installation
+Language: EN
+
+
+# How to create a Crabgrass Account
+
+## Registering a Crabgrass account
+
+### Step 1
+
+To create a Crabgrass account open your web browser, (we recommend [Firefox web browser with security add-ons](https://securityinabox.org/en/Firefox_main)[Firefox Main] or [Tor Browser](https://securityinabox.org/en/Tor_main)[Tor Main]), and type https://we.riseup.net into the address bar, to arrive at Crabgrass's homepage.
+
+![we.riseup  page](https://securityinabox.org/sbox/screen/crabgrass-en/crab-1.png)[Crabgrass img 01]
+
+*Figure 1: The https://we.riseup.net/ page*
+
+**Note**: The ***s*** in the *https://* address indicates that you are now communicating through a **Secure Socket Layer** (**SSL**) connection, and the message will appear above the login text fields.
+
+For more information about this, please refer to the **How-to Booklet** chapter [Keeping your Internet Communication Private](https://securityinabox.org/chapter-7)[Private Communication] or to https://we.riseup.net/crabgrass/security.
+
+### Step 2
+
+**Click** [New Account](https://we.riseup.net/account/signup) to activate the *Create Your Account* page
+
+![Create Your Account](https://securityinabox.org/sbox/screen/crabgrass-en/crab-2.png)[Crabgrass img 02]
+
+*Figure 2: The Crabgrass Create Your Account page*
+
+### Step 3
+
+**Create your Crabgrass account** by choosing a user name, a password and accepting the terms of the usage agreement.
+
+Enter your chosen user name into the field beneath *Your login name*. Then **choose a secure password**, enter it in the field *Your Password* and repeat it in the field *Confirm Password*.
+
+To learn how to create a strong password, please refer to the How-to Booklet chapter [How to Create and Maintain Good Passwords](http://security.ngoinabox.org/en/chapter-3)[Secure Passwords] and to the manual on [KeePass](https://securityinabox.org/en/keepass_main)[KeePass Main].
+
+You will not be sent an email that asks you to confirm the account so make sure that you store your password safely.
+
+After you have read the **Usage Agreement**, **click** in the check box to enable the *I accept riseup.net's social contract*. option.
+
+You have the option of entering your email address in the field *Your Email*. Your email address enables you to recover your Crabgrass account in case you lose your password. It is, however, also a risk. If any third party has access to your email account they can also access your Crabgrass account and with it all information you have added there. Not leaving your email address is the more secure option but remember that you will have no possibility of regaining access to your Crabgrass account should you lose your password.
+
+To learn more about secure usage of email please read the How-to Booklet chapter [Securing your email](https://securityinabox.org/en/chapter_7_1)[Securing Email].
+
+### Step 4
+
+Click ![Sign up](https://securityinabox.org/sbox/screen/crabgrass-en/crab-3_signup.png)[Crabgrass img 03] to finish creating your account.
+
+![Your registration was successful](https://securityinabox.org/sbox/screen/crabgrass-en/crab-4_registration.png)[Crabgrass img 04]
+
+*Figure 3: Your registration was successful*
+
+After you have successfully created an account you will be prompted to your *Crabgrass Dashboard*

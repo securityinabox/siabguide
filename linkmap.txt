@@ -6,6 +6,7 @@ Secure Storage | https://securityinabox.org/chapter-4
 Information Loss | https://securityinabox.org/chapter-5
 Sensitive Information | https://securityinabox.org/chapter-6
 Private Communication | https://securityinabox.org/chapter-7
+Securing Email | https://securityinabox.org/en/chapter_7_1
 Advanced Email | https://securityinabox.org/chapter_7_4
 Anonymous Browsing | https://securityinabox.org/chapter-8
 Social Networks | https://securityinabox.org/chapter-9
@@ -14,9 +15,11 @@ Smartphones | https://securityinabox.org/en/chapter-11
 
 Hands on Guides | https://securityinabox.org/handsonguides
 Advanced Virus Removal | https://securityinabox.org/dealingwithviruses#4.9
+Firefox Main | https://securityinabox.org/en/Firefox_main
 K9 Main | https://securityinabox.org/en/k9_apg_main
 KeePass Main | https://securityinabox.org/en/keepass_main
 Orbot Main | https://securityinabox.org/Orbot_main
+Pidgin Main | https://securityinabox.org/pidgin_main
 Tor Main | https://securityinabox.org/tor_main
 
 APG img 01 | https://securityinabox.org/sbox/screen/apg-en/01.png
@@ -100,6 +103,43 @@ Avast img 69 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-w
 Avast img 70 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.049.png
 Avast img 71 | https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.065.png
 
+Crabgrass img 01 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-1.png
+Crabgrass img 02 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-2.png
+Crabgrass img 03 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-3_signup.png
+Crabgrass img 04 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-4_registration.png
+Crabgrass img 05 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-8_login2.png
+Crabgrass img 06 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-9_loginbutton.png
+Crabgrass img 07 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-10_dashboard.png
+Crabgrass img 08 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-6_login.png
+Crabgrass img 09 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-5_password.png
+Crabgrass img 10 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-7_reset.png
+Crabgrass img 11 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-11_resetbutton.png
+Crabgrass img 12 | https://securityinabox.org/sbox/screen/crabgrass-en/crab12_passwordreset.png
+Crabgrass img 13 | https://securityinabox.org/sbox/screen/crabgrass-en/crab14_hidewelcome.png
+Crabgrass img 14 | https://securityinabox.org/sbox/screen/crabgrass-en/crab13_dashboard.png
+Crabgrass img 15 | https://securityinabox.org/sbox/screen/crabgrass-en/crab15_edityourprofile.png
+Crabgrass img 16 | https://securityinabox.org/sbox/screen/crabgrass-en/crab17_uploadimage.png
+Crabgrass img 17 | https://securityinabox.org/sbox/screen/crabgrass-en/crab18_uploadimage2.png
+Crabgrass img 18 | https://securityinabox.org/sbox/screen/crabgrass-en/crab19_removeimage.png
+Crabgrass img 19 | https://securityinabox.org/sbox/screen/crabgrass-en/crab21_savechanges.png
+Crabgrass img 20 | https://securityinabox.org/sbox/screen/crabgrass-en/crab22_changessaved.png
+Crabgrass img 21 | https://securityinabox.org/sbox/screen/crabgrass-en/crab26_add-description.png
+Crabgrass img 22 | https://securityinabox.org/sbox/screen/crabgrass-en/crab26_add-phone.png
+Crabgrass img 23 | https://securityinabox.org/sbox/screen/crabgrass-en/crab29_Remove.png
+Crabgrass img 24 | https://securityinabox.org/sbox/screen/crabgrass-en/crab30_gpgkey.png
+Crabgrass img 25 | https://securityinabox.org/sbox/screen/crabgrass-en/crab32_privateprofile-new.png
+Crabgrass img 26 | https://securityinabox.org/sbox/screen/crabgrass-en/crab34_creategroup.png
+Crabgrass img 27 | https://securityinabox.org/sbox/screen/crabgrass-en/crab35_newgroup.png
+Crabgrass img 28 | https://securityinabox.org/sbox/screen/crabgrass-en/crab38_save.png
+Crabgrass img 29 | https://securityinabox.org/sbox/screen/crabgrass-en/crab36_groupsettings.png
+Crabgrass img 30 | https://securityinabox.org/sbox/screen/crabgrass-en/crab37_createcouncil.png
+Crabgrass img 31 | https://securityinabox.org/sbox/screen/crabgrass-en/crab39_newcouncil_new.png
+Crabgrass img 32 | https://securityinabox.org/sbox/screen/crabgrass-en/crab40_councilcreated.png
+Crabgrass img 33 | https://securityinabox.org/sbox/screen/crabgrass-en/crab41_creategroup.png
+Crabgrass img 34 | https://securityinabox.org/sbox/screen/crabgrass-en/crab42_createpage.png
+Crabgrass img 35 | https://securityinabox.org/sbox/screen/crabgrass-en/crab44_discussiont.png
+Crabgrass img 36 | https://securityinabox.org/sbox/screen/crabgrass-en/crab43_tasklist.png
+
 Metanull img 01 | https://securityinabox.org/sbox/screen/Metanull-en/01.png
 Metanull img 02 | https://securityinabox.org/sbox/screen/Metanull-en/02.png
 Metanull img 03 | https://securityinabox.org/sbox/screen/Metanull-en/03.png
@@ -107,5 +147,6 @@ Metanull img 05 | https://securityinabox.org/sbox/screen/Metanull-en/05.png
 Metanull img 06 | https://securityinabox.org/sbox/screen/Metanull-en/06.png
 
 Glossary | https://securityinabox.org/glossary
+Glossary #encryption | https://securityinabox.org/glossary#encryption
 Glossary #Tor | https://securityinabox.org/glossary#Tor
 

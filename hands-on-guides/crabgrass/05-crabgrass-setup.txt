@@ -1,0 +1,143 @@
+Object_type: Tool
+Tool: Crabgrass
+Platform: Social Networks
+Need: Secure online collaboration platform
+Website: https://we.riseup.net/
+Download: 
+Version: Crabgrass version 0.5.3.2
+License: [GNU Affero General Public License (AGPL)](http://www.gnu.org/licenses/agpl-3.0.html)
+System_requirements: An Internet connection; Any web browser
+Admin: false
+Alternatives: 
+Comment:
+Group: Basic Usage
+Title: Configuration
+Language: EN
+
+
+# How to edit your profile
+
+From the dashboard, if you click ![Edit your profile](https://securityinabox.org/sbox/screen/crabgrass-en/crab15_edityourprofile.png)[Crabgrass img 15] you will be able to edit the settings for your account. There are three tabs, one each for the **User Preferences**, your **Public Profile** and your **Private Profile**. The Public Profile is visible to anyone who visits your Crabgrass account website. The Private Profile is visible only to those people who you accepted as friends on Crabgrass.
+
+It is useful to **leave as little information as possible** to achieve more privacy. The more information you leave about yourself the more might be accessed by others. In some cases you might want to leave this kind of information, for example if you want to reach out to other users you may not know yet.
+
+But any information about yourself could also be used to trace you. Therefore, if you want to use Crabgrass as a collaboration platform only with people you know and who know you it might be better to not leave any contact information such as phone numbers, email address, messaging services or your location.
+
+In this case you only need to let your friends know your Crabgrass user name and they will be able to find and contact you.
+
+Please be aware as well that leaving your email address may help adversaries to intercept the communication between Crabgrass and your mail account. For example, if you choose to receive email notifications about changes (in the user preferences) this might be used to learn what you are using Crabgrass for.
+
+## How to Change the User Preferences
+
+The **User Preferences** allow you to choose some basic settings for your account: your user name, the display name (the one everybody can see), email address, language and time zone. Here you can also change your password.
+
+### Step 1
+
+**Upload a profile picture**
+
+You have the option to upload a picture to illustrate your profile. You can choose any image you like, it doesn't have to actually show you. However, you should be sure that you don't use a copyrighted image.
+
+If you prefer you also have the choice not to have a profile picture.
+
+To upload a picture click ![Upload Image](https://securityinabox.org/sbox/screen/crabgrass-en/crab17_uploadimage.png)[Crabgrass img 16], choose a picture from your computer or copy and paste the URL of an image you would like to use that is already online and click ![Upload Image](https://securityinabox.org/sbox/screen/crabgrass-en/crab18_uploadimage2.png)[Crabgrass img 17].
+
+Your picture will be cropped and stretched to 96 pixels square. If you would like to use an image that has a different size and you want to make sure that a specific section of it becomes your profile picture you might want to crop and resize it manually before you upload it.
+
+If you want to change the picture later you can either upload a different one following the steps described above or simply click ![remove image](https://securityinabox.org/sbox/screen/crabgrass-en/crab19_removeimage.png)[Crabgrass img 18] to remove it.
+
+### Step 2
+
+You can **change your username** by entering a different one into the field *Username*. However, be aware that this is going to change all URLs for your account. If you have not told anyone yet about your new Crabgrass account this is not a problem. But if you have already made friends or shared pages created within Crabgrass be sure to let everybody know about the change.
+
+### Step 3
+
+You have the option to **choose a Display Name** that is different from your Username. The Username is what you use to log into your account. It is also part of the URL for your Crabgrass account.
+
+The Display Name is shown next to the profile picture at the top of your account page.
+
+### Step 4
+
+You can choose to receive **email notifications** about changes of Crabgrass pages you watch. If you do you have the option to either reveive an email everytime something is changed or to receive an email that notifies you about all changes that were made in one day.
+
+Notifications by email can, however, be intercepted by others if they go via non-encrypted channels. Please read [**Securing your email**](https://securityinabox.org/chapter_7_1)[Securing Email] to learn more about how you can **improve your email security**.
+
+### Step 5
+
+Crabgrass lets you choose in which **language** the site is displayed for you. Be aware that your choice of language might give away information about you.
+
+### Step 6
+
+In the User Preferences you can also **select your Time Zone**.
+
+Please understand that settings such as language or time zone, or any kind information about yourself, allow others to get a better picture of who and possibly where you are.
+
+### Step 7
+
+If you need to **change your password** enter a new password and confirm it.
+
+Make sure you click ![Save Changes](https://securityinabox.org/sbox/screen/crabgrass-en/crab21_savechanges.png)[Crabgrass img 19] before you leave the page! Only if you have successfully saved the changes you will see this message:
+
+![Changes saved](https://securityinabox.org/sbox/screen/crabgrass-en/crab22_changessaved.png)[Crabgrass img 20]
+
+*Figure 2: You have successfully updated your profile*
+
+## How to Edit your Public Profile
+
+The **settings for your Public Profile** can be found in the second tab of your profile settings. Here you have the option to select whether your profile will be visible to the public, which infomation about you can be accessed and whether you want to be able to be contacted by strangers. You can add information about yourself but you don't have to.
+
+### Step 1
+
+The **Permissions** section of your public profile allows you to select:
+
+* whether which groups you are member of and your Crabgrass contacts are visible to the general public
+* whether other Crabgrass users can request to be your friend
+* whether Crabgrass users who are not your friends can share content with you or send invitations
+* whether your profile is publicly visible or completely hidden
+
+Any information that you make publicly accessible here will be visible to anyone, not only Crabgrass users. If you don't want to be found by others than the people you already know don't make this information available.
+
+### Step 2
+
+You have the option to add information about yourself into the section **General Information** of your public profile. You can fill in your name, organisation, your organisational role and location.
+
+### Step 3
+
+The third section called **Profile** allows you to describe yourself, your work, personal and social change interests. You can fill in your phone number or several of them, email addresses, location, instant messaging addresses, websites and [*encryption*](https://securityinabox.org/glossary#encryption) keys if you have any.
+
+You can add information by clicking ![Add Description](https://securityinabox.org/sbox/screen/crabgrass-en/crab26_add-description.png)[Crabgrass img 21], ![Add Phone Number](https://securityinabox.org/sbox/screen/crabgrass-en/crab26_add-phone.png)[Crabgrass img 22] and so on. Once you do you will find the option to write into a form for each piece of information.
+
+### Step 4
+
+You can choose to have **one or more items for each type of information** of your public profile. For example if you would like to enter your home, office and mobile phone number you can enter your home phone number first, then click *add phone number* and add another one below. If you click into the field that says *home* you will be able to choose from different categories for this section. In this case you will be able to choose *Home*, *Fax*, *Pager*, *Mobile*, *Work* and *Other*. Similarly you can choose different types of details for the *Descriptions*, *Email Addresses*, *Location* and *Instant Messaging (IM) Addresses*.
+
+### Step 5
+
+You can **remove information** or fields you don't need simply by clicking ![Remove](https://securityinabox.org/sbox/screen/crabgrass-en/crab29_Remove.png)[Crabgrass img 23] to the right of each field.
+
+### Step 6
+
+To add your public [*encryption*](https://securityinabox.org/glossary#encryption)[Glossary #encryption] key you need to first copy it from your keychain or export it as an .asc file, depending on the software you use to encrypt files. Make sure that you copy your public key and not the private one! You can then paste it into the field *Public Encryption Keys*
+
+![GPG Key pasted into the field Public Encryption Keys](https://securityinabox.org/sbox/screen/crabgrass-en/crab30_gpgkey.png)[Crabgrass img 24]
+
+*Figure 3: A GPG Key pasted into the field 'Public Encryption Keys'*
+
+Once you have filled in the fields you **click** ![Save Changes](https://securityinabox.org/sbox/screen/crabgrass-en/crab21_savechanges.png)[Crabgrass img 19] in the bottom right corner. You can see your public profile either by clicking 'Preview' in the first paragraph of the *Settings* page or by first clicking your profile's name at the top of the page and then selecting *Public Profile* beneath the profile picture.
+
+![Public profile with some information filled in](https://securityinabox.org/sbox/screen/crabgrass-en/crab30_gpgkey.png)[Crabgrass img 24]
+
+*Figure 4: Example of a public profile with some information filled in*
+
+This is a public profile with very little information filled in: only the website, organisation and one line of description are visible. If you like you can also choose to not have any of these.
+
+## How to Edit your Private Profile
+
+### Step 1
+
+By clicking the tab **Private Profile** in the **Settings page** you open the page that allows you to edit your private profile. The private profile will only be accessible to people who you accept to be your friends.
+
+The information you can provide through your private profile are exactly the same as in the public profile with **one exception**: instead of the option whether or not you want to allow strangers to share content with you ("*may pester me*") you can decide that your private profile should only be visible for people who share a group with you ("*Visible to peers*").
+
+![settings for a private profile that doesn't give away information](https://securityinabox.org/sbox/screen/crabgrass-en/crab32_privateprofile-new.png)[Crabgrass img 25]
+
+*Figure 5: Example of the settings for a private profile that doesn't give away information*

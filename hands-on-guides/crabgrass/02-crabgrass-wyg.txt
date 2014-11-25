@@ -1,0 +1,21 @@
+Object_type: Tool
+Tool: Crabgrass
+Platform: Social Networks
+Need: Secure online collaboration platform
+Website: https://we.riseup.net/
+Download: 
+Version: Crabgrass version 0.5.3.2
+License: [GNU Affero General Public License (AGPL)](http://www.gnu.org/licenses/agpl-3.0.html)
+System_requirements: An Internet connection; Any web browser
+Admin: false
+Alternatives:
+Comment: This file should only be used in connection with the whole hands-on guide
+Group: Synthesis
+Title: What you will get from this guide 
+Language: EN
+
+
+* A social networking tool tailored specifically to meet the needs of bottom up grassroots organising
+* The ability to collaborate online as a group and share files, track tasks and projects, make decisions and build repositories of shared knowledge
+* The ability of multiple groups to work together on projects in a democratic manner
+* The option to publish or hide certain pages

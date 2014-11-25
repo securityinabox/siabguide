@@ -1,0 +1,192 @@
+Object_type: Tool
+Tool: Crabgrass
+Platform: Social Networks
+Need: Secure online collaboration platform
+Website: https://we.riseup.net/
+Download: 
+Version: Crabgrass version 0.5.3.2
+License: [GNU Affero General Public License (AGPL)](http://www.gnu.org/licenses/agpl-3.0.html)
+System_requirements: An Internet connection; Any web browser
+Admin: false
+Alternatives: 
+Comment:
+Group: Basic Usage 
+Title: Basic Howto
+Language: EN
+
+
+# How to Log into Your Crabgrass Account
+
+### Step 1
+
+Go to the [Crabgrass log-in page](https://we.riseup.net/). Crabgrass is configured to only allow https connections. Therefore you must type http**s** into the address bar of your browser in the beginning of the URL. This ensures that your data are encrypted while they are sent from your browser to the Crabgrass server. On the server your data is stored in encrypted format.
+
+### Step 2
+
+Enter your user name and password.
+
+![log-in page - user name and password filled in](https://securityinabox.org/sbox/screen/crabgrass-en/crab-8_login2.png)[Crabgrass img 05]Crabgrass Dashboard
+
+*Figure 4: The log-in page with user name and password filled in*
+
+### Step 3
+
+Click ![Log in](https://securityinabox.org/sbox/screen/crabgrass-en/crab-9_loginbutton.png)[Crabgrass img 06] and you're logged in.
+
+After you have successfully logged into your account you will be prompted to your *Crabgrass Dashboard*.
+
+![Crabgrass Dashboard](https://securityinabox.org/sbox/screen/crabgrass-en/crab-10_dashboard.png)[Crabgrass img 07]
+
+*Figure 5: The Crabgrass Dashboard*
+
+### Step 4
+
+If you **lose the password** to your Crabgrass account you can only retrieve it if you have entered your email address when you registered the account.
+
+![Crabgrass Log-in page](https://securityinabox.org/sbox/screen/crabgrass-en/crab-6_login.png)[Crabgrass img 08]
+
+*Figure 6: The Crabgrass Log-in page*
+
+### Step 5
+
+Go to the [Log-In page](https://we.riseup.net/account) and click [Forgot Password](https://we.riseup.net/account/forgot_password).
+
+![Forgot Password page](https://securityinabox.org/sbox/screen/crabgrass-en/crab-5_password.png)[Crabgrass img 09]
+
+*Figure 7: The Forgot Password page*
+
+### Step 6
+
+Enter your email address and click *Reset Password*.
+
+![Reset Password](https://securityinabox.org/sbox/screen/crabgrass-en/crab-7_reset.png)[Crabgrass img 10]
+
+*Figure 8: Message telling your that your password has been reset*
+
+### Step 7
+
+You will then receive an **email with the subject "we.riseup.net: You have requested a change of password"**. In the body of the email you will find a link that allows you to reset your password. The link will only be valid for 24 hours to prevent that someone can change your password who may gain access to your email account later on.
+
+Click the link, enter a **new password** and **confirm the password**. Again, make sure that it's long, contains special characters and can't be found in a dictionary.
+
+Click ![Reset Password](https://securityinabox.org/sbox/screen/crabgrass-en/crab-11_resetbutton.png)[Crabgrass img 11] to reset your password.
+
+![Password Reset](https://securityinabox.org/sbox/screen/crabgrass-en/crab12_passwordreset.png)[Crabgrass img 12]
+
+*Figure 9: Message telling you that your password has been reset*
+
+### Step 8
+
+Once you have registered and logged into your **Crabgrass account** you will be prompted to the Dashboard. The Welcome message tells you about some of the things you can do to customise your account. You can later hide the **Welcome message** by clicking ![Hide Welcome](https://securityinabox.org/sbox/screen/crabgrass-en/crab14_hidewelcome.png)[Crabgrass img 13] in the bottow right corner of the screen.
+
+![Crabgrass dashboard](https://securityinabox.org/sbox/screen/crabgrass-en/crab13_dashboard.png)[Crabgrass img 14]
+
+*Figure 10: Crabgrass dashboard*
+
+# How to create and customise a Crabgrass group
+
+Crabgrass is a plattform designed for **collaboration and sharing**. There are two ways how you can share material and collaborate on a topic. Either you create a friendship with a person, create a group or join an existing one.
+
+A group will allow you to do a number of things such as create and collaboratively work on pages that contain text, keep common task lists, make decisions together or share images, audio or video files and more. Within the group you will be able to create sub groups that are called committees and to build a network of several groups. You can join one or several chat rooms only accessible to your group or exchange messages.
+
+## Creating a Crabgrass group
+
+### Step 1
+
+To create a group you can either **click** "*Create a new group*" or **click** the link "*Create a new group*" that appears once you click the '*Groups*' menu at the top of the page.
+
+![Create a new group](https://securityinabox.org/sbox/screen/crabgrass-en/crab34_creategroup.png)[Crabgrass img 26]
+
+### Step 2
+
+This will activate a page that allows you to create a new group. **Choose** a name for the group. This name can contain more than one word. Then **choose** a Link Name. This will be part of the URL, or address, of the group and can only contain letters or numbers and no spaces. Next, **choose** the language that suits your group best and upload an image from your computer. The image, like the one for your account, will be cropped and stretched to 96 pixels square. **Click** "*Create*" in the bottom right corner to create the group.
+
+![page to create a new group](https://securityinabox.org/sbox/screen/crabgrass-en/crab35_newgroup.png)[Crabgrass img 27]
+
+*Figure 2: Example of a page to create a new group*
+
+### Step 3
+
+Once the group is created you can **configure the group settings**. You will be able to access all the settings later as well which gives you the choice to also change them later. Next to be basic settings you were asked to provide for the creation of the group there are options relating to Permissions, Public Profile and Featured Pages.
+
+In the **Visibility** section of the *Permissions*, you are required to decide whether:
+
+* the group will be publicly visible
+* group committees will be publicly visible
+* the group's members will be publicly visible.
+
+In the **Membership** section you can choose whether you want to *allow membership requests*. If you leave this unchecked only you can add members to your group but noone can request to become a member. If you allow membership requests Crabgrass users will be able to see and click a link on your group page: "**join group**". Also in the Membership section you have the option to allow anyone to join without your approval. If you prefer this option check the box next to "**Open Group**". Make sure to save your changes by clicking ![Save](https://securityinabox.org/sbox/screen/crabgrass-en/crab38_save.png)[Crabgrass img 28] in the bottom right corner of the page.
+
+For the **Administration** of your group you can create a **Council**. Without a council any member of the group can administrate the group. A council reduces the number of people who have permission to change the settings to everyone who is a member of the **Council**. You can also create a council later on, see **Step 5**.
+
+![Crabgrass Group Settings - Permissions](https://securityinabox.org/sbox/screen/crabgrass-en/crab36_groupsettings.png)[Crabgrass img 29]
+
+*Figure 3: Crabgrass Group Settings - Permissions*
+
+### Step 4
+
+Next to the tab **Permissions** you will find a tab called **Public Profile**. Here you can let others know more about your group. You can add a **Summary** of the purpose of the group and a location.
+
+You can **upload a photo**, add a caption and credit it. You can also **add a video** to describe your group.
+
+## Creating a council and committees for a Crabgrass group
+
+### Step 1
+
+To create a **council** for the administration of your group, click ![Create a new council](https://securityinabox.org/sbox/screen/crabgrass-en/crab37_createcouncil.png)[Crabgrass img 30] in the **Administration** section of the **Permissions** tab of the **Group Settings**. Members of the council will share the administration of your group.
+
+![Page to create a new council](https://securityinabox.org/sbox/screen/crabgrass-en/crab39_newcouncil_new.png)[Crabgrass img 31]
+
+*Figure 4: Page to create a new council*
+
+This will open a page that allows you to choose a name, a link name which will later be part of the URL of the council, a language and an image, or Icon, for the council of your group. Once you saved the changes you will be able to see the new council at the top of the page:
+
+![council created](https://securityinabox.org/sbox/screen/crabgrass-en/crab40_councilcreated.png)[Crabgrass img 32]
+
+*Figure 5: The council was created*
+
+Just like for any group in Crabgrass you will be able to **change and adjust the Basic Settings, Permissions, the Public Profile and Featured Pages**.
+
+Once your council has been created you can go back to the settings of your group and edit Permissions, Public Profile and Featured Pages.
+
+### Step 2
+
+Similar to creating a council you can **create committees** within your group. This allows members of the group to form subgroups within the group. Go to your group page and click **create** beneath **Committees**.
+
+![group with a council and one committee](https://securityinabox.org/sbox/screen/crabgrass-en/crab41_creategroup.png)[Crabgrass img 33]
+
+*Figure 6: A group with a council and one committee*
+
+This will prompt you to a form very similar to the one for creating a council, see *Figure 4*. Once you have created the committee you can edit its settings in the same way as group and council settings can be edited.
+
+## How to use the Crabgrass tools for groups
+
+Once your group is set up you can start using various tools suitable for your group. In the upper left corner of the dashboard you will find a green button that allows you to create a page. A page can be many things in Crabgrass: a wiki, a discussion page, task lists, polls and votes and files that you upload.
+
+### Step 1
+
+Click 'Create page' in the upper left corner of the dashboard of your group. This will allow you to choose what tool you would like to use. A wiki can be used to write documents together and to share resources.
+
+![Creating a new Crabgrass page](https://securityinabox.org/sbox/screen/crabgrass-en/crab42_createpage.png)[Crabgrass img 34]
+
+*Figure 7: Creating a new Crabgrass page*
+
+### Step 2
+
+A group discussion page can be used as a forum to exchange view on a given topic.
+
+![A group discussion page](https://securityinabox.org/sbox/screen/crabgrass-en/crab44_discussiont.png)[Crabgrass img 35]
+
+*Figure 8: A group discussion page*
+
+### Step 3
+
+A task list can list tasks everyone in the group shares. They can be assigned to specific members of the group who will then see all of their tasks in their own user dashboard.
+
+![task list with pending and completed tasks](https://securityinabox.org/sbox/screen/crabgrass-en/crab43_tasklist.png)[Crabgrass img 36]
+
+*Figure 9: A task list with pending and completed tasks*
+
+### Step 4
+
+Crabgrass also offers a **chat function** which you can find on the left hand side of the dashboard of your group. Click *Join chat* and enter the chat room only accessible for members of your group. Like all of Crabgrass it uses SSL encryption to secure the communication between your computer, the CCrabgrass server and those of other Crabgrass users. It does not, however, encrypt the content of your chat. If you would like to learn more about secure chat communication please read the **How-to Booklet** chapter [**Pidgin with OTR - Secure Instant Messaging**](https://securityinabox.org/pidgin_main)[Pidgin Main].
