@@ -21,7 +21,7 @@ Language: EN
 
 When you open **Gibberbot** and access your account, you can chat with any of your contacts by **tapping** their name.
 
-![Online contacts](/sites/siabnext.ttc.io/files/media/gibberbot-and-13.png) 
+![Online contacts](https://securityinabox.org/sbox/screen/gibberbot-en/13.png)[Chatsecure img 12]
 
 *Figure 12: Online contacts*
 
@@ -29,19 +29,19 @@ When you open **Gibberbot** and access your account, you can chat with any of yo
 
 When the chat is initiated, *Warning: This chat is NOT encrypted* will alert you that your communications are not secure.
 
-![Open chat window](/sites/siabnext.ttc.io/files/media/gibberbot-and-14.png) 
+![Open chat window](https://securityinabox.org/sbox/screen/gibberbot-en/14.png)[Chatsecure img 13] 
 
 *Figure 13: Open chat window*
 
 ## Step 3
 
-You can begin an encrypted conversation by **tapping** ![](/sites/siabnext.ttc.io/files/media/gibberbot-and-15.png) 
+You can begin an encrypted conversation by **tapping** ![](https://securityinabox.org/sbox/screen/gibberbot-en/15.png)[Chatsecure img 14]
 
 ## Step 4
 
-If any of your contacts uses an enabled OTR client like Gibberbot, [Pidgin](/glossary#Pidgin) or ChatSecure, the warning sign will change to *This chat is secure but the identities of the participants have NOT been verified* in yellow.
+If any of your contacts uses an enabled OTR client like Gibberbot, [Pidgin](https://securityinabox.org/glossary#Pidgin)[Glossary #Pidgin] or ChatSecure, the warning sign will change to *This chat is secure but the identities of the participants have NOT been verified* in yellow.
 
-![Secure chat with unverified fingerprint](/sites/siabnext.ttc.io/files/media/gibberbot-and-16.png) 
+![Secure chat with unverified fingerprint](https://securityinabox.org/sbox/screen/gibberbot-en/16.png)[Chatsecure img 15]
 
 *Figure 14: Secure chat with unverified fingerprint*
 
@@ -49,7 +49,7 @@ If any of your contacts uses an enabled OTR client like Gibberbot, [Pidgin](/glo
 
 ## Step 1
 
-**Select** the option *Verify* in the menu that shows by **tapping** ![](/sites/siabnext.ttc.io/files/media/gibberbot-and-17.png) .
+**Select** the option *Verify* in the menu that shows by **tapping** ![](https://securityinabox.org/sbox/screen/gibberbot-en/17.png)[Chatsecure img 16].
 
 ## Step 2
 
@@ -59,7 +59,7 @@ If any of your contacts uses an enabled OTR client like Gibberbot, [Pidgin](/glo
 
 If the values are identical, select the option *Verify Secret* in the menu that shows as below.
 
-![Verification options](/sites/siabnext.ttc.io/files/media/gibberbot-and-18.png) 
+![Verification options](https://securityinabox.org/sbox/screen/gibberbot-en/18.png)[Chatsecure img 17]
 
 *Figure 15: Verification options*
 
@@ -67,7 +67,7 @@ If the values are identical, select the option *Verify Secret* in the menu that 
 
 A window will appear as shown below, **click** on *Yes* after making sure that the person with the fingerprint is the same person who you want to talk to.
 
-![Confirm key verification](/sites/siabnext.ttc.io/files/media/gibberbot-and-19.png) 
+![Confirm key verification](https://securityinabox.org/sbox/screen/gibberbot-en/19.png)[Chatsecure img 18]
 
 *Figure 16: Confirm key verification*
 
@@ -79,7 +79,7 @@ Return to your chat with the *Back* button
 
 Once the identity is verified a green sign *This chat is secured and verified* will show in during chat.
 
-![Verified secure chat](/sites/siabnext.ttc.io/files/media/gibberbot-and-20.png) 
+![Verified secure chat](https://securityinabox.org/sbox/screen/gibberbot-en/20.png)[Chatsecure img 19]
 
 *Figure 17: Verified secure chat*
 

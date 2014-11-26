@@ -21,7 +21,7 @@ Language: EN
 
 A drop down selection of languages will appear. **Scroll** and **tap** the language you desire for **Gibberbot**.
 
-![Language options](/sites/siabnext.ttc.io/files/media/gibberbot-and-05.png) 
+![Language options](https://securityinabox.org/sbox/screen/gibberbot-en/05.png)[Chatsecure img 04]
 
 *Figure 4: Language options*
 
@@ -29,9 +29,9 @@ A drop down selection of languages will appear. **Scroll** and **tap** the langu
 
 **Tap** *Get Started* and *Next* 3 times to go through the general information about **Gibberbot**
 
-![Information about Gibberbot](/sites/siabnext.ttc.io/files/media/gibberbot-and-06.png) ![](/sites/siabnext.ttc.io/files/media/gibberbot-and-07.png) 
+![Information about Gibberbot](https://securityinabox.org/sbox/screen/gibberbot-en/06.png)[Chatsecure img 05] ![Information about Gibberbot](https://securityinabox.org/sbox/screen/gibberbot-en/07.png)[Chatsecure img 06]
 
-![Information about Gibberbot](/sites/siabnext.ttc.io/files/media/gibberbot-and-08.png) ![](/sites/siabnext.ttc.io/files/media/gibberbot-and-09.png) 
+![Information about Gibberbot](https://securityinabox.org/sbox/screen/gibberbot-en/08.png)[Chatsecure img 07] ![](https://securityinabox.org/sbox/screen/gibberbot-en/09.png)[Chatsecure img 08]
 
 *Figures 5, 6, 7, and 8: Information about Gibberbot*
 
@@ -40,7 +40,7 @@ A drop down selection of languages will appear. **Scroll** and **tap** the langu
 An account configuration page is shown:
 
 
-![Account configuration page](/sites/siabnext.ttc.io/files/media/gibberbot-and-10.png) 
+![Account configuration page](https://securityinabox.org/sbox/screen/gibberbot-en/10.png)[Chatsecure img 09]
 
 *Figure 9: Account configuration page*
 
@@ -48,7 +48,7 @@ An account configuration page is shown:
 
 **Add** *IM* *user* and *server* data (for example "Joe@gmail.com"), and then **add** your associated password.
 
-![Add account details](/sites/siabnext.ttc.io/files/media/gibberbot-and-11.png) 
+![Add account details](https://securityinabox.org/sbox/screen/gibberbot-en/11.png)[Chatsecure img 10]
 
 *Figure 10: Add account details*
 
@@ -56,9 +56,9 @@ An account configuration page is shown:
 
 ## Step 5
 
-If you have installed and switched on [**Orbot**](/en/Orbot_main), **check** *Connect using Orbot* for anonymity
+If you have installed and switched on [**Orbot**](https://securityinabox.org/Orbot_main)[Orbot Main], **check** *Connect using Orbot* for anonymity
 
-![Connect via Tor](/sites/siabnext.ttc.io/files/media/gibberbot-and-12.png) 
+![Connect via Tor](https://securityinabox.org/sbox/screen/gibberbot-en/12.png)[Chatsecure img 11]
 
 *Figure 11: Connect via Tor option*
 

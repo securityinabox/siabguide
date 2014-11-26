@@ -22,7 +22,7 @@ Language: EN
 **Download** the app from the [Google play store](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im)
 
 
-![Gibberbot in the Google Play store](/sites/siabnext.ttc.io/files/media/gibberbot-and-02.png)
+![Gibberbot in the Google Play store](https://securityinabox.org/sbox/screen/gibberbot-en/02.png)[Chatsecure img 01]
 
 *Figure 1: Gibberbot in the Google Play store*
 
@@ -31,7 +31,7 @@ Language: EN
 **Confirm** the permissions required by the app and install the app by tapping the *Install* button
 
 
-![Permissions and Installation](/sites/siabnext.ttc.io/files/media/gibberbot-and-03.png) ![](/sites/siabnext.ttc.io/files/media/gibberbot-and-04.png)
+![Permissions and Installation](https://securityinabox.org/sbox/screen/gibberbot-en/03.png)[Chatsecure img 02] ![Permissions and Installation](https://securityinabox.org/sbox/screen/gibberbot-en/04.png)[Chatsecure img 03]
 
 *Figures 2 and 3: Permissions and Installation*
 

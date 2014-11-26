@@ -23,25 +23,25 @@ Installing **Cobian Backup** is a relatively easy and quick procedure. To begin 
 
 ## Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-01.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-02.png) to activate the light blue *Extracting the resource* progress status bar, followed a few moments later by the following screen:
+**Double click** ![](https://securityinabox.org/sbox/screen/cobian-en/01.png)[Cobian img 01]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/cobian-en/02.png)[Cobian img 02] to activate the light blue *Extracting the resource* progress status bar, followed a few moments later by the following screen:
 
-![Please select a language](/sites/siabnext.ttc.io/files/media/cobian-win-03.png)
+![Please select a language](https://securityinabox.org/sbox/screen/cobian-en/03.png)[Cobian img 03]
 
 *Figure 1: The Cobian Setup Please select a language window*
 
 ## Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) to activate the *Please read and accept the license agreement* screen; **check** the *I accept* option, and then **click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) again to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] to activate the *Please read and accept the license agreement* screen; **check** the *I accept* option, and then **click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] again to activate the following screen:
 
-![Select an installation directory](/sites/siabnext.ttc.io/files/media/cobian-win-05.png)
+![Select an installation directory](https://securityinabox.org/sbox/screen/cobian-en/05.png)[Cobian img 05]
 
 *Figure 2: The Select an installation directory window*
 
 ## Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] to activate the following screen:
 
-![Installation type and Service options](/sites/siabnext.ttc.io/files/media/cobian-win-06.png)
+![Installation type and Service options](https://securityinabox.org/sbox/screen/cobian-en/06.png)[Cobian img 06]
 
 *Figure 3: The Installation type and Service options window*
 
@@ -53,16 +53,16 @@ Installing **Cobian Backup** is a relatively easy and quick procedure. To begin 
 
 ## Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) to activate the following message prompt:
+**Click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] to activate the following message prompt:
 
-![Cobian Backup 10 message prompt](/sites/siabnext.ttc.io/files/media/cobian-win-07.png)
+![Cobian Backup 10 message prompt](https://securityinabox.org/sbox/screen/cobian-en/07.png)[Cobian img 07]
 
 *Figure 4: The Cobian Backup 10 message prompt* 
 
 ## Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-08.png) to activate the next installation screen, and then **click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-04.png) to continue with the installation process.
+**Click** ![Yes](https://securityinabox.org/sbox/screen/cobian-en/08.png)[Cobian img 08] to activate the next installation screen, and then **click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] to continue with the installation process.
 
 ## Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-09.png) to complete the installation process. After the installation process has been completed, the **Cobian Backup** icon will appear in the **Windows System Tray** as follows: ![](/sites/siabnext.ttc.io/files/media/cobian-win-10.png)
+**Click** ![Done](https://securityinabox.org/sbox/screen/cobian-en/09.png)[Cobian img 09] to complete the installation process. After the installation process has been completed, the **Cobian Backup** icon will appear in the **Windows System Tray** as follows: ![](https://securityinabox.org/sbox/screen/cobian-en/10.png)[Cobian img 10]

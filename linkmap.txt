@@ -3,6 +3,7 @@ url_id | url
 Malware | https://securityinabox.org/chapter-1
 Secure Passwords | https://securityinabox.org/chapter-3
 Secure Storage | https://securityinabox.org/chapter-4
+Encrypting Information | https://securityinabox.org/chapter_4_1
 Information Loss | https://securityinabox.org/chapter-5
 Sensitive Information | https://securityinabox.org/chapter-6
 Private Communication | https://securityinabox.org/chapter-7
@@ -18,12 +19,17 @@ Advanced Virus Removal | https://securityinabox.org/dealingwithviruses#4.9
 CCleaner Main | https://securityinabox.org/ccleaner_main
 CCleaner FAQ | https://securityinabox.org/en/ccleaner_faq
 CCleaner Portable | https://securityinabox.org/ccleaner_portable
+Cobian Howto #2.2 | https://securityinabox.org/cobian_howtobackup#2.2
+Cobian Encrypt | https://securityinabox.org/cobian_encrypt
+Cobian Decompress | https://securityinabox.org/cobian_compress#3.1
 Firefox Main | https://securityinabox.org/en/Firefox_main
 K9 Main | https://securityinabox.org/en/k9_apg_main
 KeePass Main | https://securityinabox.org/en/keepass_main
 Orbot Main | https://securityinabox.org/Orbot_main
 Pidgin Main | https://securityinabox.org/pidgin_main
+<!-- Pidgin Google Talk | https://securityinabox.org/en/pidgin_furtherinfo -- Access denied --> 
 Tor Main | https://securityinabox.org/tor_main
+Truecrypt Main | https://securityinabox.org/truecrypt_main
 
 APG img 01 | https://securityinabox.org/sbox/screen/apg-en/01.png
 APG img 02 | https://securityinabox.org/sbox/screen/apg-en/02.png
@@ -180,6 +186,63 @@ Ccleaner img 71 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/0
 Ccleaner img 72 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/10.png
 Ccleaner img 73 | https://securityinabox.org/sbox/screen/ccleanerportable-en-1/11.png
 
+Chatsecure img 01 | https://securityinabox.org/sbox/screen/gibberbot-en/02.png
+Chatsecure img 02 | https://securityinabox.org/sbox/screen/gibberbot-en/03.png
+Chatsecure img 03 | https://securityinabox.org/sbox/screen/gibberbot-en/04.png
+Chatsecure img 04 | https://securityinabox.org/sbox/screen/gibberbot-en/05.png
+Chatsecure img 05 | https://securityinabox.org/sbox/screen/gibberbot-en/06.png
+Chatsecure img 06 | https://securityinabox.org/sbox/screen/gibberbot-en/07.png
+Chatsecure img 07 | https://securityinabox.org/sbox/screen/gibberbot-en/08.png
+Chatsecure img 08 | https://securityinabox.org/sbox/screen/gibberbot-en/09.png
+Chatsecure img 09 | https://securityinabox.org/sbox/screen/gibberbot-en/10.png
+Chatsecure img 10 | https://securityinabox.org/sbox/screen/gibberbot-en/11.png
+Chatsecure img 11 | https://securityinabox.org/sbox/screen/gibberbot-en/12.png
+Chatsecure img 12 | https://securityinabox.org/sbox/screen/gibberbot-en/13.png
+Chatsecure img 13 | https://securityinabox.org/sbox/screen/gibberbot-en/14.png
+Chatsecure img 14 | https://securityinabox.org/sbox/screen/gibberbot-en/15.png
+Chatsecure img 15 | https://securityinabox.org/sbox/screen/gibberbot-en/16.png
+Chatsecure img 16 | https://securityinabox.org/sbox/screen/gibberbot-en/17.png
+Chatsecure img 17 | https://securityinabox.org/sbox/screen/gibberbot-en/18.png
+Chatsecure img 18 | https://securityinabox.org/sbox/screen/gibberbot-en/19.png
+Chatsecure img 19 | https://securityinabox.org/sbox/screen/gibberbot-en/20.png
+
+Cobian img 01 | https://securityinabox.org/sbox/screen/cobian-en/01.png
+Cobian img 02 | https://securityinabox.org/sbox/screen/cobian-en/02.png
+Cobian img 03 | https://securityinabox.org/sbox/screen/cobian-en/03.png
+Cobian img 04 | https://securityinabox.org/sbox/screen/cobian-en/04.png
+Cobian img 05 | https://securityinabox.org/sbox/screen/cobian-en/05.png
+Cobian img 06 | https://securityinabox.org/sbox/screen/cobian-en/06.png
+Cobian img 07 | https://securityinabox.org/sbox/screen/cobian-en/07.png
+Cobian img 08 | https://securityinabox.org/sbox/screen/cobian-en/08.png
+Cobian img 09 | https://securityinabox.org/sbox/screen/cobian-en/09.png
+Cobian img 10 | https://securityinabox.org/sbox/screen/cobian-en/10.png
+Cobian img 11 | https://securityinabox.org/sbox/screen/cobian-en/11.png
+Cobian img 12 | https://securityinabox.org/sbox/screen/cobian-en/12.png
+Cobian img 13 | https://securityinabox.org/sbox/screen/cobian-en/13.png
+Cobian img 14 | https://securityinabox.org/sbox/screen/cobian-en/14.png
+Cobian img 15 | https://securityinabox.org/sbox/screen/cobian-en/15.png
+Cobian img 16 | https://securityinabox.org/sbox/screen/cobian-en/16.png
+Cobian img 17 | https://securityinabox.org/sbox/screen/cobian-en/17.png
+Cobian img 18 | https://securityinabox.org/sbox/screen/cobian-en/18.png
+Cobian img 19 | https://securityinabox.org/sbox/screen/cobian-en/19.png
+Cobian img 20 | https://securityinabox.org/sbox/screen/cobian-en/20.png
+Cobian img 21 | https://securityinabox.org/sbox/screen/cobian-en/21.png
+Cobian img 22 | https://securityinabox.org/sbox/screen/cobian-en/22.png
+Cobian img 23 | https://securityinabox.org/sbox/screen/cobian-en/23.png
+Cobian img 24 | https://securityinabox.org/sbox/screen/cobian-en/24.png
+Cobian img 25 | https://securityinabox.org/sbox/screen/cobian-en/25.png
+Cobian img 26 | https://securityinabox.org/sbox/screen/cobian-en/26.png
+Cobian img 27 | https://securityinabox.org/sbox/screen/cobian-en/27.png
+Cobian img 28 | https://securityinabox.org/sbox/screen/cobian-en/28.png
+Cobian img 29 | https://securityinabox.org/sbox/screen/cobian-en/29.png
+Cobian img 30 | https://securityinabox.org/sbox/screen/cobian-en/30.png
+Cobian img 31 | https://securityinabox.org/sbox/screen/cobian-en/31.png
+<!--Cobian img 32 | https://securityinabox.org/sbox/screen/cobian-en/32.png -- Page not found -->
+Cobian img 33 | https://securityinabox.org/sbox/screen/cobian-en/33.png
+Cobian img 34 | https://securityinabox.org/sbox/screen/cobian-en/34.png
+Cobian img 35 | https://securityinabox.org/sbox/screen/cobian-en/35.png
+Cobian img 36 | https://securityinabox.org/sbox/screen/cobian-en/36.png
+Cobian img 37 | https://securityinabox.org/sbox/screen/cobian-en/37.png
 
 
 Crabgrass img 01 | https://securityinabox.org/sbox/screen/crabgrass-en/crab-1.png
@@ -227,5 +290,8 @@ Metanull img 06 | https://securityinabox.org/sbox/screen/Metanull-en/06.png
 
 Glossary | https://securityinabox.org/glossary
 Glossary #encryption | https://securityinabox.org/glossary#encryption
+Glossary #Orbot | https://securityinabox.org/glossary#orbot
+Glossary #OTR | https://securityinabox.org/glossary#OTR
+Glossary #Pidgin | https://securityinabox.org/glossary#Pidgin
 Glossary #Tor | https://securityinabox.org/glossary#Tor
 

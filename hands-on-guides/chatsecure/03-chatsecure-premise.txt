@@ -18,5 +18,5 @@ Language: EN
 # Introduction to ChatSecure
 
 - **Gibberbot** works with Google, Facebook, any Jabber or XMPP servers.
-- Instant Messaging service accounts have to be created beforehand. If you would like to create an **IM** account, we strongly recommend **Google Talk**. Please refer to section [**4.0 How to Create a Google Talk Account**](/en/pidgin_furtherinfo) for more information and instructions.
+- Instant Messaging service accounts have to be created beforehand. If you would like to create an **IM** account, we strongly recommend **Google Talk**. Please refer to section [**4.0 How to Create a Google Talk Account**](https://securityinabox.org/en/pidgin_furtherinfo)[Pidgin Google Talk] for more information and instructions.
 - Special precautions should be taken to maintain anonymity when creating and using IM services.

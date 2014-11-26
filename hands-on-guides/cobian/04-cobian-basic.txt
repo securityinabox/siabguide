@@ -23,9 +23,9 @@ To create a new backup task, perform the following step:
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-11.png) to create a new backup task, and activate the *New task* window as follows:
+**Click** ![](https://securityinabox.org/sbox/screen/cobian-en/11.png)[Cobian img 11] to create a new backup task, and activate the *New task* window as follows:
 
-![New task pane](/sites/siabnext.ttc.io/files/media/cobian-win-12.png)
+![New task pane](https://securityinabox.org/sbox/screen/cobian-en/12.png)[Cobian img 12]
 
 *Figure 2: The New task pane*
 
@@ -65,7 +65,7 @@ The left sidebar lists a number of tabs and their associated screens - used to s
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-13.png) to confirm your search options and parameters for your backup task.
+**Click** ![OK](https://securityinabox.org/sbox/screen/cobian-en/13.png)[Cobian img 13] to confirm your search options and parameters for your backup task.
 
 ## Create a Backup File
 
@@ -73,9 +73,9 @@ To begin creating a backup file, perform the following steps:
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-14.png) in the left sidebar of the *New task* window to display a *blank* version of the following screen:
+**Click** ![Files](https://securityinabox.org/sbox/screen/cobian-en/14.png)[Cobian img 14] in the left sidebar of the *New task* window to display a *blank* version of the following screen:
 
-![New task window displaying Source and Destination](/sites/siabnext.ttc.io/files/media/cobian-win-15.png)
+![New task window displaying Source and Destination](https://securityinabox.org/sbox/screen/cobian-en/15.png)[Cobian img 15]
 
 *Figure 3: The New task (MyBackup) window displaying the Source and Destination panes*
 
@@ -85,9 +85,9 @@ To begin creating a backup file, perform the following steps:
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-16.png) in the *Source* pane to activate the following menu:
+**Click** ![Add](https://securityinabox.org/sbox/screen/cobian-en/16.png)[Cobian img 16] in the *Source* pane to activate the following menu:
 
-![Add button](/sites/siabnext.ttc.io/files/media/cobian-win-17.png)
+![Add button](https://securityinabox.org/sbox/screen/cobian-en/17.png)[Cobian img 17]
 
 *Figure 4: The Source pane - Add button menu*
 
@@ -103,9 +103,9 @@ The *Destination* pane specifies where the backup will be stored.
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-16.png) in the *Destination pane* to activate the following menu:
+**Click** ![Add](https://securityinabox.org/sbox/screen/cobian-en/16.png)[Cobian img 16] in the *Destination pane* to activate the following menu:
 
-![Add button](/sites/siabnext.ttc.io/files/media/cobian-win-18.png)
+![Add button](https://securityinabox.org/sbox/screen/cobian-en/18.png)[Cobian img 18]
 
 *Figure 5: The Destination pane - Add button menu*
 
@@ -125,9 +125,9 @@ To set the schedule options, perform the following steps:
 
 ### Step 1
 
-**Select** ![](/sites/siabnext.ttc.io/files/media/cobian-win-19.png) from the left sidebar, to activate the following pane:
+**Select** ![Schedule](https://securityinabox.org/sbox/screen/cobian-en/19.png)[Cobian img 19] from the left sidebar, to activate the following pane:
 
-![Properties for myBackup with Schedule type](/sites/siabnext.ttc.io/files/media/cobian-win-20.png)
+![Properties for myBackup with Schedule type](https://securityinabox.org/sbox/screen/cobian-en/20.png)[Cobian img 20]
 
 *Figure 6: The Properties for myBackup displaying the Schedule type pane*
 
@@ -149,9 +149,9 @@ The *Schedule type* options are listed in the drop-down menu, and described belo
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-13.png) to confirm the options and settings for the backup schedule as follows:
+**Click** ![OK](https://securityinabox.org/sbox/screen/cobian-en/13.png)[Cobian img 13] to confirm the options and settings for the backup schedule as follows:
 
-![New task window with configured Schedule type](/sites/siabnext.ttc.io/files/media/cobian-win-21.png)
+![New task window with configured Schedule type](https://securityinabox.org/sbox/screen/cobian-en/21.png)[Cobian img 21]
 
 *Figure 7: The New task window displaying a configured Schedule type pane*
 
@@ -163,13 +163,13 @@ Once you have decided on a backup schedule, you have completed the final step. T
 
 ### Step 1
 
-**Create** a backup task as documented in section [**2.3 How to Create a Backup File**](/en/cobian_howtobackup#2.2) containing the backup files you want to archive.
+**Create** a backup task as documented in section [**2.3 How to Create a Backup File**](https://securityinabox.org/cobian_howtobackup#2.2)[Cobian Howto #2.2] containing the backup files you want to archive.
 
 ### Step 2
 
-**Select** ![](/sites/siabnext.ttc.io/files/media/cobian-win-22.png) from the left sidebar to activate the *New task* screen as follows:
+**Select** ![Archive](https://securityinabox.org/sbox/screen/cobian-en/22.png)[Cobian img 22] from the left sidebar to activate the *New task* screen as follows:
 
-![New task screen with Compression and Strong Encryption](/sites/siabnext.ttc.io/files/media/cobian-win-23.png)
+![New task screen with Compression and Strong Encryption](https://securityinabox.org/sbox/screen/cobian-en/23.png)[Cobian img 23]
 
 *Figure 1: The New task screen displaying the Compression and Strong Encryption panes*
 
@@ -192,7 +192,7 @@ Let's say that you are archiving a large number of files, and you want to burn t
 
 The following options are available to you when you click on the *Split options* drop-down list. Your choice will depend on the type of removable storage device available to you.
 
-![Split Options drop-down list](/sites/siabnext.ttc.io/files/media/cobian-win-24.png)
+![Split Options drop-down list](https://securityinabox.org/sbox/screen/cobian-en/24.png)[Cobian img 24]
 
 *Figure 2: The Split Options drop-down list*
 
@@ -209,7 +209,7 @@ To do this, perform the following steps:
 
 **Select** the *Custom size* (bytes) option, then <b>type</b> the size of the archive in bytes into the text field as follows:
 
-![Custom size text field](/sites/siabnext.ttc.io/files/media/cobian-win-25.png)
+![Custom size text field](https://securityinabox.org/sbox/screen/cobian-en/25.png)[Cobian img 25]
 
 *Figure 10: The Custom size text field*
 
@@ -223,7 +223,7 @@ To give you an idea of sizes
 
 *Password Protect*: This option lets you enter a password to protect the archive. Simply type, then re-type a password into the two boxes provided. When you try to decompress the archive, you will be asked for the password before the task commences.
 
-**Note**: If you want to secure your archive, you should think about using another method than a password. **Cobian Backup** lets you encrypt your archive. This will be covered in section, [**4. How to encrypt the Backup File**](/cobian_encrypt). Alternatively, you may also refer to the [**Truecrypt Hands-on Guide**](/en/truecrypt_main) to find out how to create an encrypted storage space on your computer or removable device.
+**Note**: If you want to secure your archive, you should think about using another method than a password. **Cobian Backup** lets you encrypt your archive. This will be covered in section, [**4. How to encrypt the Backup File**](https://securityinabox.org/cobian_encrypt)[Cobian Encrypt]. Alternatively, you may also refer to the [**Truecrypt Hands-on Guide**](https://securityinabox.org/truecrypt_main)[Truecrypt Main] to find out how to create an encrypted storage space on your computer or removable device.
 
 *Comment*: This option lets you write something descriptive about the archive, but it is not a requirement.
 
@@ -235,23 +235,23 @@ To decompress your backup, perform the following steps:
 
 **Select > Tools > Decompressor** as shown below;
 
-![Tools menu with Decompressor option](/sites/siabnext.ttc.io/files/media/cobian-win-26.png)
+![Tools menu with Decompressor option](https://securityinabox.org/sbox/screen/cobian-en/26.png)[Cobian img 26]
 
 *Figure 3: The Tools menu displaying the Decompressor option*
 
 The **Decompressor** window appears as follows:
 
-![Cobian 10 Backup - Decompressor window](/sites/siabnext.ttc.io/files/media/cobian-win-27.png)
+![Cobian 10 Backup - Decompressor window](https://securityinabox.org/sbox/screen/cobian-en/27.png)[Cobian img 27]
 
 *Figure 4: The Cobian 10 Backup - Decompressor window*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-28.png) to open a browse window to enable you to select the archive you want to decompress.
+**Click** ![](https://securityinabox.org/sbox/screen/cobian-en/28.png)[Cobian img 28] to open a browse window to enable you to select the archive you want to decompress.
 
 ### Step 3
 
-**Select** the archive (*.zip* or *.7x* file) and then **click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-13.png).
+**Select** the archive (*.zip* or *.7x* file) and then **click** ![OK](https://securityinabox.org/sbox/screen/cobian-en/13.png)[Cobian img 13].
 
 ### Step 4
 
@@ -259,11 +259,11 @@ The **Decompressor** window appears as follows:
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-29.png) to open another window that lets you choose the folder in which to unpack the archive.
+**Click** ![](https://securityinabox.org/sbox/screen/cobian-en/29.png)[Cobian img 29] to open another window that lets you choose the folder in which to unpack the archive.
 
 ### Step 6
 
-**Select** a folder, and then **click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-13.png).
+**Select** a folder, and then **click** ![OK](https://securityinabox.org/sbox/screen/cobian-en/13.png)[Cobian img 13].
 
 Use **Windows Explorer** to view the files that go to that folder.
 
@@ -271,7 +271,7 @@ Use **Windows Explorer** to view the files that go to that folder.
 
 Encryption may be a necessity for those wishing to keep their backup secure from unauthorised access.
 
-Encryption is the process of encoding, or scrambling, data in such a way that it appears unintelligible to anyone who does not have the specific key needed to decode the message. For more information on encryption, please refer to **How-to Booklet** chapter [**4.How to protect the sensitive files on your computer**](http://security.ngoinabox.org/chapter-4)
+Encryption is the process of encoding, or scrambling, data in such a way that it appears unintelligible to anyone who does not have the specific key needed to decode the message. For more information on encryption, please refer to **How-to Booklet** chapter [**4.How to protect the sensitive files on your computer**](https://securityinabox.org/chapter-4)[Secure Storage]
 
 ## How to Encrypt Your Backup File
 
@@ -281,7 +281,7 @@ The *Strong encryption* pane is used to specify the encryption method to be used
 
 **Click** the *Encryption type* drop-down box to activate its list of different encryption methods as follows:
 
-![Encryption type drop-down list](/sites/siabnext.ttc.io/files/media/cobian-win-30.png)
+![Encryption type drop-down list](https://securityinabox.org/sbox/screen/cobian-en/30.png)[Cobian img 30]
 
 *Figure 1: The Encryption type drop-down list*
 
@@ -297,15 +297,15 @@ To keep things simple, we recommend that you choose from either the *Blowfish* o
 
 **Type** and **re-type** the password into the two boxes provided as below.
 
-![Encryption type and Passphrase text fields](/sites/siabnext.ttc.io/files/media/cobian-win-31.png)
+![Encryption type and Passphrase text fields](https://securityinabox.org/sbox/screen/cobian-en/31.png)[Cobian img 31]
 
 *Figure 2: The Encryption type and Passphrase text fields*
 
-The strength of the password is indicated by the bar marked 'Passphrase quality'. The further the bar moves to the right, the stronger the passphrase. Refer to the **How-to Booklet** chapter [**3.How to Create and Maintain Secure Passwords**](/chapter-3) and the [**KeePass**](/en/keepass_main) Hands-on guide for instructions on how to create and store secure passphrases (or passwords).
+The strength of the password is indicated by the bar marked 'Passphrase quality'. The further the bar moves to the right, the stronger the passphrase. Refer to the **How-to Booklet** chapter [**3.How to Create and Maintain Secure Passwords**](https://securityinabox.org/chapter-3)[Secure Passwords] and the [**KeePass**](https://securityinabox.org/en/keepass_main)[KeePass Main] Hands-on guide for instructions on how to create and store secure passphrases (or passwords).
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-13.png).
+**Click** ![OK](https://securityinabox.org/sbox/screen/cobian-en/13.png)[Cobian img 13].
 
 ## Decrypt Your Backup File
 
@@ -315,29 +315,29 @@ Decrypting your backup file is easy and quick. To decrypt your backup file, perf
 
 **Select > Tools > Decrypter and Keys** as shown below:
 
-![Tools menu with Decrypter and Keys item selected](/sites/siabnext.ttc.io/files/media/cobian-win-32.png)
+![Tools menu with Decrypter and Keys item selected](https://securityinabox.org/sbox/screen/cobian-en/32.png)[Cobian img 32]
 
 *Figure 3: The Tools menu with Decrypter and Keys item selected*
 
 *This will activate the Decrypter and Keys window as follows:*
 
-![Cobian Backup 10 Decrypter and Keys](/sites/siabnext.ttc.io/files/media/cobian-win-33.png)
+![Cobian Backup 10 Decrypter and Keys](https://securityinabox.org/sbox/screen/cobian-en/33.png)[Cobian img 33]
 
 *Figure 4: The Cobian Backup 10 Decrypter and Keys window*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-34.png) to select the archive you want to decrypt.
+**Click** ![Select](https://securityinabox.org/sbox/screen/cobian-en/34.png)[Cobian img 34] to select the archive you want to decrypt.
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-35.png) to select the folder in which to store the decrypted archive.
+**Click** ![Destination](https://securityinabox.org/sbox/screen/cobian-en/35.png)[Cobian img 35] to select the folder in which to store the decrypted archive.
 
 ### Step 4
 
-**Select** the same encryption type you selected in section [**4.1 How to Encrypt Your Backup File**](/en/chapter_4_1#4.1), in the *Methods* drop-down list.
+**Select** the same encryption type you selected in section [**4.1 How to Encrypt Your Backup File**](https://securityinabox.org/chapter_4_1)[Encrypting Information], in the *Methods* drop-down list.
 
-![New Methods drop-down list](/sites/siabnext.ttc.io/files/media/cobian-win-36.png)
+![New Methods drop-down list](https://securityinabox.org/sbox/screen/cobian-en/36.png)[Cobian img 36]
 
 *Figure 5: The New Methods drop-down list*
 
@@ -351,6 +351,6 @@ Decrypting your backup file is easy and quick. To decrypt your backup file, perf
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/cobian-win-37.png).
+**Click** ![Decrypt](https://securityinabox.org/sbox/screen/cobian-en/37.png)[Cobian img 37].
 
-The file(s) will be decrypted to the location that you specified. If the files were also compressed, you will need to decompress them as outlined in section  [**3.1 How to Decompress Your Backup**](/en/chapter_3_1#3.1).
+The file(s) will be decrypted to the location that you specified. If the files were also compressed, you will need to decompress them as outlined in section  [**3.1 How to Decompress Your Backup**](https://securityinabox.org/cobian_compress#3.1)[Cobian Decompress].
