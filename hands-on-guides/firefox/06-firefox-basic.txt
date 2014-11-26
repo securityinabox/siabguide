@@ -38,15 +38,15 @@ Downloading and installing **Mozilla Add-ons** is quick and simple. To begin dow
 
 **Type** the name of the add-on into the **Mozilla** search field (the **Adblock Plus** add-on is used in this example) as follows:
 
-![Mozilla Firefox Add-ons Search bar displaying Adblock Plus](/sites/siabnext.ttc.io/files/media/firefox-win-20.png)
+![Mozilla Firefox Add-ons Search bar displaying Adblock Plus](https://securityinabox.org/sbox/screen/firefox-en-1/20.png)[Firefox img 17]
 
 *Figure 1: The Mozilla Firefox Add-ons Search bar displaying Adblock Plus* 
 
 ### Step 4
 
-Either **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-21.png) or **press** *Enter* to display the following screen:
+Either **click** ![](https://securityinabox.org/sbox/screen/firefox-en-1/21.png)[Firefox img 18] or **press** *Enter* to display the following screen:
 
-![Search Results for Adblock Plus](/sites/siabnext.ttc.io/files/media/firefox-win-22.png)
+![Search Results for Adblock Plus](https://securityinabox.org/sbox/screen/firefox-en-1/22.png)[Firefox img 19]
 
 *Figure 2: The Search Results for Adblock Plus pane*
 
@@ -54,43 +54,43 @@ Either **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-21.png) or *
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-23.png) to activate the following screens:
+**Click** ![Add to Firefox](https://securityinabox.org/sbox/screen/firefox-en-1/23.png)[Firefox img 20] to activate the following screens:
 
-![](/sites/siabnext.ttc.io/files/media/firefox-win-24.png)
+![](https://securityinabox.org/sbox/screen/firefox-en-1/24.png)[Firefox img 21]
 
 *Figure 3: The Adblock Plus :: Search :: Add-ons for Firefox - Mozilla Firefox window*
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-25.png) to activate the following windows:
+**Click** ![Allow](https://securityinabox.org/sbox/screen/firefox-en-1/25.png)[Firefox img 22] to activate the following windows:
 
-![Adblock Plus :: Search](/sites/siabnext.ttc.io/files/media/firefox-win-26.png)
+![Adblock Plus :: Search](https://securityinabox.org/sbox/screen/firefox-en-1/26.png)[Firefox img 23]
 
 *Figure 4: The Adblock Plus :: Search :: Add-ons for Firefox - Mozilla Firefox with a pop-up warning*
 
-![Adblock Plus Software Installation](/sites/siabnext.ttc.io/files/media/firefox-win-27.png)
+![Adblock Plus Software Installation](https://securityinabox.org/sbox/screen/firefox-en-1/27.png)[Firefox img 24]
 
 *Figure 5: The Adblock Plus Software Installation window*
 
 ### Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-28.png) after it becomes enabled, to begin installing the add-on; after the installation has been completed, the following screen will appear:
+**Click** ![Install Now](https://securityinabox.org/sbox/screen/firefox-en-1/28.png)[Firefox img 25] after it becomes enabled, to begin installing the add-on; after the installation has been completed, the following screen will appear:
 
-![Adblock plus :: Search - pop-up notification](/sites/siabnext.ttc.io/files/media/firefox-win-29.png)
+![Adblock plus :: Search - pop-up notification](https://securityinabox.org/sbox/screen/firefox-en-1/29.png)[Firefox img 26]
 
 *Figure 6: The Adblock plus :: Search :: Add-ons for Firefox - Mozilla Firefox with a pop-up notification*
 
-**Tip**: Many add-ons and extensions currently require that **Firefox** be restarted to successfully install them. **Click** either ![](/sites/siabnext.ttc.io/files/media/firefox-win-30.png) or ![](/sites/siabnext.ttc.io/files/media/firefox-win-31.png), to **select** the *Not Now* item if you prefer to restart **Firefox** later. 
+**Tip**: Many add-ons and extensions currently require that **Firefox** be restarted to successfully install them. **Click** either ![Restart Now](https://securityinabox.org/sbox/screen/firefox-en-1/30.png)[Firefox img 27] or ![](https://securityinabox.org/sbox/screen/firefox-en-1/31.png)[Firefox img 28], to **select** the *Not Now* item if you prefer to restart **Firefox** later. 
 
 ### Step 8
 
 **Select** *Add-ons* item in the *Tools* menu in the **Firefox** menu bar, to activate the following screen:
 
-![Tools - Add-ons item selected](/sites/siabnext.ttc.io/files/media/firefox-win-32.png)
+![Tools - Add-ons item selected](https://securityinabox.org/sbox/screen/firefox-en-1/32.png)[Firefox img 29]
 
 *Figure 7: The Tools menu with the Add-ons item selected*
 
-![Add-ons Manager tab with newly installed Adblock Plus](/sites/siabnext.ttc.io/files/media/firefox-win-33.png)
+![Add-ons Manager tab with newly installed Adblock Plus](https://securityinabox.org/sbox/screen/firefox-en-1/33.png)[Firefox img 30]
 
 *Figure 8: The Add-ons Manager tab displaying the newly installed Adblock Plus add-on*
 
@@ -98,7 +98,7 @@ Either **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-21.png) or *
 
 ## Disable or Remove Firefox Add-Ons
 
-The *Add-ons* tab displays all installed add-ons as shown in *Figure 8*. Any **Mozilla** add-on can be either temporarily disabled by **clicking** ![](/sites/siabnext.ttc.io/files/media/firefox-win-34.png) or completely removed by **clicking** ![](/sites/siabnext.ttc.io/files/media/firefox-win-35.png). However, in some instances **Firefox** *must* be restarted for the changes to take effect.
+The *Add-ons* tab displays all installed add-ons as shown in *Figure 8*. Any **Mozilla** add-on can be either temporarily disabled by **clicking** ![Disable](https://securityinabox.org/sbox/screen/firefox-en-1/34.png)[Firefox img 31] or completely removed by **clicking** ![Remove](https://securityinabox.org/sbox/screen/firefox-en-1/35.png)[Firefox img 32]. However, in some instances **Firefox** *must* be restarted for the changes to take effect.
 
 ## Update Mozilla Add-ons
 
@@ -106,9 +106,9 @@ Every so often, the various add-ons designed for use must be updated to be compa
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-36.png) to activate its associated menu, and then **select** *Check for updates* item to manually update your add-ons as shown in *Figure 9* below. 
+**Click** ![](https://securityinabox.org/sbox/screen/firefox-en-1/36.png)[Firefox img 33] to activate its associated menu, and then **select** *Check for updates* item to manually update your add-ons as shown in *Figure 9* below. 
 
-![](/sites/siabnext.ttc.io/files/media/firefox-win-37.png)
+![Add-ons Manager update button - drop-down list](https://securityinabox.org/sbox/screen/firefox-en-1/37.png)[Firefox img 34]
 
 *Figure 9: The Add-ons Manager update button displaying its associated drop-down list*
 
@@ -124,9 +124,9 @@ To manually check for updates of plugins, perform the following steps:
 
 ### Step 1
 
-**Click** [**https://www.mozilla.com/plugincheck**](https://www.mozilla.com/plugincheck) to activate the following site:
+**Click** **https://www.mozilla.com/plugincheck** to activate the following site:
 
-![Mozilla Firefox Plugin Check & Updates site](/sites/siabnext.ttc.io/files/media/firefox-win-38.png)
+![Mozilla Firefox Plugin Check & Updates site](https://securityinabox.org/sbox/screen/firefox-en-1/38.png)[Firefox img 35]
 
 *Figure 10: The Mozilla Firefox Plugin Check & Updates site*
 
@@ -134,11 +134,11 @@ To manually check for updates of plugins, perform the following steps:
 
 **Address** each plugin issue presented on the web page, indicated by the status on the button as follows:
 
-- For plugins displaying ![](/sites/siabnext.ttc.io/files/media/firefox-win-39.png) we **strongly** recommend that you *immediately* update them by clicking this button, and follow its instruction page. (Alternatively, please follow the steps after this list of buttons to disable or remove obsolete plugins.) 
+- For plugins displaying ![Update Now](https://securityinabox.org/sbox/screen/firefox-en-1/39.png)[Firefox img 36] we **strongly** recommend that you *immediately* update them by clicking this button, and follow its instruction page. (Alternatively, please follow the steps after this list of buttons to disable or remove obsolete plugins.) 
 
-- For plugins displaying ![](/sites/siabnext.ttc.io/files/media/firefox-win-45.png), consider disabling or removing them unless the plugins are required and updated individually.
+- For plugins displaying ![Research](https://securityinabox.org/sbox/screen/firefox-en-1/45.png)[Firefox img 37], consider disabling or removing them unless the plugins are required and updated individually.
 
-- For plugins displaying ![](/sites/siabnext.ttc.io/files/media/firefox-win-47.png), review them individually to determine which are required, and disable or remove those which are unknown or unnecessary.
+- For plugins displaying ![Up to Date](https://securityinabox.org/sbox/screen/firefox-en-1/47.png)[Firefox img 38], review them individually to determine which are required, and disable or remove those which are unknown or unnecessary.
 
 To **disable** an unknown plugin or one that is no longer required, perform the following steps:
 
@@ -148,7 +148,7 @@ To **disable** an unknown plugin or one that is no longer required, perform the 
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-40.png) to reveal a complete list of **Mozilla Firefox** plugins, identify the plugin you would like to disable, and then **click**  ![](/sites/siabnext.ttc.io/files/media/firefox-win-34.png).
+**Click** ![Plugins](https://securityinabox.org/sbox/screen/firefox-en-1/40.png)[Firefox img 39] to reveal a complete list of **Mozilla Firefox** plugins, identify the plugin you would like to disable, and then **click** ![Disable](https://securityinabox.org/sbox/screen/firefox-en-1/34.png)[Firefox img 31].
 
 To **remove a plugin** from your computer:
 
@@ -158,11 +158,11 @@ To **remove a plugin** from your computer:
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-41.png).
+**Click** ![Programs - Uninstall](https://securityinabox.org/sbox/screen/firefox-en-1/41.png)[Firefox img 40].
 
 ### Step 3
 
-**Select** the relevant program from the window, and then **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-43.png). 
+**Select** the relevant program from the window, and then **click** ![Remove](https://securityinabox.org/sbox/screen/firefox-en-1/43.png)[Firefox img 40]. 
 
 Repeat these steps until all the issues on the *Plugin Check & Updates* page are resolved. It is *absolutely essential* that you search for updates on a **monthly basis** at minimum. Plugins are constantly being improved and upgraded to deal with all manner of evolving security problems. 
 

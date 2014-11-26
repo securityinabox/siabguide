@@ -34,50 +34,50 @@ To begin downloading and extracting **Firefox Portable**, perform the following 
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-01.png) to begin downloading the **Firefox Portable** installation file.
+**Click** ![Download Now](https://securityinabox.org/sbox/screen/firefoxportable-en-1/01.png)[Firefox img 60] to begin downloading the **Firefox Portable** installation file.
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-02.png) to save the ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-03.png) installation file to your computer; then **navigate** to it.
+**Click** ![Save File](https://securityinabox.org/sbox/screen/firefoxportable-en-1/02.png)[Firefox img 61] to save the ![installation file](https://securityinabox.org/sbox/screen/firefoxportable-en-1/03.png)[Firefox img 62] installation file to your computer; then **navigate** to it.
 
 ### Step 4
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-03.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-04.png) to activate the *Mozilla Firefox, Portable Edition | Portableapps.com Installer* window.
+**Double click** ![](https://securityinabox.org/sbox/screen/firefoxportable-en-1/03.png)[Firefox img 63]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/firefoxportable-en-1/04.png)[Firefox img 64] to activate the *Mozilla Firefox, Portable Edition | Portableapps.com Installer* window.
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-05.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/firefoxportable-en-1/05.png)[Firefox img 65] to activate the following screen:
 
-![Choose Install Location](/sites/siabnext.ttc.io/files/media/firefoxportable-win-06.png)
+![Choose Install Location](https://securityinabox.org/sbox/screen/firefoxportable-en-1/06.png)[Firefox img 66]
 
 *Figure 1: The Choose Install Location window*
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-07.png) to activate the *Browse for Folders* window as follows:
+**Click** ![Browse](https://securityinabox.org/sbox/screen/firefoxportable-en-1/07.png)[Firefox img 67] to activate the *Browse for Folders* window as follows:
 
-![Browse for Folder](/sites/siabnext.ttc.io/files/media/firefoxportable-win-08.png)
+![Browse for Folder](https://securityinabox.org/sbox/screen/firefoxportable-en-1/08.png)[Firefox img 68]
 
 *Figure 2: The Browse for Folder window*
 
 ### Step 7
 
-**Navigate** to your destination external drive or USB memory stick, as shown in *Figure 3* above, then **click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-09.png) to confirm the destination of the **Mozilla Firefox, Portable Edition** file, and return to the *Choose Install Location* window. 
+**Navigate** to your destination external drive or USB memory stick, as shown in *Figure 3* above, then **click** ![OK](https://securityinabox.org/sbox/screen/firefoxportable-en-1/09.png)[Firefox img 69] to confirm the destination of the **Mozilla Firefox, Portable Edition** file, and return to the *Choose Install Location* window. 
 
 ### Step 8
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-10.png) to begin the extraction process, then **click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-11.png) to complete the installation process, and then **navigate** to the removable drive or USB memory stick which the **Mozilla Firefox, Portable Edition** file was saved.
+**Click** ![Install](https://securityinabox.org/sbox/screen/firefoxportable-en-1/10.png)[Firefox img 70] to begin the extraction process, then **click** ![Finish](https://securityinabox.org/sbox/screen/firefoxportable-en-1/11.png)[Firefox img 71] to complete the installation process, and then **navigate** to the removable drive or USB memory stick which the **Mozilla Firefox, Portable Edition** file was saved.
 
 ### Step 9
 
 **Open** your removable device or USB memory stick, and it should resemble the following:
 
-![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-12.png)
+![newly installed Mozilla Firefox Portable Edition](https://securityinabox.org/sbox/screen/firefoxportable-en-1/12.png)[Firefox img 72]
 
 *Figure 3: The newly installed Mozilla Firefox Portable Edition with the Firefox Portable folder highlighted in blue*
 
 ### Step 10
 
-**Open** the **Firefox Portable** folder and then **double click** ![](/sites/siabnext.ttc.io/files/media/firefoxportable-win-13.png) to begin using **Firefox Portable**.
+**Open** the **Firefox Portable** folder and then **double click** ![](https://securityinabox.org/sbox/screen/firefoxportable-en-1/13.png)[Firefox img 73] to begin using **Firefox Portable**.
 
-Please refer to the [**Firefox**](/en/firefox_main) chapter to begin configuring and using it.
+Please refer to the [**Firefox**](https://securityinabox.org/firefox_main)[Firefox Main] chapter to begin configuring and using it.

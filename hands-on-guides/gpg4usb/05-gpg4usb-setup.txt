@@ -8,7 +8,7 @@ Version: 0.3.3
 License: Free/Open Source Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [Thunderbird](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows) for Microsoft Windows, GNU/Linux and MacOS X
+Alternatives: [Thunderbird](https://securityinabox.org/thunderbird_main)[Thunderbird Main] for Microsoft Windows, GNU/Linux and MacOS X
 Comment: read 03-gpg4usb-premise before installing and using this tool
 Group: Basic Usage
 Title: Configuration
@@ -21,23 +21,23 @@ Before you can begin encrypting and decrypting email, text messages, documents a
 
 ### Step 1
 
-To run the **gpg4usb** program for the first time , **find and double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-02.png) to open the **gpg4usb** folder and then **double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-03.png). This will activate the *Getting Started* window. Select a language and click *Next*
+To run the **gpg4usb** program for the first time , **find and double click** ![gpg4usb folder](https://securityinabox.org/sbox/screen/gpg4usb-en-1/02.png)[gpg4usb img 02] to open the **gpg4usb** folder and then **double click** ![start_windows.exe](/sites/siabnext.ttc.io/files/media/gpg4usb-win-03.png)[gpg4usb img 03]. This will activate the *Getting Started* window. Select a language and click *Next*
 
 ### Step 2
 
 At the *Choose your Action* screen, click *Create a new keypair*
 
-![Choose your Action](/sites/siabnext.ttc.io/files/media/gpg4usb-win-04.png)
+![Choose your Action](https://securityinabox.org/sbox/screen/gpg4usb-en-1/04.png)[gpg4usb img 04]
 
 *Figure 2: Choose your Action*
 
-Note the other options to import existing keys available on the First Start Wizard screen. If upgrading from a previous version of gpg4usb, you can choose *import settings and/or keys from gpg4usb*. If using [Thunderbird with Enigmail](/en/thunderbird_main), you can choose the option *import keys from GnuPG*. You can also choose to import keys at a later stage by running the wizard again from the *Help* -> *Open Wizard* menu.
+Note the other options to import existing keys available on the First Start Wizard screen. If upgrading from a previous version of gpg4usb, you can choose *import settings and/or keys from gpg4usb*. If using [Thunderbird with Enigmail](https://securityinabox.org/thunderbird_main)[Thunderbird Main], you can choose the option *import keys from GnuPG*. You can also choose to import keys at a later stage by running the wizard again from the *Help* -> *Open Wizard* menu.
 
 ### Step 3
 
 At the *Create a keypair* **click** *Create New Key*
 
-![Create New Key](/sites/siabnext.ttc.io/files/media/gpg4usb-win-05.png)
+![Create New Key](https://securityinabox.org/sbox/screen/gpg4usb-en-1/05.png)[gpg4usb img 05]
 
 *Figure 3: Create New Key* 
 
@@ -45,13 +45,13 @@ At the *Create a keypair* **click** *Create New Key*
 
 **Enter** the appropriate data into the corresponding text fields, so that your own window resembles the following:
 
-![completed Generate Key](/sites/siabnext.ttc.io/files/media/gpg4usb-win-06.png)
+![completed Generate Key](https://securityinabox.org/sbox/screen/gpg4usb-en-1/06.png)[gpg4usb img 06]
 
 *Figure 4: An example of a completed Generate Key form*
 
 **Important:** 
 
-* Set a secure password to protect your private key (please refer to chapter [**3. How to create and maintain secure passwords**](/en/chapter-3)).
+* Set a secure password to protect your private key (please refer to chapter [**3. How to create and maintain secure passwords**](https://securityinabox.org/chapter-3)[Secure Passwords]).
 * We advice that you use expiration date and that you set it to less then 5 years.
 * We strongly recommend that you generate keys of at least 2048 bit size. Key of a larger size is more secure, but also requires more time to create, encrypt and decrypt texts.
 
@@ -61,11 +61,11 @@ At the *Create a keypair* **click** *Create New Key*
 
 **Click** *OK* to generate the keypair.
 
-![Generating Key...](/sites/siabnext.ttc.io/files/media/gpg4usb-win-07.png)
+![Generating Key...](https://securityinabox.org/sbox/screen/gpg4usb-en-1/07.png)[gpg4usb img 07]
 
 *Figure 5: Generating Key...*
 
-![New Key Created](/sites/siabnext.ttc.io/files/media/gpg4usb-win-08.png)
+![New Key Created](https://securityinabox.org/sbox/screen/gpg4usb-en-1/08.png)[gpg4usb img 08]
 
 *Figure 6: New Key Created*
 
@@ -73,7 +73,7 @@ At the *Create a keypair* **click** *Create New Key*
 
 **Click** *OK* to come back to the **gpg4usb** window. After the keypair has been successfully generated, you will see a screen resembling the following: 
 
-![gpg4usb window with newly created key pair](/sites/siabnext.ttc.io/files/media/gpg4usb-win-09.png)
+![gpg4usb window with newly created key pair](https://securityinabox.org/sbox/screen/gpg4usb-en-1/09.png)[gpg4usb img 09]
 
 *Figure 7: The gpg4usb window, displaying the newly created key pair* 
 
@@ -89,17 +89,17 @@ To export your public key with **gpg4usb**, perform the following steps:
 
 ### Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-02.png) to open the **gpg4usb** folder.
+**Double click** ![gpg4usb folder](https://securityinabox.org/sbox/screen/gpg4usb-en-1/02.png)[gpg4usb img 02] to open the **gpg4usb** folder.
 
 ### Step 2
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-03.png) to open **gpg4usb** program 
+**Double click** ![start_windows.exe](https://securityinabox.org/sbox/screen/gpg4usb-en-1/03.png)[gpg4usb img 03] to open **gpg4usb** program 
 
 ### Step3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-10a.png) to activate the following screen:
+**Click** ![Manage Keys](https://securityinabox.org/sbox/screen/gpg4usb-en-1/10a.png)[gpg4usb img 10] to activate the following screen:
 
-![Keymanagement window with all the key pairs](/sites/siabnext.ttc.io/files/media/gpg4usb-win-10.png)
+![Keymanagement window with all the key pairs](https://securityinabox.org/sbox/screen/gpg4usb-en-1/10.png)[gpg4usb img 11]
 
 *Figure 1: The Keymanagement window displaying all the key pairs*
 
@@ -111,19 +111,19 @@ To export your public key with **gpg4usb**, perform the following steps:
 
 **Select** the *Export To File* item from the **Key** menu as shown below:
 
-![Keymanagement window with Export To File item selected](/sites/siabnext.ttc.io/files/media/gpg4usb-win-11.png)
+![Keymanagement window with Export To File item selected](https://securityinabox.org/sbox/screen/gpg4usb-en-1/11.png)[gpg4usb img 12]
 
 *Figure 2: The Keymanagement window with the Export To File item selected*
 
 This will activate the following screen:
 
-![Export To Folder browse window](/sites/siabnext.ttc.io/files/media/gpg4usb-win-12.png)
+![Export To Folder browse window](https://securityinabox.org/sbox/screen/gpg4usb-en-1/12.png)[gpg4usb img 13]
 
 *Figure 3: The Export To Folder browse window*
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-13.png) to save your key pair to the **gpg4usb** program folder.
+**Click** ![Save](https://securityinabox.org/sbox/screen/gpg4usb-en-1/13.png)[gpg4usb img 14] to save your key pair to the **gpg4usb** program folder.
 
 ### Step 6
 
@@ -135,13 +135,13 @@ Before you can encrypt information and send it to your correspondent, you need t
 
 ### Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-03.png) to open the **gpg4usb** program.
+**Double click** ![start_windows.exe](https://securityinabox.org/sbox/screen/gpg4usb-en-1/03.png)[gpg4usb img 03] to open the **gpg4usb** program.
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/gpg4usb-win-14.png) Import to activate the following screen:
+**Click** ![Import Key](https://securityinabox.org/sbox/screen/gpg4usb-en-1/14.png)[gpg4usb img 15] Import to activate the following screen:
 
-![Import Key dialog box](/sites/siabnext.ttc.io/files/media/gpg4usb-win-15.png)
+![Import Key dialog box](https://securityinabox.org/sbox/screen/gpg4usb-en-1/15.png)[gpg4usb img 16]
 
 *Figure 4: The Import Key dialog box*
 
@@ -149,7 +149,7 @@ Before you can encrypt information and send it to your correspondent, you need t
 
 **Browse** and select the key you wish to import.
 
-![Open Key](/sites/siabnext.ttc.io/files/media/gpg4usb-win-16a.png)
+![Open Key](https://securityinabox.org/sbox/screen/gpg4usb-en-1/16a.png)[gpg4usb img 17]
 
 *Figure 5: Open Key*
 
@@ -157,7 +157,7 @@ Before you can encrypt information and send it to your correspondent, you need t
 
 **Click** Open to activate following window.
 
-![Key Import Details](/sites/siabnext.ttc.io/files/media/gpg4usb-win-16b.png)
+![Key Import Details](https://securityinabox.org/sbox/screen/gpg4usb-en-1/16b.png)[gpg4usb img 18]
 
 *Figure 6: Key Import Details*
 
@@ -165,7 +165,7 @@ Before you can encrypt information and send it to your correspondent, you need t
 
 **Click** OK to close above window and come back to **gpg4usb** main window. It will display newly imported public key as below.
 
-![newly imported public key associated with correspondent's account](/sites/siabnext.ttc.io/files/media/gpg4usb-win-16.png)
+![newly imported public key associated with correspondent's account](https://securityinabox.org/sbox/screen/gpg4usb-en-1/16.png)[gpg4usb img 19]
 
 *Figure 7: The gpg4usb console displaying the newly imported public key associated with your correspondent's account*
 
@@ -199,13 +199,13 @@ To view the fingerprint of key pairs you have created or public keys you have im
 
 **Select** the *Show Keydetails* item as shown below in *Figure 8*. 
 
-![pop-up menu associated with correspondent's key](/sites/siabnext.ttc.io/files/media/gpg4usb-win-17.png)
+![pop-up menu associated with correspondent's key](https://securityinabox.org/sbox/screen/gpg4usb-en-1/17.png)[gpg4usb img 20]
 
 *Figure 8: The pop-up menu associated with a correspondent's key*
 
 This will activate the following screen:
 
-![Keydetails window with key fingerprint](/sites/siabnext.ttc.io/files/media/gpg4usb-win-18.png)
+![Keydetails window with key fingerprint](https://securityinabox.org/sbox/screen/gpg4usb-en-1/18.png)[gpg4usb img 21]
 
 *Figure 9: The Keydetails window with the key fingerprint on the bottom*
 

@@ -22,7 +22,7 @@ Installing **Firefox** is a simple and straightforward process. To begin install
 
 ## Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-01.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/firefox-win-02.png) to activate the *Extracting* progress status bar. 
+**Double click** ![installation file](https://securityinabox.org/sbox/screen/firefox-en-1/01.png)[Firefox img 01]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/firefox-en-1/02.png)[Firefox img 02] to activate the *Extracting* progress status bar. 
 
 *A few moments later, the The Welcome to the Firefox Setup Wizard window will appear.* 
 

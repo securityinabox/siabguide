@@ -24,7 +24,7 @@ This chapter assumes that you already know how to use a web browser; it will not
 
 In this chapter, you will learn how to download, install and use the following **Mozilla Add-ons** to increase the privacy, safety and security of your **Firefox** web browser, and of your Internet experience as a whole. 
 
-The **NoScript** add-on is documented separately in section [**4.0 About NoScript**](/en/firefox_noscript). Other add-on are documented in [**More Useful Firefox Add-Ons**](/en/firefox_others)
+The **NoScript** add-on is documented separately in section [**4.0 About NoScript**](https://securityinabox.org/firefox_noscript)[Firefox Noscript]. Other add-on are documented in [**More Useful Firefox Add-Ons**](https://securityinabox.org/firefox_others)[Firefox Others]
 
 **Important**: The overwhelming majority of malware and spyware infections originate from web pages. It is very important that you always consider whether it is safe to open given web address, especially if you received it by email. Before you decide to open a page, we recommend that you scan the web address using the following page scanners:
 

@@ -8,7 +8,7 @@ Version: 0.3.3
 License: Free/Open Source Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [Thunderbird](https://siabnext.ttc.io/hands-on-guide/thunderbird-windows) for Microsoft Windows, GNU/Linux and MacOS X
+Alternatives: [Thunderbird](https://securityinabox.org/thunderbird_main)[Thunderbird Main] for Microsoft Windows, GNU/Linux and MacOS X
 Comment: read 03-gpg4usb-premise before installing and using this tool
 Group: Basic Usage
 Title: Installation
@@ -23,6 +23,6 @@ Language: EN
 
 **Locate** the **gpg4usb** zipped archive file, and then **extract** all the files to a removable USB drive or a folder on your computer:
 
-![gpg4usb program destination location](/sites/siabnext.ttc.io/files/media/gpg4usb-win-01.png)
+![gpg4usb program destination location](https://securityinabox.org/sbox/screen/gpg4usb-en-1/01.png)[gpg4usb img 01]
 
 *Figure 1: The gpg4usb program destination location*

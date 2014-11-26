@@ -8,7 +8,7 @@ Version: N/A
 License: Proprietary Software
 System_requirements: Web browser; Internet connection
 Admin: 
-Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration)[Crabgrass Main]; [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
 Comment: read 03-flickr-security-premise before using this tool
 Group: Basic Usage
 Title: Configuration
@@ -25,7 +25,7 @@ In order to access the Privacy & Permissions settings on **Flickr**, **login** t
 
 From the main *settings* page, select *Privacy & Permissions*. 
 
-![Flickr Privacy & Permissions settings](/sites/siabnext.ttc.io/files/media/flicker-en-all-02.png)
+![Flickr Privacy & Permissions settings](https://securityinabox.org/sbox/screen/flickr-en/02.png)[Flickr img 01]
 
 *Figure 2: Flickr Privacy & Permissions settings*
 
@@ -33,7 +33,7 @@ From the main *settings* page, select *Privacy & Permissions*.
 
 By default, Flickr allows anyone to see your pictures. If you would like more privacy, **click** *edit* on the *Who can access your original image files* option and **choose** *Only you*. Then **click** *Save*. 
 
-![Who can access your original image files](/sites/siabnext.ttc.io/files/media/flicker-en-all-03.png)
+![Who can access your original image files](https://securityinabox.org/sbox/screen/flickr-en/03.png)[Flickr img 02]
 
 *Figure 3: Who can access your original image files*
 
@@ -41,7 +41,7 @@ By default, Flickr allows anyone to see your pictures. If you would like more pr
 
 By default, **Flickr** allows people who can access your content to share it more widely on sites such as Facebook or Twitter. This would mean that, in the case of sensitive images, they could easily fall into the wrong hands. In order for only you to decide how the images are shared, it is reccommended that you disable this option. To do so, **click** on *edit* beside *Allow others to share your stuff* and **select** *No, thanks*. Then **click** *Save*.
 
-![Allow others to share your stuff](/sites/siabnext.ttc.io/files/media/flicker-en-all-04.png)
+![Allow others to share your stuff](https://securityinabox.org/sbox/screen/flickr-en/04.png)[Flickr img 03]
 
 *Figure 4: Allow others to share your stuff*
 
@@ -49,7 +49,7 @@ By default, **Flickr** allows people who can access your content to share it mor
 
 By default, **Flickr** allows any other member to tag you in photos. This could prove dangerous, for example, should someone add tag you in a photo of a protest or other kind of civil disobedience. Therefore, it's reccommended that you **select** *Only you* to be able to tag yourself in pictures.
 
-![Disable tagging by others](/sites/siabnext.ttc.io/files/media/flicker-en-all-05.png)
+![Disable tagging by others](https://securityinabox.org/sbox/screen/flickr-en/05.png)[Flickr img 04]
 
 *Figure 5: Disable tagging by others*
 
@@ -57,7 +57,7 @@ By default, **Flickr** allows any other member to tag you in photos. This could 
 
 By default, **Flickr** shares your **EXIF** data - that is, the metadata from your pictures such as the make and model of your camera, the location and time at which the photo was taken, etc. -- with other users. As this information can be sensitive, it is reccommended that you do not share it. 
 
-![EXIF data options](/sites/siabnext.ttc.io/files/media/flicker-en-all-06.png) 
+![EXIF data options](https://securityinabox.org/sbox/screen/flickr-en/06.png)[Flickr img 05]
 
 *Figure 6: EXIF data options*
 
@@ -65,7 +65,7 @@ By default, **Flickr** shares your **EXIF** data - that is, the metadata from yo
 
 By default, **Flickr** makes your pictures and public profile accessible via search engines. For more privacy and control over who can access your information and pictures, it is reccommended that you **hide** your profile and pictures from public searches. 
 
-![Public search options](/sites/siabnext.ttc.io/files/media/flicker-en-all-07b.png) 
+![Public search options](https://securityinabox.org/sbox/screen/flickr-en/07b.png)[Flickr img 06] 
 
 *Figure 7: Public search options*
 
@@ -79,6 +79,6 @@ By default, **Flickr** makes your pictures and public profile accessible via sea
 
 These settings can, of course, be changed on a per-upload basis, should you want to include EXIF data as evidence, for example. 
 
-![More private options for new uploads](/sites/siabnext.ttc.io/files/media/flicker-en-all-08b.png)
+![More private options for new uploads](https://securityinabox.org/sbox/screen/flickr-en/08b.png)[Flickr img 07]
 
 *Figure 8: More private options for new uploads*
