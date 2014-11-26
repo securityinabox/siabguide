@@ -33,13 +33,13 @@ To disable the **Windows Firewall** program, perform the following steps:
 
 **Check** the *Off (not recommended)* option to disable the **Windows Firewall** as shown in *Figure 1* below: 
 
-![Windows Firewall with Off option enabled](/sites/siabnext.ttc.io/files/media/comodo-win-01.png)
+![Windows Firewall with Off option enabled](https://securityinabox.org/sbox/screen/comodo-en/01.png)[Comodo img 01]
 
 *Figure 1. The Windows Firewall with the Off option enabled*
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-02.png) to complete disabling the *Windows Firewall*.
+**Click** ![OK](https://securityinabox.org/sbox/screen/comodo-en/02.png)[Comodo img 02] to complete disabling the *Windows Firewall*.
 
 ## Install Comodo Firewall
 
@@ -49,27 +49,27 @@ To begin installing **COMODO Firewall**, perform the following steps:
 
 ### Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-03.png) to begin the installation process. The *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-04.png) to activate the following confirmation dialog box:
+**Double click** ![installer](https://securityinabox.org/sbox/screen/comodo-en/03.png)[Comodo img 03] to begin the installation process. The *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/comodo-en/04.png)[Comodo img 04] to activate the following confirmation dialog box:
 
-![Select the language confirmation dialog box](/sites/siabnext.ttc.io/files/media/comodo-win-05.png)
+![Select the language confirmation dialog box](https://securityinabox.org/sbox/screen/comodo-en/05.png)[Comodo img 05]
 
 *Figure 2: The Select the language confirmation dialog box*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-06.png) to activate the *End User License Agreement*. Please read the *End User License Agreement* before proceeding with the rest of the installation process, and then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-07.png) to activate the *Free Registration* screen. 
+**Click** ![OK](https://securityinabox.org/sbox/screen/comodo-en/06.png)[Comodo img 06] to activate the *End User License Agreement*. Please read the *End User License Agreement* before proceeding with the rest of the installation process, and then **click** ![I accept](https://securityinabox.org/sbox/screen/comodo-en/07.png)[Comodo img 07] to activate the *Free Registration* screen. 
 
 ### Step 3
 
-Do **not** enter your email address into the *Enter your email address (optional)* text field; simply **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-09.png) to activate the *Extracting the Packages* screen.
+Do **not** enter your email address into the *Enter your email address (optional)* text field; simply **click** ![Next](https://securityinabox.org/sbox/screen/comodo-en/09.png)[Comodo img 08] to activate the *Extracting the Packages* screen.
 
 After the extraction process has been completed, the *Firewall Setup Destination Folder* appears.  
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-09.png) to accept the default path and activate the *Firewall security level selection* screen, and then check the *Firewall Only* option as follows: 
+**Click** ![Next](https://securityinabox.org/sbox/screen/comodo-en/09.png)[Comodo img 08] to accept the default path and activate the *Firewall security level selection* screen, and then check the *Firewall Only* option as follows: 
 
-![Firewall Security level selection screen](/sites/siabnext.ttc.io/files/media/comodo-win-11.png)
+![Firewall Security level selection screen](https://securityinabox.org/sbox/screen/comodo-en/11.png)[Comodo img 09]
 
 *Figure 3: The Firewall Security level selection screen*
 
@@ -85,37 +85,37 @@ Each firewall security level option caters to users of different levels. Each op
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-09.png) to activate the *COMODO Secure DNS Configuration* screen, with the *I would like to use COMODO Secure DNS Servers* option enabled as follows:
+**Click** ![Next](https://securityinabox.org/sbox/screen/comodo-en/09.png)[Comodo img 08] to activate the *COMODO Secure DNS Configuration* screen, with the *I would like to use COMODO Secure DNS Servers* option enabled as follows:
 
-![COMODO Secure DNS Configuration](/sites/siabnext.ttc.io/files/media/comodo-win-12.png)
+![COMODO Secure DNS Configuration](https://securityinabox.org/sbox/screen/comodo-en/12.png)[Comodo img 10]
 
 *Figure 4: The COMODO Secure DNS Configuration screen*
 
 **Important**: Although no **Domain Name System** (**DNS**) server is ever completely secure, the advantages of using the **COMODO Secure DNS Servers** outweigh the disadvantages. It offers additional protection from *pharming* and *phishing*, which are two popular methods used by malicious forces to 'hijack' or redirect your computer to a dangerous or hostile site. **COMODO Secure DNS Servers** may also protect you from government interference, while being easy to set up during the installation process, and by facilitating safer access to web sites which are registered with **COMODO**. For instance, accidentally typing in the wrong URL will activate a message from the **COMODO Secure DNS Servers** resembling the following:
 
-![example of COMODO Secure DNS Server notification](/sites/siabnext.ttc.io/files/media/comodo-win-126.png)
+![example of COMODO Secure DNS Server notification](https://securityinabox.org/sbox/screen/comodo-en/126.png)[Comodo img 11]
 
 *Figure 5: A typical example of a COMODO Secure DNS Server notification*
 
 ### Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-09.png) to activate the *Ready to Install COMODO Firewall* screen, and then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-13.png) to begin the installation process, and activate the *Installing COMODO Firewall* screen. After the installation process has been completed, it will activate the *Completed the COMODO Firewall Setup Wizard* screen.
+**Click** ![Next](https://securityinabox.org/sbox/screen/comodo-en/09.png)[Comodo img 08] to activate the *Ready to Install COMODO Firewall* screen, and then **click** ![Install](https://securityinabox.org/sbox/screen/comodo-en/13.png)[Comodo img 12] to begin the installation process, and activate the *Installing COMODO Firewall* screen. After the installation process has been completed, it will activate the *Completed the COMODO Firewall Setup Wizard* screen.
 
 ### Step 8
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-14.png) to activate the *Done* confirmation screen, and then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-14.png) to activate the following confirmation dialog box:
+**Click** ![Finish](https://securityinabox.org/sbox/screen/comodo-en/14.png)[Comodo img 13] to activate the *Done* confirmation screen, and then **click** ![Finish](https://securityinabox.org/sbox/screen/comodo-en/14.png)[Comodo img 13] to activate the following confirmation dialog box:
 
-![Firewall Installer confirmation dialog box](/sites/siabnext.ttc.io/files/media/comodo-win-15.png)
+![Firewall Installer confirmation dialog box](https://securityinabox.org/sbox/screen/comodo-en/15.png)[Comodo img 14]
 
 *Figure 6: The Firewall Installer confirmation dialog box*
 
 ### Step 9
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-16.png) to restart your computer, and complete the **COMODO Firewall** installation procedure.
+**Click** ![Yes](https://securityinabox.org/sbox/screen/comodo-en/16.png)[Comodo img 15] to restart your computer, and complete the **COMODO Firewall** installation procedure.
 
 After your computer restarts itself, the The *New Private Network Detected!* screen appears as follows: 
 
-![New Private Network Detected](/sites/siabnext.ttc.io/files/media/comodo-win-17.png)
+![New Private Network Detected](https://securityinabox.org/sbox/screen/comodo-en/17.png)[Comodo img 16]
 
 *Figure 7: The COMODO Firewall New Private Network Detected! screen*
 
@@ -123,23 +123,23 @@ After your computer restarts itself, the The *New Private Network Detected!* scr
 
 ### Step 10
 
-Either **type** in a name in the *Give a name to this network for your network* text field or simply accept the default name offered as shown in *Figure 7* above. Leave the options listed under *Step 2 - Decide if you want to trust the other PCs in this network* unchecked, and then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-06.png) to complete the installation. 
+Either **type** in a name in the *Give a name to this network for your network* text field or simply accept the default name offered as shown in *Figure 7* above. Leave the options listed under *Step 2 - Decide if you want to trust the other PCs in this network* unchecked, and then **click** ![OK](https://securityinabox.org/sbox/screen/comodo-en/06.png)[Comodo img 06] to complete the installation. 
 
 The **COMODO Firewall** desktop icon and the **COMODO Firewall** connectivity icon simultaneously appear with *figure 7*. Before you connect to the Internet, the connectivity icon appears in the *System Tray* as follows:
 
-![COMODO Firewall connectivity icon outlined in black in System Tray](/sites/siabnext.ttc.io/files/media/comodo-win-18.png)
+![COMODO Firewall connectivity icon outlined in black in System Tray](https://securityinabox.org/sbox/screen/comodo-en/18.png)[Comodo img 17]
 
 *Figure 8: The COMODO Firewall connectivity icon outlined in black in the System Tray*
 
 Going online or launching on-line related programs (for instance, web browsers) will trigger a series of light orange downwards-pointing arrowheads and/or light green upwards-pointing arrowheads, indicating incoming and outgoing Internet connection requests, and are depicted as follows: 
 
-![COMODO Firewall connectivity icon in action](/sites/siabnext.ttc.io/files/media/comodo-win-19.png)
+![COMODO Firewall connectivity icon in action](https://securityinabox.org/sbox/screen/comodo-en/19.png)[Comodo img 18]
 
 *Figure 9: The COMODO Firewall connectivity icon in action*
 
 After **COMODO Firewall** has been running for a few moments, the *COMODO Message Center* pop-up message appears as follows:
 
-![COMODO Message Center](/sites/siabnext.ttc.io/files/media/comodo-win-20.png)
+![COMODO Message Center](https://securityinabox.org/sbox/screen/comodo-en/20.png)[Comodo img 19]
 
 *Figure 10: The COMODO Message Center pop-up screen*
 
@@ -147,7 +147,7 @@ After **COMODO Firewall** has been running for a few moments, the *COMODO Messag
 
 **Tip**: **Right-click** the **COMODO Firewall** connectivity icon in the *System Tray* (as displayed in *figure 8*) to activate the following pop-up menu, and its associated sub-menus as follows:
 
-![connectivity icon Configuration menu](/sites/siabnext.ttc.io/files/media/comodo-win-127.png)
+![connectivity icon Configuration menu](https://securityinabox.org/sbox/screen/comodo-en/127.png)[Comodo img 20]
 
 *Figure 11: The connectivity icon Configuration menu and sub-menu*
 
@@ -155,6 +155,6 @@ The connectivity icon menu lets you change the **COMODO Firewall** products you 
 
 In addition, each product may have its security level adjusted from within the connectivity icon pop-up menu as follows; these security levels are discussed in greater detail in sections **4.1 The Firewall Behavior Settings window** and **4.2 The Defense+ Settings window**
 
-![connectivity icon Firewall Security Level sub-menu](/sites/siabnext.ttc.io/files/media/comodo-win-128.png)
+![connectivity icon Firewall Security Level sub-menu](https://securityinabox.org/sbox/screen/comodo-en/128.png)[Comodo img 21]
 
 *Figure 12: The connectivity icon Firewall Security Level sub-menu*

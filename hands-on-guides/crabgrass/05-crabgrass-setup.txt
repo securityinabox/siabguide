@@ -102,7 +102,7 @@ You have the option to add information about yourself into the section **General
 
 ### Step 3
 
-The third section called **Profile** allows you to describe yourself, your work, personal and social change interests. You can fill in your phone number or several of them, email addresses, location, instant messaging addresses, websites and [*encryption*](https://securityinabox.org/glossary#encryption) keys if you have any.
+The third section called **Profile** allows you to describe yourself, your work, personal and social change interests. You can fill in your phone number or several of them, email addresses, location, instant messaging addresses, websites and [*encryption*](https://securityinabox.org/glossary#encryption)[Glossary #encryption] keys if you have any.
 
 You can add information by clicking ![Add Description](https://securityinabox.org/sbox/screen/crabgrass-en/crab26_add-description.png)[Crabgrass img 21], ![Add Phone Number](https://securityinabox.org/sbox/screen/crabgrass-en/crab26_add-phone.png)[Crabgrass img 22] and so on. Once you do you will find the option to write into a form for each piece of information.
 

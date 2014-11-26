@@ -23,7 +23,7 @@ A firewall is a program designed to protect your computer from malicious hackers
 
 Every time **Comodo Firewall** receives a connection request, it activates a pop-up *Firewall Alert* prompting you to either *Allow* or *Block* access to your system to and from the Internet. The exercise that follows involving a safe program like **Firefox** will help you to become more familiar with firewall alerts and how to use them. Although exceptions are made sometimes for requests from universally accepted browsers and email programs, each time a connection request is made a *Firewall Alert* resembling the following appears:
 
-![example of a COMODO Firewall Alert](/sites/siabnext.ttc.io/files/media/comodo-win-21.png)
+![example of a COMODO Firewall Alert](https://securityinabox.org/sbox/screen/comodo-en/21.png)[Comodo img 22]
 
 *Figure 1: An example of a COMODO Firewall Alert*
 
@@ -37,33 +37,33 @@ A firewall is simply a set of rules for monitoring inbound and outbound traffic.
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-26.png) to activate the *Properties* window to learn more about the process or program requesting access, in this case, **Firefox**:
+**Click** ![Application: firefox.exe](https://securityinabox.org/sbox/screen/comodo-en/26.png)[Comodo img 23] to activate the *Properties* window to learn more about the process or program requesting access, in this case, **Firefox**:
 
-![firefox.exe Properties screen](/sites/siabnext.ttc.io/files/media/comodo-win-27.png)
+![firefox.exe Properties screen](https://securityinabox.org/sbox/screen/comodo-en/27.png)[Comodo img 24]
 
 *Figure 2: The firefox.exe Properties screen*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-02.png) to close the program *Properties* screen.
+**Click** ![OK](https://securityinabox.org/sbox/screen/comodo-en/02.png)[Comodo img 02] to close the program *Properties* screen.
 
 ### Step 3
 
-If you have either determined a request is unsafe, or are simply uncertain about it, based on the information displayed in the program *Properties* screen, **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-29.png) to direct **COMODO Firewall** to deny access to your system.  
+If you have either determined a request is unsafe, or are simply uncertain about it, based on the information displayed in the program *Properties* screen, **click** ![Block](https://securityinabox.org/sbox/screen/comodo-en/29.png)[Comodo img 25] to direct **COMODO Firewall** to deny access to your system.  
 OR:  
-If you have determined that a legitimate program is making a non-malicious request, based on the information displayed in the program *Properties* screen, then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-28.png) to allow it access to your system.
+If you have determined that a legitimate program is making a non-malicious request, based on the information displayed in the program *Properties* screen, then **click** ![Allow](https://securityinabox.org/sbox/screen/comodo-en/28.png)[Comodo img 26] to allow it access to your system.
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-28.png) to allow **Firefox** to access your system through **COMODO Firewall**. 
+**Click** ![Allow](https://securityinabox.org/sbox/screen/comodo-en/28.png)[Comodo img 26] to allow **Firefox** to access your system through **COMODO Firewall**. 
 
 ### Step 5
 
-Given that **Firefox** is a safe program, **check** the ![](/sites/siabnext.ttc.io/files/media/comodo-win-30.png) option so that **COMODO Firewall** will allow **Firefox** to automatically access your system the next time. 
+Given that **Firefox** is a safe program, **check** the ![Remember my Answer](https://securityinabox.org/sbox/screen/comodo-en/30.png)[Comodo img 27] option so that **COMODO Firewall** will allow **Firefox** to automatically access your system the next time. 
 
-**Note**: The *Allow* button lets you manually grant access to a process or program on a case-by-case basis. 
+**Note**: The *Allow* button lets you manually grant access to a process or program on a case-by-case basis.
 
-**Tip**: **Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-31.png) to access the extensive **COMODO Firewall** help files online. 
+**Tip**: **Click** ![How should I answer?](https://securityinabox.org/sbox/screen/comodo-en/31.png)[Comodo img 28] to access the extensive **COMODO Firewall** help files online. 
 
 Your ability to make the correct allow or block decisions will improve as you become more confident and experienced in using **COMODO Firewall**.
 
@@ -81,11 +81,11 @@ To open the **COMODO Firewall** main user interface, perform this step:
 
 **Note**: Alternatively, you can either **double-click** the desktop icon, or **double click** the **COMODO Firewall** icon in the *System Tray* to open the main user interface. In addition, you may **right-click** the **COMODO Firewall** icon to activate its pop-up menu, and then **select** *Open* as follows:
 
-![COMODO Firewall connectivity icon pop-up menu](/sites/siabnext.ttc.io/files/media/comodo-win-35.png)
+![COMODO Firewall connectivity icon pop-up menu](https://securityinabox.org/sbox/screen/comodo-en/35.png)[Comodo img 29]
 
 *Figure 3: The COMODO Firewall connectivity icon pop-up menu*
 
-![Comodo Firewall user interface in the default Summary mode](/sites/siabnext.ttc.io/files/media/comodo-win-36.png)
+![Comodo Firewall user interface in the default Summary mode](https://securityinabox.org/sbox/screen/comodo-en/36.png)[Comodo img 30]
 
 *Figure 4: The Comodo Firewall user interface in the default Summary mode*
 
@@ -93,30 +93,30 @@ To open the **COMODO Firewall** main user interface, perform this step:
 
 The *Firewall* pane displays a clear and concise summary of inbound and outbound requests from processes and programs attempting to get through the **COMODO Firewall**. Quite typically, there are more outbound requests than inbound. The default operating mode is *Safe Mode*, and different operating modes will be outlined later in this section. *Traffic* displays the different processes and programs in operation, and the number of requests being made in terms of percentages.
 
-**Click**![](/sites/siabnext.ttc.io/files/media/comodo-win-37.png) to activate the corresponding detailed summary of the outbound requests *at a given moment* as follows:
+**Click**![outbound connection(s)](https://securityinabox.org/sbox/screen/comodo-en/37.png)[Comodo img 31] to activate the corresponding detailed summary of the outbound requests *at a given moment* as follows:
 
-![Active Connections window with Internet traffic details](/sites/siabnext.ttc.io/files/media/comodo-win-38.png)
+![Active Connections window with Internet traffic details](https://securityinabox.org/sbox/screen/comodo-en/38.png)[Comodo img 32]
 
 *Figure 5: An example of the Active Connections window displaying Internet traffic details*
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-39.png) to activate a similar *Active Connections* window for the inbound requests *at a given moment*.
+**Click** ![inbound connection(s)](https://securityinabox.org/sbox/screen/comodo-en/39.png)[Comodo img 33] to activate a similar *Active Connections* window for the inbound requests *at a given moment*.
 
 ## Active Connections window displaying Internet traffic details
 
 Both **COMODO Firewall** and **Defense+** work together; if both programs are running, the indicator at the left of the main user interface appears as follows:
 
-![green COMODO Firewall status icon](/sites/siabnext.ttc.io/files/media/comodo-win-69.png)
+![green COMODO Firewall status icon](https://securityinabox.org/sbox/screen/comodo-en/69.png)[Comodo img 34]
 
 *Figure 6: The green COMODO Firewall status icon*
 
 If either program is disabled, the status icon will indicate whether the firewall or proactive protection component is disabled as follows:
 
-![yellow COMODO Firewall disabled status icon](/sites/siabnext.ttc.io/files/media/comodo-win-70.png)
+![yellow COMODO Firewall disabled status icon](https://securityinabox.org/sbox/screen/comodo-en/70.png)[Comodo img 35]
 
 *Figure 7: The yellow COMODO Firewall disabled status icon*
 
 However if both programs have been disabled, the status icon will appear as follows:
 
-![yellow COMODO Firewall multiple protections disabled status icon](/sites/siabnext.ttc.io/files/media/comodo-win-71.png)
+![yellow COMODO Firewall multiple protections disabled status icon](https://securityinabox.org/sbox/screen/comodo-en/71.png)[Comodo img 36]
 
 *Figure 8: The yellow COMODO Firewall multiple protections disabled status icon*

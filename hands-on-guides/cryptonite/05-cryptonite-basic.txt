@@ -21,7 +21,7 @@ Language: EN
 
 When opening **Cryptonite** you see a screen with three tabs on the top: *dropbox*, *local* and *expert*. We use the first feature, *local*, here. **Tap** on *local*.
 
-![Options for use](/sites/siabnext.ttc.io/files/media/cryptonite-and-06.png)
+![Options for use](https://securityinabox.org/sbox/screen/cryptonite-en/06.png)[Cryptonite img 07]
 
 *Figure 8: Options for use*
 
@@ -29,7 +29,7 @@ When opening **Cryptonite** you see a screen with three tabs on the top: *dropbo
 
 To create an encrypted volume, **tap** *Create local volume*. A message will appear as shown below, read it carefully then tap on **create volume**.
 
-![Warning regarding creation of volumes](/sites/siabnext.ttc.io/files/media/cryptonite-and-08.png)
+![Warning regarding creation of volumes](https://securityinabox.org/sbox/screen/cryptonite-en/08.png)[Cryptonite img 08]
 
 *Figure 9: Warning regarding creation of volumes*
 
@@ -37,15 +37,15 @@ To create an encrypted volume, **tap** *Create local volume*. A message will app
 
 Choose amongst the different grades of encryption. *Standard* or *Paranoia* are our recommendations. 
 
- ![Encryption methods](/sites/siabnext.ttc.io/files/media/cryptonite-and-09.png)
+![Encryption methods](https://securityinabox.org/sbox/screen/cryptonite-en/09.png)[Cryptonite img 09]
 
 *Figure 10: Encryption methods*
 
 ## Step 4
 
-A file browser opens. Choose a folder which is used as the place for encryption. Remember which folder you choose! Instead you can create a new folder by clicking on ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-29.png) from the top right of the screen.
+A file browser opens. Choose a folder which is used as the place for encryption. Remember which folder you choose! Instead you can create a new folder by clicking on ![](https://securityinabox.org/sbox/screen/cryptonite-en/29.png)[Cryptonite img 10] from the top right of the screen.
 
- ![Select folder](/sites/siabnext.ttc.io/files/media/cryptonite-and-10.png)
+![Select folder](https://securityinabox.org/sbox/screen/cryptonite-en/10.png)[Cryptonite img 11]
 
 *Figure 11: Select folder*
 
@@ -53,7 +53,7 @@ A file browser opens. Choose a folder which is used as the place for encryption.
 
 If you are creating a new folder, **type** the new folder name as shown below.
 
- ![How to create a new folder](/sites/siabnext.ttc.io/files/media/cryptonite-and-11.png)  ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-12.png)
+ ![How to create a new folder](https://securityinabox.org/sbox/screen/cryptonite-en/11.png)[Cryptonite img 12] ![](https://securityinabox.org/sbox/screen/cryptonite-en/12.png)[Cryptonite img 13]
 
 *Figure 12 and 13: How to create a new folder*
 
@@ -61,7 +61,7 @@ If you are creating a new folder, **type** the new folder name as shown below.
 
 The new folder is created as shown below. **Click** on *Use current folder*.
 
- ![Select a folder](/sites/siabnext.ttc.io/files/media/cryptonite-and-13.png)  ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-14.png)
+ ![Select a folder](https://securityinabox.org/sbox/screen/cryptonite-en/13.png)[Cryptonite img 14]  ![](https://securityinabox.org/sbox/screen/cryptonite-en/14.png)[Cryptonite img 15]
 
 *Figure 14 and 15: Select a folder*
 
@@ -69,7 +69,7 @@ The new folder is created as shown below. **Click** on *Use current folder*.
 
 A window will appear asking you to type in a password. **Enter** your password as shown below.
 
- ![Enter passphrase](/sites/siabnext.ttc.io/files/media/cryptonite-and-15.png)  ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-16.png)
+![Enter passphrase](https://securityinabox.org/sbox/screen/cryptonite-en/15.png)[Cryptonite img 16]  ![](https://securityinabox.org/sbox/screen/cryptonite-en/16.png)[Cryptonite img 17]
 
 *Figure 16 and 17: Enter passphrase*
 
@@ -77,7 +77,7 @@ A window will appear asking you to type in a password. **Enter** your password a
 
 **Confirm** your password.
 
- ![Confirm your password](/sites/siabnext.ttc.io/files/media/cryptonite-and-17.png)
+ ![Confirm your password](https://securityinabox.org/sbox/screen/cryptonite-en/17.png)[Cryptonite img 18]
 
 *Figure 18: Confirm your password*
 
@@ -89,7 +89,7 @@ Congratulations! you just have created an encrypted volume to securely store fil
 
 Tap *decrypt local folder* and choose the folder you just selected before.
 
-![Decryption options](/sites/siabnext.ttc.io/files/media/cryptonite-and-20.png)  
+![Decryption options](https://securityinabox.org/sbox/screen/cryptonite-en/20.png)[Cryptonite img 19]
 
 *Figure 19: Decryption options*
 
@@ -97,7 +97,7 @@ Tap *decrypt local folder* and choose the folder you just selected before.
 
 **Browse** to the folder you created and **click** *Select current folder*
 
-![Select a folder](/sites/siabnext.ttc.io/files/media/cryptonite-and-18.png)
+![Select a folder](https://securityinabox.org/sbox/screen/cryptonite-en/18.png)[Cryptonite img 20]
 
 *Figure 20: Select a folder*
 
@@ -105,7 +105,7 @@ Tap *decrypt local folder* and choose the folder you just selected before.
 
 Enter the password you created earlier for this folder to access it.
 
-![Enter your password](/sites/siabnext.ttc.io/files/media/cryptonite-and-19.png)
+![Enter your password](https://securityinabox.org/sbox/screen/cryptonite-en/19.png)[Cryptonite img 21]
 
 *Figure 21: Enter your password*
 
@@ -113,7 +113,7 @@ Enter the password you created earlier for this folder to access it.
 
 **Tap** *upload file to this folder* to securely save one or more files to it.
 
-![Folder selection](/sites/siabnext.ttc.io/files/media/cryptonite-and-21.png)
+![Folder selection](https://securityinabox.org/sbox/screen/cryptonite-en/21.png)[Cryptonite img 22]
 
 *Figure 22: Folder selection*
 
@@ -121,7 +121,7 @@ Enter the password you created earlier for this folder to access it.
 
 A message will appear as shown below.
 
-![Warning](/sites/siabnext.ttc.io/files/media/cryptonite-and-22.png)
+![Warning](https://securityinabox.org/sbox/screen/cryptonite-en/22.png)[Cryptonite img 23]
 
 *Figure 23: Warning*
 

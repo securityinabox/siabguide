@@ -20,11 +20,11 @@ Language: EN
 
 The **COMODO Firewall** main user interface is divided into two panes, the *Firewall* pane and the *Defense+* pane. 
 
-![COMODO Firewall main user interface with Firewall and Defense+ panes](/sites/siabnext.ttc.io/files/media/comodo-win-80.png)
+![COMODO Firewall main user interface with Firewall and Defense+ panes](https://securityinabox.org/sbox/screen/comodo-en/80.png)[Comodo img 37]
 
 *Figure 1: The COMODO Firewall main user interface displaying both the Firewall and Defense+ panes*
 
-The *Firewall Behavior Settings* and the *Defense+ Settings* windows can be accessed by **clicking** ![](/sites/siabnext.ttc.io/files/media/comodo-win-43.png) in either pane to activate their associated windows and their tabs.
+The *Firewall Behavior Settings* and the *Defense+ Settings* windows can be accessed by **clicking** ![Safe Mode](https://securityinabox.org/sbox/screen/comodo-en/43.png)[Comodo img 38] in either pane to activate their associated windows and their tabs.
 
 Alternatively, you may access either of them by performing the following steps:
 
@@ -36,7 +36,7 @@ Alternatively, you may access either of them by performing the following steps:
 
 **Click** either
 
-![](/sites/siabnext.ttc.io/files/media/comodo-win-60.png) OR ![](/sites/siabnext.ttc.io/files/media/comodo-win-81.png)
+![Firewall](https://securityinabox.org/sbox/screen/comodo-en/60.png)[Comodo img 39] OR ![Defense+](https://securityinabox.org/sbox/screen/comodo-en/81.png)[Comodo img 40]
 
 to activate the *Firewall Tasks* or *Defense+  Tasks* panes respectively.
 
@@ -44,13 +44,13 @@ to activate the *Firewall Tasks* or *Defense+  Tasks* panes respectively.
 
 **Click** either 
 
-![](/sites/siabnext.ttc.io/files/media/comodo-win-82.png) OR ![](/sites/siabnext.ttc.io/files/media/comodo-win-83.png) 
+![Firewall Behavior Settings](https://securityinabox.org/sbox/screen/comodo-en/82.png)[Comodo img 41] OR ![Defense+ Settings](https://securityinabox.org/sbox/screen/comodo-en/83.png)[Comodo img 42]
 
 to activate the *Firewall Behavior Settings* tab or *Defense+ Settings* tab respectively.
 
 **Tip**: The *Firewall Security Level*, *Defense+ Security Level* and *Sandbox Security Level* which are described in the following sections can be easily and effectively set using the **COMODO Firewall** connectivity icon located in the *System Tray*. **Right click** the connectivity icon to activate the pop-up menu and sub-menu as follows:
 
-![connectivity icon pop-up menu and Firewall Security Level sub-menu](/sites/siabnext.ttc.io/files/media/comodo-win-84.png)
+![connectivity icon pop-up menu and Firewall Security Level sub-menu](https://securityinabox.org/sbox/screen/comodo-en/84.png)[Comodo img 43]
 
 *Figure 2: The connectivity icon pop-up menu and the Firewall Security Level sub-menu*
 
@@ -58,7 +58,7 @@ to activate the *Firewall Behavior Settings* tab or *Defense+ Settings* tab resp
 
 The **Firewall Behavior Settings** window lets you customize firewall security by using a variety of features and options, including the firewall security level, the number and type of security alerts received and packet analysis and monitoring.
 
-![Firewall Behavior Settings window - General Settings](/sites/siabnext.ttc.io/files/media/comodo-win-44.png)
+![Firewall Behavior Settings window - General Settings](https://securityinabox.org/sbox/screen/comodo-en/44.png)[Comodo img 44]
 
 *Figure 3: The Firewall Behavior Settings window - General Settings tab*
 
@@ -88,15 +88,15 @@ To manually enable the *Defense+* system and activate the *Defense+ Settings* wi
 
 ### Step 1
 
-**Click** the *Defense+* tab in the **COMODO Firewall** main user interface and then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-50.png) to activate the following screen:
+**Click** the *Defense+* tab in the **COMODO Firewall** main user interface and then **click** ![Defense+ Settings](https://securityinabox.org/sbox/screen/comodo-en/50.png)[Comodo img 45] to activate the following screen:
 
-![Defense+ window with default General Settings](/sites/siabnext.ttc.io/files/media/comodo-win-51.png)
+![Defense+ window with default General Settings](https://securityinabox.org/sbox/screen/comodo-en/51.png)[Comodo img 46]
 
 *Figure 6: The Defense+ window displaying the default General Settings tab*
 
 ### Step 2
 
-**Move** the slider up the scale to *Safe Mode* and then **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-06.png) to enable the *Defense+* system as shown above in *Figure 6*.
+**Move** the slider up the scale to *Safe Mode* and then **click** ![OK](https://securityinabox.org/sbox/screen/comodo-en/06.png)[Comodo img 06] to enable the *Defense+* system as shown above in *Figure 6*.
 
 The *Defense+ Security Level* resembles the *Firewall Behavior Security Level* which offers similar options, and lets you use a slider to choose the optimal level of host intrusion protection for your system. 
 
@@ -112,10 +112,10 @@ The *Defense+ Security Level* resembles the *Firewall Behavior Security Level* w
 
 The *Execution Control Settings* tab limits the extent to which a suspicious or unknown file can access your system resources and execute itself, and submits them for analysis. 
 
-![Defense+ Execution Control Settings](/sites/siabnext.ttc.io/files/media/comodo-win-54.png)
+![Defense+ Execution Control Settings](https://securityinabox.org/sbox/screen/comodo-en/54.png)[Comodo img 47]
 
 *Figure 7: The Defense+ Execution Control Settings tab*
 
-**Tip**: **Advanced** users may create exclusions to the aforementioned tasks by clicking ![](/sites/siabnext.ttc.io/files/media/comodo-win-55.png) to activate the *Exclusions* pane, and browsing for or selecting different processes or programs for exclusion.
+**Tip**: **Advanced** users may create exclusions to the aforementioned tasks by clicking ![Exclusions](https://securityinabox.org/sbox/screen/comodo-en/55.png)[Comodo img 48] to activate the *Exclusions* pane, and browsing for or selecting different processes or programs for exclusion.
 
-**Note**: **Experienced** and **Advanced** users are strongly encouraged to **click** ![](/sites/siabnext.ttc.io/files/media/comodo-win-47.png) to access the extensive **COMODO** online help concerning the *Execution Control Settings*, *Sandbox Settings* and *Monitoring Settings* tabs. Alternatively, you can refer to **http://help.comodo.com/topic-72-1-155-1074-Introduction-to-Comodo-Internet-Security.html** to choose from a list of online help topics.
+**Note**: **Experienced** and **Advanced** users are strongly encouraged to **click** ![What do these settings do?](https://securityinabox.org/sbox/screen/comodo-en/47.png)[Comodo img 49] to access the extensive **COMODO** online help concerning the *Execution Control Settings*, *Sandbox Settings* and *Monitoring Settings* tabs. Alternatively, you can refer to **http://help.comodo.com/topic-72-1-155-1074-Introduction-to-Comodo-Internet-Security.html** to choose from a list of online help topics.

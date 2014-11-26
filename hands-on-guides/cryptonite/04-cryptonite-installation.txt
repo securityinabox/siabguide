@@ -21,7 +21,7 @@ Language: EN
 
 **Download** the app from the [Google play store](https://play.google.com/store/apps/details?id=csh.cryptonite)
 
-![Cryptonite in the Google Play store](/sites/siabnext.ttc.io/files/media/cryptonite-and-01.png)
+![Cryptonite in the Google Play store](https://securityinabox.org/sbox/screen/cryptonite-en/01.png)[Cryptonite img 01]
 
 *Figure 1: Cryptonite in the Google Play store*
 
@@ -30,7 +30,7 @@ Language: EN
 **Read** carefully the permissions required by the app and install it by tapping the **Install** button.
 
 
-![Permissions required and installation](/sites/siabnext.ttc.io/files/media/cryptonite-and-02.png) ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-03.png)
+![Permissions required](https://securityinabox.org/sbox/screen/cryptonite-en/02.png)[Cryptonite img 02] ![Installation](https://securityinabox.org/sbox/screen/cryptonite-en/03.png)[Cryptonite img 03]
 
 *Figure 2 and 3: Permissions required and installation*
 
@@ -38,7 +38,7 @@ Language: EN
 
 **Tap** *Open* to run the app for the first time.
 
-![App installed](/sites/siabnext.ttc.io/files/media/cryptonite-and-04.png)
+![App installed](https://securityinabox.org/sbox/screen/cryptonite-en/04.png)[Cryptonite img 04]
 
 *Figure 4: App installed*
 
@@ -46,7 +46,7 @@ Language: EN
 
 A message will appear as shown below, **read** it carefully and **click** on *I understand*.
 
-![Warning concerning development status](/sites/siabnext.ttc.io/files/media/cryptonite-and-05.png) 
+![Warning concerning development status](https://securityinabox.org/sbox/screen/cryptonite-en/05.png)[Cryptonite img 05]
 
 *Figure 5: Warning concerning development status*
 
@@ -54,6 +54,6 @@ A message will appear as shown below, **read** it carefully and **click** on *I 
 
 In the *Preferences* tab, make sure *Use external storage* is *not* activated. 
 
-![Preferences](/sites/siabnext.ttc.io/files/media/cryptonite-and-27.png) ![](/sites/siabnext.ttc.io/files/media/cryptonite-and-28.png)
+![Preferences](https://securityinabox.org/sbox/screen/cryptonite-en/27.png)[Cryptonite img 06] ![Preferences](https://securityinabox.org/sbox/screen/cryptonite-en/28.png)[Cryptonite img 07]
 
 *Figure 6 and 7: Preferences*
