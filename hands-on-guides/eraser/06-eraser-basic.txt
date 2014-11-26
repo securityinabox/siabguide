@@ -8,7 +8,7 @@ Version: 5.86a; Although you may find newer versions of Eraser on the developers
 License: Free/Open Source Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [secure-delete](http://www.ghacks.net/2010/08/26/securely-delete-files-with-secure-delete/) (command line tools) for GNU Linux; secure-delete [integrated with a graphical file manager](http://techthrob.com/2010/07/07/adding-a-secure-delete-option-to-nautilus-file-manager-in-linux/) for GNU Linux; Finder menu Secure Empty Trash... on Mac OS; Disk Utility to securely erase entire disk or a free space on internal or external disks on Mac OS; [CCleaner](https://siabnext.ttc.io/en/ccleaner_main) for Microsoft Windows; [Freeraser](http://www.freeraser.com/) for Microsoft Windows; [DBAN - Darik's Boot And Nuke](http://www.dban.org/) for bulk or emergency data destruction
+Alternatives: [secure-delete](http://www.ghacks.net/2010/08/26/securely-delete-files-with-secure-delete/) (command line tools) for GNU Linux; secure-delete [integrated with a graphical file manager](http://techthrob.com/2010/07/07/adding-a-secure-delete-option-to-nautilus-file-manager-in-linux/) for GNU Linux; Finder menu Secure Empty Trash... on Mac OS; Disk Utility to securely erase entire disk or a free space on internal or external disks on Mac OS; [CCleaner](https://securityinabox.org/ccleaner_main)[CCleaner Main] for Microsoft Windows; [Freeraser](http://www.freeraser.com/) for Microsoft Windows; [DBAN - Darik's Boot And Nuke](http://www.dban.org/) for bulk or emergency data destruction
 Comment: read 03-eraser-premise before installing and using this tool
 Group: Basic Usage 
 Title: Basic Howto
@@ -29,7 +29,7 @@ It is common for people to use **Eraser** through the **My Computer Windows Expl
 
 **Right-click** on this file. Two new options appear on the pop-up menu, *Erase* and *Eraser Secure Move* as follows:
 
-![Erase and Eraser Secure Move options](/sites/siabnext.ttc.io/files/media/eraser-win-14.png)
+![Erase and Eraser Secure Move options](https://securityinabox.org/sbox/screen/eraser-en/14.png)[Eraser img 14]
 
 *Figure 1: Erase and Eraser Secure Move options*
 
@@ -41,7 +41,7 @@ We are going to use the *Erase* option to permanently delete this file.
 
 *The Confirm Erasing pop up dialog box will appear as follows*:
 
-![Confirm Erasing pop up dialog box](/sites/siabnext.ttc.io/files/media/eraser-win-15.png)
+![Confirm Erasing pop up dialog box](https://securityinabox.org/sbox/screen/eraser-en/15.png)[Eraser img 15]
 
 *Figure 2: The Confirm Erasing pop up dialog box*
 
@@ -49,7 +49,7 @@ If the file displayed in the pop up dialog box is the one you want to delete per
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-16.png) to *permanently* erase or wipe the file from your computer.
+**Click** ![Yes](https://securityinabox.org/sbox/screen/eraser-en/16.png)[Eraser img 16] to *permanently* erase or wipe the file from your computer.
 
 **Warning**: Any file deleted in this manner with be *irretrievably* and permanently deleted. Therefore, you must be completely sure that you really want to erase a particular file, or group of files. 
 
@@ -57,14 +57,14 @@ To securely move a file/s from one location to another (for example, from your c
 
 ### Step 5
 
-**Select** ![](/sites/siabnext.ttc.io/files/media/eraser-win-17.png)
+**Select** ![Eraser Secure Move](https://securityinabox.org/sbox/screen/eraser-en/17.png)[Eraser img 17]
 
 You will need to answer the same warning prompt, as above, to continue.
 
 ## Wipe Unused Disk Space
 
 Erasing unused disk space involves wiping all traces of previously existing files from the 'empty
-space' of your hard drive/portable storage device. This empty space usually contains files that were not deleted properly (please refer to the [**Recuva**](/en/recuva_main) **Hands-on** guide and the **How-to Booklet** [**Chapter 6**](/chapter-6) from more information about this).
+space' of your hard drive/portable storage device. This empty space usually contains files that were not deleted properly (please refer to the [**Recuva**](https://securityinabox.org/recuva_main)[Recuva Main] **Hands-on** guide and the **How-to Booklet** [**Chapter 6**](https://securityinabox.org/chapter-6)[Sensitive Information] from more information about this).
 
 ### Step 1**. **Select Start > Programs > Eraser > Eraser**
 
@@ -78,13 +78,13 @@ To create an *On-Demand* task for wiping *unused disk space*, perform the follow
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-18.png)
+**Click** ![](https://securityinabox.org/sbox/screen/eraser-en/18.png)[Eraser img 18]
 
 ### Step 2
 
 **Select File > New Task** as follows: 
 
-![Selecting a New Task in the File menu](/sites/siabnext.ttc.io/files/media/eraser-win-19.png)
+![Selecting a New Task in the File menu](https://securityinabox.org/sbox/screen/eraser-en/19.png)[Eraser img 19]
 
 *Figure 3: Selecting a New Task in the File menu*
 
@@ -94,19 +94,19 @@ The *Unused space on drive* option should be selected.
 
 **Choose** the drive you want to clear the free space on. (In this example, the *Local Disk (C:)* has been selected. This is usually the primary hard drive on most computers.) 
 
-![Eraser Task Properties](/sites/siabnext.ttc.io/files/media/eraser-win-20.png)
+![Eraser Task Properties](https://securityinabox.org/sbox/screen/eraser-en/20.png)[Eraser img 20]
 
 *Figure 4: The Eraser Task Properties screen*
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-21.png) to create, and then run the task which will appear in the **Eraser** user interface.
+**Click** ![OK](https://securityinabox.org/sbox/screen/eraser-en/21.png)[Eraser img 21] to create, and then run the task which will appear in the **Eraser** user interface.
 
 ### Step 5
 
 **Right-click** the task to activate the pop-up menu as follows:
 
-![Eraser screen with Run selected](/sites/siabnext.ttc.io/files/media/eraser-win-22.png)
+![Eraser screen with Run selected](https://securityinabox.org/sbox/screen/eraser-en/22.png)[Eraser img 22]
 
 *Figure 5: The Eraser screen with Run selected*
 
@@ -114,17 +114,17 @@ The *Unused space on drive* option should be selected.
 
 **Select Run** to activate the **Eraser** pop up dialog box as follows:
 
-![Eraser pop up dialog box](/sites/siabnext.ttc.io/files/media/eraser-win-23.png)
+![Eraser pop up dialog box](https://securityinabox.org/sbox/screen/eraser-en/23.png)[Eraser img 23]
 
 *Figure 6: The Eraser pop up dialog box*
 
 ### Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-16.png).
+**Click** ![Yes](https://securityinabox.org/sbox/screen/eraser-en/16.png)[Eraser img 16].
 
 *The **Eraser** progress status window displays the wiping process on the unused disk space as follows:*
 
-![Eraser window in the process of wiping unused disk space](/sites/siabnext.ttc.io/files/media/eraser-win-24.png)
+![Eraser window in the process of wiping unused disk space](https://securityinabox.org/sbox/screen/eraser-en/24.png)[Eraser img 24]
 
 *Figure 7: The Eraser window in the process of wiping unused disk space*
 
@@ -134,13 +134,13 @@ Since we may not always remember to do this kind of computer 'housekeeping', **E
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-25.png) in the **Eraser** main screen.
+**Click** ![](https://securityinabox.org/sbox/screen/eraser-en/25.png)[Eraser img 25] in the **Eraser** main screen.
 
 ### Step 2
 
 **Select File > New Task** as follows:
 
-![Selecting a New Task in the File menu](/sites/siabnext.ttc.io/files/media/eraser-win-26.png)
+![Selecting a New Task in the File menu](https://securityinabox.org/sbox/screen/eraser-en/26.png)[Eraser img 26]
 
 *Figure 8: Selecting a New Task in the File menu*
 
@@ -148,9 +148,9 @@ This will activate a window similar screen to *Figure 4* (in which you created a
 
 ### Step 3
 
-**Set** these options as outlined in section [**3.2 How to Use the on-Demand Tasks Option**](/en/using_eraser#3.2).
+**Set** these options as outlined in section [**3.2 How to Use the on-Demand Tasks Option**](https://securityinabox.org/using_eraser#3.2)[Eraser Howto #3.2].
 
-![Eraser Task Properties - Schedule tab](/sites/siabnext.ttc.io/files/media/eraser-win-27.png)
+![Eraser Task Properties - Schedule tab](https://securityinabox.org/sbox/screen/eraser-en/27.png)[Eraser img 27]
 
 *Figure 9: The Eraser Task Properties screen displaying the Schedule tab*
 
@@ -158,7 +158,7 @@ This will activate a window similar screen to *Figure 4* (in which you created a
 
 **Click** the *Schedule* tab to activate its associated pane with two configurable settings: 
 
-![Eraser Schedule tab](/sites/siabnext.ttc.io/files/media/eraser-win-28.png)
+![Eraser Schedule tab](https://securityinabox.org/sbox/screen/eraser-en/28.png)[Eraser img 28]
 
 *Figure 10: The Eraser Schedule tab*
 
@@ -172,11 +172,11 @@ This will activate a window similar screen to *Figure 4* (in which you created a
 
 ### Step 7
 
-After you have set a time and day, **click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-21.png).
+After you have set a time and day, **click** ![OK](https://securityinabox.org/sbox/screen/eraser-en/21.png)[Eraser img 21].
 
 *The scheduled task will appear as follows*:
 
-![Eraser Scheduled task list](/sites/siabnext.ttc.io/files/media/eraser-win-29.png)
+![Eraser Scheduled task list](https://securityinabox.org/sbox/screen/eraser-en/29.png)[Eraser img 29]
 
 *Figure 11: The Eraser Scheduled task list*
 
@@ -190,9 +190,9 @@ To remove an on-demand task, perform the following steps:
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-18.png) to display its corresponding task list as follows:
+**Click** ![](https://securityinabox.org/sbox/screen/eraser-en/18.png)[Eraser img 18] to display its corresponding task list as follows:
 
-![Eraser task list](/sites/siabnext.ttc.io/files/media/eraser-win-30.png)
+![Eraser task list](https://securityinabox.org/sbox/screen/eraser-en/30.png)[Eraser img 30]
 
 *Figure 12: The Eraser task list*
 
@@ -202,13 +202,13 @@ To remove an on-demand task, perform the following steps:
 
 ### Step 3
 
-**Right-click** to activate the pop-up menu and **select** the *Delete* item to remove the task from the task list. (Alternatively, you may **click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-31.png) located beneath the **Eraser** menu bar.
+**Right-click** to activate the pop-up menu and **select** the *Delete* item to remove the task from the task list. (Alternatively, you may **click** ![](https://securityinabox.org/sbox/screen/eraser-en/31.png)[Eraser img 31] located beneath the **Eraser** menu bar.
 
 The process for removing a *Scheduled Task* is almost identical. To remove a scheduled task, perform the following step:
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-25.png), and then **repeat** ### Steps** 2 and 3, as described in this section.
+**Click** ![](https://securityinabox.org/sbox/screen/eraser-en/25.png)[Eraser img 25], and then **repeat** ### Steps** 2 and 3, as described in this section.
 
 ## Erase the Windows Recycle Bin
 
@@ -220,7 +220,7 @@ To access this feature, perform the following steps:
 
 **Right click** anywhere on the **Recycle Bin** icon to activate the **Eraser** pop-up menu as follows:
 
-![Eraser pop-up menu for Recycle Bin](/sites/siabnext.ttc.io/files/media/eraser-win-32.png)
+![Eraser pop-up menu for Recycle Bin](https://securityinabox.org/sbox/screen/eraser-en/32.png)[Eraser img 32]
 
 *Figure 13: The Eraser pop-up menu for the Recycle Bin*
 

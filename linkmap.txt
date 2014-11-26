@@ -22,12 +22,15 @@ CCleaner Portable | https://securityinabox.org/ccleaner_portable
 Cobian Howto #2.2 | https://securityinabox.org/cobian_howtobackup#2.2
 Cobian Encrypt | https://securityinabox.org/cobian_encrypt
 Cobian Decompress | https://securityinabox.org/cobian_compress#3.1
+Eraser Main | https://securityinabox.org/eraser_main
+Eraser Howto #3.2 | https://securityinabox.org/using_eraser
 Firefox Main | https://securityinabox.org/en/Firefox_main
 K9 Main | https://securityinabox.org/en/k9_apg_main
 KeePass Main | https://securityinabox.org/en/keepass_main
 Orbot Main | https://securityinabox.org/Orbot_main
 Pidgin Main | https://securityinabox.org/pidgin_main
-<!-- Pidgin Google Talk | https://securityinabox.org/en/pidgin_furtherinfo -- Access denied --> 
+<!-- Pidgin Google Talk | https://securityinabox.org/en/pidgin_furtherinfo -- Access denied -->
+Recuva Main | https://securityinabox.org/recuva_main
 Tor Main | https://securityinabox.org/tor_main
 Truecrypt Main | https://securityinabox.org/truecrypt_main
 
@@ -356,6 +359,55 @@ Cryptonite img 20 | https://securityinabox.org/sbox/screen/cryptonite-en/18.png
 Cryptonite img 21 | https://securityinabox.org/sbox/screen/cryptonite-en/19.png
 Cryptonite img 22 | https://securityinabox.org/sbox/screen/cryptonite-en/21.png
 Cryptonite img 23 | https://securityinabox.org/sbox/screen/cryptonite-en/22.png
+
+Eraser img 01 | https://securityinabox.org/sbox/screen/eraser-en/01.png
+Eraser img 02 | https://securityinabox.org/sbox/screen/eraser-en/02.png
+Eraser img 03 | https://securityinabox.org/sbox/screen/eraser-en/03.png
+Eraser img 04 | https://securityinabox.org/sbox/screen/eraser-en/04.png
+Eraser img 05 | https://securityinabox.org/sbox/screen/eraser-en/05.png
+Eraser img 06 | https://securityinabox.org/sbox/screen/eraser-en/06.png
+Eraser img 07 | https://securityinabox.org/sbox/screen/eraser-en/07.png
+Eraser img 08 | https://securityinabox.org/sbox/screen/eraser-en/08.png
+Eraser img 09 | https://securityinabox.org/sbox/screen/eraser-en/09.png
+Eraser img 10 | https://securityinabox.org/sbox/screen/eraser-en/10.png
+Eraser img 11 | https://securityinabox.org/sbox/screen/eraser-en/11.png
+Eraser img 12 | https://securityinabox.org/sbox/screen/eraser-en/12.png
+Eraser img 13 | https://securityinabox.org/sbox/screen/eraser-en/13.png
+Eraser img 14 | https://securityinabox.org/sbox/screen/eraser-en/14.png
+Eraser img 15 | https://securityinabox.org/sbox/screen/eraser-en/15.png
+Eraser img 16 | https://securityinabox.org/sbox/screen/eraser-en/16.png
+Eraser img 17 | https://securityinabox.org/sbox/screen/eraser-en/17.png
+Eraser img 18 | https://securityinabox.org/sbox/screen/eraser-en/18.png
+Eraser img 19 | https://securityinabox.org/sbox/screen/eraser-en/19.png
+Eraser img 20 | https://securityinabox.org/sbox/screen/eraser-en/20.png
+Eraser img 21 | https://securityinabox.org/sbox/screen/eraser-en/21.png
+Eraser img 22 | https://securityinabox.org/sbox/screen/eraser-en/22.png
+Eraser img 23 | https://securityinabox.org/sbox/screen/eraser-en/23.png
+Eraser img 24 | https://securityinabox.org/sbox/screen/eraser-en/24.png
+Eraser img 25 | https://securityinabox.org/sbox/screen/eraser-en/25.png
+Eraser img 26 | https://securityinabox.org/sbox/screen/eraser-en/26.png
+Eraser img 27 | https://securityinabox.org/sbox/screen/eraser-en/27.png
+Eraser img 28 | https://securityinabox.org/sbox/screen/eraser-en/28.png
+Eraser img 29 | https://securityinabox.org/sbox/screen/eraser-en/29.png
+Eraser img 30 | https://securityinabox.org/sbox/screen/eraser-en/30.png
+Eraser img 31 | https://securityinabox.org/sbox/screen/eraser-en/31.png
+Eraser img 32 | https://securityinabox.org/sbox/screen/eraser-en/32.png
+Eraser img 33 | https://securityinabox.org/sbox/screen/eraserportable-en/01.png
+Eraser img 34 | https://securityinabox.org/sbox/screen/eraserportable-en/02.png
+Eraser img 35 | https://securityinabox.org/sbox/screen/eraserportable-en/03.png
+Eraser img 36 | https://securityinabox.org/sbox/screen/eraserportable-en/04.png
+Eraser img 37 | https://securityinabox.org/sbox/screen/eraserportable-en/06.png
+Eraser img 38 | https://securityinabox.org/sbox/screen/eraserportable-en/07.png
+Eraser img 39 | https://securityinabox.org/sbox/screen/eraserportable-en/08.png
+Eraser img 40 | https://securityinabox.org/sbox/screen/eraserportable-en/09.png
+Eraser img 41 | https://securityinabox.org/sbox/screen/eraserportable-en/10.png
+Eraser img 42 | https://securityinabox.org/sbox/screen/eraserportable-en/11.png
+Eraser img 43 | https://securityinabox.org/sbox/screen/eraserportable-en/12.png
+Eraser img 44 | https://securityinabox.org/sbox/screen/eraserportable-en/13.png
+Eraser img 45 | https://securityinabox.org/sbox/screen/eraserportable-en/14.png
+Eraser img 46 | https://securityinabox.org/sbox/screen/eraserportable-en/15.png
+Eraser img 47 | https://securityinabox.org/sbox/screen/eraserportable-en/16.png
+
 
 
 Metanull img 01 | https://securityinabox.org/sbox/screen/Metanull-en/01.png

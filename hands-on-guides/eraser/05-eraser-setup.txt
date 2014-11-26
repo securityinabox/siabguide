@@ -8,7 +8,7 @@ Version: 5.86a; Although you may find newer versions of Eraser on the developers
 License: Free/Open Source Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [secure-delete](http://www.ghacks.net/2010/08/26/securely-delete-files-with-secure-delete/) (command line tools) for GNU Linux; secure-delete [integrated with a graphical file manager](http://techthrob.com/2010/07/07/adding-a-secure-delete-option-to-nautilus-file-manager-in-linux/) for GNU Linux; Finder menu Secure Empty Trash... on Mac OS; Disk Utility to securely erase entire disk or a free space on internal or external disks on Mac OS; [CCleaner](https://siabnext.ttc.io/en/ccleaner_main) for Microsoft Windows; [Freeraser](http://www.freeraser.com/) for Microsoft Windows; [DBAN - Darik's Boot And Nuke](http://www.dban.org/) for bulk or emergency data destruction
+Alternatives: [secure-delete](http://www.ghacks.net/2010/08/26/securely-delete-files-with-secure-delete/) (command line tools) for GNU Linux; secure-delete [integrated with a graphical file manager](http://techthrob.com/2010/07/07/adding-a-secure-delete-option-to-nautilus-file-manager-in-linux/) for GNU Linux; Finder menu Secure Empty Trash... on Mac OS; Disk Utility to securely erase entire disk or a free space on internal or external disks on Mac OS; [CCleaner](https://securityinabox.org/ccleaner_main)[CCleaner Main] for Microsoft Windows; [Freeraser](http://www.freeraser.com/) for Microsoft Windows; [DBAN - Darik's Boot And Nuke](http://www.dban.org/) for bulk or emergency data destruction
 Comment: read 03-eraser-premise before installing and using this tool
 Group: Basic Usage
 Title: Configuration
@@ -27,13 +27,13 @@ The number of passes can be set by accessing the *Preferences: Erasing* menu.
 
 **Select > Edit > Preferences > Erasing...** as follows: 
 
-![Edit menu options](/sites/siabnext.ttc.io/files/media/eraser-win-07.png)
+![Edit menu options](https://securityinabox.org/sbox/screen/eraser-en/07.png)[Eraser img 07]
 
 *Figure 3: The Eraser [On-Demand] screen displaying the Edit menu options*
 
 *The Preferences: Erasing window appears as follows:*
 
-![Eraser Preferences: Erasing window](/sites/siabnext.ttc.io/files/media/eraser-win-08.png)
+![Eraser Preferences: Erasing window](https://securityinabox.org/sbox/screen/eraser-en/08.png)[Eraser img 08]
 
 *Figure 4: The Eraser Preferences: Erasing window*
 
@@ -51,9 +51,9 @@ In this example, we will overwrite our data using the *Pseudorandom Data* method
 
 ## Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-09.png) to activate the *Passes* screen as follows:
+**Click** ![Edit](https://securityinabox.org/sbox/screen/eraser-en/09.png)[Eraser img 09] to activate the *Passes* screen as follows:
 
-![Eraser Passes](/sites/siabnext.ttc.io/files/media/eraser-win-10.png)
+![Eraser Passes](https://securityinabox.org/sbox/screen/eraser-en/10.png)[Eraser img 10]
 
 *Figure 3: The Eraser Passes screen*
 
@@ -63,17 +63,17 @@ In this example, we will overwrite our data using the *Pseudorandom Data* method
 
 ## Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-11.png) to return to the *Passes* screen.
+**Click** ![OK](https://securityinabox.org/sbox/screen/eraser-en/11.png)[Eraser img 11] to return to the *Passes* screen.
 
 \# 4 Pseudorandom Data should now resemble the following:
 
-![Eraser Erase screen with item 4 selected](/sites/siabnext.ttc.io/files/media/eraser-win-12.png)
+![Eraser Erase screen with item 4 selected](https://securityinabox.org/sbox/screen/eraser-en/12.png)[Eraser img 12]
 
 *Figure 4: The Eraser Erase screen with pane showing item 4 selected*
 
 **Tip**: Make sure the check boxes labelled *Cluster Tip Area* and *Alternate Data Streams* are checked as follows (they are checked by default):
 
-![Eraser Cluster Tip Area and Alternate Data Streams in default mode](/sites/siabnext.ttc.io/files/media/eraser-win-13.png)
+![Eraser Cluster Tip Area and Alternate Data Streams in default mode](https://securityinabox.org/sbox/screen/eraser-en/13.png)[Eraser img 13]
 
 *Figure 5: The Eraser Cluster Tip Area and Alternate Data Streams check boxes in default mode*
 
@@ -83,7 +83,7 @@ In this example, we will overwrite our data using the *Pseudorandom Data* method
 
 ## Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/eraser-win-11.png).
+**Click** ![OK](https://securityinabox.org/sbox/screen/eraser-en/11.png)[Eraser img 11].
 
 You have now set the overwrite method for **Eraser** to wipe files. You should also set the same options for the *Unused Disk Space* feature that appears on the next tab in the *Preferences: Erasing* screen. However, you may set the number of passes to a *reasonable* figure -- taking into consideration that a free-space wipe will take around two hours per pass.
 
