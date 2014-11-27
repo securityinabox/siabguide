@@ -21,7 +21,7 @@ Language: EN
 
 When you first run **K-9** it asks you to set up a new account, **type** in your email address and password.
 
-![Enter your email address](/sites/siabnext.ttc.io/files/media/k9conf-and-01.png)
+![Enter your email address](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9conf-and-01.png)[k9 img 01]
 
 *Figure 1: Enter your email address*
 
@@ -29,7 +29,7 @@ When you first run **K-9** it asks you to set up a new account, **type** in your
 
 **Select** what type of account you have (IMAP/POP/Exchange). If unsure, **check** the email client on your computer.
 
-![Email account options](/sites/siabnext.ttc.io/files/media/k9conf-and-02.png)
+![Email account options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9conf-and-02.png)[k9 img 02]
 
 *Figure 2: Email account options*
 
@@ -37,7 +37,7 @@ When you first run **K-9** it asks you to set up a new account, **type** in your
 
 Next are the incoming server settings. If unsure, refer to the email client on your computer for settings. Always **ensure** that the *security type* is set to either *SSL (always)* or *TLS (always)*. **Never** use the *none* option.
 
-![Incoming server settings](/sites/siabnext.ttc.io/files/media/k9conf-and-03.png)
+![Incoming server settings](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9conf-and-03.png)[k9 img 03]
 
 *Figure 3: Incoming server settings*
 
@@ -49,7 +49,7 @@ Next are the incoming server settings. If unsure, refer to the email client on y
 
 **K-9** asks you to configure your outgoing server settings. Again, **ensure** that *Security Type* is *SSL (always)* or *TLS (always)*. For all additional settings, **check** your computer's email client or the settings of your email provider.
 
-![Outgoing server settings](/sites/siabnext.ttc.io/files/media/k9conf-and-04.png)
+![Outgoing server settings](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9conf-and-04.png)[k9 img 04]
 
 *Figure 4: Outgoing server settings*
 
@@ -57,7 +57,7 @@ Next are the incoming server settings. If unsure, refer to the email client on y
 
 **K-9** now asks you how often you want it to automatically poll for email. **Set** the option to *never*, which means you have to manually check for new mail.
 
-![Poll frequency](/sites/siabnext.ttc.io/files/media/k9conf-and-05.png)
+![Poll frequency](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9conf-and-05.png)[k9 img 05]
 
 *Figure 5: Poll frequency*
 
@@ -65,7 +65,7 @@ Next are the incoming server settings. If unsure, refer to the email client on y
 
 The last pieces of information to provide are a nickname for the email account which will be displayed in **K-9** and to set up the name you wish to be displayed on all outgoing email.
 
-![Account name options](/sites/siabnext.ttc.io/files/media/k9conf-and-06.png)
+![Account name options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9conf-and-06.png)[k9 img 06]
 
 *Figure 6: Account name options*
 
@@ -73,6 +73,6 @@ The last pieces of information to provide are a nickname for the email account w
 
 To make sure the account is working in **K-9**, **send** yourself an email from your computer and download it from the **K-9** client. 
 
-![](/sites/siabnext.ttc.io/files/media/k9conf-and-07.png)
+![inbox](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9conf-and-07.png)[k9 img 07]
 
 We recommend that you use **K-9** only in addition to your computer's email client. Therefore it is important that when you download email with your Android phone, it does not delete the email on the server, since you want to receive the email later with your computer, too. By default, **K-9** is set up this way, but you may want to check it out and learn more about the settings which can be found in *accounts*, this can be reached by long tapping on the account you have just set up and selecting *account settings* from the menu. You may also wish to check the *fetching mail* and *sending mail* account option for settings that you may want to adjust.

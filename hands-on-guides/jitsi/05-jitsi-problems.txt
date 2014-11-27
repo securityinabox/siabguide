@@ -8,7 +8,7 @@ Version: 2.4
 License: Free/Open Source Software
 System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
 Admin: false
-Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
+Alternatives: [Pidgin for Windows](https://securityinabox.org/pidgin_main)[Pidgin Main]
 Comment:
 Required_reading:
 Group: Basic Usage
@@ -20,7 +20,7 @@ Language: EN
 
 ## Step 1
 
-![Main Application Window - Clock Button highlighted](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.014.en-win.png)
+![Main Application Window - Clock Button highlighted](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.014.en-win.png)[Jitsi img 19]
 
 * By default, Jitsi keeps a record of your IM text chats as well as your voice and video calls. The following Steps will show you how to access these history lists (assuming you have used Jitsi for at least one text chat and at least one voice or video call). We will then:
 
@@ -37,7 +37,7 @@ Language: EN
 
 ## Step 3
 
-![Hourglass button](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.015.en-win.png)
+![Hourglass button](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.015.en-win.png)[Jitsi img 20]
 
 * To access your IM chat history, you must have an active chat session with a Buddy. 
 
@@ -51,7 +51,7 @@ Language: EN
 
 ## Step 5
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 * To disable logging of IM text chats, voice calls and video calls, follow the Steps below
 
@@ -61,7 +61,7 @@ Language: EN
 
 ## Step 6
 
-![Options - General](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.016.en-win.png)
+![Options - General](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.016.en-win.png)[Jitsi img 21]
 
 1. Click the *General* button
 
@@ -69,7 +69,7 @@ Language: EN
 
 ## Step 7
 
-![Options - Advanced](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.017.en-win.png)
+![Options - Advanced](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.017.en-win.png)[Jitsi img 22]
 
 * In addition to your chat history, Jitsi collects other data that may also be sensitive. To address this issue, follow the Steps below
 
@@ -102,4 +102,4 @@ Language: EN
 
 * Empty the *Recycle Bin*
 
-**See the [How to destroy sensitive information](https://securityinabox.org/en/chapter-6) chapter for advice on disposing of data properly**
+**See the [How to destroy sensitive information](https://securityinabox.org/chapter-6)[Sensitive Information] chapter for advice on disposing of data properly**

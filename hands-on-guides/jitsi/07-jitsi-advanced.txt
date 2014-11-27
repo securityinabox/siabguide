@@ -8,7 +8,7 @@ Version: 2.4
 License: Free/Open Source Software
 System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
 Admin: false
-Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
+Alternatives: [Pidgin for Windows](https://securityinabox.org/pidgin_main)[Pidgin Main]
 Comment:
 Required_reading:
 Group: Advanced Usage
@@ -28,7 +28,7 @@ Language: EN
 
 ## Step 2
 
-![Voice Call](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.013-en-win.png)
+![Voice Call](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.013-en-win.png)[Jitsi img 35]
 
 * Jitsi will initiate the voice call
 
@@ -36,7 +36,7 @@ Language: EN
 
 ## Step 3
 
-![Receiving a voice call](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.014a-en-win.png)
+![Receiving a voice call](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.014a-en-win.png)[Jitsi img 36]
 
 * The previous Steps showed how you can place a voice call using Jitsi. if you *receive* a voice call, Jitsi will display a message like this
 
@@ -44,7 +44,7 @@ Language: EN
 
 ## Step 4
 
-![Unencrypted call -- red padlock](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.014-en-win_0.png)
+![Unencrypted call -- red padlock](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.014-en-win_0.png)[Jitsi img 37]
 
 1. If your contact accepts your call, Jitsi will display a *Connected* message. An open padlock with the red background means that the call is not yet secure. 
 
@@ -52,7 +52,7 @@ Language: EN
 
 ## Step 5
 
-![Encrypted call -- padlock on yellow background](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.015-en-win.png)
+![Encrypted call -- padlock on yellow background](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.015-en-win.png)[Jitsi img 38]
 
 1. If Jitsi's zRTP encryption is wokring, the message will change, the padlock will close, and the background will turn yellow. This should happen within a few seconds after the call connects.
 
@@ -64,7 +64,7 @@ Language: EN
 
 ## Step 6
 
-![Encrypted and Authenticated Call -- padlock on green background](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.016-en-win.png?t=1416217038577)
+![Encrypted and Authenticated Call -- padlock on green background](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.016-en-win.png)[Jitsi img 39]
 
 1. At this point the padlock background should turn green. 
 
@@ -74,7 +74,7 @@ Language: EN
 
 ## Step 7
 
-![Secure Voice Call](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.017-en-win.png)
+![Secure Voice Call](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.017-en-win.png)[Jitsi img 40]
 
 * You have now started a secure voice call with Jitsi
 

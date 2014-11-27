@@ -8,7 +8,7 @@ Version: 2.4
 License: Free/Open Source Software
 System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
 Admin: false
-Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
+Alternatives: [Pidgin for Windows](https://securityinabox.org/pidgin_main)[Pidgin Main]
 Comment:
 Required_reading:
 Group: Basic Usage 
@@ -20,7 +20,7 @@ Language: EN
 
 ## Step 1
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 1. Click *File*
 
@@ -28,7 +28,7 @@ Language: EN
 
 ## Step 2
 
-[Add Contact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.001-en-win.png)
+[Add Contact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.001-en-win.png)[Jitsi img 23]
 
 1. Select the account for which you are adding a contact
 
@@ -44,13 +44,13 @@ Language: EN
 
 ## Step 3
 
-![Main Application Window - New contact - Waiting for authorization](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.002-en-win.png) 
+![Main Application Window - New contact - Waiting for authorization](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.002-en-win.png)[Jitsi img 24]
 
 1. The main application screen will now show your new contact, along with the message, "Waiting for authorization." Once she accepts your "invitation," you will be able to use Jitsi to chat with her
 
 ## Step 4
 
-![Authorization Requested](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.003-en-win.png)
+![Authorization Requested](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.003-en-win.png)[Jitsi img 25]
 
 * The previous steps described how you can use Jitsi to *send* an invitation to a contact. If you *receive* an invitation, on the other hand, Jitsi will display a message like this one
 
@@ -62,7 +62,7 @@ Language: EN
 
 ## Step 5
 
-![Main Application Window - New contact added](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.004-en-win.png)
+![Main Application Window - New contact added](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.004-en-win.png)[Jitsi img 26]
 
 1. If the person to whom you sent your invitation clicks *Authorize*, the "Waiting for authorization" message will disappear from her entry on your main application window. You can now use Jitsi to start an IM text chat with her. (And, of course, she can start chats with you as well)
 
@@ -70,7 +70,7 @@ Language: EN
 
 ## Step 1
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 * Before we can start a secure IM session with a contact, we have to configure Jitsi to use strong, end-to-end encryption. (And our contact must do the same.)
 
@@ -80,7 +80,7 @@ Language: EN
 
 ## Step 2
 
-![Options - Security - Chat tab - generate key](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.006-en-win.png)
+![Options - Security - Chat tab - generate key](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.006-en-win.png)[Jitsi img 27]
 
 1. Click the *Security* button
 
@@ -92,7 +92,7 @@ Language: EN
 
 ## Step 3
 
-![My Private Keys](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.007-en-win.png)
+![My Private Keys](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.007-en-win.png)[Jitsi img 28]
 
 1. This will generate a unique identity key and display the *fingerprint* of that key. Unless you are using Jitsi on multiple devices, you should only have to do this once for each account. (However, any contact with whom you want to chat securely must *also* do this)
 
@@ -100,7 +100,7 @@ Language: EN
 
 ## Step 4
 
-![Main Application Window - Start an IM Chat](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.005-en-win.png)
+![Main Application Window - Start an IM Chat](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.005-en-win.png)[Jitsi img 29]
 
 1. In the main application window, click the entry for the contact with whom you want to chat
 
@@ -110,7 +110,7 @@ Language: EN
 
 ## Step 5
 
-![Chat Window - padlock button](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.008-en-win.png)
+![Chat Window - padlock button](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.008-en-win.png)[Jitsi img 30]
 
 * Depending on how you have configured it, Jitsi might automatically attempt to start a secure session once your chat begins
 
@@ -118,7 +118,7 @@ Language: EN
 
 ## Step 6
 
-![Unverified private conversation](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.009-en-win.png?t=1416217038072)
+![Unverified private conversation](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.009-en-win.png)[Jitsi img 31]
 
 1. In this example, our contact started the secure session, and Jitsi tells us that an "Unverified private conversation" has begun. This means that we are chatting with *somebody* who's using OTR encryption, but we still need to make sure (in this example) that it's really Sally
 
@@ -128,7 +128,7 @@ Language: EN
 
 ## Step 7
 
-![Authenticate Contact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.010-en-win.png)
+![Authenticate Contact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.010-en-win.png)[Jitsi img 32]
 
 * The Authenticate Buddy screen displays information you will need to make sure that your contact is really whom she claims to be
 
@@ -144,7 +144,7 @@ Language: EN
 
 ## Step 8
 
-![Check Fingerprint](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.011-en-win.png)
+![Check Fingerprint](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.011-en-win.png)[Jitsi img 33]
 
 1. Type in (or paste) the identity fingerprint you are given. Jitsi will compare this to the fingerprint shown above, which is the one that your contact is actually using
 
@@ -154,7 +154,7 @@ Language: EN
 
 ## Step 9
 
-![Encrypted Chat Window - Authenticated Contact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.012-en-win.png)
+![Encrypted Chat Window - Authenticated Contact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-contacts-and-use.012-en-win.png)[Jitsi img 34]
 
 1. Note that the tiny yellow triangle is gone from the padlock icon in the upper right-hand corner of your Jitsi toolbar. You can now chat securely with your contact. (Though she will have to carry out the above steps herself in order to be confident that *she* is chatting securely with *you*)
 

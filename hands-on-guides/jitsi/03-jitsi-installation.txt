@@ -8,7 +8,7 @@ Version: 2.4
 License: Free/Open Source Software
 System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
 Admin: false
-Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
+Alternatives: [Pidgin for Windows](https://securityinabox.org/pidgin_main)[Pidgin Main]
 Comment:
 Required_reading:
 Group: Basic Usage
@@ -20,7 +20,7 @@ Language: EN
 
 ## Step 1
 
-![Windows Security Alert](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.001.en-win_0.png)
+![Windows Security Alert](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.001.en-win_0.png)[Jitsi img 01]
 
 * If Windows Firewall blocks Jitsi's access to the network, you can safely Cancel or close the window. Jitsi will still work fine, unless you need to use it in Registrarless SIP mode. (If you do, then check both the "Private networks..." and the "Public networks..." boxes and click Allow access)
 
@@ -28,7 +28,7 @@ Language: EN
 
 ## Step 2
 
-![Protocols](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.002.en-win.png)
+![Protocols](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.002.en-win.png)[Jitsi img 02]
 
 * Jitsi will display the Sign in screen. At this point, you can simply click Cancel, to close the current window, then skip to the next section. Or, if you already have an IM account that you want to use with Jitsi, you can sign in by following the Steps below
 
@@ -40,7 +40,7 @@ Language: EN
 
 ## Step 3
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 * Jitsi will sign you in and display the main application window.
 

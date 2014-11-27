@@ -8,7 +8,7 @@ Version: 2.4
 License: Free/Open Source Software
 System_requirements: Windows 2000, Windows XP, Windows Vista, Windows 7, Windows 8
 Admin: false
-Alternatives: [Pidgin for Windows](https://siabnext.ttc.io/hands-on-guide/pidgin-windows)
+Alternatives: [Pidgin for Windows](https://securityinabox.org/pidgin_main)[Pidgin Main]
 Comment:
 Required_reading:
 Group: Basic Usage
@@ -20,7 +20,7 @@ Language: EN
 
 ## Step 1
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 1. Click *File*
 
@@ -28,7 +28,7 @@ Language: EN
 
 ## Step 2
 
-![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.005.en-win.png)
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.005.en-win.png)[Jitsi img 04]
 
 1. For this example, we will use a Google Talk account, but you can use almost any popular instant messaging service (except *Skype*)
 
@@ -42,7 +42,7 @@ Language: EN
 
 ## Step 3
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 * Once again, Jitsi will sign you in and display the main application window.
 
@@ -54,7 +54,7 @@ Language: EN
 
 ## Step 4
 
-![Options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.006.en-win.png)
+![Options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.006.en-win.png)[Jitsi img 05]
 
 1. Click on *Accounts* if necessary
 
@@ -66,7 +66,7 @@ Language: EN
 
 ## Step 1
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 * If you do not already have an account with an IM service (or if you do not want to use any of those you already have), Jitsi can help you create a new one. The account will be added to Jitsi at the same time.
 
@@ -76,7 +76,7 @@ Language: EN
 
 ## Step 2
 
-![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.008.en-win.png)
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.008.en-win.png)[Jitsi img 06]
 
 * In this example, we will create an account on an IM service run by the Chaos Computer Club (CCC), but most free XMPP services (also known as *Jabber* services) allow you to create accounts this way
 
@@ -90,7 +90,7 @@ Language: EN
 
 ## Step 3
 
-![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.008.en-win.png)
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.008.en-win.png)[Jitsi img 06]
 
 1. Choose and type in a unique username (in this case *terrence.the.tester*)
 
@@ -104,7 +104,7 @@ Language: EN
 
 ## Step 4
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 * Unless your chosen username was already taken, three things will have happened simultaneously:
 
@@ -116,7 +116,7 @@ Language: EN
 
 ## Step 1
 
-![Ostel website](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009a.en-win.png)
+![Ostel website](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009a.en-win.png)[Jitsi img 07]
 
 Go to the  [Ostel](https://ostel.co "Ostel") website
 
@@ -124,7 +124,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 2
 
-![Ostel Sign-up form](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009b.en-win_0.png)
+![Ostel Sign-up form](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009b.en-win_0.png)[Jitsi img 08]
 
 1. Type in an email address. You will use this email address if you need to access the ostel.co website to manage your SIP account
 
@@ -132,7 +132,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 3
 
-![Pick a Code Name](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009c.en-win.png)
+![Pick a Code Name](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009c.en-win.png)[Jitsi img 09]
 
 1. Type in a *code name* (a username) for your *Ostel* SIP account
 
@@ -146,7 +146,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 4
 
-![Welcome to Ostel](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009d.en-win.png)
+![Welcome to Ostel](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009d.en-win.png)[Jitsi img 10]
 
 * You now have an *Ostel* SIP account!
 
@@ -154,7 +154,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 5
 
-![Main Account Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Account Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 * We will now add your new *Ostel* account to Jitsi
 
@@ -164,7 +164,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 6
 
-![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009.en-win.png)
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.009.en-win.png)[Jitsi img 11]
 
 1. Select *SIP* from the Network selector
 
@@ -186,7 +186,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 2
 
-![Main Account Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Account Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 1. Click *File*
 
@@ -194,7 +194,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 3
 
-![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.010.en-win.png)
+![Add New Account](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.010.en-win.png)[Jitsi img 12]
 
 1. Select *Facebook* from the Network selector
 
@@ -208,7 +208,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 1
 
-![Main Account Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Account Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 1. Click *Tools*
 
@@ -216,7 +216,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 2
 
-![Options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.011.en-win.png)
+![Options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.011.en-win.png)[Jitsi img 13]
 
 1. Click *Accounts* if necessary
 
@@ -224,13 +224,13 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 3
 
-![Account Registration Wizard](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.012.en-win.png)
+![Account Registration Wizard](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.012.en-win.png)[Jitsi img 14]
 
 1. Click *Change account password*
 
 ## Step 4
 
-![Change Account Password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.013.en-win.png)
+![Change Account Password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.013.en-win.png)[Jitsi img 15]
 
 1. Type in your new passphrase
 
@@ -246,7 +246,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 1
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 1. Click *Tools*
 
@@ -254,7 +254,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 2
 
-![Options - Security](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.020.en-win.png)
+![Options - Security](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.020.en-win.png)[Jitsi img 16]
 
 1. Click the *Security* button
 
@@ -264,7 +264,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 3
 
-![Master Password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.019.en-win.png)
+![Master Password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.019.en-win.png)[Jitsi img 17]
 
 1. Choose and type in a strong master passphrase
 
@@ -284,7 +284,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 5
 
-![Options - Security - Change Master Password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.020.en-win.png)
+![Options - Security - Change Master Password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.020.en-win.png)[Jitsi img 16]
 
 * In the future, to change your master passphrase, just come back to this screen and click the *Change Master Password* button
 
@@ -294,7 +294,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 1
 
-![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)
+![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 
 1. Click *Tools*
 
@@ -302,7 +302,7 @@ Go to the  [Ostel](https://ostel.co "Ostel") website
 
 ## Step 2
 
-![Options - Security - Require private messaging](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.018.en-win.png)
+![Options - Security - Require private messaging](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.018.en-win.png)[Jitsi img 18]
 
 1. Click the *Security* button
 
