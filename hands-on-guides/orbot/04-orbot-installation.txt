@@ -19,9 +19,9 @@ Language: EN
 
 ## Step 1
 
-On your Android device, **download** and **install** the app from the [Google Play store](https://play.google.com/store/apps/details?id=org.torproject.android) store by pressing ![](/sites/siabnext.ttc.io/files/media/orbot-and-002.png)
+On your Android device, **download** and **install** the app from the [Google Play store](https://play.google.com/store/apps/details?id=org.torproject.android) store by pressing ![Install](https://securityinabox.org/sbox/screen/orbot-en-1/002.png)[Orbot img 01]
 
-![Orbot in the Google Play store](/sites/siabnext.ttc.io/files/media/orbot-and-001.png)
+![Orbot in the Google Play store](https://securityinabox.org/sbox/screen/orbot-en-1/001.png)[Orbot img 02]
 
 *Figure 1: Orbot in the Google Play store*
 
@@ -29,8 +29,8 @@ On your Android device, **download** and **install** the app from the [Google Pl
 
 ## Step 2
 
-Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully. Once your are happy with the permissions that will be granted, press ![](/sites/siabnext.ttc.io/files/media/orbot-and-003.png) and the installation will complete.  If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully. Once your are happy with the permissions that will be granted, press ![Accept](https://securityinabox.org/sbox/screen/orbot-en-1/003.png)[Orbot img 03] and the installation will complete.  If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
 
-![Permissions required](/sites/siabnext.ttc.io/files/media/orbot-and-004.png)
+![Permissions required](https://securityinabox.org/sbox/screen/orbot-en-1/004.png)[Orbot img 04]
 
 *Figure 2: Permissions required*

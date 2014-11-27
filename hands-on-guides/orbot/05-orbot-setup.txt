@@ -21,64 +21,64 @@ Language: EN
 
 To open Orbot you **tap** the application's icon.
 
-![](/sites/siabnext.ttc.io/files/media/orbot-and-005a.png)
+![application's icon](https://securityinabox.org/sbox/screen/orbot-en-1/orbot.png)[Orbot img 05]
 
 ## Step 2
 
-**Tap** the language that you want and then ![](/sites/siabnext.ttc.io/files/media/orbot-and-006.png).
+**Tap** the language that you want and then ![Next](https://securityinabox.org/sbox/screen/orbot-en-1/006.png)[Orbot img 06].
 
-![Choose language](/sites/siabnext.ttc.io/files/media/orbot-and-005.png)
+![Choose language](https://securityinabox.org/sbox/screen/orbot-en-1/005.png)[Orbot img 07]
 
 *Figure 3: Choose language*
 
 ## Step 3
 
-A configuration wizard will appear with a description of Orbot. **Read** it and **tap** ![](/sites/siabnext.ttc.io/files/media/orbot-and-006.png) 
+A configuration wizard will appear with a description of Orbot. **Read** it and **tap** ![Next](https://securityinabox.org/sbox/screen/orbot-en-1/006.png)[Orbot img 06] 
 
-![Information about Orbot](/sites/siabnext.ttc.io/files/media/orbot-and-007.png)
+![Information about Orbot](https://securityinabox.org/sbox/screen/orbot-en-1/007.png)[Orbot img 08]
 
 *Figure 4: Information about Orbot*
 
 ## Step 4
 
-You will then be presented with a warning screen. Once you have **read** this and understand the requirements press ![](/sites/siabnext.ttc.io/files/media/orbot-and-006.png)
+You will then be presented with a warning screen. Once you have **read** this and understand the requirements press ![Next](https://securityinabox.org/sbox/screen/orbot-en-1/006.png)[Orbot img 06]
 
-![Important warning about how to use Orbot](/sites/siabnext.ttc.io/files/media/orbot-and-008.png)
+![Important warning about how to use Orbot](https://securityinabox.org/sbox/screen/orbot-en-1/008.png)[Orbot img 09]
 
 *Figure 5: Important warning about how to use Orbot*
 
 ## Step 5
 
-A screen will appear asking you to grant **Orbot** *Superuser access*. *Superuser access* requires that your device is [rooted](/en/glossary#root) if you want to make use of **Orbot's** Transparent Proxy features - we will not explore this feature in the **Orbot** guide.
+A screen will appear asking you to grant **Orbot** *Superuser access*. *Superuser access* requires that your device is [rooted](https://securityinabox.org/glossary#rooting)[Glossary #rooting] if you want to make use of **Orbot's** Transparent Proxy features - we will not explore this feature in the **Orbot** guide.
 
 If your smartphone is not rooted, just **tick** the option that states *I understand and would like to continue without Superuser*. The next screen explains in order for you to benefit from Tor, you will need to use apps built to work with **Orbot**, or that support HTTP or SOCKS proxy.
 
-![Notes regarding rooting](/sites/siabnext.ttc.io/files/media/orbot-and-009.png) ![Notes regarding rooting](/sites/siabnext.ttc.io/files/media/orbot-and-010.png)
+![Notes regarding rooting](https://securityinabox.org/sbox/screen/orbot-en-1/009.png)[Orbot img 10] ![Notes regarding rooting](https://securityinabox.org/sbox/screen/orbot-en-1/010.png)[Orbot img 11]
 
 *Figure 6 & 7: Notes regarding rooting*
 
-**Note:** If you would like to learn more about *rooting* see the [*Advanced Smartphone Security*](/en/chapter_11_7) chapter.
+**Note:** If you would like to learn more about *rooting* see the [*Advanced Smartphone Security*](https://securityinabox.org/chapter_11_7)[Smartphones Advanced] chapter.
 
 ## Step 6
 
-A list of applications that work with **Orbot** will appear. Take note of them and **tap** ![](/sites/siabnext.ttc.io/files/media/orbot-and-006.png)
+A list of applications that work with **Orbot** will appear. Take note of them and **tap** ![Next](https://securityinabox.org/sbox/screen/orbot-en-1/006.png)[Orbot img 06]
 
-![Orbot-enabled apps](/sites/siabnext.ttc.io/files/media/orbot-and-011.png)
+![Orbot-enabled apps](https://securityinabox.org/sbox/screen/orbot-en-1/011.png)[Orbot img 12]
 
 *Figure 8: Orbot-enabled apps*
 
 ## Step 7
 
-**Orbot** configuration is now complete. A final screen describing the typical users of **Tor** and **Orbot** will appear, once you have read this **tap** ![](/sites/siabnext.ttc.io/files/media/orbot-and-012.png)
+**Orbot** configuration is now complete. A final screen describing the typical users of **Tor** and **Orbot** will appear, once you have read this **tap** ![Finish](https://securityinabox.org/sbox/screen/orbot-en-1/012.png)[Orbot img 13]
 
-![Orbot is ready](/sites/siabnext.ttc.io/files/media/orbot-and-013.png)
+![Orbot is ready](https://securityinabox.org/sbox/screen/orbot-en-1/013.png)[Orbot img 14]
 
 *Figure 9: Orbot is ready!*
 
 ## Step 8
 
-After pressing ![](/sites/siabnext.ttc.io/files/media/orbot-and-012.png) (*Fig. 9*) you will be presented with the deactivated **Orbot** screen.
+After pressing ![Finish](https://securityinabox.org/sbox/screen/orbot-en-1/012.png)[Orbot img 13] (*Fig. 9*) you will be presented with the deactivated **Orbot** screen.
 
-![Orbot deactivated](/sites/siabnext.ttc.io/files/media/orbot-and-014.png)
+![Orbot deactivated](https://securityinabox.org/sbox/screen/orbot-en-1/014.png)[Orbot img 15]
 
 *Figure 10: Orbot deactivated*

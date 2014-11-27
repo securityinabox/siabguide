@@ -19,17 +19,17 @@ Language: EN
 
 ## Step 1
 
-On your Android device, **download** and **install** the app from the [**Google Play**](https://play.google.com/store/apps/details?id=com.android.keepass) store by pressing ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-002.png)
+On your Android device, **download** and **install** the app from the [**Google Play**](https://play.google.com/store/apps/details?id=com.android.keepass) store by pressing ![Install](https://securityinabox.org/sbox/screen/keepassdroid-en-1/002.png)[KeyPassDroid img 01]
 
-![KeyPassDroid download page](/sites/siabnext.ttc.io/files/media/keepassdroid-and-001.png)
+![KeyPassDroid download page](https://securityinabox.org/sbox/screen/keepassdroid-en-1/001.png)[KeyPassDroid img 02]
 
 *Figure 1: KeyPassDroid download page*
 
 ## Step 2
 
-Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully, once your are happy with the permissions that will be granted, press ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-003.png) and the installation will complete.  If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully, once your are happy with the permissions that will be granted, press ![Accept](https://securityinabox.org/sbox/screen/keepassdroid-en-1/003.png)[KeyPassDroid img 03] and the installation will complete.  If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
 
-![Permissions necessary for KeyPassDroid](/sites/siabnext.ttc.io/files/media/keepassdroid-and-004.png)
+![Permissions necessary for KeyPassDroid](https://securityinabox.org/sbox/screen/keepassdroid-en-1/004.png)[KeyPassDroid img 04]
 
 *Figure 2: Permissions necessary for KeyPassDroid*
 

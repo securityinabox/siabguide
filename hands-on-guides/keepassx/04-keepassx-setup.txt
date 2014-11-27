@@ -24,14 +24,14 @@ In order to create a new password database, you must do three things:
 
 ## Step 1
 
-![New Database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.001.new_.png)
+![New Database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.001.new_.png)[KeePassX img 16]
 
 1. Click *File*
 2. Click *New Database*
 
 ## Step 2
 
-![Set Master Key](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.002.pwd1_.png)
+![Set Master Key](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.002.pwd1_.png)[KeePassX img 17]
 
 1. Choose a strong master passphrase and type it in
 * **It is very important that your master passphrase be unique, long, complex and difficult to guess. Unfortunately, it must also be *memorable*. (After all, you can't keep your KeePassX master passphrase inside KeePassX, and writing it down would sort of defeat the purpose of using an encrypted password database.) If you forget it, however, you will lose access to everything in your database. So, take your time and come up with a good one!**
@@ -39,7 +39,7 @@ In order to create a new password database, you must do three things:
 
 ## Step 3 (optional)
 
-!["eye" button](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.003.pwd-show.png)
+!["eye" button](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.003.pwd-show.png)[KeePassX img 18]
 
 * **You might want to skip this step, especially if you think someone may be looking over your shoulder.**
 1. If you want a quick look at the master passphrase you have chosen, click the "eye" button
@@ -48,14 +48,14 @@ In order to create a new password database, you must do three things:
 
 ## Step 4
 
-![repeat password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.005.pwd2_.png)
+![repeat password](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.005.pwd2_.png)[KeePassX img 19]
 
 1. Enter your  chosen master passphrase a second time to make sure you got it right
 2. Click *OK*
 
 ## Step 5
 
-![unsaved database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.005.unsaved-en-win.png)
+![unsaved database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.005.unsaved-en-win.png)[KeePassX img 20]
 
 * **Congratulations, you have *almost* created a new KeePassX database. Now you must save it, just like you would any other electronic document**
 * Note the small asterisk (*) in the KeePassX title bar. When you see that, it means you have made a change to your database and must save it before you close it or quit KeePassX
@@ -64,7 +64,7 @@ In order to create a new password database, you must do three things:
 
 ## Step 6
 
-![Save database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.006.save-location-en-win_1.png)
+![Save database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.006.save-location-en-win_1.png)[KeePassX img 21]
 
 * In this example, we save our KeePassX database in the *Documents* library, but you can put it anywhere. If you store it on a USB flash memory stick, along with a copy of the KeePassX application folder, you will be able to access your passwords using other computers
 1. Click on the *Documents* library
@@ -74,7 +74,7 @@ In order to create a new password database, you must do three things:
 
 ## Step 7
 
-![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.007.close-db-en-win.png)
+![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.007.close-db-en-win.png)[KeePassX img 22]
 
 * Note that the small asterisk (*) is now gone from the KeePassX title bar. This means all changes to your database have been saved
 
@@ -88,7 +88,7 @@ In order to create a new password database, you must do three things:
 
 ## Step 8
 
-![New Database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.007.saved-database-en-win.png)
+![New Database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-database.007.saved-database-en-win.png)[KeePassX img 23]
 
 1. Here is your new KeePassX database file. Be sure to remember where you put it!
 
@@ -98,7 +98,7 @@ The *Add Entry* screen lets you add account information, passwords and other imp
 
 ## Step 1
 
-![Main Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.001.open-en-win.png)
+![Main Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.001.open-en-win.png)[KeePassX img 24]
 
 1. Click *File*
 2. Click *Open Database*
@@ -106,7 +106,7 @@ The *Add Entry* screen lets you add account information, passwords and other imp
 
 ## Step 2
 
-![Open Database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.002.open-location-en-win.png)
+![Open Database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.002.open-location-en-win.png)[KeePassX img 25]
 
 1. Click on the *Documents* library (if necessary)
 2. Click on your KeePassX database file, *passwords.kdb* in this example
@@ -114,14 +114,14 @@ The *Add Entry* screen lets you add account information, passwords and other imp
 
 ## Step 3
 
-![Enter Passphrase](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.003.password-en-win_0.png)
+![Enter Passphrase](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.003.password-en-win_0.png)[KeePassX img 26]
 
 1. Enter your KeePassX master passphrase
 2. Click *OK*
 
 ## Step 4
 
-![Add New Entry](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.004.add-entry-en-win.png)
+![Add New Entry](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.004.add-entry-en-win.png)[KeePassX img 27]
 
 1. Click *Entries*
 2. Click *Add New Entry*
@@ -131,7 +131,7 @@ The *Add Entry* screen lets you add account information, passwords and other imp
 
 The following two steps highlight the various elements that make up the New Entry screen.
 
-![New Entry](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.005.blank-entry-en-win.png)
+![New Entry](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.005.blank-entry-en-win.png)[KeePassX img 28]
 
 1. _Group:_ The category of account to which this entry belongs. New KeePassX databases include *Internet* and *eMail* groups, but you can also create your own
 2. _Icon:_ The icon that will be associated with this account entry
@@ -144,7 +144,7 @@ The following two steps highlight the various elements that make up the New Entr
 
 ## Step 6
 
-![New Entry](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.005.blank-entry-en-win.png)
+![New Entry](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.005.blank-entry-en-win.png)[KeePassX img 29]
 
 1. _Repeat:_ Re-type your chosen password to make sure you got it right
 2. _Gen:_ Opens a window that allows you to generate a random password for this account entry. You can configure the length of the password and what types of characters (numbers, letters, symbols, etc.) to include
@@ -155,7 +155,7 @@ The following two steps highlight the various elements that make up the New Entr
 
 ## Step 7
 
-![New Entry](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.006.entry-info-en-win.png?t=1416222706838)
+![New Entry](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.006.entry-info-en-win.png)[KeePassX img 30]
 
 1. Select the group to which this account entry will be assigned
 2. Type in a name for this account entry
@@ -166,7 +166,7 @@ The following two steps highlight the various elements that make up the New Entr
 
 ## Step 8 (optional)
 
-![Password Generator](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.007.generate-pwd-en-win.png)
+![Password Generator](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.007.generate-pwd-en-win.png)[KeePassX img 31]
 
 1. If you are generating a password for a service that restricts the types of characters you can include, select the appropriate checkboxes here.
 2. You can increase the length of your password here, or decrease it if you are creating an account entry for a service that limits password length. The default length (25 characters) is quite strong
@@ -178,7 +178,7 @@ The following two steps highlight the various elements that make up the New Entr
 
 ## Step 9
 
-![Quality Bar](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.008.enter-pwd-en-win.png)
+![Quality Bar](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.008.enter-pwd-en-win.png)[KeePassX img 32]
 
 1. If you created your own passphrase (rather than allowing KeePassX to generate one for you), type it in here
 2. The *Quality* bar will fill up according to the strength of the passphrase you entered above. For a strong passphrase, it will be completely green, and the number to the right will be at least 130 Bits. 
@@ -188,7 +188,7 @@ The following two steps highlight the various elements that make up the New Entr
 
 ## Step 10
 
-![Save database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.009.save-entry-en-win.png)
+![Save database](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/keepassx-entry.009.save-entry-en-win.png)[KeePassX img 33]
 
 1. Click *File*
 2. Click *Save Database*

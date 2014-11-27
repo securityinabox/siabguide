@@ -8,11 +8,16 @@ Version: 2.10.9 (OTR 4.0.0-1)
 License: Free/Open Source Software
 System_requirements: Microsoft Windows; GNU/Linux
 Admin: false
-Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
+Alternatives: [Jitsi](https://securityinabox.org/jitsi)[Jitsi Main] for Microsoft Windows, GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
 Comment: read 03-pidgin-premise before installing and using this tool
 Group: Training 
 Title: Review questions
 Language: EN
 
 
-
+- How many times do you need to 'authenticate' your chat session with a given buddy?
+- Is it possible to register and simultaneously use multiple **IM** accounts in **Pidgin**? 
+- What is a fingerprint in **Pidgin**? 
+- What will happen to your **OTR** preferences (including the received keys' fingerprints) when you install **Pidgin- OTR** on another computer?
+- What is required to initiate a private and authenticated chat session in **Pidgin**?
+- What are the requirements for creating an account in **Pidgin**?

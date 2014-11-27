@@ -8,7 +8,7 @@ Version: 2.10.9 (OTR 4.0.0-1)
 License: Free/Open Source Software
 System_requirements: Microsoft Windows; GNU/Linux
 Admin: false
-Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
+Alternatives: [Jitsi](https://securityinabox.org/jitsi)[Jitsi Main] for Microsoft Windows, GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
 Comment: read 03-pidgin-premise before installing and using this tool
 Group: Basic Usage
 Title: Configuration
@@ -21,7 +21,7 @@ There are four basic steps in the **Pidgin** account registration and setup proc
 
 Given that chat or **IM** sessions take place between two parties, the examples on this page describe how the various forms and windows appear to *both* buddies/correspondents (represented by two fictional characters, Salima and Terence) at different stages of the account registration and set up process. All examples are based on the **Riseup.net** IM service.
 
-**Note**: Before you can start using **Pidgin**, you must already have an **Instant Messaging** (**IM**) account with one of the providers listed in *Figure 6* below. If you would like to create an **IM** account, we recommend using **Riseup** email account which can be later used for [XMPP communication](https://help.riseup.net/en/chat). Please refer to chapter [**RiseUp - Secure Email Service**](/en/riseup_main) for information and instructions on how to setup **Riseup** account. You can also use XMPP account providers listed in section [2.2 How to Add Accounts in Jitsi](/en/jitsi_account#2.2), like: [Jit.si](https://jitsi.org/Register/Register) or Google Account.
+**Note**: Before you can start using **Pidgin**, you must already have an **Instant Messaging** (**IM**) account with one of the providers listed in *Figure 6* below. If you would like to create an **IM** account, we recommend using **Riseup** email account which can be later used for [XMPP communication](https://help.riseup.net/en/chat). Please refer to chapter [**RiseUp - Secure Email Service**](https://securityinabox.org/riseup_main)[Riseup Main] for information and instructions on how to setup **Riseup** account. You can also use XMPP account providers listed in section [2.2 How to Add Accounts in Jitsi](https://securityinabox.org/jitsi_account#2.2)[Jitsi Add Account], like: [Jit.si](https://jitsi.org/Register/Register) or Google Account.
 
 # Register Your Instant Messaging Account with Pidgin
 
@@ -29,17 +29,17 @@ To register your **IM** account to **Pidgin**, perform the following steps:
 
 ## Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-13.png) or **select Start > All Programs > Pidgin** to launch **Pidgin**. The first time you use **Pidgin**, the following screen will appear:
+**Click** ![Pidgin icon](https://securityinabox.org/sbox/screen/pidgin-en-1/13.png)[Pidgin img 12] or **select Start > All Programs > Pidgin** to launch **Pidgin**. The first time you use **Pidgin**, the following screen will appear:
 
-![Accounts confirmation window](/sites/siabnext.ttc.io/files/media/pidgin-win-14.png)
+![Accounts confirmation window](https://securityinabox.org/sbox/screen/pidgin-en-1/14.png)[Pidgin img 13]
 
 *Figure 4: The Accounts confirmation window*
 
 ## Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-15.png) to display a blank *Add Account* window as follows: 
+**Click** ![Add](https://securityinabox.org/sbox/screen/pidgin-en-1/15.png)[Pidgin img 14] to display a blank *Add Account* window as follows: 
 
-![Add Account screen - Basic, Advanced and Proxy tabs](/sites/siabnext.ttc.io/files/media/pidgin-win-16.png) 
+![Add Account screen - Basic, Advanced and Proxy tabs](https://securityinabox.org/sbox/screen/pidgin-en-1/16.png)[Pidgin img 15] 
 
 *Figure 5: The Add Account screen displaying Basic, Advanced and Proxy tabs*
 
@@ -47,7 +47,7 @@ To register your **IM** account to **Pidgin**, perform the following steps:
 
 **Click** the *Protocol* drop-down list to view the **IM** service protocols supported by **Pidgin** as follows: 
 
-![Add Account window - list of supported IM protocols](/sites/siabnext.ttc.io/files/media/pidgin-win-17.png) 
+![Add Account window - list of supported IM protocols](https://securityinabox.org/sbox/screen/pidgin-en-1/17.png)[Pidgin img 16] 
 
 *Figure 6: The Add Account window displaying a list of supported IM protocols*
 
@@ -73,15 +73,15 @@ To register your **IM** account to **Pidgin**, perform the following steps:
 
 A completed *Add Account* screen would resemble the following:
 
-![completed Add Account form](/sites/siabnext.ttc.io/files/media/pidgin-win-18.png) 
+![completed Add Account form](https://securityinabox.org/sbox/screen/pidgin-en-1/18.png)[Pidgin img 17] 
 
 *Figure 7: An example of a completed Add Account form*
  
 ## Step 8
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-19.png) to complete adding your account, and simultaneously display an updated *Accounts* the *Buddy List* screens as follows:
+**Click** ![Add](https://securityinabox.org/sbox/screen/pidgin-en-1/19.png)[Pidgin img 18] to complete adding your account, and simultaneously display an updated *Accounts* the *Buddy List* screens as follows:
 
-![updated Accounts window](/sites/siabnext.ttc.io/files/media/pidgin-win-20.png)      ![Buddy List in Active mode](/sites/siabnext.ttc.io/files/media/pidgin-win-21.png)
+![updated Accounts window](https://securityinabox.org/sbox/screen/pidgin-en-1/20.png)[Pidgin img 19]      ![Buddy List in Active mode](https://securityinabox.org/sbox/screen/pidgin-en-1/21.png)[Pidgin img 20]
 
 *Figure 8: An updated Accounts window;*   *Figure 9: The Buddy List in Active mode*
 

@@ -19,7 +19,7 @@ Language: EN
 
 **Note:** There is a [bug](http://xordern.net/ip-leakage-of-mobile-tor-browsers.html) in the current version of **Orweb** (0.6.1 and older) that may leak information about you, such as your IP address, to the website owners if you are viewing HTML5 based videos.  **Orweb** will still allow you to circumvent censorship and prevent you from being spied on by your *Internet Service Provider* (ISP) but we do not recommend it to be used to view sites that may be considered hostile. For more information on the issue see the developers' [response](https://guardianproject.info/2014/06/30/recent-news-on-orweb-flaws/).
 
-**Orweb** will only work properly after installing and configuring [**Orbot**](/en/Orbot_main).
+**Orweb** will only work properly after installing and configuring [**Orbot**](https://securityinabox.org/Orbot_main)[Orbot Main].
 
 Remember, if you previously created a mail or blog without using **Orweb**, the site will still know your real location even if you return using **Orweb**.
 

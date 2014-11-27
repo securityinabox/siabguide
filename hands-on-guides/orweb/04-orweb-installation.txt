@@ -19,9 +19,9 @@ Language: EN
 
 ## Step 1
 
-On your Android device, **download** and **install** the app from the [Google Play store](https://play.google.com/store/apps/details?id=info.guardianproject.browser) store by tapping ![](/sites/siabnext.ttc.io/files/media/orweb-and-002.png)
+On your Android device, **download** and **install** the app from the [Google Play store](https://play.google.com/store/apps/details?id=info.guardianproject.browser) store by tapping ![Install](https://securityinabox.org/sbox/screen/orweb-en-1/002.png)[Orweb img 01]
 
-![Orweb in the Google Play store](/sites/siabnext.ttc.io/files/media/orweb-and-001.png)
+![Orweb in the Google Play store](https://securityinabox.org/sbox/screen/orweb-en-1/001.png)[Orweb img 02]
 
 *Figure 1: Orweb in the Google Play store*
 
@@ -29,12 +29,12 @@ On your Android device, **download** and **install** the app from the [Google Pl
 
 ## Step 2
 
-Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully. Once your are happy with the permissions that will be granted, press ![](/sites/siabnext.ttc.io/files/media/orweb-and-003.png) to start the installation.  If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
+Before the installation process begins, you will be prompted to review the access the application will have on your phone. Review this carefully. Once your are happy with the permissions that will be granted, press ![Accept](https://securityinabox.org/sbox/screen/orweb-en-1/003.png)[Orweb img 03] to start the installation.  If you do not agree with the permissions that will be granted, press the back button and the installation will be cancelled.
 
-![Permissions required](/sites/siabnext.ttc.io/files/media/orweb-and-004.png)
+![Permissions required](https://securityinabox.org/sbox/screen/orweb-en-1/004.png)[Orweb img 04]
 
 *Figure 2: Permissions required*
 
 ## Step 3
 
-Once **Orweb** downloads and installation has completed, you can press ![](/sites/siabnext.ttc.io/files/media/orweb-and-005.png) to start the application.
+Once **Orweb** downloads and installation has completed, you can press ![Open](https://securityinabox.org/sbox/screen/orweb-en-1/005.png)[Orweb img 05] to start the application.

@@ -29,14 +29,14 @@ Once copied over, complete the following steps to import your keys into APG.
 
 **Tap** the *menu* button, and **choose** *manage secret keys*.
 
-![manage secret keys](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9apgimp-and-01.png)[k9 img 08]
+![manage secret keys](https://securityinabox.org/sbox/screen/k9apg-en/apgimp-01.png)[k9 img 08]
 
 ## Step 3
 
 **Press** the menu button again and select import keys 
-![import keys](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9apgimp-and-02.png)[k9 img 09], enter the location you stored your private key pair in and press *OK*.  Once imported, repeat the above steps and import your public keys from the *manage public keys* menu.
+![import keys](https://securityinabox.org/sbox/screen/k9apg-en/apgimp-02.png)[k9 img 09], enter the location you stored your private key pair in and press *OK*.  Once imported, repeat the above steps and import your public keys from the *manage public keys* menu.
 
-![Key management options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9apgimp-and-03.png)[k9 img 10]
+![Key management options](https://securityinabox.org/sbox/screen/k9apg-en/apgimp-03.png)[k9 img 10]
 
 *Figure 7: Key management options*
 
@@ -48,4 +48,4 @@ To import your public keys, **repeat** steps 2 and 3, choosing *manage public ke
 
 Once your keypair(s) and your collection of public keys are imported into APG, **K-9** will give you the options to *sign* and *encrypt* messages when writing emails, or if you received encrypted mail, it will allow you to decrypt it.
 
-![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9apgimp-and-06.png)[k9 img 11] ![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/k9apgimp-and-07.png)[k9 img 12]
+![](https://securityinabox.org/sbox/screen/k9apg-en/apgimp-06.png)[k9 img 11] ![](https://securityinabox.org/sbox/screen/k9apg-en/apgimp-07.png)[k9 img 12]

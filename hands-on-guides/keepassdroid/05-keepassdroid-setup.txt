@@ -23,19 +23,19 @@ In the sections that follow, you will be taught how to create a master password,
 
 To open **KeePassDroid** you **tap** the application's icon.
 
-![](/sites/siabnext.ttc.io/files/media/trans-keepassdroid.png)
+![application's icon](https://securityinabox.org/sbox/screen/keepassdroid-en-1/keepassdroid.png)[KeyPassDroid img 05]
 
 ## Step 2
 
 To create a new password database, **tap** *create*. 
 
-![Open/create database](/sites/siabnext.ttc.io/files/media/keepassdroid-and-005.png)
+![Open/create database](https://securityinabox.org/sbox/screen/keepassdroid-en-1/005.png)[KeyPassDroid img 06]
 
 *Figure 3: Open/create database screen.*
 
 This will activate the *Enter database password* screen as below:
 
-![Enter database password](/sites/siabnext.ttc.io/files/media/keepassdroid-and-006.png)
+![Enter database password](https://securityinabox.org/sbox/screen/keepassdroid-en-1/006.png)[KeyPassDroid img 07]
 
 *Figure 4: Enter database password screen.*
 
@@ -45,17 +45,17 @@ In this step you will create a single, unique and strong master password, which 
 
 **Type** in the master password you have invented into the *password* and *confirm password* fields as shown below:
 
-![Enter a master password](/sites/siabnext.ttc.io/files/media/keepassdroid-and-007.png)
+![Enter a master password](https://securityinabox.org/sbox/screen/keepassdroid-en-1/007.png)[KeyPassDroid img 08]
 
 *Figure 5: Enter a master password*
 
-**Tip**: Have a look at [**3. How to create and maintain good passwords**](/en/chapter_3_1) for more information on how to create a strong master password.
+**Tip**: Have a look at [**3. How to create and maintain good passwords**](https://securityinabox.org/chapter_3_1)[Password Select] for more information on how to create a strong master password.
 
 ## Step 4
 
 **Tap** **OK** to create and open your Keepass database.
 
-![KeePassDroid home](/sites/siabnext.ttc.io/files/media/keepassdroid-and-008.png)
+![KeePassDroid home](https://securityinabox.org/sbox/screen/keepassdroid-en-1/008.png)[KeyPassDroid img 09]
 
 *Figure 6: KeePassDroid home screen*
 
@@ -65,9 +65,9 @@ Congratulations! You have successfully created your secure password database. No
 
 # Add a group
 
-**KeePassDroid** stores passwords entries in groups to keep your information organized, the default groups are **Email** and **Internet**, but you can create your own group by **tapping** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-009.png), typing the name of the group and then ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-010.png).
+**KeePassDroid** stores passwords entries in groups to keep your information organized, the default groups are **Email** and **Internet**, but you can create your own group by **tapping** ![Add Group](https://securityinabox.org/sbox/screen/keepassdroid-en-1/009.png)[KeyPassDroid img 10], typing the name of the group and then ![OK](https://securityinabox.org/sbox/screen/keepassdroid-en-1/010.png)[KeyPassDroid img 11].
 
-![Adding a new group](/sites/siabnext.ttc.io/files/media/keepassdroid-and-011.png) ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-012.png)
+![Adding a new group](https://securityinabox.org/sbox/screen/keepassdroid-en-1/011.png)[KeyPassDroid img 12] ![](https://securityinabox.org/sbox/screen/keepassdroid-en-1/012.png)[KeyPassDroid img 13]
 
 *Figures 7 and 8: Adding a new group*
 
@@ -79,9 +79,9 @@ The **Add entry** screen lets you add account information, passwords and other i
 
 ## Step 1
 
-**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-013.png) to activate the *Add Entry* screen as follows:
+**Tap** ![Add Entry](https://securityinabox.org/sbox/screen/keepassdroid-en-1/013.png)[KeyPassDroid img 14] to activate the *Add Entry* screen as follows:
 
-![Adding a new password entry](/sites/siabnext.ttc.io/files/media/keepassdroid-and-014.png)
+![Adding a new password entry](https://securityinabox.org/sbox/screen/keepassdroid-en-1/014.png)[KeyPassDroid img 15]
 
 *Figures 9: Adding a new password entry*
 
@@ -95,7 +95,7 @@ A brief explanation of these different text boxes is presented as follows:
 
   - **URL**: The internet site associated with the password entry. For example, *https://twitter.com*
 
-  - **Password**: The password for your account. This section also allows you to [*generate a random password*](#2.4) if you do not want to come up with one your self.
+  - **Password**: The password for your account. This section also allows you to [*generate a random password*](https://securityinabox.org/keepassdroid_advanced_use#3.1)[KeyPassDroid Advanced] if you do not want to come up with one your self.
 
   - **Confirm passwords**: The confirmation of the password.
 
@@ -109,6 +109,6 @@ A brief explanation of these different text boxes is presented as follows:
 
 Your new entry now appears in the group.
 
-![New entry in the newly-created group](/sites/siabnext.ttc.io/files/media/keepassdroid-and-015.png)
+![New entry in the newly-created group](https://securityinabox.org/sbox/screen/keepassdroid-en-1/015.png)[KeyPassDroid img 16]
 
 *Figure 11: New entry appearing in the newly-created group*

@@ -21,21 +21,21 @@ Language: EN
 
 To open Orweb you **tap** the application's icon.
 
-![](/sites/siabnext.ttc.io/files/media/trans-orweb.png)
+![application's icon](https://securityinabox.org/sbox/screen/orweb-en-1/orweb.png)[Orweb img 06]
 
 ## Step 2
 
-**Orweb** will launch and automatically try to connect to *https://check.torproject.org*, to ensure that its connection to the **Tor** network is working.  If it can connect, you will see a message telling you that your *browser is configured to use Tor*.  If **Orweb** can not connect to the website you will see an error message in the browser. If this happens, it is suggested that you check that [Orbot](/en/orbot_main/) is installed and running on your android device if this happens.
+**Orweb** will launch and automatically try to connect to *https://check.torproject.org*, to ensure that its connection to the **Tor** network is working.  If it can connect, you will see a message telling you that your *browser is configured to use Tor*.  If **Orweb** can not connect to the website you will see an error message in the browser. If this happens, it is suggested that you check that [Orbot](https://securityinabox.org/Orbot_main)[Orbot Main] is installed and running on your android device if this happens.
 
-![Orweb successfully connected](/sites/siabnext.ttc.io/files/media/orweb-and-006.png) ![Orweb connection failure](/sites/siabnext.ttc.io/files/media/orweb-and-007.png)
+![Orweb successfully connected](https://securityinabox.org/sbox/screen/orweb-en-1/006.png)[Orweb img 07] ![Orweb connection failure](https://securityinabox.org/sbox/screen/orweb-en-1/007.png)[Orweb img 08]
 
 *Figure 1 & 2: Orweb successfully connected and Orweb connection failure screens*
 
 ## Step 3
 
-To browse to websites, **tap** the area at the top of the screen to the right of ![](/sites/siabnext.ttc.io/files/media/orweb-and-008.png) and type in the address you want to visit. Press **Go** on the onscreen keypad.
+To browse to websites, **tap** the area at the top of the screen to the right of ![](https://securityinabox.org/sbox/screen/orweb-en-1/008.png)[Orweb img 09] and type in the address you want to visit. Press **Go** on the onscreen keypad.
 
-![Browsing to a new website](/sites/siabnext.ttc.io/files/media/orweb-and-009.png) ![](/sites/siabnext.ttc.io/files/media/orweb-and-010.png)
+![Browsing to a new website](https://securityinabox.org/sbox/screen/orweb-en-1/009.png)[Orweb img 10] ![](https://securityinabox.org/sbox/screen/orweb-en-1/010.png)[Orweb img 11]
 
 *Figure 3 & 4: Browsing to a new website
 
@@ -45,17 +45,17 @@ If you want to hide the type of device that you are using from the websites you 
 
 ## Step 1
 
-**Tap** on the menu icon (![](/sites/siabnext.ttc.io/files/media/orweb-and-011.png)) found in the top right of the screen and **tap** ![](/sites/siabnext.ttc.io/files/media/orweb-and-012.png).
+**Tap** on the menu icon (![menu icon](https://securityinabox.org/sbox/screen/orweb-en-1/011.png)[Orweb img 12]) found in the top right of the screen and **tap** ![Settings](https://securityinabox.org/sbox/screen/orweb-en-1/012.png)[Orweb img 13].
 
-![Settings Menu](/sites/siabnext.ttc.io/files/media/orweb-and-013.png)
+![Settings Menu](https://securityinabox.org/sbox/screen/orweb-en-1/013.png)[Orweb img 14]
 
 *Figure 5: Settings Menu*
 
 ## Step 2
 
-Once in the *settings* section, scroll down to the **Privacy** section and **tap** ![](/sites/siabnext.ttc.io/files/media/orweb-and-014.png)
+Once in the *settings* section, scroll down to the **Privacy** section and **tap** ![User Agent](https://securityinabox.org/sbox/screen/orweb-en-1/014.png)[Orweb img 15]
 
-![User Agent option](/sites/siabnext.ttc.io/files/media/orweb-and-015.png)
+![User Agent option](https://securityinabox.org/sbox/screen/orweb-en-1/015.png)[Orweb img 16]
 
 *Figure 6: User Agent option screen*
 
@@ -63,7 +63,7 @@ Once in the *settings* section, scroll down to the **Privacy** section and **tap
 
 You will be presented with a list of *User Agents*. **Tap** your choice (e.g. Tap *iPhone*  to set it.  Now any time you visit a website, it will think you are using an *iPhone*).
 
-![A list of possible User Agents](/sites/siabnext.ttc.io/files/media/orweb-and-016.png)
+![A list of possible User Agents](https://securityinabox.org/sbox/screen/orweb-en-1/016.png)[Orweb img 17]
 
 *Figure 7: A list of possible User Agents*
 
@@ -71,17 +71,17 @@ You will be presented with a list of *User Agents*. **Tap** your choice (e.g. Ta
 
 ## Step 1
 
-To manually clear your browsing history and cache, and to hide the websites you have been visiting on your phone, **tap** on the menu icon (![](/sites/siabnext.ttc.io/files/media/orweb-and-011.png)) and press ![](/sites/siabnext.ttc.io/files/media/orweb-and-017.png)
+To manually clear your browsing history and cache, and to hide the websites you have been visiting on your phone, **tap** on the menu icon (![menu icon](https://securityinabox.org/sbox/screen/orweb-en-1/011.png)[Orweb img 12]) and press ![Clear History/Cache](https://securityinabox.org/sbox/screen/orweb-en-1/017.png)[Orweb img 18]
 
 ## Step 2
 
-To automatically remove your browsing history and cache as you go to a new page, **Tap** on the menu icon (![](/sites/siabnext.ttc.io/files/media/orweb-and-011.png)) followed by ![](/sites/siabnext.ttc.io/files/media/orweb-and-012.png)
+To automatically remove your browsing history and cache as you go to a new page, **Tap** on the menu icon (![menu icon](https://securityinabox.org/sbox/screen/orweb-en-1/011.png)[Orweb img 12]) followed by ![Settings](https://securityinabox.org/sbox/screen/orweb-en-1/012.png)[Orweb img 13]
 
 ## Step 3
 
 In the **settings** screen, scroll down and **tap** *Clear Back History*.
 
-![Setting the Clear Back History option](/sites/siabnext.ttc.io/files/media/orweb-and-018.png)
+![Setting the Clear Back History option](https://securityinabox.org/sbox/screen/orweb-en-1/018.png)[Orweb img 19]
 
 *Figure 8: Setting the Clear Back History option*
 
@@ -93,16 +93,16 @@ Note: When you set this, you will not be able to press the back button to view w
 
 ## Step 1
 
-**Tap** on the menu icon (![](/sites/siabnext.ttc.io/files/media/orweb-and-011.png)) found in the top right of the screen and **tap** **Settings**
+**Tap** on the menu icon (![menu icon](https://securityinabox.org/sbox/screen/orweb-en-1/011.png)[Orweb img 12]) found in the top right of the screen and **tap** **Settings**
 
 ## Step 2
 
-Scroll down to the **Cookies** section and press ![](/sites/siabnext.ttc.io/files/media/orweb-and-019.png)
+Scroll down to the **Cookies** section and press ![Clear Cookie Data](https://securityinabox.org/sbox/screen/orweb-en-1/019.png)[Orweb img 20]
 
 ## Step 3
 
-**Tap** ![](/sites/siabnext.ttc.io/files/media/orweb-and-020.png) to confirm the deleting of cookies.
+**Tap** ![OK](https://securityinabox.org/sbox/screen/orweb-en-1/020.png)[Orweb img 21] to confirm the deleting of cookies.
 
-![Confirm deletion of cookies](/sites/siabnext.ttc.io/files/media/orweb-and-021.png)
+![Confirm deletion of cookies](https://securityinabox.org/sbox/screen/orweb-en-1/021.png)[Orweb img 22]
 
 *Figure 9: Confirm deletion of cookies*

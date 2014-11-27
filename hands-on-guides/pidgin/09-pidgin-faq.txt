@@ -8,7 +8,7 @@ Version: 2.10.9 (OTR 4.0.0-1)
 License: Free/Open Source Software
 System_requirements: Microsoft Windows; GNU/Linux
 Admin: false
-Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
+Alternatives: [Jitsi](https://securityinabox.org/jitsi)[Jitsi Main] for Microsoft Windows, GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
 Comment: read 03-pidgin-premise before installing and using this tool
 Group: FAQ 
 Title: FAQ

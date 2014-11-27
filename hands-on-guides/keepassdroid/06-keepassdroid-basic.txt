@@ -21,21 +21,21 @@ Given that a secure password is not easily memorized, **KeePassDroid** lets you 
 
 ## Step 1
 
-Open the password entry you wish to use and **tap** the menu icon (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-016.png)):
+Open the password entry you wish to use and **tap** the menu icon (![menu icon](https://securityinabox.org/sbox/screen/keepassdroid-en-1/016.png)[KeyPassDroid img 17]):
 
-![Password options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-017.png)
+![Password options](https://securityinabox.org/sbox/screen/keepassdroid-en-1/017.png)[KeyPassDroid img 18]
 
 *Figure 12: Password options*
 
 ## Step 2
 
-**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-018.png)
+**Tap** ![Copy Password](https://securityinabox.org/sbox/screen/keepassdroid-en-1/018.png)[KeyPassDroid img 19]
 
 ## Step 3
 
 **Open** the related account or site and **paste** the password by **tapping** and holding on the appropriate field and selecting *Paste*:
 
-![Text edition options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-019.png)
+![Text edition options](https://securityinabox.org/sbox/screen/keepassdroid-en-1/019.png)[KeyPassDroid img 20]
 
 *Figure 13: Text edition options*
 
@@ -47,35 +47,35 @@ You can change your password or modify other details stored in the entry. It is 
 
 **Tap** the *Group* that contains the entry you wish to edit and then **tap** the entry to view its contents.
 
-![Entry Contents](/sites/siabnext.ttc.io/files/media/keepassdroid-and-020.png)
+![Entry Contents](https://securityinabox.org/sbox/screen/keepassdroid-en-1/020.png)[KeyPassDroid img 21]
 
 *Figure 1: Entry Contents*
 
 ## Step 2
 
-**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-021.png) to start editing the information. 
+**Tap** ![Edit](https://securityinabox.org/sbox/screen/keepassdroid-en-1/021.png)[KeyPassDroid img 22] to start editing the information. 
 
-![Edit information](/sites/siabnext.ttc.io/files/media/keepassdroid-and-023.png)
+![Edit information](https://securityinabox.org/sbox/screen/keepassdroid-en-1/023.png)[KeyPassDroid img 23]
 
 *Figure 2: Edit information*
 
 ## Step 3
 
-When you have finished, **tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-022.png) to save all changes.
+When you have finished, **tap** ![Finish](https://securityinabox.org/sbox/screen/keepassdroid-en-1/022.png)[KeyPassDroid img 24] to save all changes.
 
 # Generate a random password
 
 Long, randomly-generated passwords are strong and secure as their generation is based on mathematical principles and cannot be simply guessed by someone who is trying to break into one of your accounts. **KeePassDroid** supplies a *Password Generator*, to help you with this process. 
 
-![Edit password entry](/sites/siabnext.ttc.io/files/media/keepassdroid-and-024.png)
+![Edit password entry](https://securityinabox.org/sbox/screen/keepassdroid-en-1/024.png)[KeyPassDroid img 25]
 
 *Figure 3: Edit password entry screen*
 
 ## Step 1
 
-**Tap** the button ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-025.png) from within either the *Add Entry* or *Edit Entry* screen (Fig. 3 above), to activate the *Password Generator* screen as follows:
+**Tap** the button ![...](https://securityinabox.org/sbox/screen/keepassdroid-en-1/025.png)[KeyPassDroid img 26] from within either the *Add Entry* or *Edit Entry* screen (Fig. 3 above), to activate the *Password Generator* screen as follows:
 
-![Password Generator](/sites/siabnext.ttc.io/files/media/keepassdroid-and-026.png)
+![Password Generator](https://securityinabox.org/sbox/screen/keepassdroid-en-1/026.png)[KeyPassDroid img 27]
 
 *Figure 4: Password Generator*
 
@@ -96,21 +96,21 @@ See Fig. 4 above.
 
 ## Step 2
 
-**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-027.png) to have **KeePassDroid** generate a new random password.
+**Tap** ![Generate Password](https://securityinabox.org/sbox/screen/keepassdroid-en-1/027.png)[KeyPassDroid img 28] to have **KeePassDroid** generate a new random password.
 
 ## Step 3
 
-**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-028.png) to copy the generated password into your account entry and bring you back to the edit screen.
+**Tap** ![Accept](https://securityinabox.org/sbox/screen/keepassdroid-en-1/028.png)[KeyPassDroid img 29] to copy the generated password into your account entry and bring you back to the edit screen.
 
-![Entry information](/sites/siabnext.ttc.io/files/media/keepassdroid-and-029.png)
+![Entry information](https://securityinabox.org/sbox/screen/keepassdroid-en-1/029.png)[KeyPassDroid img 30]
 
 *Figure 5: Entry information*
 
 ## Step 4
 
-**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-030.png) to accept the password and return to the *Entry* screen as follows:
+**Tap** ![Save](https://securityinabox.org/sbox/screen/keepassdroid-en-1/030.png)[KeyPassDroid img 31] to accept the password and return to the *Entry* screen as follows:
 
-![Entry screen](/sites/siabnext.ttc.io/files/media/keepassdroid-and-031.png)
+![Entry screen](https://securityinabox.org/sbox/screen/keepassdroid-en-1/031.png)[KeyPassDroid img 32]
 
 *Figure 6: Entry screen*
 
@@ -118,9 +118,9 @@ See Fig. 4 above.
 
 ## Step 1
 
-**Tap** on the **Lock icon** (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-032.png)) which is at the top of the main screens while **KeePassDroid** is open. This will instantly lock your database. You will be presented with the following screen requiring you to enter your *master password* to unlock. 
+**Tap** on the **Lock icon** (![Lock icon](https://securityinabox.org/sbox/screen/keepassdroid-en-1/032.png)[KeyPassDroid img 33]) which is at the top of the main screens while **KeePassDroid** is open. This will instantly lock your database. You will be presented with the following screen requiring you to enter your *master password* to unlock. 
 
-![Locked Database](/sites/siabnext.ttc.io/files/media/keepassdroid-and-033.png)
+![Locked Database](https://securityinabox.org/sbox/screen/keepassdroid-en-1/033.png)[KeyPassDroid img 34]
 
 *Figure 7: Locked Database*
 
@@ -132,7 +132,7 @@ By default, the database is stored in a folder named *keepass* on your phone. Th
 
 **Note**: You need to have KeePass installed on your computer, or a portable version of KeePass located on your USB memory stick, to be able to open your database which you copied from your Android device. 
 
-Please see [**KeePass chapter**](/en/keepass_main) for more information.
+Please see [**KeePass chapter**](https://securityinabox.org/en/keepass_main)[KeePass Main] for more information.
 
 # Reset your master password
 
@@ -140,17 +140,17 @@ You can change the Master Password at any time. This can be done once you have o
 
 ## Step 1
 
-**tap** the menu icon (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-016.png)) found on the top right of the main screens. 
+**tap** the menu icon (![menu icon](https://securityinabox.org/sbox/screen/keepassdroid-en-1/016.png)[KeyPassDroid img 17]) found on the top right of the main screens. 
 
-![Menu options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-034.png)
+![Menu options](https://securityinabox.org/sbox/screen/keepassdroid-en-1/034.png)[KeyPassDroid img 35]
 
 *Figure 8: Menu options*
 
 ## Step 2
 
-**Tap** ![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-035.png) to activate the following screen:
+**Tap** ![Change Master Key](https://securityinabox.org/sbox/screen/keepassdroid-en-1/035.png)[KeyPassDroid img 36] to activate the following screen:
 
-![Enter a new password](/sites/siabnext.ttc.io/files/media/keepassdroid-and-036.png)
+![Enter a new password](https://securityinabox.org/sbox/screen/keepassdroid-en-1/036.png)[KeyPassDroid img 37]
 
 *Figure 9: Enter a new password*
 
@@ -158,7 +158,7 @@ You can change the Master Password at any time. This can be done once you have o
 
 Type in your new master password in the **Password** and the **Confirm Password** fields, Then **tap** OK.
 
-![Enter a new password](/sites/siabnext.ttc.io/files/media/keepassdroid-and-037.png)
+![Enter a new password](https://securityinabox.org/sbox/screen/keepassdroid-en-1/037.png)[KeyPassDroid img 38]
 
 *Figure 10: Enter a new password*
 
@@ -168,17 +168,17 @@ For greater security, the password is copied to the clipboard for a limited dura
 
 There is also an option **Never** but we recommend that you do not select this.
 
-You can see these options in the following screen by going to: **Menu** (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-016.png)) > **Settings** > **Application** > **Clipboard timeout**
+You can see these options in the following screen by going to: **Menu** (![menu icon](https://securityinabox.org/sbox/screen/keepassdroid-en-1/016.png)[KeyPassDroid img 17]) > **Settings** > **Application** > **Clipboard timeout**
 
-![Clipboard timeout options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-038.png)
+![Clipboard timeout options](https://securityinabox.org/sbox/screen/keepassdroid-en-1/038.png)[KeyPassDroid img 39]
 
 *Figure 11: Clipboard timeout options*
 
 # Set your database lock timeout
 
-You also have the option to lock your database when the application is inactive for a specific time. Your database will automatically lock after 5 minutes of not being used. If you wish to shorten this, **tap**: **Menu** (![](/sites/siabnext.ttc.io/files/media/keepassdroid-and-016.png)) > **Settings** > **Application** > **Application timeout**
+You also have the option to lock your database when the application is inactive for a specific time. Your database will automatically lock after 5 minutes of not being used. If you wish to shorten this, **tap**: **Menu** (![menu icon](https://securityinabox.org/sbox/screen/keepassdroid-en-1/016.png)[KeyPassDroid img 17]) > **Settings** > **Application** > **Application timeout**
 
-![Application timeout options](/sites/siabnext.ttc.io/files/media/keepassdroid-and-039.png)
+![Application timeout options](https://securityinabox.org/sbox/screen/keepassdroid-en-1/039.png)[KeyPassDroid img 40]
 
 *Figure 12:* Application timeout options.
 

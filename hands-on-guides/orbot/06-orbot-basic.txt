@@ -21,15 +21,15 @@ Language: EN
 
 **Touch and hold** the grey **Orbot** icon in the centre of the screen until it turns yellow and says *Orbot is starting*.
 
-![Activating Orbot](/sites/siabnext.ttc.io/files/media/orbot-and-014.png) ![](/sites/siabnext.ttc.io/files/media/orbot-and-015.png) 
+![Activating Orbot](https://securityinabox.org/sbox/screen/orbot-en-1/014.png)[Orbot img 15] ![Orbot is starting](https://securityinabox.org/sbox/screen/orbot-en-1/015.png) [Orbot img 16]
 
 *Figures 1 and 2: Activating Orbot*
 
 ## Step 2
 
-The first time you start **Orbot** a notification will appear to confirm you connected successfully to the **Tor** network. **Tap** ![](/sites/siabnext.ttc.io/files/media/orbot-and-016.png) to see the green **Orbot** indication that **Orbot** is running.
+The first time you start **Orbot** a notification will appear to confirm you connected successfully to the **Tor** network. **Tap** ![OK](https://securityinabox.org/sbox/screen/orbot-en-1/016.png)[Orbot img 17] to see the green **Orbot** indication that **Orbot** is running.
 
-![Orbot finishes connecting](/sites/siabnext.ttc.io/files/media/orbot-and-017.png) ![](/sites/siabnext.ttc.io/files/media/orbot-and-018.png) 
+![Orbot finishes connecting](https://securityinabox.org/sbox/screen/orbot-en-1/017.png)[Orbot img 18] ![Connected to the Tor network](https://securityinabox.org/sbox/screen/orbot-en-1/018.png)[Orbot img 19]
 
 *Figures 3 and 4: Orbot finishes connecting*
 
@@ -37,19 +37,19 @@ The first time you start **Orbot** a notification will appear to confirm you con
 
 ## Step 3
 
-To disconnect **Orbot** you **touch and hold** the green **Orbot** until it turns grey.  Or if you want to disconnect and quit **Orbot**, **tap** the menu icon (![](/sites/siabnext.ttc.io/files/media/orbot-and-019.png)) in the top right of the screen and select ![](/sites/siabnext.ttc.io/files/media/orbot-and-020.png) .
+To disconnect **Orbot** you **touch and hold** the green **Orbot** until it turns grey.  Or if you want to disconnect and quit **Orbot**, **tap** the menu icon (![menu icon](https://securityinabox.org/sbox/screen/orbot-en-1/019.png)[Orbot img 20]) in the top right of the screen and select ![Exit](https://securityinabox.org/sbox/screen/orbot-en-1/020.png)[Orbot img 21].
 
-![Exiting Orbot](/sites/siabnext.ttc.io/files/media/orbot-and-021.png)
+![Exiting Orbot](https://securityinabox.org/sbox/screen/orbot-en-1/021.png)[Orbot img 22]
 
 *Figures 5: Exiting Orbot*
 
-In order to browse or chat on the internet anonymously, you need to install an app (browser or chat) which can route your communication through a proxy in conjunction with **Orbot**. Please read the related *Hands-on Guides* for using [**Orweb**](/en/Orweb_main) and [**Gibberbot**](/en/gibberbot_main) with **Orbot**.
+In order to browse or chat on the internet anonymously, you need to install an app (browser or chat) which can route your communication through a proxy in conjunction with **Orbot**. Please read the related *Hands-on Guides* for using [**Orweb**](https://securityinabox.org/en/Orweb_main)[Orweb Main] and [**Gibberbot**](https://securityinabox.org/en/gibberbot_main)[Gibberbot Main] with **Orbot**.
 
 ## Step 4
 
 If at any stage you want to appear to come from a new location, you can get a *new identity* from **Orbot** by **swiping** *left* or *right* on the green **Orbot** image.  The image will briefly spin and then display *You've switched to a new Tor Identity*.
 
-![Getting a new Tor Identity](/sites/siabnext.ttc.io/files/media/orbot-and-022.png)
+![Getting a new Tor Identity](https://securityinabox.org/sbox/screen/orbot-en-1/022.png)[Orbot img 23]
 
 *Figure 6: Getting a new Tor Identity*
 
@@ -59,25 +59,25 @@ If **Tor** access is restricted or you wish to disguise the fact that you are us
 
 ## Step 1
 
-**Tap** the ![](/sites/siabnext.ttc.io/files/media/orbot-and-023.png) icon at the top of the screen to be brought to the settings screen.
+**Tap** the ![](https://securityinabox.org/sbox/screen/orbot-en-1/023.png)[Orbot img 24] icon at the top of the screen to be brought to the settings screen.
 
 ## Step 2
 
 Scroll down to the **bridges** section and check the box next to *Use Bridges*.
 
-![Enabling Bridges](/sites/siabnext.ttc.io/files/media/orbot-and-024.png)
+![Enabling Bridges](https://securityinabox.org/sbox/screen/orbot-en-1/024.png)[Orbot img 25]
 
 *Figure 7: Enabling Bridges*
 
 ## Step 3
 
-**Tap** the *Bridges* section underneath *Use Bridges* to be presented with a screen to enter the *IP address* of the *bridge* you want to use. Once correctly entered, **tap** ![](/sites/siabnext.ttc.io/files/media/orbot-and-025.png). Restart **Orbot** to begin using the *bridge*.
+**Tap** the *Bridges* section underneath *Use Bridges* to be presented with a screen to enter the *IP address* of the *bridge* you want to use. Once correctly entered, **tap** ![OK](https://securityinabox.org/sbox/screen/orbot-en-1/025.png)[Orbot img 26]. Restart **Orbot** to begin using the *bridge*.
 
-![Adding a bridge](/sites/siabnext.ttc.io/files/media/orbot-and-026.png)
+![Adding a bridge](https://securityinabox.org/sbox/screen/orbot-en-1/026.png)[Orbot img 27]
 
 *Figure 8: Adding a bridge*
 
-**Note:** to learn more about how to get bridge addresses see the [Tor Hands on Guide](/en/tor_anonymitynetwork#3.3).
+**Note:** to learn more about how to get bridge addresses see the [Tor Hands on Guide](https://securityinabox.org/en/tor_anonymitynetwork#3.3)[Tor Bridge Addresses].
 
 # Configure Orbot to start automatically
 
@@ -85,12 +85,12 @@ To make sure you never forget to start **Orbot** it can be configured to start w
 
 ## Step 1
 
-**Tap** the ![](/sites/siabnext.ttc.io/files/media/orbot-and-023.png) icon at the top of the screen to be brought to the settings screen.
+**Tap** the ![](https://securityinabox.org/sbox/screen/orbot-en-1/023.png)[Orbot img 24] icon at the top of the screen to be brought to the settings screen.
 
 ## Step 2
 
 **Check** the *Start Orbot on boot* option at the top of the settings screen.
 
-![Starting Orbot automatically](/sites/siabnext.ttc.io/files/media/orbot-and-027.png)
+![Starting Orbot automatically](https://securityinabox.org/sbox/screen/orbot-en-1/027.png)[Orbot img 28]
 
 *Figure 9: Starting Orbot automatically*

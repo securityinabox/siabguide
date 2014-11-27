@@ -8,7 +8,7 @@ Version: 2.10.9 (OTR 4.0.0-1)
 License: Free/Open Source Software
 System_requirements: Microsoft Windows; GNU/Linux
 Admin: false
-Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
+Alternatives: [Jitsi](https://securityinabox.org/jitsi)[Jitsi Main] for Microsoft Windows, GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
 Comment: read 03-pidgin-premise before installing and using this tool
 Group: Basic Usage 
 Title: Basic Howto
@@ -25,13 +25,13 @@ To add a buddy to your **IM** account in **Pidgin**, perform the following steps
 
 **Click** *Buddies* to display its corresponding menu, and then **select** the *+ Add Buddy...* item as follows: 
 
-![Buddy List menu with "Add Buddy..." selected](/sites/siabnext.ttc.io/files/media/pidgin-win-22.png)
+![Buddy List menu with "Add Buddy..." selected](https://securityinabox.org/sbox/screen/pidgin-en-1/22.png)[Pidgin img 21]
 
 *Figure 10: The Buddy List menu with the "Add Buddy..." item selected*
 
 This will display the following screen: 
 
-![Add Buddy window](/sites/siabnext.ttc.io/files/media/pidgin-win-23.png)
+![Add Buddy window](https://securityinabox.org/sbox/screen/pidgin-en-1/23.png)[Pidgin img 22]
 
 *Figure 11: The Add Buddy window*
 
@@ -51,17 +51,17 @@ The following step is optional.
 
 **Type** in an *Alias* or nickname for your buddy in the *(Optional) Alias* field, so that your *Add Buddy* form resembles the following screen: 
 
-![completed Add Buddy form](/sites/siabnext.ttc.io/files/media/pidgin-win-24.png)
+![completed Add Buddy form](https://securityinabox.org/sbox/screen/pidgin-en-1/24.png)[Pidgin img 23]
 
 *Figure 12: An example of a completed Add Buddy form*
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-19.png) to add your buddy.
+**Click** ![Add](https://securityinabox.org/sbox/screen/pidgin-en-1/19.png)[Pidgin img 18] to add your buddy.
 
 **Note**: This will send a message to your buddy requesting approval or authorisation of your request, and will appear for your correspondent *Buddy List* as follows:  
 
-![Authorize buddy request](/sites/siabnext.ttc.io/files/media/pidgin-win-25.png)
+![Authorize buddy request](https://securityinabox.org/sbox/screen/pidgin-en-1/25.png)[Pidgin img 24]
 
 *Figure 13: The Authorize buddy request as it appears on Salima's Buddy List*
 
@@ -69,15 +69,15 @@ At this point, your buddy must perform the following step:
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-26.png) to add this person as your buddy and display her/him in your *Buddy List* as follows:
+**Click** ![Authorize](https://securityinabox.org/sbox/screen/pidgin-en-1/26.png)[Pidgin img 25] to add this person as your buddy and display her/him in your *Buddy List* as follows:
 
-![Buddy List displaying buddy](/sites/siabnext.ttc.io/files/media/pidgin-win-27.png)
+![Buddy List displaying buddy](https://securityinabox.org/sbox/screen/pidgin-en-1/27.png)[Pidgin img 26]
 
 *Figure 14: Terence's Buddy List displaying Salima as his buddy*
 
 **Note**: In the example above, Salima's *Alias* or nickname is displayed, adding yet another level of identity protection. 
 
-![Buddy List displaying newly created buddy](/sites/siabnext.ttc.io/files/media/pidgin-win-30.png)
+![Buddy List displaying newly created buddy](https://securityinabox.org/sbox/screen/pidgin-en-1/30.png)[Pidgin img 27]
 
 *Figure 15: Terence's Buddy List window displaying Salima's as his newly created buddy*
 
@@ -91,7 +91,7 @@ To open an **IM** chat window in **Pidgin**, perform the following steps:
 
 **Right click** your buddy's name in the *Buddy List* to display a pop-up menu listing all the tasks you can perform as follows: 
 
-![Buddy tasks menu](/sites/siabnext.ttc.io/files/media/pidgin-win-31.png) 
+![Buddy tasks menu](https://securityinabox.org/sbox/screen/pidgin-en-1/31.png) [Pidgin img 28]
 
 *Figure 16: The Buddy tasks menu*
 
@@ -99,7 +99,7 @@ To open an **IM** chat window in **Pidgin**, perform the following steps:
 
 **Select** the *IM* item from the pop-up menu to activate a typical chat window as follows: 
 
-![A typical chat window in Pidgin](/sites/siabnext.ttc.io/files/media/pidgin-win-32.png) 
+![A typical chat window in Pidgin](https://securityinabox.org/sbox/screen/pidgin-en-1/32.png)[Pidgin img 29]
 
 *Figure 17: A typical chat window in Pidgin*
 
@@ -117,13 +117,13 @@ To enable the **OTR** plugin, perform the following steps:
 
 ### Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-13.png) or **select** **Start > All Programs > Pidgin** to launch **Pidgin** and activate the *Buddy List* window (please refer to *Figure 1*).
+**Double click** ![Pidgin icon](https://securityinabox.org/sbox/screen/pidgin-en-1/13.png)[Pidgin img 12] or **select** **Start > All Programs > Pidgin** to launch **Pidgin** and activate the *Buddy List* window (please refer to *Figure 1*).
 
 ### Step 2
 
 **Open** the *Tools* menu, and then **select** the *Plugins* item as follows: 
 
-![Buddy List window with Plugins item selected from Tools menu](/sites/siabnext.ttc.io/files/media/pidgin-win-40.png)
+![Buddy List window with Plugins item selected from Tools menu](https://securityinabox.org/sbox/screen/pidgin-en-1/40.png)[Pidgin img 30]
 
 *Figure 1: The Buddy List window with the Plugins item selected from the Tools menu*
 
@@ -133,13 +133,13 @@ This will activate the *Plugins* window as follows:
 
 **Scroll** down to the *Off-the-Record Messaging* option, then **click** its associated check box to enable it. 
 
-![Pidgin Plugins window with Off-the-Record Messaging selected](/sites/siabnext.ttc.io/files/media/pidgin-win-41.png)
+![Pidgin Plugins window with Off-the-Record Messaging selected](https://securityinabox.org/sbox/screen/pidgin-en-1/41.png)[Pidgin img 31]
 
 *Figure 2: The Pidgin Plugins window with Off-the-Record Messaging selected*
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-42.png) to begin configuring the *Off-the-Record Messaging* windows.
+**Click** ![Configure Plugin](https://securityinabox.org/sbox/screen/pidgin-en-1/42.png)[Pidgin img 32] to begin configuring the *Off-the-Record Messaging* windows.
 
 Basically, there are 3 steps involved in configuring **OTR** properly to effectively enable private and secure **IM** sessions and they are explained below: 
 
@@ -155,7 +155,7 @@ The next two steps involve securing the **IM** session and authenticating your b
 
 Secure chat sessions in **Pidgin** are enabled by generating a *private key* for the relevant account. The *Off-the-Record* configuration window is divided into the *Config* and the *Known fingerprints* tabs. The *Config* tab is used to generate a *key* for each of your accounts and to set specific **OTR** options. The *Known fingerprints* tab contains a list of fingerprints of the keys of your contacts. You must possess a key for any buddy with whom you wish to chat privately. 
 
-![Off-the-Record Messaging screen - Config tab](/sites/siabnext.ttc.io/files/media/pidgin-win-43.png)
+![Off-the-Record Messaging screen - Config tab](https://securityinabox.org/sbox/screen/pidgin-en-1/43.png)[Pidgin img 33]
 
 *Figure 3: The Off-the-Record Messaging screen displaying the Config tab*
 
@@ -165,9 +165,9 @@ To optimise your privacy, **check** the *Enable private messaging*, *Automatical
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-44.png) to begin generating your secure key; a screen notifying you that a private key is being generated appears as follows:
+**Click** ![Generate](https://securityinabox.org/sbox/screen/pidgin-en-1/44.png)[Pidgin img 34] to begin generating your secure key; a screen notifying you that a private key is being generated appears as follows:
 
-![Generating private key confirmation box](/sites/siabnext.ttc.io/files/media/pidgin-win-45.png)
+![Generating private key confirmation box](https://securityinabox.org/sbox/screen/pidgin-en-1/45.png)[Pidgin img 35]
 
 *Figure 4: The Generating private key confirmation box*
 
@@ -175,9 +175,9 @@ To optimise your privacy, **check** the *Enable private messaging*, *Automatical
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-37.png) after the private key (which resembles the following), has been generated: 
+**Click** ![OK](https://securityinabox.org/sbox/screen/pidgin-en-1/37.png)[Pidgin img 36] after the private key (which resembles the following), has been generated: 
 
-![Fingerprint of the key generated by the OTR engine](/sites/siabnext.ttc.io/files/media/pidgin-win-46.png)
+![Fingerprint of the key generated by the OTR engine](https://securityinabox.org/sbox/screen/pidgin-en-1/46.png)[Pidgin img 37]
 
 *Figure 5: An example of a fingerprint of the key generated by the OTR engine*
 
@@ -191,25 +191,25 @@ To optimise your privacy, **check** the *Enable private messaging*, *Automatical
 
 **Double-click** the account of a buddy who is currently on-line to begin a new **IM** conversation. If both of you have the **OTR** plugin installed and properly configured, you will notice that a new **OTR** button appears at the bottom right corner of your chat window. 
 
-![Pidgin messaging window - OTR icon outlined in black](/sites/siabnext.ttc.io/files/media/pidgin-win-47.png)
+![Pidgin messaging window - OTR icon outlined in black](https://securityinabox.org/sbox/screen/pidgin-en-1/47.png)[Pidgin img 38]
 
 *Figure 6: A Pidgin messaging window displaying the OTR icon outlined in black*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-48.png) to activate its associated pop-up menu, and then **select** the *Start private conversation* item as follows: 
+**Click** ![Not Private](https://securityinabox.org/sbox/screen/pidgin-en-1/48.png)[Pidgin img 39] to activate its associated pop-up menu, and then **select** the *Start private conversation* item as follows: 
 
-![pop-up menu with Start private conversation item selected](/sites/siabnext.ttc.io/files/media/pidgin-win-49.png)
+![pop-up menu with Start private conversation item selected](https://securityinabox.org/sbox/screen/pidgin-en-1/49.png)[Pidgin img 40]
 
 *Figure 7: The pop-up menu with the Start private conversation item selected*
 
 *Your **Pidgin IM** window will then resemble the following screen:*
 
-![Pidgin IM window with Unverified button](/sites/siabnext.ttc.io/files/media/pidgin-win-50.png)
+![Pidgin IM window with Unverified button](https://securityinabox.org/sbox/screen/pidgin-en-1/50.png)[Pidgin img 41]
 
 *Figure 8: The Pidgin IM window displaying the Unverified button*
 
-**Note**: **Pidgin** automatically begin communicating with your buddy's **IM** program, and generating messages whenever you attempt to enable a private and secure chat session. As a result of this, the ![](/sites/siabnext.ttc.io/files/media/pidgin-win-48.png) **OTR** button changes to ![](/sites/siabnext.ttc.io/files/media/pidgin-win-51a.png), indicating that you are now able to have an encrypted conversation with your buddy. 
+**Note**: **Pidgin** automatically begin communicating with your buddy's **IM** program, and generating messages whenever you attempt to enable a private and secure chat session. As a result of this, the ![Not Private](https://securityinabox.org/sbox/screen/pidgin-en-1/48.png)[Pidgin img 39] **OTR** button changes to ![Unverified](https://securityinabox.org/sbox/screen/pidgin-en-1/51a.png)[Pidgin img 42], indicating that you are now able to have an encrypted conversation with your buddy. 
 
 **Warning**! Although this conversation is now secure, the identity of your buddy has not been *verified* yet. Beware: Your buddy might actually be someone else *pretending* to be your buddy.
 
@@ -219,7 +219,7 @@ You may use one of three methods of identification to authenticate your **Pidgin
 
 ### The Secret Code Phrase or Word Method ###
 
-You can arrange a code phrase or word in advance, either by meeting each other in person or by using another communications medium (like a telephone, voice chat by [**Jitsi**](/en/jitsi) or a mobile phone text message). Once you both type in the same code phrase or word, your session will be authenticated. 
+You can arrange a code phrase or word in advance, either by meeting each other in person or by using another communications medium (like a telephone, voice chat by [**Jitsi**](https://securityinabox.org/en/jitsi)[Jitsi Main] or a mobile phone text message). Once you both type in the same code phrase or word, your session will be authenticated. 
 
 **Note**: The **OTR** secret code word recognition feature is case sensitive, that is, it can determine the difference between capital (A,B,C) letters and lower case (a,b,c) ones. Bear this in mind when inventing a secret code phrase or word!
 
@@ -227,7 +227,7 @@ You can arrange a code phrase or word in advance, either by meeting each other i
 
 **Click** the *OTR* button in the chat window, then **select** the *Authenticate Buddy* item as follows: 
 
-![Unverified pop-up menu with Authenticate buddy item selected](/sites/siabnext.ttc.io/files/media/pidgin-win-52.png)
+![Unverified pop-up menu with Authenticate buddy item selected](https://securityinabox.org/sbox/screen/pidgin-en-1/52.png)[Pidgin img 43]
 
 *Figure 9: The Unverified pop-up menu with the Authenticate buddy item selected*
 
@@ -235,9 +235,9 @@ This will activate the *Authenticate Buddy* window, prompting you to select an a
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-53.png) and **select** *Shared Secret* as follows: 
+**Click** ![](https://securityinabox.org/sbox/screen/pidgin-en-1/53.png)[Pidgin img 44] and **select** *Shared Secret* as follows: 
 
-![Authenticate buddy screen with drop-down list revealed](/sites/siabnext.ttc.io/files/media/pidgin-win-54.png)
+![Authenticate buddy screen with drop-down list revealed](https://securityinabox.org/sbox/screen/pidgin-en-1/54.png)[Pidgin img 45]
 
 *Figure 10: The Authenticate buddy screen with the drop-down list revealed* 
 
@@ -245,26 +245,26 @@ This will activate the *Authenticate Buddy* window, prompting you to select an a
 
 **Enter** the secret code word or phrase as follows:
 
-![Shared Secret screen](/sites/siabnext.ttc.io/files/media/pidgin-win-55.png)
+![Shared Secret screen](https://securityinabox.org/sbox/screen/pidgin-en-1/55.png)[Pidgin img 46]
 
 *Figure 11: The Shared Secret screen* 
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-56.png) to activate the following screen:
+**Click** ![Authenticate](https://securityinabox.org/sbox/screen/pidgin-en-1/56.png)[Pidgin img 47] to activate the following screen:
 
-![Authenticate Buddy window for a fictitious correspondent](/sites/siabnext.ttc.io/files/media/pidgin-win-58.png)
+![Authenticate Buddy window for a fictitious correspondent](https://securityinabox.org/sbox/screen/pidgin-en-1/58.png)[Pidgin img 48]
 
 *Figure 12: The Authenticate Buddy window for a fictitious correspondent*
 
 **Note**: *At this time your buddy will see window shown on figure 13 at his/her end and will have to enter the same code word. If they match, your session will be
 authenticated.*
 
-![Authenticate Buddy window for a fictitious correspondent](/sites/siabnext.ttc.io/files/media/pidgin-win-57.png)
+![Authenticate Buddy window for a fictitious correspondent](https://securityinabox.org/sbox/screen/pidgin-en-1/57.png)[Pidgin img 49]
 
 *Figure 13: The Authenticate Buddy window for a fictitious correspondent*
 
-Once the session is authenticated, the *OTR* button will change to ![](/sites/siabnext.ttc.io/files/media/pidgin-win-51.png). Your session is now secure and you can be sure that you are really speaking with your buddy.
+Once the session is authenticated, the *OTR* button will change to ![Private](https://securityinabox.org/sbox/screen/pidgin-en-1/51.png)[Pidgin img 50]. Your session is now secure and you can be sure that you are really speaking with your buddy.
 
 ### The Question and Answer Method ###
 
@@ -274,7 +274,7 @@ Another method of authenticating each other, is the question and answer method. 
 
 **Click** the *OTR* menu in active message window to activate its associated pop-up menu, and then **select** *Authenticate Buddy* item (please refer to *Figure 9*).
 
-![Pidgin chat window with OTR icon](/sites/siabnext.ttc.io/files/media/pidgin-win-50.png)
+![Pidgin chat window with OTR icon](https://securityinabox.org/sbox/screen/pidgin-en-1/50.png)[Pidgin img 41]
 
 *Figure 14: A Pidgin chat window displaying the OTR icon*
 
@@ -284,7 +284,7 @@ An *Authenticate Buddy* window will pop up prompting you to choose the method fo
 
 **Click** the drop-down menu and **select** the *Question and Answer* item as follows:  
 
-![Authenticate buddy screen](/sites/siabnext.ttc.io/files/media/pidgin-win-60.png)
+![Authenticate buddy screen](https://securityinabox.org/sbox/screen/pidgin-en-1/60.png)[Pidgin img 51]
 
 *Figure 15: The Authenticate buddy screen*
 
@@ -292,25 +292,25 @@ An *Authenticate Buddy* window will pop up prompting you to choose the method fo
 
 **Enter** a question and its corresponding answer. This question will be sent to your buddy. 
 
-![Questions and Answer screen](/sites/siabnext.ttc.io/files/media/pidgin-win-61.png)
+![Questions and Answer screen](https://securityinabox.org/sbox/screen/pidgin-en-1/61.png)[Pidgin img 52]
 
 *Figure 16: The Questions and Answer screen*
 
 If your buddy's answer matches yours, then your identities will have been mutually authenticated or verified, and both parties are who they claim to be! 
 
-Once the session has been authenticated, the *OTR* button will change to ![](/sites/siabnext.ttc.io/files/media/pidgin-win-51.png). Your session will now be secure and you can be certain of your chat buddy's identity.
+Once the session has been authenticated, the *OTR* button will change to ![Private](https://securityinabox.org/sbox/screen/pidgin-en-1/51.png)[Pidgin img 50]. Your session will now be secure and you can be certain of your chat buddy's identity.
 
 ### Manual fingerprint verification ###
 
 The third method of authenticating each other, is the fingerprint verification. In this method you need to exchange displayed fingerprints (see figure 17 below) for your buddy and yourself over another communication channel (like secure email or voice call). If exchanged fingerprints are the same you can select ***I have** verified that this is in fact the correct fingerprint* and  **Authenticate** the session.
 
-![Manual fingerprint verification](/sites/siabnext.ttc.io/files/media/pidgin-win-79.png)
+![Manual fingerprint verification](https://securityinabox.org/sbox/screen/pidgin-en-1/79.png)[Pidgin img 53]
 
 *Figure 17: The Manual fingerprint verification screen*
 
 Notice that when you **Select > Buddy List > Tools > Plugins > Off The Record Messaging > Configure Plugin**, the *Known fingerprints* tab now displays your buddy's account, and a message that their identity has been verified. 
 
-![Off-the-Record Messaging screen with Known Fingerprints tab](/sites/siabnext.ttc.io/files/media/pidgin-win-62.png)
+![Off-the-Record Messaging screen with Known Fingerprints tab](https://securityinabox.org/sbox/screen/pidgin-en-1/62.png)[Pidgin img 54]
 
 *Figure 18: The Off-the-Record Messaging screen displaying the Known Fingerprints tab*
 

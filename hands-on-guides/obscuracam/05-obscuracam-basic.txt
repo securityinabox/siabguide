@@ -25,21 +25,21 @@ To take a photo on your Android device without showing your subjects' faces, per
 
 **Tap** the **Camera** button
 
-![ObscuraCam home screen](/sites/siabnext.ttc.io/files/media/obscuracam-and-07.png)
+![ObscuraCam home screen](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-07.png)[ObscuraCam img 06]
 
 *Figure 7: ObscuraCam home screen*
 
 ## Step 2
 
-**Take** a photo by clicking on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-08.png)
+**Take** a photo by clicking on ![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-08.png)[ObscuraCam img 07]
 
 ## Step 3
 
-**Tap** the **Save** button by clicking on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-09.png)
+**Tap** the **Save** button by clicking on ![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-09.png)[ObscuraCam img 08]
 
 **ObscuraCam** will attempt to identify faces automatically. For each face that it recognizes, it will add an image "*tag*" (a rectangle used to select content that should be hidden). 
 
-![An automatically 'tagged' face](/sites/siabnext.ttc.io/files/media/obscuracam-and-10.png)
+![An automatically 'tagged' face](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-10.png)[ObscuraCam img 09]
 
 *Figure 8: An automatically 'tagged' face* 
 
@@ -52,19 +52,19 @@ Image tags can be modified in the following ways:
 - **Tap** a portion of your photo that you want to hide in order to add a tag.
 - **Tap** an existing tag (the border should turn green) and then tap *Delete Tag* in order to remove it
 
-![Tagging options](/sites/siabnext.ttc.io/files/media/obscuracam-and-12.png)
+![Tagging options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-12.png)[ObscuraCam img 10]
 
 *Figure 9: Tagging options*
 
 **Tap** and **drag** the very centre of a tag in order to move it (thereby changing which portion of your image will be hidden).
 
-![Moving a tag](/sites/siabnext.ttc.io/files/media/obscuracam-and-11.png)
+![Moving a tag](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-11.png)[ObscuraCam img 11]
 
 *Figure 10: Moving a tag*
 
 **Tap** and **drag** close to one side of the tag (but inside the rectangle) in order to change the size and shape of the tag.
 
-![Resize a tag](/sites/siabnext.ttc.io/files/media/obscuracam-and-11.png)
+![Resize a tag](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-11.png)[ObscuraCam img 11]
 
 *Figure 11: Resize a tag*
 
@@ -78,7 +78,7 @@ To hide your subjects' faces in an existing photo, perform the following steps:
 
 ## Step 2
 
-**Tap** the ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-14.png) button.
+**Tap** the ![Photos](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-14.png)[ObscuraCam img 12] button.
 
 ## Step 3
 
@@ -86,7 +86,7 @@ To hide your subjects' faces in an existing photo, perform the following steps:
 
 **ObscuraCam** will attempt to identify faces **automatically**.
 
-![Automatically detected face](/sites/siabnext.ttc.io/files/media/obscuracam-and-10.png)
+![Automatically detected face](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-10.png)[ObscuraCam img 09]
 
 *Figure 12: Automatically detected face*
 
@@ -99,29 +99,29 @@ To hide your subjects' faces in an existing photo, perform the following steps:
 There are different modes which you could select in order to blur the face in the picture you want in different ways. 
 **Click** on the center of the green border of the image to see the different options as shown below
 
-![](/sites/siabnext.ttc.io/files/media/obscuracam-and-12.png)
+![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-12.png)[ObscuraCam img 10]
 
-**First option:** If you **click** on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-21.png) your image will look like the following:
+**First option:** If you **click** on ![Redact](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-21.png)[ObscuraCam img 13] your image will look like the following:
 
-![redacted face](/sites/siabnext.ttc.io/files/media/obscuracam-and-13.png)
+![redacted face](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-13.png)[ObscuraCam img 14]
 
 *Figure 13: A redacted face*
 
-**Second option:** If you **click** on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-22.png) your image will look like the following:
+**Second option:** If you **click** on ![Pixelate](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-22.png)[ObscuraCam img 15] your image will look like the following:
 
-![pixelated face](/sites/siabnext.ttc.io/files/media/obscuracam-and-10.png)
+![pixelated face](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-10.png)[ObscuraCam img 09]
 
 *Figure 14: A pixelated face*
 
-**Third option:** If you **click** on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-23.png), the area **outside** the selection will be pixelated, and your image will look like the following:
+**Third option:** If you **click** on ![Crowdpixel](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-23.png)[ObscuraCam img 16], the area **outside** the selection will be pixelated, and your image will look like the following:
 
-![crowdpixelated image](/sites/siabnext.ttc.io/files/media/obscuracam-and-15.png)
+![crowdpixelated image](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-15.png)[ObscuraCam img 17]
 
 *Figure 15: A crowdpixelated image*
 
-**Fourth option:** If you **click** on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-24.png) your image will look like the following:
+**Fourth option:** If you **click** on ![Mask](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-24.png)[ObscuraCam img 18] your image will look like the following:
 
-![masked face](/sites/siabnext.ttc.io/files/media/obscuracam-and-16.png)
+![masked face](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-16.png)[ObscuraCam img 19]
 
 *Figure 16: A masked face*
 
@@ -133,9 +133,9 @@ You can share the photos you created with **Obscuracam** by following the below 
 
 ## Step 1
 
-Click on ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-26.png) or on *Menu* and then *Share* to open the image sharing options.
+Click on ![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-26.png)[ObscuraCam img 20] or on *Menu* and then *Share* to open the image sharing options.
 
-![Image sharing options](/sites/siabnext.ttc.io/files/media/obscuracam-and-20.png) ![](/sites/siabnext.ttc.io/files/media/obscuracam-and-19.png)
+![Image sharing options](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-20.png)[ObscuraCam img 21] ![](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-19.png)[ObscuraCam img 22]
 
 *Figure 17 and 18: Image sharing options*
 
@@ -149,7 +149,7 @@ Choose the service that you want to use to share the image you want with your ne
 
 When clicking *Save*, a window will appear asking if you want to delete the original media file. 
 
-![Deletion option](/sites/siabnext.ttc.io/files/media/obscuracam-and-17.png)
+![Deletion option](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-17.png)[ObscuraCam img 23]
 
 *Figure 18: Deletion option*
 
@@ -161,7 +161,7 @@ When clicking *Save*, a window will appear asking if you want to delete the orig
 
 If you wish to delete a picture from a gallery or photo album, first of all, **select** the image that you want to delete from your gallery or any other image viewer application you are using.
 
-![Menu](/sites/siabnext.ttc.io/files/media/obscuracam-and-18.png)
+![Menu](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-18.png)[ObscuraCam img 24]
 
 *Figure 19: Menu*
 
@@ -169,7 +169,7 @@ If you wish to delete a picture from a gallery or photo album, first of all, **s
 
 **Click** on **Delete** as shown below
 
-![delete option](/sites/siabnext.ttc.io/files/media/obscuracam-and-27.png)
+![delete option](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/obscuracam-and-27.png)[ObscuraCam img 25]
 
 *Figure 20: The delete option*
 

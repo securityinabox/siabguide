@@ -8,7 +8,7 @@ Version: 2.10.9 (OTR 4.0.0-1)
 License: Free/Open Source Software
 System_requirements: Microsoft Windows; GNU/Linux
 Admin: false
-Alternatives: [Jitsi](https://siabnext.ttc.io/en/jitsi) for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
+Alternatives: [Jitsi](https://securityinabox.org/jitsi)[Jitsi Main] for [Microsoft Windows](https://siabnext.ttc.io/hands-on-guide/jitsi-windows), GNU/Linux, Mac OS; [Miranda IM](http://www.miranda-im.org/) for Microsoft Windows; [Adium](http://adium.im/) for Mac OS
 Comment: read 03-pidgin-premise before installing and using this tool
 Group: Basic Usage
 Title: Problems and Solutions 
@@ -21,19 +21,19 @@ From time to time, you might find that your IM account has disabled itself in **
 
 ## Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-13.png) or **select Start > Pidgin** to launch **Pidgin**.
+**Click** ![Pidgin icon](https://securityinabox.org/sbox/screen/pidgin-en-1/13.png)[Pidgin img 12] or **select Start > Pidgin** to launch **Pidgin**.
 
 ## Step 2
 
 **Open** the *Accounts* menu, and then **select** the *Manage Accounts* item as follows: 
 
-![Accounts menu with Manage Accounts selected](/sites/siabnext.ttc.io/files/media/pidgin-win-33.png)
+![Accounts menu with Manage Accounts selected](https://securityinabox.org/sbox/screen/pidgin-en-1/33.png)[Pidgin img 55]
 
 *Figure 18: The Accounts menu with the *Manage Accounts item selected (re-sized)*
 
 *This will open the following screen:*
 
-![Accounts window - disabled account](/sites/siabnext.ttc.io/files/media/pidgin-win-34.png)
+![Accounts window - disabled account](https://securityinabox.org/sbox/screen/pidgin-en-1/34.png)[Pidgin img 56]
 
 *Figure 19: The Accounts window (re-sized) displaying a disabled account*
 
@@ -41,7 +41,7 @@ From time to time, you might find that your IM account has disabled itself in **
 
 **Click** the check box next to your account to activate the **Pidgin** password prompt as follows:   
 
-![Pidgin password prompt dialog box](/sites/siabnext.ttc.io/files/media/pidgin-win-35.png)
+![Pidgin password prompt dialog box](https://securityinabox.org/sbox/screen/pidgin-en-1/35.png)[Pidgin img 57]
 
 *Figure 20: The Pidgin password prompt dialog box*
 
@@ -49,18 +49,18 @@ From time to time, you might find that your IM account has disabled itself in **
 
 **Type** in your password so your own **Pidgin** password prompt dialog box resembles the following:
 
-![Enter password field completed](/sites/siabnext.ttc.io/files/media/pidgin-win-36.png)
+![Enter password field completed](https://securityinabox.org/sbox/screen/pidgin-en-1/36.png)[Pidgin img 58]
 
 *Figure 21: The Pidgin password prompt dialog box with the Enter password field completed*
 
 ## Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-37.png) to complete re-enabling your account as follows:
+**Click** ![OK](https://securityinabox.org/sbox/screen/pidgin-en-1/37.png)[Pidgin img 59] to complete re-enabling your account as follows:
 
-![successfully re-enabled account](/sites/siabnext.ttc.io/files/media/pidgin-win-38.png)
+![successfully re-enabled account](https://securityinabox.org/sbox/screen/pidgin-en-1/38.png)[Pidgin img 60]
 
 *Figure 22: An example of a successfully re-enabled account*
 
 ## Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/pidgin-win-39.png) to close the *Accounts* window.
+**Click** ![Close](https://securityinabox.org/sbox/screen/pidgin-en-1/39.png)[Pidgin img 61] to close the *Accounts* window.
