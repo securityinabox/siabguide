@@ -21,7 +21,7 @@ The **Tor Browser** is a software tool designed to increase the privacy and secu
 
 **Tor** also takes steps to encrypt the communication to and through its network, **but** this measure can not extend all the way to a website which is sending or receiving content over non-encrypted channels (i.e. not providing https access).  Nevertheless, the advantage of using Tor when accessing such sites is that **Tor** can secure your communication up to the step between the last of the **Tor** servers and the non-secure site. This confines the chance to intercept the content to that last step.
 
-The **Tor Browser Bundle** consists of the **Tor** software and a modified version of the **Firefox** web browser, which is designed to provide extra protection while using it. The browser bundle also includes [**NoScript**](/en/firefox_noscript) and [**HTTPS-Everywhere**](/en/firefox_others#5.1) add-ons. 
+The **Tor Browser Bundle** consists of the **Tor** software and a modified version of the **Firefox** web browser, which is designed to provide extra protection while using it. The browser bundle also includes [**NoScript**](https://securityinabox.org/firefox_noscript)[Firefox Noscript] and [**HTTPS-Everywhere**](https://securityinabox.org/firefox_others#5.1)[Firefox HTTPS_Everywhere] add-ons. 
 
 **Note**: There is a trade-off between anonymity and speed. Because Tor facilitates anonymous browsing by bouncing your traffic through volunteers' computers and servers in various parts of the world, it will definitely be slower than using other web browsers on your computer.
 

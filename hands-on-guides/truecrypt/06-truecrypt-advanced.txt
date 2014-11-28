@@ -35,25 +35,25 @@ The creation of a **TrueCrypt** *Hidden Volume* is similar to creating a **TrueC
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-13.png) to activate the *TrueCrypt Volume Creation Wizard*. 
+**Click** ![Create Volume](https://securityinabox.org/sbox/screen/truecrypt-en/13.png)[TrueCrypt img 13] to activate the *TrueCrypt Volume Creation Wizard*. 
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to accept the default *Create an encrypted file container* option.
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to accept the default *Create an encrypted file container* option.
 
 ### Step 4
 
 **Check** the *Hidden TrueCrypt volume* option as follows: 
 
-![TrueCrypt Volume Creation Wizard with Hidden volume option enabled](/sites/siabnext.ttc.io/files/media/truecrypt-win-37.png)
+![TrueCrypt Volume Creation Wizard with Hidden volume option enabled](https://securityinabox.org/sbox/screen/truecrypt-en/37.png)[TrueCrypt img 38]
 
 *Figure 1: The TrueCrypt Volume Creation Wizard with the Hidden TrueCrypt volume option enabled*
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the following screen:
 
-![TrueCrypt Volume Creation Wizard - Mode window](/sites/siabnext.ttc.io/files/media/truecrypt-win-38.png)
+![TrueCrypt Volume Creation Wizard - Mode window](https://securityinabox.org/sbox/screen/truecrypt-en/38.png)[TrueCrypt img 39]
 
 *Figure 2: The TrueCrypt Volume Creation Wizard - Mode window*
 
@@ -62,19 +62,19 @@ The creation of a **TrueCrypt** *Hidden Volume* is similar to creating a **TrueC
 
 In this example, we will use the *Direct mode*. 
 
-**Note**: If you would rather start a new *Standard Volume*, please repeat the process from section [**2.2 How to Create a Standard Volume**](/en/truecrypt_standardvolumes#2.2).
+**Note**: If you would rather start a new *Standard Volume*, please repeat the process from section [**2.2 How to Create a Standard Volume**](https://securityinabox.org/en/truecrypt_standardvolumes#2.2)[Truecrypt Create_Standard_Volumes].
 
 ### Step 6
 
-**Check** the *Direct Mode* option and then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the *TrueCrypt Volume Creation - Volume Location* window.
+**Check** the *Direct Mode* option and then **click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the *TrueCrypt Volume Creation - Volume Location* window.
 
 **Note**: Make sure the *Standard Volume* is unmounted before selecting it. 
 
 ### Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-17.png) to activate the following screen:
+**Click** ![Select File](https://securityinabox.org/sbox/screen/truecrypt-en/17.png)[TrueCrypt img 17] to activate the following screen:
 
-![Select a TrueCrypt Volume](/sites/siabnext.ttc.io/files/media/truecrypt-win-29.png)
+![Select a TrueCrypt Volume](https://securityinabox.org/sbox/screen/truecrypt-en/29.png)[TrueCrypt img 29]
 
 *Figure 3: The TrueCrypt Volume Creation Wizard - Select a TrueCrypt Volume window*
 
@@ -84,31 +84,31 @@ In this example, we will use the *Direct mode*.
 
 ### Step 9
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-30.png) to return to the *TrueCrypt Volume Creation Wizard*.
+**Click** ![Open](https://securityinabox.org/sbox/screen/truecrypt-en/30.png)[TrueCrypt img 30] to return to the *TrueCrypt Volume Creation Wizard*.
 
 ### Step 10
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the *Enter password* screen.
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the *Enter password* screen.
 
 ### Step 11
 
 **Type** in password you used when creating the *Standard Volume* into the *Password* text field to activate the following screen:
 
-![Hidden Volume Message pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-46.png)
+![Hidden Volume Message pane](https://securityinabox.org/sbox/screen/truecrypt-en/46.png)[TrueCrypt img 40]
 
 *Figure 4: The TrueCrypt Volume Creation Wizard - Hidden Volume Message pane*
 
 ### Step 12
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) after you have read the message to activate the *Hidden Volume Encryptions Options* screen.
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] after you have read the message to activate the *Hidden Volume Encryptions Options* screen.
 
 **Note**: Leave both the default *Encryption Algorithm* and *Hash Algorithm* settings for the *Hidden Volume* as they are. 
 
 ### Step 13
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the following screen:
 
-![Hidden Volume Size window](/sites/siabnext.ttc.io/files/media/truecrypt-win-41.png)
+![Hidden Volume Size window](https://securityinabox.org/sbox/screen/truecrypt-en/41.png)[TrueCrypt img 41]
 
 *Figure 5: The TrueCrypt Volume Creation Wizard - Hidden Volume Size window*
 
@@ -126,17 +126,17 @@ Ensure that the information you store in the *Standard Volume* does not exceed t
 
 ### Step 15
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the *Hidden Volume Password* window.
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the *Hidden Volume Password* window.
 
-You must now create a *different* password for the hidden volume from the one used to protect your standard volume. Again, remember to choose a strong password. Please refer to the [**KeePass**](http://security.ngoinabox.org/en/keepass_main) chapter to learn more about creating strong passwords. 
+You must now create a *different* password for the hidden volume from the one used to protect your standard volume. Again, remember to choose a strong password. Please refer to the [**KeePass**](https://securityinabox.org/en/keepass_main)[KeePass Main] chapter to learn more about creating strong passwords. 
 
 **Tip**: If you anticipate being forced to reveal the contents of your **TrueCrypt** volumes, then store your password for the standard volume in **KeePass**, and create a strong password that you only have to remember for hidden volume. This will help you to conceal your hidden volume, as you will not leave any trace of its existence.
 
 ### Step 16
 
-**Create** a password and **type** it in twice, and then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Create** a password and **type** it in twice, and then **click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the following screen:
 
-![Hidden Volume Format pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-42.png)
+![Hidden Volume Format pane](https://securityinabox.org/sbox/screen/truecrypt-en/42.png)[TrueCrypt img 42]
 
 *Figure 6: The TrueCrypt Volume Creation Wizard - Hidden Volume Format pane*
 
@@ -144,11 +144,11 @@ Leave the default *File System* and *Cluster* options as they are.
 
 ### Step 17
 
-**Move** the mouse cursor around the screen to increase the cryptographic strength of the encryption and then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-25.png) to format the hidden volume.
+**Move** the mouse cursor around the screen to increase the cryptographic strength of the encryption and then **click** ![Format](https://securityinabox.org/sbox/screen/truecrypt-en/25.png)[TrueCrypt img 25] to format the hidden volume.
 
 *After the hidden volume has been formatted, the following screen appears:* 
 
-![Volume Creation Wizard message](/sites/siabnext.ttc.io/files/media/truecrypt-win-43.png)
+![Volume Creation Wizard message](https://securityinabox.org/sbox/screen/truecrypt-en/43.png)[TrueCrypt img 43]
 
 *Figure 7: The TrueCrypt Volume Creation Wizard message screen*
 
@@ -156,7 +156,7 @@ Leave the default *File System* and *Cluster* options as they are.
 
 ### Step 18
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-27.png) to activate the *Hidden Volume Created* window, and then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-28.png) and return to the **TrueCrypt** console. 
+**Click** ![OK](https://securityinabox.org/sbox/screen/truecrypt-en/27.png)[TrueCrypt img 27] to activate the *Hidden Volume Created* window, and then **click** ![Exit](https://securityinabox.org/sbox/screen/truecrypt-en/28.png)[TrueCrypt img 28] and return to the **TrueCrypt** console. 
 
 The hidden volume has now been created inside your standard volume. You may now store documents in the hidden volume, which remain invisible even to someone who has obtained the password for that particular standard volume. 
 
@@ -170,13 +170,13 @@ To *mount* or open the *Hidden Volume*, perform the following steps:
 
 **Select** a drive from the list (in this example, drive *K*):
 
-![mount drive selected in TrueCrypt Volume screen](/sites/siabnext.ttc.io/files/media/truecrypt-win-44.png)
+![mount drive selected in TrueCrypt Volume screen](https://securityinabox.org/sbox/screen/truecrypt-en/44.png)[TrueCrypt img 44]
 
 *Figure 8: A mount drive selected in the TrueCrypt Volume screen*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-17.png) to activate the *Select a TrueCrypt Volume* window. 
+**Click** ![Select File](https://securityinabox.org/sbox/screen/truecrypt-en/17.png)[TrueCrypt img 17] to activate the *Select a TrueCrypt Volume* window. 
 
 ### Step 3
 
@@ -184,23 +184,23 @@ To *mount* or open the *Hidden Volume*, perform the following steps:
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-30.png) to return to the **TrueCrypt** console.
+**Click** ![Open](https://securityinabox.org/sbox/screen/truecrypt-en/30.png)[TrueCrypt img 30] to return to the **TrueCrypt** console.
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-31.png) to activate the *Enter Password for* prompt screen as follows:
+**Click** ![Mount](https://securityinabox.org/sbox/screen/truecrypt-en/31.png)[TrueCrypt img 31] to activate the *Enter Password for* prompt screen as follows:
 
-![Enter Password screen](/sites/siabnext.ttc.io/files/media/truecrypt-win-32.png)
+![Enter Password screen](https://securityinabox.org/sbox/screen/truecrypt-en/32.png)[TrueCrypt img 32]
 
 *Figure 9: The Enter Password screen*
 
 ### Step 6
 
-**Type** the password you used to create the hidden volume, and then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-33.png). 
+**Type** the password you used to create the hidden volume, and then **click** ![OK](https://securityinabox.org/sbox/screen/truecrypt-en/33.png)[TrueCrypt img 33]. 
 
 Your hidden volume is now mounted (or opened) as follows:
 
-![TrueCrypt main screen displaying newly mounted Hidden Volume](/sites/siabnext.ttc.io/files/media/truecrypt-win-45.png)
+![TrueCrypt main screen displaying newly mounted Hidden Volume](https://securityinabox.org/sbox/screen/truecrypt-en/45.png)[TrueCrypt img 45]
 
 *Figure 10: The TrueCrypt main screen displaying the newly mounted Hidden Volume*
 
@@ -228,9 +228,9 @@ To use the *Protect hidden volume* feature, perform the following steps:
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-47.png) on the *Enter Password* prompt shown in *figure 10*, above. This will activate the *Mount Options* window as follows:
+**Click** ![Mount Options](https://securityinabox.org/sbox/screen/truecrypt-en/47.png)[TrueCrypt img 46] on the *Enter Password* prompt shown in *figure 10*, above. This will activate the *Mount Options* window as follows:
 
-![Mount Options window](/sites/siabnext.ttc.io/files/media/truecrypt-win-48.png)
+![Mount Options window](https://securityinabox.org/sbox/screen/truecrypt-en/48.png)[TrueCrypt img 47]
 
 *Figure 11: The Mount Options window*
 
@@ -240,14 +240,14 @@ To use the *Protect hidden volume* feature, perform the following steps:
 
 ### Step 3
 
-**Type** in in your Hidden Volume password, and then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-33.png).
+**Type** in in your Hidden Volume password, and then **click** ![OK](https://securityinabox.org/sbox/screen/truecrypt-en/33.png)[TrueCrypt img 33].
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-31.png) to mount your standard volume. After you have successfully mounted it, you will be able to add decoy files without damaging your hidden volume.
+**Click** ![Mount](https://securityinabox.org/sbox/screen/truecrypt-en/31.png)[TrueCrypt img 31] to mount your standard volume. After you have successfully mounted it, you will be able to add decoy files without damaging your hidden volume.
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-51.png) to dismount, or your make your standard volume unavailable for use, when you have finished modifying its contents. 
+**Click** ![Dismount](https://securityinabox.org/sbox/screen/truecrypt-en/51.png)[TrueCrypt img 48] to dismount, or your make your standard volume unavailable for use, when you have finished modifying its contents. 
 
 **Remember**: You only need to do this when you are updating the files in your standard volume. If forced to reveal your standard volume to someone else, you should not use the *Protect hidden volume* feature.

@@ -39,7 +39,7 @@ See [more information regarding the differences between **TrueCrypt** and **Port
 
 **Select** the *New* item to activate its sub-folder, and then **select** the *Folder* sub-menu item, as shown in *Figure 1* below:
 
-![Windows explorer folder and sub-folder](/sites/siabnext.ttc.io/files/media/truecryptportable-win-01.png)
+![Windows explorer folder and sub-folder](https://securityinabox.org/sbox/screen/truecryptportable-en/01.png)[TrueCrypt img 49]
 
 *Figure 1: The Windows explorer folder and sub-folder*
 
@@ -57,22 +57,22 @@ See [more information regarding the differences between **TrueCrypt** and **Port
 
 ### Step 2
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/truecryptportable-win-06.png); the *Open File - Security Warning* dialog box may appear; if it does, **click** ![](/sites/siabnext.ttc.io/files/media/truecryptportable-win-08c.png) to activate the **TrueCrypt** installation wizard. 
+**Double click** ![](https://securityinabox.org/sbox/screen/truecryptportable-en/06.png)[TrueCrypt img 50]; the *Open File - Security Warning* dialog box may appear; if it does, **click** ![Yes](https://securityinabox.org/sbox/screen/truecryptportable-en/08c.png)[TrueCrypt img 51] to activate the **TrueCrypt** installation wizard. 
 
 ### Step 5
 
 **Check** the **Extract** option to extract **TrueCrypt** portable to a removable drive or USB device as shown in *Figure 3* below:
 
-![Wizard Mode - Select one of the modes](/sites/siabnext.ttc.io/files/media/truecryptportable-win-08.png)
+![Wizard Mode - Select one of the modes](https://securityinabox.org/sbox/screen/truecryptportable-en/08.png)[TrueCrypt img 52]
 
 *Figure 3: The Wizard Mode - Select one of the modes window*
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecryptportable-win-09.png) to activate following two screens:
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecryptportable-en/09.png)[TrueCrypt img 53] to activate following two screens:
 
-![](/sites/siabnext.ttc.io/files/media/truecryptportable-win-08a.png)
-![](/sites/siabnext.ttc.io/files/media/truecryptportable-win-08b.png)
+![](https://securityinabox.org/sbox/screen/truecryptportable-en/08a.png)[TrueCrypt img 54]
+![](https://securityinabox.org/sbox/screen/truecryptportable-en/08b.png)[TrueCrypt img 55]
 
 **Click** ![](/sites/siabnext.ttc.io/files/media/truecryptportable-win-17.png) and ![](/sites/siabnext.ttc.io/files/media/truecryptportable-win-08c.png) respectively to activate the **Extraction Options** window as follows: 
 

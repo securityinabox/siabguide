@@ -15,7 +15,7 @@ Title: FAQ
 Language: EN
 
 
-**Tor** is a beautifully maintained and rigorously tested piece of software. The **Tor** network is used by hundreds of thousands of people worldwide, and continual improvements have made it increasingly secure and stable. Although the explanations in this chapter may seem complex, in many cases you will not have to read past [**Section 3.1.1 How to Connect to the Tor Network - Direct Access**](/en/tor_anonymitynetwork) in order to get the **Tor Browser** working properly. 
+**Tor** is a beautifully maintained and rigorously tested piece of software. The **Tor** network is used by hundreds of thousands of people worldwide, and continual improvements have made it increasingly secure and stable. Although the explanations in this chapter may seem complex, in many cases you will not have to read past [**Section 3.1.1 How to Connect to the Tor Network - Direct Access**](https://securityinabox.org/tor_anonymitynetwork)[Tor Anonymity_network] in order to get the **Tor Browser** working properly. 
 
 ***Q***: Why should I use the **Tor Browser**?
 

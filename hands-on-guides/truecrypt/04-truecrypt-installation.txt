@@ -23,13 +23,13 @@ Language: EN
 
 #### Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-01.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the  **TrueCrypt** *License* screen.
+**Double click** ![installer](https://securityinabox.org/sbox/screen/truecrypt-en/01.png)[TrueCrypt img 01]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the  **TrueCrypt** *License* screen.
 
 #### Step 2
 
-**Check** the *I accept and agree to be bound by the license terms* option to enable the *Accept* button; **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-03.png) to activate the following screen:
+**Check** the *I accept and agree to be bound by the license terms* option to enable the *Accept* button; **click** ![Accept](https://securityinabox.org/sbox/screen/truecrypt-en/03.png)[TrueCrypt img 03] to activate the following screen:
 
-![Wizard Mode in the default Install mode](/sites/siabnext.ttc.io/files/media/truecrypt-win-04.png)
+![Wizard Mode in the default Install mode](https://securityinabox.org/sbox/screen/truecrypt-en/04.png)[TrueCrypt img 04]
 
 *Figure 1: The Wizard Mode in the default Install mode*
 
@@ -38,31 +38,31 @@ Language: EN
 
 **Note**: Some of the options (for example, entire partition and disk encryption) will not work when **TrueCrypt** is extracted only.
 
-**Note**: Although the default *Install* mode is recommended here, you may still use **TrueCrypt** in portable mode later on. To learn more about using the **TrueCrypt Traveller** mode, please refer to [**Portable TrueCrypt page**](http://security.ngoinabox.org/en/truecrypt_portable). 
+**Note**: Although the default *Install* mode is recommended here, you may still use **TrueCrypt** in portable mode later on. To learn more about using the **TrueCrypt Traveller** mode, please refer to [**Portable TrueCrypt page**](https://securityinabox.org/truecrypt_portable)[Truecrypt Portable]. 
 
 #### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the following screen:
 
-![Setup Options window](/sites/siabnext.ttc.io/files/media/truecrypt-win-06.png)
+![Setup Options window](https://securityinabox.org/sbox/screen/truecrypt-en/06.png)[TrueCrypt img 05]
 
 *Figure 2: The Setup Options window*
 
 #### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-07.png) to activate the *Installing* screen to begin installing **TrueCrypt** on your system.
+**Click** ![Install](https://securityinabox.org/sbox/screen/truecrypt-en/07.png)[TrueCrypt img 06] to activate the *Installing* screen to begin installing **TrueCrypt** on your system.
 
 #### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-08.png) and then ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-11.png) to activate the following screen:
+**Click** ![OK](https://securityinabox.org/sbox/screen/truecrypt-en/08.png)[TrueCrypt img 07] and then ![Finish](https://securityinabox.org/sbox/screen/truecrypt-en/11.png)[TrueCrypt img 08] to activate the following screen:
 
-![](/sites/siabnext.ttc.io/files/media/truecrypt-win-09.png)
+![TrueCrypt Setup confirmation dialog box](https://securityinabox.org/sbox/screen/truecrypt-en/09.png)[TrueCrypt img 09]
 
 *Figure 3: The TrueCrypt Setup confirmation dialog box*
 
 #### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-10a.png) to complete the **TrueCrypt** installation.
+**Click** ![](https://securityinabox.org/sbox/screen/truecrypt-en/10a.png)[TrueCrypt img 10] to complete the **TrueCrypt** installation.
 
 **Note**: All users are strongly encouraged to consult [**TrueCrypt** help documentation](http://andryou.com/truecrypt/docs/index.php) after completing this tutorial.
 
@@ -74,21 +74,21 @@ To begin using **TrueCrypt** to create a *Standard Volume*, perform the followin
 
 ### Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-52.png) or **Select Start > Programs > TrueCrypt > TrueCrypt** to open **TrueCrypt**.
+**Double click** ![](https://securityinabox.org/sbox/screen/truecrypt-en/52.png)[TrueCrypt img 11] or **Select Start > Programs > TrueCrypt > TrueCrypt** to open **TrueCrypt**.
 
 ### Step 2
 
 **Select** a drive from the list in the **TrueCrypt** pane as follows:
 
-![TrueCrypt console](/sites/siabnext.ttc.io/files/media/truecrypt-win-12.png)
+![TrueCrypt console](https://securityinabox.org/sbox/screen/truecrypt-en/12.png)[TrueCrypt img 12]
 
 *Figure 4: The TrueCrypt console*
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-13.png) to activate the *TrueCrypt Volume Creation Wizard* as follows:
+**Click** ![Create Volume](https://securityinabox.org/sbox/screen/truecrypt-en/13.png)[TrueCrypt img 13] to activate the *TrueCrypt Volume Creation Wizard* as follows:
 
-![TrueCrypt Volume Creation Wizard window](/sites/siabnext.ttc.io/files/media/truecrypt-win-14.png)
+![TrueCrypt Volume Creation Wizard window](https://securityinabox.org/sbox/screen/truecrypt-en/14.png)[TrueCrypt img 14]
 
 *Figure 5: The TrueCrypt Volume Creation Wizard window* 
 
@@ -96,15 +96,15 @@ There are three options for encrypting a *Standard Volume* in *figure 5*. In thi
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the following screen:
 
-![Volume Type window](/sites/siabnext.ttc.io/files/media/truecrypt-win-15.png)
+![Volume Type window](https://securityinabox.org/sbox/screen/truecrypt-en/15.png)[TrueCrypt img 15]
 
 *Figure 6: The Volume Type window*
 
 The *TrueCrypt Volume Creation Wizard Volume Type* window lets you specify whether you would prefer to create a *Standard* or *Hidden* **TrueCrypt** volume. 
 
-**Important**: For more information about *How to Create a Hidden Volume*, please refer to the [**Hidden Volumes**](/en/truecrypt_hiddenvolumes) page. 
+**Important**: For more information about *How to Create a Hidden Volume*, please refer to the [**Hidden Volumes**](https://securityinabox.org/truecrypt_hiddenvolumes)[Truecrypt Hidden_Volumes] page. 
 
 ### Step 5
 
@@ -112,9 +112,9 @@ The *TrueCrypt Volume Creation Wizard Volume Type* window lets you specify wheth
 
 ### Step 6
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the following screen:
 
-![Volume Creation Wizard - Volume Location pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-16.png)
+![Volume Creation Wizard - Volume Location pane](https://securityinabox.org/sbox/screen/truecrypt-en/16.png)[TrueCrypt img 16]
 
 *Figure 7: The Volume Creation Wizard - Volume Location pane*
 
@@ -122,37 +122,37 @@ You can specify where you would like to store your *Standard Volume* in the *Vol
 
 ### Step 7
 
-Either **type** in the name of the file into the text field, or **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-17.png) to activate the following screen:
+Either **type** in the name of the file into the text field, or **click** ![Select File](https://securityinabox.org/sbox/screen/truecrypt-en/17.png)[TrueCrypt img 17] to activate the following screen:
 
-![Specify Path and File Name navigation window](/sites/siabnext.ttc.io/files/media/truecrypt-win-18.png)
+![Specify Path and File Name navigation window](https://securityinabox.org/sbox/screen/truecrypt-en/18.png)[TrueCrypt img 18]
 
 *Figure 8: The Specify Path and File Name navigation window*
 
-**Note**: A **TrueCrypt** Volume is contained inside a normal file. This means that it can be moved, copied or even deleted! You need to remember both the location and name of the file. However, you must choose new file name for the volume you create (also refer to section [**2.3 How to Create a Standard Volume on a USB Memory Stick**](#2.3)). In this tutorial, we will create our Standard Volume in the **My Documents** folder, and name the file *My Volume* as shown in *figure 8* above. 
+**Note**: A **TrueCrypt** Volume is contained inside a normal file. This means that it can be moved, copied or even deleted! You need to remember both the location and name of the file. However, you must choose new file name for the volume you create (also refer to section [**2.3 How to Create a Standard Volume on a USB Memory Stick**](https://securityinabox.org/truecrypt_standardvolumes#2.3)[Truecrypt Standard_Volumes_USB]). In this tutorial, we will create our Standard Volume in the **My Documents** folder, and name the file *My Volume* as shown in *figure 8* above. 
 
 **Tip**: You can use any file name and file extension. For example, you can name your Standard Volume *recipes.doc,* so that it will look like a *Word* document, or *holidays.mpg*, so it will look like a movie file. This is one way you can help disguise the existence of your Standard Volume. 
 
 ### Step 8
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-19.png) to close the *Specify Path and File Name* window and return to the *Volume Creation Wizard* window as follows:
+**Click** ![Save](https://securityinabox.org/sbox/screen/truecrypt-en/19.png)[TrueCrypt img 19] to close the *Specify Path and File Name* window and return to the *Volume Creation Wizard* window as follows:
 
-![TrueCrypt Volume Creation Wizard with Volume Location pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-20.png)
+![TrueCrypt Volume Creation Wizard with Volume Location pane](https://securityinabox.org/sbox/screen/truecrypt-en/20.png)[TrueCrypt img 20]
 
 *Figure 9: The TrueCrypt Volume Creation Wizard displaying the Volume Location pane*
 
 ### Step 9
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate *figure 10*.
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate *figure 10*.
 
 ## Create a Standard Volume on a USB Memory Stick
 
-To create a **TrueCrypt** *Standard Volume* on a USB memory stick, perform steps 1 to 7 in section [**2.1 Create a Standard Volume**](#2.2), where you activate the *Select a TrueCrypt Volume* screen. Instead of choosing *My Documents* as your file location, **navigate** to and then **choose** your USB memory stick. Then, **enter** a file name and create the *Standard Volume* there. 
+To create a **TrueCrypt** *Standard Volume* on a USB memory stick, perform steps 1 to 7 in section [**2.1 Create a Standard Volume**](https://securityinabox.org/truecrypt_standardvolumes#2.2)[Truecrypt Create_Standard_Volumes], where you activate the *Select a TrueCrypt Volume* screen. Instead of choosing *My Documents* as your file location, **navigate** to and then **choose** your USB memory stick. Then, **enter** a file name and create the *Standard Volume* there. 
 
 ## Create a Standard Volume (continued)
 
 At this stage, you are ready to choose a specific encryption method (or *algorithm* as it is referred to on the screen) to encode the data that will be stored in your *Standard Volume*. 
 
-![Volume Creation Wizard Encryption Options pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-21.png)
+![Volume Creation Wizard Encryption Options pane](https://securityinabox.org/sbox/screen/truecrypt-en/21.png)[TrueCrypt img 21]
 
 *Figure 10: The Volume Creation Wizard Encryption Options pane*
 
@@ -160,10 +160,9 @@ At this stage, you are ready to choose a specific encryption method (or *algorit
 
 ### Step 10
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png)
- to activate the *TrueCrypt Volume Creation Wizard* screen as follows:
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the *TrueCrypt Volume Creation Wizard* screen as follows:
 
-![Volume Creation Wizard displaying Volume Size pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-22.png)
+![Volume Creation Wizard displaying Volume Size pane](https://securityinabox.org/sbox/screen/truecrypt-en/22.png)[TrueCrypt img 22]
 
 *Figure 11: The Volume Creation Wizard displaying the Volume Size pane*
 
@@ -173,14 +172,14 @@ The *Volume Size* pane lets you specify the size of the *Standard Volume*. In th
 
 ### Step 11
 
-**Type** in your specific volume size into the text field, and then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Type** in your specific volume size into the text field, and then **click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the following screen:
 
-![TrueCrypt Volume Creation Wizard featuring Volume Password pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-23.png)
+![TrueCrypt Volume Creation Wizard featuring Volume Password pane](https://securityinabox.org/sbox/screen/truecrypt-en/23.png)[TrueCrypt img 23]
 
 *Figure 12: The TrueCrypt Volume Creation Wizard featuring the Volume Password pane*
 
 **Important**: Choosing a secure and strong password is among the most important tasks you will perform when creating a *Standard Volume*. A good password will protect your encrypted volume, and the stronger the password you choose, the better. You don't have to create your own passwords, or even remember them, if you use a password generation
-program like **KeePass**. Please refer to [**KeePass**](/keepass_main), to learn more information about password creation and storage.
+program like **KeePass**. Please refer to [**KeePass**](https://securityinabox.org/en/keepass_main)[KeePass Main], to learn more information about password creation and storage.
 
 ### Step 12
 
@@ -190,9 +189,9 @@ program like **KeePass**. Please refer to [**KeePass**](/keepass_main), to learn
 
 ### Step 13
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-05.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/truecrypt-en/05.png)[TrueCrypt img 02] to activate the following screen:
 
-![TrueCrypt Volume Creation Wizard featuring Volume Format pane](/sites/siabnext.ttc.io/files/media/truecrypt-win-24.png)
+![TrueCrypt Volume Creation Wizard featuring Volume Format pane](https://securityinabox.org/sbox/screen/truecrypt-en/24.png)[TrueCrypt img 24]
 
 *Figure 13: The TrueCrypt Volume Creation Wizard featuring the Volume Format pane*
 
@@ -200,20 +199,20 @@ program like **KeePass**. Please refer to [**KeePass**](/keepass_main), to learn
 
 ### Step 14
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-25.png) to begin creating your standard volume.
+**Click** ![Format](https://securityinabox.org/sbox/screen/truecrypt-en/25.png)[TrueCrypt img 25] to begin creating your standard volume.
 
 **TrueCrypt** will now create a file named *My Volume* in the *My Documents* folder as earlier specified. This file will contain a **TrueCrypt** *Standard Volume*, 10 Megabytes in size, that you can use to securely store your files. 
 
 After a *Standard Volume* has been successfully created, the following dialog box will appear: 
 
-![TrueCrypt volume has been successfully created message](/sites/siabnext.ttc.io/files/media/truecrypt-win-26.png)
+![TrueCrypt volume has been successfully created message](https://securityinabox.org/sbox/screen/truecrypt-en/26.png)[TrueCrypt img 26]
 
 *Figure 14: The TrueCrypt volume has been successfully created message screen*
 
 ### Step 15
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-27.png) to complete creating your *Standard Volume* and return to the **TrueCrypt** console.
+**Click** ![OK](https://securityinabox.org/sbox/screen/truecrypt-en/27.png)[TrueCrypt img 27] to complete creating your *Standard Volume* and return to the **TrueCrypt** console.
 
 ### Step 16
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-28.png) to close *TrueCrypt Volume Creation Wizard*.
+**Click** ![Exit](https://securityinabox.org/sbox/screen/truecrypt-en/28.png)[TrueCrypt img 28] to close *TrueCrypt Volume Creation Wizard*.

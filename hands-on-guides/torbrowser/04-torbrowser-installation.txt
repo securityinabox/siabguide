@@ -23,10 +23,10 @@ To extract the **Tor Browser**, perform the following steps:
 
 ## Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-001.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-002.png) to activate the program.
+**Double click** ![](https://securityinabox.org/sbox/screen/tor-en-1/001.png)[TorBrowser img 01]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/tor-en-1/002.png)[TorBrowser img 02] to activate the program.
 The language selection screen will appear next:
 
-![language selection](/sites/siabnext.ttc.io/files/media/torbrowser-win-003.png)
+![language selection](https://securityinabox.org/sbox/screen/tor-en-1/003.png)[TorBrowser img 03]
 
 *Figure 1: The language selection screen*
 
@@ -40,25 +40,25 @@ Choose the location to extract the **Tor Browser**
 
 **Important**: You may also extract and use the **Tor Browser** to a different folder on your computer or to a USB memory stick. This may help you to conceal the fact that you are using **Tor** on your computer.
 
-Either **click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-004.png) to accept the default *Desktop* folder and activate window below. Or **click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-005.png) to activate the *Browse for Folder* window and navigate to the desired folder path for extracting the **Tor Browser**.
+Either **click** ![Install](https://securityinabox.org/sbox/screen/tor-en-1/004.png)[TorBrowser img 04] to accept the default *Desktop* folder and activate window below. Or **click** ![Browse](https://securityinabox.org/sbox/screen/tor-en-1/005.png)[TorBrowser img 05] to activate the *Browse for Folder* window and navigate to the desired folder path for extracting the **Tor Browser**.
 
-![default extraction path](/sites/siabnext.ttc.io/files/media/torbrowser-win-008.png)
+![default extraction path](https://securityinabox.org/sbox/screen/tor-en-1/008.png)[TorBrowser img 06]
 
 *Figure 2: An example of the default extraction path for the Tor Browser*
 
 ## Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-004.png) to begin extracting the **Tor Browser**. Once completed you will be presented with a screen confirming the **Tor Browser** is installed and optionally to start it.
+**Click** ![Install](/sites/siabnext.ttc.io/files/media/torbrowser-win-004.png)[TorBrowser img 04] to begin extracting the **Tor Browser**. Once completed you will be presented with a screen confirming the **Tor Browser** is installed and optionally to start it.
 
-![extracting process completed successfully](/sites/siabnext.ttc.io/files/media/torbrowser-win-009.png)
+![extracting process completed successfully](https://securityinabox.org/sbox/screen/tor-en-1/009.png)[TorBrowser img 07]
 
 *Figure 4: The extracting process has completed successfully*
 
 Note that the option *Run Tor Browser* is selected on the screen above. Once you **click** on *Finish* button **Tor Browser** will start automatically. 
 
-In this example, after the extraction process has been completed, the **Tor Browser** will appear on your *Desktop* in a folder called *Tor Browser*.  To use the *Tor Browser* at any time just **double click** on ![](/sites/siabnext.ttc.io/files/media/torbrowser-win-010.png) in this folder.
+In this example, after the extraction process has been completed, the **Tor Browser** will appear on your *Desktop* in a folder called *Tor Browser*.  To use the *Tor Browser* at any time just **double click** on ![Start Tor Browser.exe](https://securityinabox.org/sbox/screen/tor-en-1/010.png)[TorBrowser img 08] in this folder.
 
-![Browser extracted on the Desktop](/sites/siabnext.ttc.io/files/media/torbrowser-win-011.png) 
+![Browser extracted on the Desktop](https://securityinabox.org/sbox/screen/tor-en-1/011.png)[TorBrowser img 09]
 
 *Figure 5: The Tor Browser extracted to a directory on the Desktop*
 

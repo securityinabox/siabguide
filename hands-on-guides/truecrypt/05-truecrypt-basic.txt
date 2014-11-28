@@ -25,13 +25,13 @@ To begin mounting your standard volume, perform the following steps:
 
 ### Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-52.png) or **Select Start > Programs > TrueCrypt > TrueCrypt** to open **TrueCrypt**.
+**Double click** ![](https://securityinabox.org/sbox/screen/truecrypt-en/52.png)[TrueCrypt img 11] or **Select Start > Programs > TrueCrypt > TrueCrypt** to open **TrueCrypt**.
 
 ### Step 2
 
 **Select** any drive from the list as follows: 
 
-![TrueCrypt console](/sites/siabnext.ttc.io/files/media/truecrypt-win-12.png)
+![TrueCrypt console](https://securityinabox.org/sbox/screen/truecrypt-en/12.png)[TrueCrypt img 12]
 
 *Figure 1: The TrueCrypt console*
 
@@ -41,23 +41,23 @@ To begin mounting your standard volume, perform the following steps:
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-17.png)
+**Click** ![Select File](https://securityinabox.org/sbox/screen/truecrypt-en/17.png)[TrueCrypt img 17]
 
 *The Select a TrueCrypt Volume screen will appear as follows:*
 
-![Select a TrueCrypt Volume screen](/sites/siabnext.ttc.io/files/media/truecrypt-win-29.png)
+![Select a TrueCrypt Volume screen](https://securityinabox.org/sbox/screen/truecrypt-en/29.png)[TrueCrypt img 29]
 
 *Figure 2: The Select a TrueCrypt Volume screen*
 
 ### Step 4
 
-**Select** the standard volume file that you created, then **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-30.png) to close *figure 2* and return to the **TrueCrypt** console.
+**Select** the standard volume file that you created, then **click** ![Open](https://securityinabox.org/sbox/screen/truecrypt-en/30.png)[TrueCrypt img 30] to close *figure 2* and return to the **TrueCrypt** console.
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-31.png) to activate the *Enter password for* prompt screen as follows:
+**Click** ![Mount](https://securityinabox.org/sbox/screen/truecrypt-en/31.png)[TrueCrypt img 31] to activate the *Enter password for* prompt screen as follows:
 
-![Enter password prompt](/sites/siabnext.ttc.io/files/media/truecrypt-win-32.png)
+![Enter password](https://securityinabox.org/sbox/screen/truecrypt-en/32.png)[TrueCrypt img 32]
 
 *Figure 3: The Enter password prompt screen*
 
@@ -67,18 +67,19 @@ To begin mounting your standard volume, perform the following steps:
 
 ### Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-33.png) to begin mounting the *Standard Volume*.
+**Click** ![OK](https://securityinabox.org/sbox/screen/truecrypt-en/33.png)[TrueCrypt img 33] to begin mounting the *Standard Volume*.
 
-**Note**: If the password you typed is incorrect, **TrueCrypt** will prompt you to re-type your password and **click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-33.png). If the password is correct, the *Standard Volume* will be mounted as follows:
+**Note**: If the password you typed is incorrect, **TrueCrypt** will prompt you to re-type your password and **click** ![OK](https://securityinabox.org/sbox/screen/truecrypt-en/33.png)[TrueCrypt img 33]. If the password is correct, the *Standard Volume* will be mounted as follows:
 
-![TrueCrypt console with newly mounted Standard Volume](/sites/siabnext.ttc.io/files/media/truecrypt-win-34.png)
+![TrueCrypt console with newly mounted Standard Volume](https://securityinabox.org/sbox/screen/truecrypt-en/34.png)[TrueCrypt img 34]
 
 *Figure 4: The TrueCrypt console displaying the newly mounted Standard Volume*
 
 ### Step 8
 
+**Double click** the highlighted entry in **TrueCrypt** or **double click** the corresponding drive letter in the *My Computer* screen to access the *Standard Volume* (now mounted on drive *M:* on your computer).
 
-![Accessing the Standard Volume through the My Computer screen](/sites/siabnext.ttc.io/files/media/truecrypt-win-35.png)
+![Accessing the Standard Volume through the My Computer screen](https://securityinabox.org/sbox/screen/truecrypt-en/35.png)[TrueCrypt img 35]
 
 *Figure 5: Accessing the Standard Volume through the My Computer screen*
 
@@ -93,7 +94,7 @@ automatically decrypted. Conversely if you move a file onto the
 
 **Important**: After transferring files to the **TrueCrypt** volume, make
 sure that no traces of the files are left behind on the computer or USB
-memory stick that they came from. Please refer to chapter [**6. How to destroy sensitive information**](/en/chapter-6).
+memory stick that they came from. Please refer to chapter [**6. How to destroy sensitive information**](https://securityinabox.org/chapter-6)[Sensitive Information].
 
 ## Dismount a Standard Volume
 
@@ -105,13 +106,13 @@ To close or dismount a *Standard Volume* and make its files accessible only to s
 
 **Select** the volume from the list of mounted volumes in the main **TrueCrypt** window as follows:
 
-![Selecting the Standard Volume to be dismounted](/sites/siabnext.ttc.io/files/media/truecrypt-win-34.png)
+![Selecting the Standard Volume to be dismounted](https://securityinabox.org/sbox/screen/truecrypt-en/34.png)[TrueCrypt img 34]
 
 *Figure 17: Selecting the Standard Volume to be dismounted*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/truecrypt-win-49.png) to dismount or close your **TrueCrypt** standard volume. 
+**Click** ![Dismount](https://securityinabox.org/sbox/screen/truecrypt-en/49.png)[TrueCrypt img 36] to dismount or close your **TrueCrypt** standard volume. 
 
 **Important**: Make sure to dismount your **TrueCrypt** volume before putting your computer to *Standby* or *Hibernate* mode. Better yet, always shut-down your computer or laptop if you plan on leaving it unattended. This will prevent anyone from being able to gain your volume password.
 
@@ -127,7 +128,7 @@ easy to do. Don't forget that your volume must be dismounted before you back it 
 
 **Navigate** to your *Standard Volume* file (in *figure 1* below, it is located in the *My Documents* folder). 
 
-![My Documents window displaying My Volume file](/sites/siabnext.ttc.io/files/media/truecrypt-win-36.png)
+![My Documents window displaying My Volume file](https://securityinabox.org/sbox/screen/truecrypt-en/36.png)[TrueCrypt img 37]
 
 *Figure 1: The My Documents window displaying the My Volume file*
 

@@ -1,6 +1,7 @@
 url_id | url
 
 Malware | https://securityinabox.org/chapter-1
+Software up-to-date | https://securityinabox.org/en/chapter_1_4
 Secure Passwords | https://securityinabox.org/chapter-3
 Password Select | https://securityinabox.org/chapter_3_1
 Secure Storage | https://securityinabox.org/chapter-4
@@ -33,6 +34,7 @@ Eraser Howto #3.2 | https://securityinabox.org/using_eraser
 Firefox Main | https://securityinabox.org/en/Firefox_main
 Firefox Noscript | https://securityinabox.org/firefox_noscript
 Firefox Others | https://securityinabox.org/firefox_others
+Firefox HTTPS_Everywhere | https://securityinabox.org/firefox_others#5.1
 Gibberbot Main | https://securityinabox.org/en/gibberbot_main - should be replaced by https://siabnext.ttc.io/hands-on/chatsecure-and
 gpg4usb decrypt messages | https://securityinabox.org/gpg4usb-encryptdecrypt#4.1
 Jitsi Main | https://securityinabox.org/jitsi
@@ -57,8 +59,16 @@ Thunderbird Install_GnuPG | https://securityinabox.org/thuderbird_encryption#4.1
 Thunderbird Security_Settings | https://securityinabox.org/en/thunderbird_security
 Thunderbird Security_Tabs | https://securityinabox.org/en/thunderbird_security#3.3
 Tor Main | https://securityinabox.org/tor_main
+Tor Anonymity_network | https://securityinabox.org/tor_anonymitynetwork
+Tor Direct Access | https://securityinabox.org/tor_anonymitynetwork#3.1.1
 Tor Bridge Addresses | https://securityinabox.org/en/tor_anonymitynetwork#3.3
+Tor Restricted Access | https://securityinabox.org/tor_anonymitynetwork#3.1.2
 Truecrypt Main | https://securityinabox.org/truecrypt_main
+Truecrypt Portable | https://securityinabox.org/truecrypt_portable
+Truecrypt Hidden_Volumes | https://securityinabox.org/truecrypt_hiddenvolumes
+Truecrypt Create_Standard_Volumes | https://securityinabox.org/truecrypt_standardvolumes#2.2
+Truecrypt Standard_Volumes_USB | https://securityinabox.org/truecrypt_standardvolumes#2.3
+
 
 APG img 01 | https://securityinabox.org/sbox/screen/apg-en/01.png
 APG img 02 | https://securityinabox.org/sbox/screen/apg-en/02.png
@@ -1181,6 +1191,96 @@ Thunderbird img 135 | https://securityinabox.org/sbox/screen/thunderbird-TorBird
 Thunderbird img 136 | https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/27.png
 Thunderbird img 137 | https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/29.png
 Thunderbird img 138 | https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/28.png
+
+TorBrowser img 01 | https://securityinabox.org/sbox/screen/tor-en-1/001.png
+TorBrowser img 02 | https://securityinabox.org/sbox/screen/tor-en-1/002.png
+TorBrowser img 03 | https://securityinabox.org/sbox/screen/tor-en-1/003.png
+TorBrowser img 04 | https://securityinabox.org/sbox/screen/tor-en-1/004.png
+TorBrowser img 05 | https://securityinabox.org/sbox/screen/tor-en-1/005.png
+TorBrowser img 06 | https://securityinabox.org/sbox/screen/tor-en-1/008.png
+TorBrowser img 07 | https://securityinabox.org/sbox/screen/tor-en-1/009.png
+TorBrowser img 08 | https://securityinabox.org/sbox/screen/tor-en-1/010.png
+TorBrowser img 09 | https://securityinabox.org/sbox/screen/tor-en-1/011.png
+TorBrowser img 10 | https://securityinabox.org/sbox/screen/tor-en-1/012.png
+TorBrowser img 11 | https://securityinabox.org/sbox/screen/tor-en-1/013.png
+TorBrowser img 12 | https://securityinabox.org/sbox/screen/tor-en-1/014.png
+TorBrowser img 13 | https://securityinabox.org/sbox/screen/tor-en-1/015.png
+TorBrowser img 14 | https://securityinabox.org/sbox/screen/tor-en-1/016.png
+TorBrowser img 15 | https://securityinabox.org/sbox/screen/tor-en-1/017.png
+TorBrowser img 16 | https://securityinabox.org/sbox/screen/tor-en-1/018.png
+TorBrowser img 17 | https://securityinabox.org/sbox/screen/tor-en-1/019.png
+TorBrowser img 18 | https://securityinabox.org/sbox/screen/tor-en-1/020.png
+TorBrowser img 19 | https://securityinabox.org/sbox/screen/tor-en-1/021.png
+TorBrowser img 20 | https://securityinabox.org/sbox/screen/tor-en-1/022.png
+TorBrowser img 21 | https://securityinabox.org/sbox/screen/tor-en-1/023.png
+TorBrowser img 22 | https://securityinabox.org/sbox/screen/tor-en-1/024.png
+TorBrowser img 23 | https://securityinabox.org/sbox/screen/tor-en-1/025.png
+TorBrowser img 24 | https://securityinabox.org/sbox/screen/tor-en-1/026.png
+TorBrowser img 25 | https://securityinabox.org/sbox/screen/tor-en-1/027.png
+TorBrowser img 26 | https://securityinabox.org/sbox/screen/tor-en-1/028.png
+TorBrowser img 27 | https://securityinabox.org/sbox/screen/tor-en-1/029.png
+TorBrowser img 28 | https://securityinabox.org/sbox/screen/tor-en-1/030.png
+TorBrowser img 29 | https://securityinabox.org/sbox/screen/tor-en-1/031.png
+TorBrowser img 30 | https://securityinabox.org/sbox/screen/tor-en-1/032.png
+TorBrowser img 31 | https://securityinabox.org/sbox/screen/tor-en-1/033.png
+TorBrowser img 32 | https://securityinabox.org/sbox/screen/tor-en-1/034.png
+
+TrueCrypt img 01 | https://securityinabox.org/sbox/screen/truecrypt-en/01.png
+TrueCrypt img 02 | https://securityinabox.org/sbox/screen/truecrypt-en/05.png
+TrueCrypt img 03 | https://securityinabox.org/sbox/screen/truecrypt-en/03.png
+TrueCrypt img 04 | https://securityinabox.org/sbox/screen/truecrypt-en/04.png
+TrueCrypt img 05 | https://securityinabox.org/sbox/screen/truecrypt-en/06.png
+TrueCrypt img 06 | https://securityinabox.org/sbox/screen/truecrypt-en/07.png
+TrueCrypt img 07 | https://securityinabox.org/sbox/screen/truecrypt-en/08.png
+TrueCrypt img 08 | https://securityinabox.org/sbox/screen/truecrypt-en/11.png
+TrueCrypt img 09 | https://securityinabox.org/sbox/screen/truecrypt-en/09.png
+TrueCrypt img 10 | https://securityinabox.org/sbox/screen/truecrypt-en/10a.png -- Page not found
+TrueCrypt img 11 | https://securityinabox.org/sbox/screen/truecrypt-en/52.png
+TrueCrypt img 12 | https://securityinabox.org/sbox/screen/truecrypt-en/12.png
+TrueCrypt img 13 | https://securityinabox.org/sbox/screen/truecrypt-en/13.png
+TrueCrypt img 14 | https://securityinabox.org/sbox/screen/truecrypt-en/14.png
+TrueCrypt img 15 | https://securityinabox.org/sbox/screen/truecrypt-en/15.png
+TrueCrypt img 16 | https://securityinabox.org/sbox/screen/truecrypt-en/16.png
+TrueCrypt img 17 | https://securityinabox.org/sbox/screen/truecrypt-en/17.png
+TrueCrypt img 18 | https://securityinabox.org/sbox/screen/truecrypt-en/18.png
+TrueCrypt img 19 | https://securityinabox.org/sbox/screen/truecrypt-en/19.png
+TrueCrypt img 20 | https://securityinabox.org/sbox/screen/truecrypt-en/20.png
+TrueCrypt img 21 | https://securityinabox.org/sbox/screen/truecrypt-en/21.png
+TrueCrypt img 22 | https://securityinabox.org/sbox/screen/truecrypt-en/22.png
+TrueCrypt img 23 | https://securityinabox.org/sbox/screen/truecrypt-en/23.png
+TrueCrypt img 24 | https://securityinabox.org/sbox/screen/truecrypt-en/24.png
+TrueCrypt img 25 | https://securityinabox.org/sbox/screen/truecrypt-en/25.png
+TrueCrypt img 26 | https://securityinabox.org/sbox/screen/truecrypt-en/26.png
+TrueCrypt img 27 | https://securityinabox.org/sbox/screen/truecrypt-en/27.png
+TrueCrypt img 28 | https://securityinabox.org/sbox/screen/truecrypt-en/28.png
+TrueCrypt img 29 | https://securityinabox.org/sbox/screen/truecrypt-en/29.png
+TrueCrypt img 30 | https://securityinabox.org/sbox/screen/truecrypt-en/30.png
+TrueCrypt img 31 | https://securityinabox.org/sbox/screen/truecrypt-en/31.png
+TrueCrypt img 32 | https://securityinabox.org/sbox/screen/truecrypt-en/32.png
+TrueCrypt img 33 | https://securityinabox.org/sbox/screen/truecrypt-en/33.png
+TrueCrypt img 34 | https://securityinabox.org/sbox/screen/truecrypt-en/34.png
+TrueCrypt img 35 | https://securityinabox.org/sbox/screen/truecrypt-en/35.png
+TrueCrypt img 36 | https://securityinabox.org/sbox/screen/truecrypt-en/49.png
+TrueCrypt img 37 | https://securityinabox.org/sbox/screen/truecrypt-en/36.png
+TrueCrypt img 38 | https://securityinabox.org/sbox/screen/truecrypt-en/37.png
+TrueCrypt img 39 | https://securityinabox.org/sbox/screen/truecrypt-en/38.png
+TrueCrypt img 40 | https://securityinabox.org/sbox/screen/truecrypt-en/46.png
+TrueCrypt img 41 | https://securityinabox.org/sbox/screen/truecrypt-en/41.png
+TrueCrypt img 42 | https://securityinabox.org/sbox/screen/truecrypt-en/42.png
+TrueCrypt img 43 | https://securityinabox.org/sbox/screen/truecrypt-en/43.png
+TrueCrypt img 44 | https://securityinabox.org/sbox/screen/truecrypt-en/44.png
+TrueCrypt img 45 | https://securityinabox.org/sbox/screen/truecrypt-en/45.png
+TrueCrypt img 46 | https://securityinabox.org/sbox/screen/truecrypt-en/47.png
+TrueCrypt img 47 | https://securityinabox.org/sbox/screen/truecrypt-en/48.png
+TrueCrypt img 48 | https://securityinabox.org/sbox/screen/truecrypt-en/51.png
+TrueCrypt img 49 | https://securityinabox.org/sbox/screen/truecryptportable-en/01.png
+TrueCrypt img 50 | https://securityinabox.org/sbox/screen/truecryptportable-en/06.png
+TrueCrypt img 51 | https://securityinabox.org/sbox/screen/truecryptportable-en/08c.png
+TrueCrypt img 52 | https://securityinabox.org/sbox/screen/truecryptportable-en/08.png
+TrueCrypt img 53 | https://securityinabox.org/sbox/screen/truecryptportable-en/09.png
+TrueCrypt img 54 | https://securityinabox.org/sbox/screen/truecryptportable-en/08a.png
+TrueCrypt img 55 | https://securityinabox.org/sbox/screen/truecryptportable-en/08b.png
+
 
 
 
