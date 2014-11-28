@@ -21,7 +21,7 @@ Language: EN
 
 In the context of **Mozilla Thunderbird**, security generally refers to protecting your computer from harmful or malicious email messages. Some may be just spam, others may contain spyware and viruses. There are several settings which must be configured, disabled or enabled within **Mozilla Thunderbird** to strengthen its ability to defend your system from attacks originating from emails. It is also *absolutely crucial* that you have anti-malware and firewall software installed.
 
-For more information on preventing harmful or malicious software, please refer to the **How-to Booklet** chapter [1. Protecting your Computer from Viruses, Malware and Hackers](https://securityinabox.org/chapter-1) for more information about tools such as [Avast](https://securityinabox.org/en/avast_main), [Comodo Firewall](https://securityinabox.org/en/comodofirewall_main) and [Spybot](https://securityinabox.org/en/spybot_main).
+For more information on preventing harmful or malicious software, please refer to the **How-to Booklet** chapter [1. Protecting your Computer from Viruses, Malware and Hackers](https://securityinabox.org/chapter-1)[Malware] for more information about tools such as [Avast](https://securityinabox.org/en/avast_main)[Avast Main], [Comodo Firewall](https://securityinabox.org/en/comodofirewall_main)[Comodo Main] and [Spybot](https://securityinabox.org/en/spybot_main)[Spybot Main].
 
 ## How to Disable the Preview Pane in Thunderbird
 
@@ -29,7 +29,7 @@ The **Thunderbird** main window is divided into three areas: The left sidebar di
 
 **Note**: If an email contains any malicious code, then *preview* message pane could activate it; therefore it is a good idea to disable it.
 
-![Thunderbird main user interface](https://securityinabox.org/sbox/screen/thunderbird-en-1/23.png)
+![Thunderbird main user interface](https://securityinabox.org/sbox/screen/thunderbird-en-1/23.png)[Thunderbird img 21]
 
 *Figure 1: The Thunderbird main user interface*
 
@@ -37,9 +37,9 @@ To disable the preview pane, perform the following step:
 
 #### Step 1
 
-**Click** ![menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png) to display the *Thunderbird Menu* and **select Options > Layout > Massage Pane F8** to disable it as follows:
+**Click** ![menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png)[Thunderbird img 22] to display the *Thunderbird Menu* and **select Options > Layout > Massage Pane F8** to disable it as follows:
 
-![Options menu displaying Layout sub-menu and Message Pane option deselected](https://securityinabox.org/sbox/screen/thunderbird-en-1/24.png)
+![Options menu displaying Layout sub-menu and Message Pane option deselected](https://securityinabox.org/sbox/screen/thunderbird-en-1/24.png)[Thunderbird img 23]
 
 *Figure 2: The Options menu displaying the Layout sub-menu and Message Pane option deselected*
 
@@ -53,9 +53,9 @@ To disable the **HTML** formatting feature, perform the following step:
 
 #### Step 1
 
-**Click** ![menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png) to display the *Thunderbird Menu* and **select Options> View > Message Body As > Plain Text** as follows:
+**Click** ![menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png)[Thunderbird img 22] to display the *Thunderbird Menu* and **select Options> View > Message Body As > Plain Text** as follows:
 
-![View menu displaying Message Body submenu with Plain Text option selected](https://securityinabox.org/sbox/screen/thunderbird-en-1/25.png)
+![View menu displaying Message Body submenu with Plain Text option selected](https://securityinabox.org/sbox/screen/thunderbird-en-1/25.png)[Thunderbird img 24]
 
 *Figure 3: The View menu displaying the Message Body submenu with the Plain Text option selected*
 
@@ -65,7 +65,7 @@ To disable the **HTML** formatting feature, perform the following step:
 
 Email scams - also referred to as *phishing* emails - usually attempt to make you click on a link that is embedded in the email. Frequently, these links direct your browser to a web site that will attempt to infect your computer with a virus. In other cases, the link will take you to a web site that appears to be legitimate, to deceive you into entering a valid user name and password, which can then be used or sold by the entity or people for commercial or malicious purposes.
 
-**Thunderbird** can help to identify and warn you about emails like this. Additional tools that can help prevent infection from malicious websites are described in the [Other Useful Mozilla Add-Ons](https://securityinabox.org/en/firefox_others) section of the **Firefox** chapter.
+**Thunderbird** can help to identify and warn you about emails like this. Additional tools that can help prevent infection from malicious websites are described in the [Other Useful Mozilla Add-Ons](https://securityinabox.org/en/firefox_others)[Firefox Others] section of the **Firefox** chapter.
 
 The first set of assorted junk mail and security controls are accessed through the *Options - Security* window through which the majority of these privacy and security options are configured. To access them, perform the following steps:
 
@@ -75,9 +75,9 @@ The first set of assorted junk mail and security controls are accessed through t
 
 #### Step 2
 
-**Click** ![Security](https://securityinabox.org/sbox/screen/thunderbird-en-1/26.png) to activate the following screen:
+**Click** ![Security](https://securityinabox.org/sbox/screen/thunderbird-en-1/26.png)[Thunderbird img 25] to activate the following screen:
 
-![Security window displaying its associated tabs](https://securityinabox.org/sbox/screen/thunderbird-en-1/27.png)
+![Security window displaying its associated tabs](https://securityinabox.org/sbox/screen/thunderbird-en-1/27.png)[Thunderbird img 26]
 
 *Figure 4: The Security window displaying its associated tabs*
 
@@ -93,7 +93,7 @@ The first set of assorted junk mail and security controls are accessed through t
 
 **Check** the *Tell me if the message I'm reading is a suspected email scam* option to enable **Thunderbird** to analyse messages for email scams as follows:
 
-![Email Scams tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/28.png)
+![Email Scams tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/28.png)[Thunderbird img 27]
 
 *Figure 5: The Email Scams tab*
 
@@ -103,13 +103,13 @@ The first set of assorted junk mail and security controls are accessed through t
 
 **Click** the *Anti-Virus* tab to activate the following screen:
 
-![Anti-Virus tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/29.png)
+![Anti-Virus tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/29.png)[Thunderbird img 28]
 
 *Figure 6: The Anti-Virus tab*
 
 This option lets your anti-virus software scan and isolate individual messages as they arrive. Without this setting enabled, it is possible that your *entire* Inbox folder could be 'quarantined' if you receive an infected message.
 
-**Note**: This assumes that you have a functioning anti-virus program installed. Please refer to [Avast](https://securityinabox.org/en/avast_main) for more information on how to install and configure anti-virus software.
+**Note**: This assumes that you have a functioning anti-virus program installed. Please refer to [Avast](https://securityinabox.org/en/avast_main)[Avast Main] for more information on how to install and configure anti-virus software.
 
 ### The Passwords tab
 
@@ -117,19 +117,19 @@ This option lets your anti-virus software scan and isolate individual messages a
 
 **Click** the *Passwords* tab to activate the following screen:
 
-![Passwords tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/30.png)
+![Passwords tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/30.png)[Thunderbird img 29]
 
 *Figure 7: The Passwords tab*
 
-**Important**: We strongly recommend to keep your passwords private and secure using a software designed precisely for this purpose; please refer to [KeyPass](https://securityinabox.org/en/keepass_main) for more information.
+**Important**: We strongly recommend to keep your passwords private and secure using a software designed precisely for this purpose; please refer to [KeyPass](https://securityinabox.org/en/keepass_main)[KeePass Main] for more information.
 
 **Note**: The options in the Password tab will only work if you checked the *Remember password* option in the first *Mail Account Setup* screen when you registered your email accounts with **Thunderbird**.
 
 #### Step 1
 
-**Click** ![Saved Passwords](https://securityinabox.org/sbox/screen/thunderbird-en-1/31.png) to activate the following screen:
+**Click** ![Saved Passwords](https://securityinabox.org/sbox/screen/thunderbird-en-1/31.png)[Thunderbird img 30] to activate the following screen:
 
-![Saved Passwords window](https://securityinabox.org/sbox/screen/thunderbird-en-1/32.png)
+![Saved Passwords window](https://securityinabox.org/sbox/screen/thunderbird-en-1/32.png)[Thunderbird img 31]
 
 *Figure 8: The Saved Passwords window*
 
@@ -141,15 +141,15 @@ The *Saved Passwords* window lets you remove or view all the corresponding passw
 
 #### Step 4
 
-Click [Change Master Password](https://securityinabox.org/sbox/screen/thunderbird-en-1/33.png) to activate the following screen:
+Click [Change Master Password](https://securityinabox.org/sbox/screen/thunderbird-en-1/33.png)[Thunderbird img 32] to activate the following screen:
 
-![Change Master Password window](https://securityinabox.org/sbox/screen/thunderbird-en-1/34.png)
+![Change Master Password window](https://securityinabox.org/sbox/screen/thunderbird-en-1/34.png)[Thunderbird img 33]
 
 *Figure 9: Change Master Password window*
 
 #### Step 5
 
-**Type** in an appropriately strong password that only you will remember, and then **click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png) to confirm it as your *Master Password*.
+**Type** in an appropriately strong password that only you will remember, and then **click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png)[Thunderbird img 34] to confirm it as your *Master Password*.
 
 ### Web Content
 
@@ -157,9 +157,9 @@ A cookie is a small piece of text which your web browser uses to authenticate or
 
 #### Step 1
 
-**Click** ![Privacy](https://securityinabox.org/sbox/screen/thunderbird-en-1/36.png) to display the *Web Content* options as follows:
+**Click** ![Privacy](https://securityinabox.org/sbox/screen/thunderbird-en-1/36.png)[Thunderbird img 35] to display the *Web Content* options as follows:
 
-![Privacy tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/37.png)
+![Privacy tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/37.png)[Thunderbird img 36]
 
 *Figure 10: The Privacy tab*
 
@@ -183,17 +183,17 @@ The second type of **Thunderbird** junk mail filter is available through the *Ac
 
 **Enable** the *Junk Settings* options so that your own *Account Settings - Junk Settings* screen resembles the following:
 
-![Account Settings - Junk Settings window](https://securityinabox.org/sbox/screen/thunderbird-en-1/38.png)
+![Account Settings - Junk Settings window](https://securityinabox.org/sbox/screen/thunderbird-en-1/38.png)[Thunderbird img 37]
 
 *Figure 11: The Account Settings - Junk Settings window*
 
 #### Step 4
 
-**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png) to complete the configuration of the *Account Settings* window.
+**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png)[Thunderbird img 34] to complete the configuration of the *Account Settings* window.
 
 **Note**: The *Junk Settings* options must be configured separately for each account. As such, junk mail for a **Gmail** or a **RiseUp** account will be placed in its corresponding *Deleted* folder. Alternatively, you may designate a *Local Folder* to receive junk mail from all your accounts.
 
-![Account Settings - Junk Settings window, with settings for central junk folder](https://securityinabox.org/sbox/screen/thunderbird-en-1/39.png)
+![Account Settings - Junk Settings window, with settings for central junk folder](https://securityinabox.org/sbox/screen/thunderbird-en-1/39.png)[Thunderbird img 38]
 
 *Figure 12: The Account Settings - Junk Settings window, displaying the settings for a central junk folder*
 
@@ -207,6 +207,6 @@ The second type of **Thunderbird** junk mail filter is available through the *Ac
 
 #### Step 3
 
-*Click* ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png) to complete the configuration of the *Account Settings* window.
+*Click* ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png)[Thunderbird img 34] to complete the configuration of the *Account Settings* window.
 
-Now that you have successfully configured the assorted security options and junk mail settings in **Thunderbird**, please proceed to the following section, [How to Use Enigmail with GnuPG in Thunderbird](https://securityinabox.org/en/thuderbird_encryption).
+Now that you have successfully configured the assorted security options and junk mail settings in **Thunderbird**, please proceed to the following section, [How to Use Enigmail with GnuPG in Thunderbird](https://securityinabox.org/en/thuderbird_encryption)[Thunderbird Encryption].

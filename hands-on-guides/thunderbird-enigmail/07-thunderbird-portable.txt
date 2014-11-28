@@ -33,41 +33,41 @@ The essential benefit of using **Portable Thunderbird** is that you may store lo
 
 ### Step 2
 
-**Click** ![Download Now](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/01.png) to activate the **Source Forge** download site.
+**Click** ![Download Now](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/01.png)[Thunderbird img 91] to activate the **Source Forge** download site.
 
 ### Step 3
 
-**Click** ![Save File](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/02.png) to save the ![Thunderbird Portable](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/03.png) installation file to your computer; and then **navigate** to it.
+**Click** ![Save File](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/02.png)[Thunderbird img 91] to save the ![Thunderbird Portable](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/03.png)[Thunderbird img 93] installation file to your computer; and then **navigate** to it.
 
 ### Step 4
 
-**Double click** ![Thunderbird Portable](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/03.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/04.png) to activate the following screen:
+**Double click** ![Thunderbird Portable](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/03.png)[Thunderbird img 93]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/04.png)[Thunderbird img 94] to activate the following screen:
 
-![Mozilla Thunderbird, Portable Edition - Portableapps.com Installer window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/05.png)
+![Mozilla Thunderbird, Portable Edition - Portableapps.com Installer window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/05.png)[Thunderbird img 95]
 
 *Figure 1: The Mozilla Thunderbird, Portable Edition | Portableapps.com Installer window*
 
 ### Step 5
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/06.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/06.png)[Thunderbird img 96] to activate the following screen:
 
-![Choose Install Location window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/07.png)
+![Choose Install Location window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/07.png)[Thunderbird img 97]
 
 *Figure 2: The Choose Install Location window*
 
 ### Step 6
 
-**Click** ![Browse](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/08.png) to activate the *Browse for Folders* window as follows:
+**Click** ![Browse](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/08.png)[Thunderbird img 98] to activate the *Browse for Folders* window as follows:
 
 *Figure 3: The Browse for Folder window*
 
 ### Step 7
 
-**Navigate** to your destination external drive or USB memory stick, as shown in *Figure 3* above, then **click** ![OK](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/10.png) to confirm the location of the **Mozilla Thunderbird, Portable Edition** file, and return to the *Choose Install Location* window.
+**Navigate** to your destination external drive or USB memory stick, as shown in *Figure 3* above, then **click** ![OK](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/10.png)[Thunderbird img 99] to confirm the location of the **Mozilla Thunderbird, Portable Edition** file, and return to the *Choose Install Location* window.
 
 ### Step 8
 
-**Click** ![Install](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/11.png) to activate the *Installing* window and begin extracting the **Mozilla Thunderbird, Portable Edition** file, and then **click** ![Finish](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/12.png) to complete the extraction process.
+**Click** ![Install](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/11.png)[Thunderbird img 100] to activate the *Installing* window and begin extracting the **Mozilla Thunderbird, Portable Edition** file, and then **click** ![Finish](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/12.png)[Thunderbird img 101] to complete the extraction process.
 
 ### Step 9
 
@@ -77,7 +77,7 @@ The essential benefit of using **Portable Thunderbird** is that you may store lo
 
 **Double click** to open your removable device or USB memory stick, and it should resemble the following:
 
-![newly installed Mozilla Thunderbird Portable Edition displaying the Thunderbird Portable folder](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/13.png)
+![newly installed Mozilla Thunderbird Portable Edition displaying the Thunderbird Portable folder](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/13.png)[Thunderbird img 102]
 
 *Figure 4: The newly installed Mozilla Thunderbird Portable Edition displaying the Thunderbird Portable folder*
 
@@ -89,35 +89,35 @@ The essential benefit of using **Portable Thunderbird** is that you may store lo
 
 ### Step 2
 
-**Click** ![GPG for Thunderbird Portable](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/17.png) to activate the *GPG_for_Thunderbird_Portable_1.4.16.paf.exe* download window, and then **click** ![Save File](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/02.png) to save the ![GPG_for_Thunderbird_Portable_1.4.16.paf.exe](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/18.png) installation file; and then **navigate** to it.
+**Click** ![GPG for Thunderbird Portable](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/17.png)[Thunderbird img 103] to activate the *GPG_for_Thunderbird_Portable_1.4.16.paf.exe* download window, and then **click** ![Save File](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/02.png)[Thunderbird img 92] to save the ![GPG_for_Thunderbird_Portable_1.4.16.paf.exe](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/18.png)[Thunderbird img 104] installation file; and then **navigate** to it.
 
 ### Step 3
 
-**Double click** ![GPG_for_Thunderbird_Portable_1.4.16.paf.exe](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/18.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/04.png) to activate the following screen:
+**Double click** ![GPG_for_Thunderbird_Portable_1.4.16.paf.exe](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/18.png)[Thunderbird img 104]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/04.png)[Thunderbird img 94] to activate the following screen:
 
-![Installer Language window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/19.png)
+![Installer Language window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/19.png)[Thunderbird img 105]
 
 *Figure 6: The Installer Language window*
 
 ### Step 4
 
-**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/10.png) to activate the **GPG for Thunderbird | Portable Apps Installer** window, and then **click** ![Next](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/06.png) to activate the following screen:
+**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/10.png)[Thunderbird img 99] to activate the **GPG for Thunderbird | Portable Apps Installer** window, and then **click** ![Next](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/06.png)[Thunderbird img 96] to activate the following screen:
 
-![Choose Install Location window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/20.png)
+![Choose Install Location window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/20.png)[Thunderbird img 106]
 
 *Figure 7: The Choose Install Location window*
 
 ### Step 5
 
-**Click** ![Browse](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/08.png) to activate the *Browse for Folder* window as follows:
+**Click** ![Browse](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/08.png)[Thunderbird img 98] to activate the *Browse for Folder* window as follows:
 
-![Browse for Folder window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/21.png)
+![Browse for Folder window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/21.png)[Thunderbird img 107]
 
 *Figure 8: The Browse for Folder window*
 
 ### Step 6
 
-**Browse** to the same folder where you save **Portable Thunderbird** to, and **click** ![OK](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/10.png) to return to the *Choose Install Location* window (*Figure 7*) and then ![Install](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/11.png) to begin extracting **Portable GnuPG**, and then **click** ![Finish](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/12.png) after the extraction process has been completed.
+**Browse** to the same folder where you save **Portable Thunderbird** to, and **click** ![OK](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/10.png)[Thunderbird img 99] to return to the *Choose Install Location* window (*Figure 7*) and then ![Install](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/11.png)[Thunderbird img 100] to begin extracting **Portable GnuPG**, and then **click** ![Finish](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/12.png)[Thunderbird img 101] after the extraction process has been completed.
 
 ## How to Download and Install Enigmail
 
@@ -129,31 +129,31 @@ The essential benefit of using **Portable Thunderbird** is that you may store lo
 
 ### Step 2
 
-**Select** *What is your operating system?* (e.g. *Windows*) and *What email client do you use?* (e.g. *Thunderbird 31*) and **click* on link *Download Enigmail x.x.x* (e.g. *Download Enigmail 1.7.2*) to activate the *enigmail-1.7.2-tb-win.xpi* download window, and then **click** ![OK](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/25.png) to save the ![enigmail-1.7.2-tb-win.xpi](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/26.png) it to your computer.
+**Select** *What is your operating system?* (e.g. *Windows*) and *What email client do you use?* (e.g. *Thunderbird 31*) and **click* on link *Download Enigmail x.x.x* (e.g. *Download Enigmail 1.7.2*) to activate the *enigmail-1.7.2-tb-win.xpi* download window, and then **click** ![OK](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/25.png)[Thunderbird img 108] to save the ![enigmail-1.7.2-tb-win.xpi](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/26.png)[Thunderbird img 109] it to your computer.
 
 ### Step 3
 
-**Open** the **Thunderbird Portable** folder, and then **double click** ![ThunderbirdPortable.exe](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/14.png) to open **Thunderbird Portable**.
+**Open** the **Thunderbird Portable** folder, and then **double click** ![ThunderbirdPortable.exe](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/14.png)[Thunderbird img 110] to open **Thunderbird Portable**.
 
 ### Step 4
 
-**Click** on ![menu](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/27.png) to display the *Thunderbird Menu* and **select Add-ons** in the **Thunderbird Portable** main console as follows:
+**Click** on ![menu](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/27.png)[Thunderbird img 111] to display the *Thunderbird Menu* and **select Add-ons** in the **Thunderbird Portable** main console as follows:
 
-![Thunderbird Portable main console with Add-ons item selected](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/28.png)
+![Thunderbird Portable main console with Add-ons item selected](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/28.png)[Thunderbird img 112]
 
 *Figure 10: The Thunderbird Portable main console with the Add-ons item selected*
 
 This will activate the following screen:
 
-![Thunderbird Portable Add-ons window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/29.png)
+![Thunderbird Portable Add-ons window](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/29.png)[Thunderbird img 113]
 
 *Figure 11: The Thunderbird Portable Add-ons window*
 
 ### Step 5
 
-If the Enigmail Add-on appears in the main *Extensions* panel **click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/30.png). If it does not appear, **click** ![setup](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/31.png) and **select** *Install Add-on from File* as shown below:
+If the Enigmail Add-on appears in the main *Extensions* panel **click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/30.png)[Thunderbird img 114]. If it does not appear, **click** ![setup](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/31.png) and **select** *Install Add-on from File* as shown below:
 
-![Tools for All Add-ons menu](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/32.png)
+![Tools for All Add-ons menu](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/32.png)[Thunderbird img 115]
 
 *Figure 12: Tools for All Add-ons menu*
 
@@ -163,10 +163,10 @@ Navigate to folder where you have saved the **Enigmail** add-on (most probably y
 
 ### Step 7
 
-**Click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/30.png) at the *Software Installations* folder.
+**Click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/30.png)[Thunderbird img 114] at the *Software Installations* folder.
 
 ### Step 8
 
-**Click** ![Restart Now](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/34.png) to complete the **Enigmail** installation, and restart **Thunderbird Portable**.
+**Click** ![Restart Now](https://securityinabox.org/sbox/screen/thunderbirdportable-en-1/34.png)[Thunderbird img 116] to complete the **Enigmail** installation, and restart **Thunderbird Portable**.
 
-After you have successfully completed all above steps, please refer to the [Thunderbird](https://securityinabox.org/en/thunderbird_main) chapter to begin registering your email accounts and configuring it for use.
+After you have successfully completed all above steps, please refer to the [Thunderbird](https://securityinabox.org/thunderbird_main)[Thunderbird Main] chapter to begin registering your email accounts and configuring it for use.

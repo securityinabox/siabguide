@@ -31,7 +31,7 @@ Similarly, if you send a copy of your own *public key* to your email contacts an
 
 ## How to Install Enigmail and GnuPG
 
-Please refer to the [download section](https://securityinabox.org/en/thunderbird_main) for instructions on how to download *Enigmail* and *GnuPG*.
+Please refer to the [download section](https://securityinabox.org/en/thunderbird_main)[Thunderbird Main] for instructions on how to download *Enigmail* and *GnuPG*.
 
 ### How to Install GnuPG
 
@@ -39,35 +39,35 @@ Installing **GnuPG** is quite straightforward, and resembles other software inst
 
 #### Step 1
 
-**Double click** ![Gnupg](https://securityinabox.org/sbox/screen/thunderbird-en-1/40.png) to to begin the installation process. The *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/thunderbird-en-1/02.png) to activate the following screen:
+**Double click** ![Gnupg](https://securityinabox.org/sbox/screen/thunderbird-en-1/40.png)[Thunderbird img 39] to to begin the installation process. The *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/thunderbird-en-1/02.png)[Thunderbird img 02] to activate the following screen:
 
-![GNU Privacy Guard Setup Wizard](https://securityinabox.org/sbox/screen/thunderbird-en-1/41.png)
+![GNU Privacy Guard Setup Wizard](https://securityinabox.org/sbox/screen/thunderbird-en-1/41.png)[Thunderbird img 40]
 
 *Figure 1: GNU Privacy Guard Setup Wizard*
 
 #### Step 2
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the *GNU Privacy Guard Setup - License Agreement* window; after you have completed reading it, **click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the *GNU Privacy Guard Setup - Choose Components* window.
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to activate the *GNU Privacy Guard Setup - License Agreement* window; after you have completed reading it, **click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to activate the *GNU Privacy Guard Setup - Choose Components* window.
 
 #### Step 3
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to accept the default settings and activate the *GNU Privacy Guard Setup - Install Options - GnuPG Language Selection* window.
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to accept the default settings and activate the *GNU Privacy Guard Setup - Install Options - GnuPG Language Selection* window.
 
 #### Step 4
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to accept *en-English* as the default language, and activate the *Choose Install Location* window.
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to accept *en-English* as the default language, and activate the *Choose Install Location* window.
 
 #### Step 5
 
-**Click** ![Install](https://securityinabox.org/sbox/screen/thunderbird-en-1/06.png) to accept the default installation path and activate the *Choose Start Menu Folder* screen.
+**Click** ![Install](https://securityinabox.org/sbox/screen/thunderbird-en-1/06.png)[Thunderbird img 06] to accept the default installation path and activate the *Choose Start Menu Folder* screen.
 
 #### Step 6
 
-**Click** ![Install](https://securityinabox.org/sbox/screen/thunderbird-en-1/06.png) begin unpacking and installing various **GnuPG** packages. After this process has completed itself, the *Installation Complete* screen will appear.
+**Click** ![Install](https://securityinabox.org/sbox/screen/thunderbird-en-1/06.png)[Thunderbird img 06] begin unpacking and installing various **GnuPG** packages. After this process has completed itself, the *Installation Complete* screen will appear.
 
 #### Step 7
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) and then ![Finish](https://securityinabox.org/sbox/screen/thunderbird-en-1/08.png) to complete installing the **GnuPG** program.
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] and then ![Finish](https://securityinabox.org/sbox/screen/thunderbird-en-1/08.png)[Thunderbird img 08] to complete installing the **GnuPG** program.
 
 ### How to Install the Enigmail Add-on
 
@@ -77,17 +77,17 @@ To begin installing **Enigmail**, perform the following steps:
 
 #### Step 1
 
-**Open Thunderbird**, then **click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png) to display the *Thunderbird Menu* and **select Add-ons** to activate the *Add-ons Manager* window
+**Open Thunderbird**, then **click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png)[Thunderbird img 22] to display the *Thunderbird Menu* and **select Add-ons** to activate the *Add-ons Manager* window
 
 #### Step 2
 
-**Click** ![addon](https://securityinabox.org/sbox/screen/thunderbird-en-1/44.png) in the left hand sidebar - If the Enigmail Add-on has not yet been detected, you will see the message *You do not have any Add-ons of this type installed*
+**Click** ![addon](https://securityinabox.org/sbox/screen/thunderbird-en-1/44.png)[Thunderbird img 41] in the left hand sidebar - If the Enigmail Add-on has not yet been detected, you will see the message *You do not have any Add-ons of this type installed*
 
 #### Step 3
 
-If the Enigmail Add-on appears in the main Extensions panel **click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbird-en-1/46.png). If it does not appear, **click** ![setup](https://securityinabox.org/sbox/screen/thunderbird-en-1/45a.png) and **select** *Install Add-on from File* as shown below:
+If the Enigmail Add-on appears in the main Extensions panel **click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbird-en-1/46.png)[Thunderbird img 42]. If it does not appear, **click** ![setup](https://securityinabox.org/sbox/screen/thunderbird-en-1/45a.png)[Thunderbird img 43] and **select** *Install Add-on from File* as shown below:
 
-![Tools for All Add-ons menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/46a.png)
+![Tools for All Add-ons menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/46a.png)[Thunderbird img 44]
 
 *Figure 3: Tools for All Add-ons menu*
 
@@ -95,15 +95,15 @@ If the Enigmail Add-on appears in the main Extensions panel **click** ![Install 
 
 Navigate to the folder where you have saved the Enigmail extension (most probably your *Downloads* folder) as shown in the following screen:
 
-![Select an extension to install](https://securityinabox.org/sbox/screen/thunderbird-en-1/47.png)
+![Select an extension to install](https://securityinabox.org/sbox/screen/thunderbird-en-1/47.png)[Thunderbird img 45]
 
 *Figure 4: The Select an extension to install*
 
 #### Step 5
 
-**Click** ![Open](https://securityinabox.org/sbox/screen/thunderbird-en-1/48.png) to activate the following screen:
+**Click** ![Open](https://securityinabox.org/sbox/screen/thunderbird-en-1/48.png)[Thunderbird img 46] to activate the following screen:
 
-![Software Installation window](https://securityinabox.org/sbox/screen/thunderbird-en-1/49.png)
+![Software Installation window](https://securityinabox.org/sbox/screen/thunderbird-en-1/49.png)[Thunderbird img 47]
 
 *Figure 5: The Software Installation window*
 
@@ -111,11 +111,11 @@ Navigate to the folder where you have saved the Enigmail extension (most probabl
 
 #### Step 6
 
-**Click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbird-en-1/50.png) and then **click** ![Restart Now](https://securityinabox.org/sbox/screen/thunderbird-en-1/51.png) to complete the **Enigmail** add-on installation.
+**Click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbird-en-1/50.png)[Thunderbird img 48] and then **click** ![Restart Now](https://securityinabox.org/sbox/screen/thunderbird-en-1/51.png)[Thunderbird img 49] to complete the **Enigmail** add-on installation.
 
-To verify your installation of the **Enigmail** add-on was successful, return to the **Thunderbird** main user interface, **click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png) on and check if *Enigmail* appears as one of the option, as follows:
+To verify your installation of the **Enigmail** add-on was successful, return to the **Thunderbird** main user interface, **click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png)[Thunderbird img 22] on and check if *Enigmail* appears as one of the option, as follows:
 
-![Thunderbird toolbar with Enigmail highlighted](https://securityinabox.org/sbox/screen/thunderbird-en-1/52.png)
+![Thunderbird toolbar with Enigmail highlighted](https://securityinabox.org/sbox/screen/thunderbird-en-1/52.png)[Thunderbird img 50]
 
 *Figure 6: The Thunderbird toolbar with Enigmail highlighted*
 
@@ -127,21 +127,21 @@ Before you can begin using **Enigmail** and **GnuPG** to authenticate and encryp
 
 **Select Enigmail > Preferences** to display the *Enigmail Preferences* screen as follows:
 
-![Enigmail Preferences window](https://securityinabox.org/sbox/screen/thunderbird-en-1/53.png)
+![Enigmail Preferences window](https://securityinabox.org/sbox/screen/thunderbird-en-1/53.png)[Thunderbird img 51]
 
 *Figure 7: The Enigmail Preferences window*
 
-If **GnuPG** has been successfully installed, the ![gpg.exe](https://securityinabox.org/sbox/screen/thunderbird-en-1/54.png) will be visible in the *Files and Directories* section; otherwise, you may receive a pop-up alert resembling the following:
+If **GnuPG** has been successfully installed, the ![gpg.exe](https://securityinabox.org/sbox/screen/thunderbird-en-1/54.png)[Thunderbird img 52] will be visible in the *Files and Directories* section; otherwise, you may receive a pop-up alert resembling the following:
 
-![Enigmail Alert pop-up message](https://securityinabox.org/sbox/screen/thunderbird-en-1/55.png)
+![Enigmail Alert pop-up message](https://securityinabox.org/sbox/screen/thunderbird-en-1/55.png)[Thunderbird img 53]
 
 *Figure 8: The Enigmail Alert pop-up message*
 
-**Tip**: If you have received this message, it may indicate that you did not install **GnuPG** or you have installed it in different location. If you installed **GnuPG** in a different location, **check** the *Override with* option to enable the *Browse...* button, and then **click** ![Browse](https://securityinabox.org/sbox/screen/thunderbird-en-1/69.png) to activate the *Locate GnuPG program* and manually navigate to the location of the *gpg.exe* file on your computer, otherwise please go back to [How to Install Enigmail and GnuPG](https://securityinabox.org/thuderbird_encryption#4.1).
+**Tip**: If you have received this message, it may indicate that you did not install **GnuPG** or you have installed it in different location. If you installed **GnuPG** in a different location, **check** the *Override with* option to enable the *Browse...* button, and then **click** ![Browse](https://securityinabox.org/sbox/screen/thunderbird-en-1/69.png)[Thunderbird img 54] to activate the *Locate GnuPG program* and manually navigate to the location of the *gpg.exe* file on your computer, otherwise please go back to [How to Install Enigmail and GnuPG](https://securityinabox.org/thuderbird_encryption#4.1)[Thunderbird Install_GnuPG].
 
 #### Step 2
 
-**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png) to return to the **Thunderbird** console.
+**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png)[Thunderbird img 34] to return to the **Thunderbird** console.
 
 ## How to Generate Key Pairs and Configure Enigmail to Work with Your Email Accounts
 
@@ -157,43 +157,43 @@ To generate a key pair for the first time using the *Enigmail Setup Wizard*, per
 
 If **Setup Wizard** window is not already activated **select Enigmail > Setup Wizard** to open the Enigmail Setup Wizard screen as follows:
 
-![Welcome to the Enigmail Setup Wizard screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/56.png)
+![Welcome to the Enigmail Setup Wizard screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/56.png)[Thunderbird img 55]
 
 *Figure 9: The Welcome to the Enigmail Setup Wizard screen*
 
 #### Step 2
 
-*Click* ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the following screen. *Note - this screen will only appear if you have set up key pairing for another account*
+*Click* ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to activate the following screen. *Note - this screen will only appear if you have set up key pairing for another account*
 
 *Figure 10: The Select Identities screen*
 
 #### Step 3
 
-*Click* ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the following screen:
+*Click* ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to activate the following screen:
 
-![Encryption - Encrypt Your Outgoing Emails screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/60.png)
+![Encryption - Encrypt Your Outgoing Emails screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/60.png)[Thunderbird img 56]
 
 *Figure 11: The Encryption - Encrypt Your Outgoing Emails screen*
 
 #### Step 4
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to activate the following screen:
 
-![Signing - Digitally Sign Your Outgoing Emails screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/61.png)
+![Signing - Digitally Sign Your Outgoing Emails screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/61.png)[Thunderbird img 57]
 
 *Figure 12: The Signing - Digitally Sign Your Outgoing Emails screen*
 
 #### Step 5
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to activate the following screen:
 
-![Change Your Email Settings to Make Enigmail Work More Reliably](https://securityinabox.org/sbox/screen/thunderbird-en-1/62.png)
+![Change Your Email Settings to Make Enigmail Work More Reliably](https://securityinabox.org/sbox/screen/thunderbird-en-1/62.png)[Thunderbird img 58]
 
 *Figure 13: The Preferences - Change Your Email Settings to Make Enigmail Work More Reliably screen*
 
 #### Step 6
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the *Create Key - Create A Key To Sign and Encrypt Email* window.
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to activate the *Create Key - Create A Key To Sign and Encrypt Email* window.
 
 **Note**: The first time you attempt to create a key for an email account, the *No OpenPGP Key Found* screen will appear.
 
@@ -205,19 +205,19 @@ If **Setup Wizard** window is not already activated **select Enigmail > Setup Wi
 
 **Type** a strong passphrase into both the *Password* fields
 
-![Create A Key To Sign and Encrypt Email](https://securityinabox.org/sbox/screen/thunderbird-en-1/65.png)
+![Create A Key To Sign and Encrypt Email](https://securityinabox.org/sbox/screen/thunderbird-en-1/65.png)[Thunderbird img 59]
 
 *Figure 15: The Create Key - Create A Key To Sign and Encrypt Email window*
 
 #### Step 9
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to activate the *Summary* screen, which displays the settings used while generating the key pair.
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to activate the *Summary* screen, which displays the settings used while generating the key pair.
 
 #### Step 10
 
-**Click**  ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to start the key pair generation, as shown in the following screen:
+**Click**  ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to start the key pair generation, as shown in the following screen:
 
-![Key Generation](https://securityinabox.org/sbox/screen/thunderbird-en-1/67.png)
+![Key Generation](https://securityinabox.org/sbox/screen/thunderbird-en-1/67.png)[Thunderbird img 60]
 
 *Figure 16: Key Generation - You key is now being generated window*
 
@@ -225,9 +225,9 @@ If **Setup Wizard** window is not already activated **select Enigmail > Setup Wi
 
 #### Step 11
 
-After the key is generated, you will be prompted to create a revocation certificate. **Click** ![Generate Certificate](https://securityinabox.org/sbox/screen/thunderbird-en-1/76.png) as shown in the following screen:
+After the key is generated, you will be prompted to create a revocation certificate. **Click** ![Generate Certificate](https://securityinabox.org/sbox/screen/thunderbird-en-1/76.png)[Thunderbird img 61] as shown in the following screen:
 
-![Enigmail Prompt confirmation](https://securityinabox.org/sbox/screen/thunderbird-en-1/68.png)
+![Enigmail Prompt confirmation](https://securityinabox.org/sbox/screen/thunderbird-en-1/68.png)[Thunderbird img 62]
 
 *Figure 17: The Enigmail Prompt confirmation*
 
@@ -235,15 +235,15 @@ After the key is generated, you will be prompted to create a revocation certific
 
 #### Step 12
 
-You will be asked to **type in** the password that you associated with your newly created key. And then **navigate** to a location where you can store the certificate safely and **click** ![Save](https://securityinabox.org/sbox/screen/thunderbird-en-1/78.png) on following screen:
+You will be asked to **type in** the password that you associated with your newly created key. And then **navigate** to a location where you can store the certificate safely and **click** ![Save](https://securityinabox.org/sbox/screen/thunderbird-en-1/78.png)[Thunderbird img 63] on following screen:
 
-![Create & Save Revocation Certificate](https://securityinabox.org/sbox/screen/thunderbird-en-1/70.png)
+![Create & Save Revocation Certificate](https://securityinabox.org/sbox/screen/thunderbird-en-1/70.png)[Thunderbird img 64]
 
 *Figure 18: Create & Save Revocation Certificate*
 
 #### Step 13
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png) to complete generating both a key pair and revocation certificate.
+**Click** ![Next](https://securityinabox.org/sbox/screen/thunderbird-en-1/04.png)[Thunderbird img 04] to complete generating both a key pair and revocation certificate.
 
 ### How to Generate Additional Key Pairs and Revocation Certificates for another Email Account
 
@@ -255,7 +255,7 @@ Follow the steps below if you want to generate additional key pairs for your oth
 
 **Select Enigmail > Key Management** to activate the following screen:
 
-![Enigmail Key Management Generate menu with New Key Pair](https://securityinabox.org/sbox/screen/thunderbird-en-1/71.png)
+![Enigmail Key Management Generate menu with New Key Pair](https://securityinabox.org/sbox/screen/thunderbird-en-1/71.png)[Thunderbird img 65]
 
 *Figure 19: The Enigmail Key Management Generate menu with New Key Pair item selected*
 
@@ -265,7 +265,7 @@ Follow the steps below if you want to generate additional key pairs for your oth
 
 **Select Generate > New Key Pair** from the *Key Management* as displayed in *figure 19* above to activate the following screen:
 
-![Generate OpenPGP Key screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/72.png)
+![Generate OpenPGP Key screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/72.png)[Thunderbird img 66]
 
 *Figure 20: The Generate OpenPGP Key screen*
 
@@ -277,7 +277,7 @@ Follow the steps below if you want to generate additional key pairs for your oth
 
 **Important**: Always generate key-pairs with a passphrase, and **never** enable the "no passphrase" option.
 
-![Generate OpenPGP Key displaying the Key Expiry tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/73.png)
+![Generate OpenPGP Key displaying the Key Expiry tab](https://securityinabox.org/sbox/screen/thunderbird-en-1/73.png)[Thunderbird img 67]
 
 *Figure 21: The Generate OpenPGP Key displaying the Key Expiry tab*
 
@@ -289,7 +289,7 @@ Follow the steps below if you want to generate additional key pairs for your oth
 
 #### Step 5
 
-**Click** ![Generate Key](https://securityinabox.org/sbox/screen/thunderbird-en-1/74.png) to activate the Enigmail Confirm window.
+**Click** ![Generate Key](https://securityinabox.org/sbox/screen/thunderbird-en-1/74.png)[Thunderbird img 68] to activate the Enigmail Confirm window.
 
 #### Step 6
 
@@ -297,23 +297,23 @@ You will be prompted to generate a certificate as shown in *figure 17*.
 
 #### Step 7
 
-**Click** ![Generate Certificate](https://securityinabox.org/sbox/screen/thunderbird-en-1/76.png) to activate the *Create & Save Revocation Certificate* navigation window.
+**Click** ![Generate Certificate](https://securityinabox.org/sbox/screen/thunderbird-en-1/76.png)[Thunderbird img 61] to activate the *Create & Save Revocation Certificate* navigation window.
 
 **Note**: If you know that a hostile or malicious party has gained unauthorised access to your private key or you lost access to this key, you may send the revocation certificate to your contact to let them know that they should not use your matching public key. Keep in mind that you might need to do this if your computer is lost, stolen or confiscated. You are strongly advised to back up and protect your revocation certificate.
 
 #### Step 8
 
-Browse to a safe location to store the certificate as shown in the screen below and **click** ![Save](https://securityinabox.org/sbox/screen/thunderbird-en-1/78.png). You will be then prompted to enter passphrase that you associated with your newly created key.
+Browse to a safe location to store the certificate as shown in the screen below and **click** ![Save](https://securityinabox.org/sbox/screen/thunderbird-en-1/78.png)[Thunderbird img 63]. You will be then prompted to enter passphrase that you associated with your newly created key.
 
-![Create & Save Revocation Certificate](https://securityinabox.org/sbox/screen/thunderbird-en-1/77.png)
+![Create & Save Revocation Certificate](https://securityinabox.org/sbox/screen/thunderbird-en-1/77.png)[Thunderbird img 69]
 
 *Figure 22: The Create & Save Revocation Certificate*
 
 #### Step 9
 
-**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png) to complete generating both a key pair and revocation certificate, and return to the following screen:
+**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png)[Thunderbird img 34] to complete generating both a key pair and revocation certificate, and return to the following screen:
 
-![Enigmail Key Management window with key pair](https://securityinabox.org/sbox/screen/thunderbird-en-1/79.png)
+![Enigmail Key Management window with key pair](https://securityinabox.org/sbox/screen/thunderbird-en-1/79.png)[Thunderbird img 70]
 
 *Figure 23: The Enigmail Key Management window with the key pair displayed*
 
@@ -327,13 +327,13 @@ To enable **Enigmail** for use with a specific email account, perform the follow
 
 #### Step 1
 
-**Click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png) to display the *Thunderbird Menu* and **select Options > Account Settings**.
+**Click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-en-1/24a.png)[Thunderbird img 22] to display the *Thunderbird Menu* and **select Options > Account Settings**.
 
 #### Step 2
 
 **Select** the *OpenPGP Security* menu item in the sidebar as follows:
 
-![Account Settings - OpenPGP Security screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/80.png)
+![Account Settings - OpenPGP Security screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/80.png)[Thunderbird img 71]
 
 *Figure 24: The Account Settings - OpenPGP Security screen*
 
@@ -343,7 +343,7 @@ To enable **Enigmail** for use with a specific email account, perform the follow
 
 #### Step 4
 
-**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png) to return to the **Thunderbird** console.
+**Click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png)[Thunderbird img 34] to return to the **Thunderbird** console.
 
 ## How to Exchange Public Keys
 
@@ -355,7 +355,7 @@ To send a public key using **Enigmail** both your correspondent and you will per
 
 #### Step 1
 
-**Open Thunderbird** and then **click** ![Write](https://securityinabox.org/sbox/screen/thunderbird-en-1/81.png) to write a new message.
+**Open Thunderbird** and then **click** ![Write](https://securityinabox.org/sbox/screen/thunderbird-en-1/81.png)[Thunderbird img 72] to write a new message.
 
 #### Step 2
 
@@ -365,13 +365,13 @@ Select the menu option **Enigmail > Attach My Public Key**.
 
 If you would like to send a different public key, **select** the menu option **Enigmail > Attach Public Key...** and then **select** the key you would like to send.
 
-![Write message pane displaying the attached public key in the Attachments pane](https://securityinabox.org/sbox/screen/thunderbird-en-1/82.png)
+![Write message pane displaying the attached public key in the Attachments pane](https://securityinabox.org/sbox/screen/thunderbird-en-1/82.png)[Thunderbird img 73]
 
 *Figure 25: The Write message pane displaying the attached public key in the Attachments pane.*
 
 #### Step 3
 
-**Click** ![Send](https://securityinabox.org/sbox/screen/thunderbird-en-1/83.png) to send your email with your attached public key.
+**Click** ![Send](https://securityinabox.org/sbox/screen/thunderbird-en-1/83.png)[Thunderbird img 74] to send your email with your attached public key.
 
 ### How to Import a Public key using Enigmail
 
@@ -379,23 +379,23 @@ Both your correspondent and you will perform the same steps when importing each 
 
 #### Step 1
 
-**Select** and **open** the email containing your correspondent's public key. The attachment will appear similar to the following: ![attached public key](https://securityinabox.org/sbox/screen/thunderbird-en-1/87.png)
+**Select** and **open** the email containing your correspondent's public key. The attachment will appear similar to the following: ![attached public key](https://securityinabox.org/sbox/screen/thunderbird-en-1/87.png)[Thunderbird img 75]
 
 #### Step 2
 
-**Click** on the attached file above ![attachment](https://securityinabox.org/sbox/screen/thunderbird-en-1/87a.png). **Enigmail** detects a message containing a public key and it will prompt you to import the key as follows:
+**Click** on the attached file above ![attachment](https://securityinabox.org/sbox/screen/thunderbird-en-1/87a.png)[Thunderbird img 76]. **Enigmail** detects a message containing a public key and it will prompt you to import the key as follows:
 
-![Enigmail Confirm Import public key](https://securityinabox.org/sbox/screen/thunderbird-en-1/88.png)
+![Enigmail Confirm Import public key](https://securityinabox.org/sbox/screen/thunderbird-en-1/88.png)[Thunderbird img 77]
 
 *Figure 26: The Enigmail Confirm Import public key*
 
 #### Step 3
 
-**Click** ![Import](https://securityinabox.org/sbox/screen/thunderbird-en-1/89.png) to import your correspondent's public key.
+**Click** ![Import](https://securityinabox.org/sbox/screen/thunderbird-en-1/89.png)[Thunderbird img 78] to import your correspondent's public key.
 
 If you have successfully imported the public key, a message resembling the following will appear:
 
-![Enigmail Alert screen displays correspondent's public key](https://securityinabox.org/sbox/screen/thunderbird-en-1/90.png)
+![Enigmail Alert screen displays correspondent's public key](https://securityinabox.org/sbox/screen/thunderbird-en-1/90.png)[Thunderbird img 79]
 
 *Figure 27: The Enigmail Alert screen displays the correspondent's public key*
 
@@ -405,7 +405,7 @@ To confirm that you have successfully imported your correspondent's public key, 
 
 **Select Enigmail > Key Management** to display the *Enigmail Key Management* screen as follows:
 
-![Enigmail - Key Management displaying recently imported public key](https://securityinabox.org/sbox/screen/thunderbird-en-1/91.png)
+![Enigmail - Key Management displaying recently imported public key](https://securityinabox.org/sbox/screen/thunderbird-en-1/91.png)[Thunderbird img 80]
 
 *Figure 28: The Enigmail - Key Management displaying a recently imported public key*
 
@@ -431,7 +431,7 @@ To view the fingerprint of a particular key pair, perform the following steps:
 
 **Select Enigmail > Key Management** and then **right-click** on a particular key to activate the pop-up menu:
 
-![Enigmail Key Management menu with Key Properties item selected](https://securityinabox.org/sbox/screen/thunderbird-en-1/92.png)
+![Enigmail Key Management menu with Key Properties item selected](https://securityinabox.org/sbox/screen/thunderbird-en-1/92.png)[Thunderbird img 81]
 
 *Figure 29: The Enigmail Key Management menu with the Key Properties item selected*
 
@@ -439,7 +439,7 @@ To view the fingerprint of a particular key pair, perform the following steps:
 
 **Select** the *Key Properties* item to activate the following screen:
 
-![Key Properties screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/93.png)
+![Key Properties screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/93.png)[Thunderbird img 82]
 
 *Figure 30: The Key Properties screen*
 
@@ -461,13 +461,13 @@ To sign a properly validated public key, perform the following steps:
 
 **Right-click** your correspondent's public key from the *Key Management* screen (see figure 29 above) and **select** the *Sign Key* item from the menu to activate the following screen:
 
-![Enigmail - Sign Key screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/94.png)
+![Enigmail - Sign Key screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/94.png)[Thunderbird img 83]
 
 *Figure 31: The Enigmail - Sign Key screen*
 
 ### Step 3
 
-**Check** the *I have done very careful checking* option, **select** *Local signature (cannot be exported)*, and then **click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png) to sign your correspondent's public key. You may be asked to provide password to your private key.
+**Check** the *I have done very careful checking* option, **select** *Local signature (cannot be exported)*, and then **click** ![OK](https://securityinabox.org/sbox/screen/thunderbird-en-1/35.png)[Thunderbird img 34] to sign your correspondent's public key. You may be asked to provide password to your private key.
 
 ### How to Manage Your Key Pairs
 
@@ -494,13 +494,13 @@ To encrypt the contents of you email message to your correspondent, perform the 
 
 #### Step 1
 
-**Open Thunderbird** and **click** ![Write](https://securityinabox.org/sbox/screen/thunderbird-en-1/81.png) to write an email.
+**Open Thunderbird** and **click** ![Write](https://securityinabox.org/sbox/screen/thunderbird-en-1/81.png)[Thunderbird img 72] to write an email.
 
 #### Step 2
 
 To Encrypt the message **click** *Enigmail -> Message will not be encrypted* and **select** *Force Encryption* as shown in the follow screen:
 
-![Force Encryption option](https://securityinabox.org/sbox/screen/thunderbird-en-1/84.png)
+![Force Encryption option](https://securityinabox.org/sbox/screen/thunderbird-en-1/84.png)[Thunderbird img 84]
 
 *Figure 33: The Force Encryption option*
 
@@ -510,19 +510,19 @@ To Sign the message **click** *Enigmail -> Message will not be signed** and **se
 
 **Note**: To verify that your message will be both encrypted and signed, check that the following two icons appear **highlighted** at the bottom right corner of the message pane as follows:
 
-![Encryption and Signed enabled](https://securityinabox.org/sbox/screen/thunderbird-en-1/85.png)
+![Encryption and Signed enabled](https://securityinabox.org/sbox/screen/thunderbird-en-1/85.png)[Thunderbird img 85]
 
 *Figure 34: Encryption and Signed enabled*
 
 #### Step 4
 
-**Click** ![Send](https://securityinabox.org/sbox/screen/thunderbird-en-1/83.png) to send the message. You may be prompted for password to use your private key to sign the message.
+**Click** ![Send](https://securityinabox.org/sbox/screen/thunderbird-en-1/83.png)[Thunderbird img 74] to send the message. You may be prompted for password to use your private key to sign the message.
 
 #### Optional step 5
 
 If you are attaching any file to your message, you may need to **select** the option *Encrypt/sign message as a whole and send it using PGP/MIME* and **click** OK button, in the following screen:
 
-![Enigmail Prompt screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/86.png)
+![Enigmail Prompt screen](https://securityinabox.org/sbox/screen/thunderbird-en-1/86.png)[Thunderbird img 86]
 
 *Figure 35: The Enigmail Prompt screen*
 
@@ -532,7 +532,7 @@ If you are attaching any file to your message, you may need to **select** the op
 
 When you receive and open an encrypted message, **Enigmail/OpenPGP** will automatically attempt to decrypt the message when you receive and open it. If it does not, select the *Decrypt* button. This will activate the following screen:
 
-![Enigmail Prompt - Please type in your OpenPGP passphrase or your SmartCard PIN](https://securityinabox.org/sbox/screen/thunderbird-en-1/96.png)
+![Enigmail Prompt - Please type in your OpenPGP passphrase or your SmartCard PIN](https://securityinabox.org/sbox/screen/thunderbird-en-1/96.png)[Thunderbird img 87]
 
 *Figure 36: The Enigmail Prompt - Please type in your OpenPGP passphrase or your SmartCard PIN*
 
@@ -542,7 +542,7 @@ When you receive and open an encrypted message, **Enigmail/OpenPGP** will automa
 
 After you have entered your private key passphrase, the message is decrypted and displayed as follows:
 
-![The newly decrypted message in the message pane](https://securityinabox.org/sbox/screen/thunderbird-en-1/97.png)
+![The newly decrypted message in the message pane](https://securityinabox.org/sbox/screen/thunderbird-en-1/97.png)[Thunderbird img 88]
 
 *Figure 37: The newly decrypted message in the message pane.*
 
@@ -564,13 +564,13 @@ We also strongly recommend to **configure Enigmail to alert you before sending a
 
 **Select** from the *Confirm before sending - If unencrypted* and click OK
 
-![Enigmail Preferences - Confirm before sending](https://securityinabox.org/sbox/screen/thunderbird-en-1/99.png)
+![Enigmail Preferences - Confirm before sending](https://securityinabox.org/sbox/screen/thunderbird-en-1/99.png)[Thunderbird img 89]
 
 *Figure 38: Enigmail Preferences - Confirm before sending*
 
 For every unencrypted email you send now you will be alerted that the email will be send unencrypted as shown below. If you intend to send the email encrypted, **click** *Cancel* and follow steps in section 4.5.1 above.
 
-![Enigmail Confirm](https://securityinabox.org/sbox/screen/thunderbird-en-1/98.png)
+![Enigmail Confirm](https://securityinabox.org/sbox/screen/thunderbird-en-1/98.png)[Thunderbird img 90]
 
 *Figure 39: Enigmail Confirm*
 

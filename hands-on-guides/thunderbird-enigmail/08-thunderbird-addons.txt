@@ -9,7 +9,6 @@ License: Free/Open Source Software
 System_requirements: Microsoft Windows
 Admin: false
 Alternatives: [gpg4usb](https://securityinabox.org/gpg4usb_portable)[gpg4usb Main] for Windows; [Claws Mail](http://www.claws-mail.org/) for GNU Linux and Microsoft Windows; [Sylpheed](http://sylpheed.sraoss.jp/en/) for GNU Linux Mac OS and Microsoft Windows; [Alpine](http://www.washington.edu/alpine/) for GNU Linux Mac OS and Microsoft Windows
-Comments: read 03-thunderbird-premise before installing and using this tool
 Group: Advanced Usage 
 Title: Addons
 Language: EN
@@ -23,10 +22,10 @@ You can [download TorBirdy](https://addons.mozilla.org/en-us/thunderbird/addon/t
 
 The following components are required to be started and configured on your computer to use the TorBirdy:
 
-* Thunderbird (please refer to [Thunderbird with Enigmail and GPG - Secure Email Client](https://securityinabox.org/en/thunderbird_main) chapter);
-* Tor Browser (please refer to [Tor Browser - Digital Anonymity and Circumvention](https://securityinabox.org/en/tor_main) chapter).
+* Thunderbird (please refer to [Thunderbird with Enigmail and GPG - Secure Email Client](https://securityinabox.org/thunderbird_main)[Thunderbird Main] chapter);
+* Tor Browser (please refer to [Tor Browser - Digital Anonymity and Circumvention](https://securityinabox.org/tor_main)[Tor Main] chapter).
 
-It should be noted that TorBirdy is still considered in development and testing. There are other alternatives methods available that can be used to protect the communication between Thunderbird and your email server such as VPN or SSH proxy - please refer to chapter 8. How-to Booklet chapter [8. How to remain anonymous and bypass censorship on the Internet](https://securityinabox.org/en/chapter-8)
+It should be noted that TorBirdy is still considered in development and testing. There are other alternatives methods available that can be used to protect the communication between Thunderbird and your email server such as VPN or SSH proxy - please refer to chapter 8. How-to Booklet chapter [8. How to remain anonymous and bypass censorship on the Internet](https://securityinabox.org/chapter-8)[Anonymous Browsing]
 
 ## How to Install TorBirdy for Thunderbird
 
@@ -34,17 +33,17 @@ After you [download **TorBirdy**](https://addons.mozilla.org/en-us/thunderbird/a
 
 #### Step 1
 
-**Open Thunderbird**, then **click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/03.png) to display the *Thunderbird Menu* and **select Add-ons** to activate the *Add-ons Manager* window.
+**Open Thunderbird**, then **click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/03.png)[Thunderbird img 117] to display the *Thunderbird Menu* and **select Add-ons** to activate the *Add-ons Manager* window.
 
 #### Step 2
 
-**Click** [Add-ons](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/04.png) in the left hand sidebar
+**Click** [Add-ons](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/04.png)[Thunderbird img 118] in the left hand sidebar
 
 #### Step 3
 
-**Click** ![Setup](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/05.png) and **select** *Install Add-on from File* as shown below:
+**Click** ![Setup](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/05.png)[Thunderbird img 119] and **select** *Install Add-on from File* as shown below:
 
-![Tools for All Add-ons menu](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/06.png)
+![Tools for All Add-ons menu](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/06.png)[Thunderbird img 120]
 
 *Figure 1: Tools for All Add-ons menu*
 
@@ -52,15 +51,15 @@ After you [download **TorBirdy**](https://addons.mozilla.org/en-us/thunderbird/a
 
 Navigate to the folder where you have saved the TorBirdy add-on (most probably your Downloads folder) as shown in the following screen:
 
-![Select an extension to install](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/07.png)
+![Select an extension to install](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/07.png)[Thunderbird img 121]
 
 *Figure 2: The Select an extension to install*
 
 #### Step 5
 
-**Click** ![Open](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/08.png) to activate the following screen:
+**Click** ![Open](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/08.png)[Thunderbird img 122] to activate the following screen:
 
-![Software Installation window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/09.png)
+![Software Installation window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/09.png)[Thunderbird img 123]
 
 *Figure 3: The Software Installation window*
 
@@ -68,11 +67,11 @@ Navigate to the folder where you have saved the TorBirdy add-on (most probably y
 
 #### Step 6
 
-**Click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/10.png) and then **click** ![Restart Now](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/11.png) to restart Thunderbird program and complete the **TorBirdy** add-on installation.
+**Click** ![Install Now](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/10.png)[Thunderbird img 124] and then **click** ![Restart Now](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/11.png)[Thunderbird img 125] to restart Thunderbird program and complete the **TorBirdy** add-on installation.
 
 ## How to Use TorBirdy in Thunderbird
 
-Before you can use **TorBirdy** with **Thunderbird**, you must ensure that **Tor Browser** is running and is successfully connected to the **Tor network**. If you have not set up the **Tor Browser** yet please refer to [Tor Browser - Digital Anonymity and Circumvention](https://securityinabox.org/en/tor_main) before proceeding further.
+Before you can use **TorBirdy** with **Thunderbird**, you must ensure that **Tor Browser** is running and is successfully connected to the **Tor network**. If you have not set up the **Tor Browser** yet please refer to [Tor Browser - Digital Anonymity and Circumvention](https://securityinabox.org/en/tor_main)[Tor Main] before proceeding further.
 
 ### Enable TorBirdy for Thunderbird
 
@@ -80,9 +79,9 @@ Follow the steps below to launch the *Tor Browser* and run Thunderbird via the *
 
 #### Step 1
 
-**Navigate** to the *Tor Browser* folder, and then **double click** ![Start TorBrowser.exe](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/18.png) to activate the following screen:
+**Navigate** to the *Tor Browser* folder, and then **double click** ![Start TorBrowser.exe](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/18.png)[Thunderbird img 126] to activate the following screen:
 
-![The Tor Status window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/19.png)
+![The Tor Status window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/19.png)[Thunderbird img 127]
 
 *Figure 8: The Tor Status window*
 
@@ -90,7 +89,7 @@ Follow the steps below to launch the *Tor Browser* and run Thunderbird via the *
 
 A few moments later, the **Tor Browser** will open a new browser window displaying the following:
 
-![Tor Browser; successfully connected to the Tor network](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/20.png)
+![Tor Browser; successfully connected to the Tor network](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/20.png)[Thunderbird img 128]
 
 *Figure 9: Tor Browser; successfully connected to the Tor network*
 
@@ -100,7 +99,7 @@ You are now connected to the *Tor network* through *Tor Browser*.
 
 **Launch** Thunderbird and enter your password at the prompt. The status of TorBirdy will be shown in the right hand corner of the Thunderbird window as highlighted below
 
-![The TorBirdy Enabled for Tor](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/30.png)
+![The TorBirdy Enabled for Tor](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/30.png)[Thunderbird img 129]
 
 *Figure 10: The TorBirdy Enabled for Tor*
 
@@ -110,31 +109,31 @@ Follow the steps below to test and confirm the TorBirdy settings
 
 #### Step 1
 
-**Click** on ![Tor Birdy Enabled: Tor](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/21.png) to activate the following menu:
+**Click** on ![Tor Birdy Enabled: Tor](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/21.png)[Thunderbird img 130] to activate the following menu:
 
-![TorBirdy Preferences Menu](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/22.png)
+![TorBirdy Preferences Menu](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/22.png)[Thunderbird img 131]
 
 *Figure 11: The TorBirdy Preferences Menu*
 
 #### Step 2
 
-**Select** *Open TorBirdy Preferences* to open the window below. **Click** ![Ok](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/23.png) to the *TorBirdy Advanced Settings* warning message
+**Select** *Open TorBirdy Preferences* to open the window below. **Click** ![Ok](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/23.png)[Thunderbird img 132] to the *TorBirdy Advanced Settings* warning message
 
-![TorBirdy Preferences window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/25.png)
+![TorBirdy Preferences window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/25.png)[Thunderbird img 133]
 
 *Figure 12: The TorBirdy Preferences window*
 
 #### Step 3
 
-**Click** on ![Test Proxy Settings](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/24.png). If you have connected successfully through the Tor network, you will see the following message (*IP addresses will change*)
+**Click** on ![Test Proxy Settings](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/24.png)[Thunderbird img 134]. If you have connected successfully through the Tor network, you will see the following message (*IP addresses will change*)
 
-![Are You Using Tor? window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/26.png)
+![Are You Using Tor? window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/26.png)[Thunderbird img 135]
 
 *Figure 13: Are You Using Tor? window*
 
 **Note** If you have not started the Tor Browser or Tor Browser did not connect to Tor Network as shown in section 6.2.1 above, you will not be able to connect to your email server and you may see the following message after you start Thunderbird:
 
-![Connection Refused window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/27.png)
+![Connection Refused window](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/27.png)[Thunderbird img 136]
 
 *Figure 14: Connection Refused window*
 
@@ -146,20 +145,20 @@ You can disable the TorBirdy Add-on if you wish to run Thunderbird without TorBi
 
 #### Step 1
 
-**Open Thunderbird**, then **click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/03.png) to display the *Thunderbird Menu* and **select Add-ons** to activate the *Add-ons Manager* window
+**Open Thunderbird**, then **click** ![Menu](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/03.png)[Thunderbird img 117] to display the *Thunderbird Menu* and **select Add-ons** to activate the *Add-ons Manager* window
 
 #### Step 2
 
-**Click** ![Add-ons](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/04.png) in the left hand sidebar
+**Click** ![Add-ons](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/04.png)[Thunderbird img 118] in the left hand sidebar
 
 #### Step 3
 
-**Click** on ![Disable](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/29.png) on the screen below:
+**Click** on ![Disable](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/29.png)[Thunderbird img 137] on the screen below:
 
-![Disable TorBirdy Extension](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/28.png)
+![Disable TorBirdy Extension](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/28.png)[Thunderbird img 138]
 
 *Figure 15: Disable TorBirdy Extension*
 
 #### Step 4
 
-**Click** ![Restart Now](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/11.png) to restart Thunderbird and conclude disabling TorBirdy.
+**Click** ![Restart Now](https://securityinabox.org/sbox/screen/thunderbird-TorBirdy-en/11.png)[Thunderbird img 125] to restart Thunderbird and conclude disabling TorBirdy.
