@@ -21,7 +21,7 @@ Language: EN
 
 **Download** the app from [from Google play store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en)
 
-![TextSecure in the Google Play store](/sites/siabnext.ttc.io/files/media/textsecure-and-02.png)
+![TextSecure in the Google Play store](https://securityinabox.org/sbox/screen/textsecure-en/02.png)[TextSecure img 01]
 
 *Figure 1: TextSecure in the Google Play store*
 
@@ -29,15 +29,15 @@ Language: EN
 
 **Install** the app (by **clicking** the appropriate install button).
 
-![Permissions necessary for downloading](/sites/siabnext.ttc.io/files/media/textsecure-and-03.png)
+![Permissions necessary for downloading](https://securityinabox.org/sbox/screen/textsecure-en/03.png)[TextSecure img 02]
 
 *Figure 2: Permissions necessary for downloading*
 
 ## Step 3
 
-**Read** and accept the [*GNU*](/en/glossary#GNU) license.
+**Read** and accept the [*GNU*](https://securityinabox.org/glossary#GNU_Linux) license.
 
-![End User License Agreement](/sites/siabnext.ttc.io/files/media/textsecure-and-04.png)
+![End User License Agreement](https://securityinabox.org/sbox/screen/textsecure-en/04.png)[TextSecure img 03]
 
 *Figure 3: End User License Agreement*
 
@@ -45,6 +45,6 @@ Language: EN
 
 **Create** a password or passphrase to encrypt the data stored on your phone
 
-![Create and repeat a password or passphrase](/sites/siabnext.ttc.io/files/media/textsecure-and-05.png)
+![Create and repeat a password or passphrase](https://securityinabox.org/sbox/screen/textsecure-en/05.png)[TextSecure img 04]
 
 *Figure 4: Create and repeat a password or passphrase*

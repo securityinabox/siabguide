@@ -9,6 +9,7 @@ Information Loss | https://securityinabox.org/chapter-5
 Sensitive Information | https://securityinabox.org/chapter-6
 Private Communication | https://securityinabox.org/chapter-7
 Securing Email | https://securityinabox.org/en/chapter_7_1
+Securing Other | https://securityinabox.org/chapter_7_3
 Advanced Email | https://securityinabox.org/chapter_7_4
 Anonymous Browsing | https://securityinabox.org/chapter-8
 Social Networks | https://securityinabox.org/chapter-9
@@ -43,7 +44,11 @@ Orweb Main | https://securityinabox.org/en/Orweb_main
 Pidgin Main | https://securityinabox.org/pidgin_main
 Pidgin Google Talk | https://securityinabox.org/en/pidgin_furtherinfo -- Access denied
 Recuva Main | https://securityinabox.org/recuva_main
+Recuva Scans | https://securityinabox.org/recuva_scan#3.0
+Recuva Recover | https://securityinabox.org/recuva_recover#4.0
 Riseup Main | https://securityinabox.org/riseup_main
+Riseup Create | https://securityinabox.org/riseup_createaccount
+Riseup Invites | https://securityinabox.org/riseup_changingsettings#4.3
 Thunderbird Main | https://securityinabox.org/thunderbird_main
 Tor Main | https://securityinabox.org/tor_main
 Tor Bridge Addresses | https://securityinabox.org/en/tor_anonymitynetwork#3.3
@@ -917,10 +922,128 @@ Pidgin img 77 | https://securityinabox.org/sbox/screen/pidginportable-en-1/17.pn
 Pidgin img 78 | https://securityinabox.org/sbox/screen/pidginportable-en-1/18.png -- Page not found
 Pidgin img 79 | https://securityinabox.org/sbox/screen/pidginportable-en-1/19.png
 
+Recuva img 01 | https://securityinabox.org/sbox/screen/recuva-en/13.png
+Recuva img 02 | https://securityinabox.org/sbox/screen/recuva-en/02.png
+Recuva img 03 | https://securityinabox.org/sbox/screen/recuva-en/03.png
+Recuva img 04 | https://securityinabox.org/sbox/screen/recuva-en/04.png
+Recuva img 05 | https://securityinabox.org/sbox/screen/recuva-en/06.png
+Recuva img 06 | https://securityinabox.org/sbox/screen/recuva-en/07.png
+Recuva img 07 | https://securityinabox.org/sbox/screen/recuva-en/09.png
+Recuva img 08 | https://securityinabox.org/sbox/screen/recuva-en/10.png
+Recuva img 09 | https://securityinabox.org/sbox/screen/recuva-en/12.png
+Recuva img 10 | https://securityinabox.org/sbox/screen/recuva-en/15.png
+Recuva img 11 | https://securityinabox.org/sbox/screen/recuva-en/16.png
+Recuva img 12 | https://securityinabox.org/sbox/screen/recuva-en/17.png
+Recuva img 13 | https://securityinabox.org/sbox/screen/recuva-en/18.png
+Recuva img 14 | https://securityinabox.org/sbox/screen/recuva-en/19.png
+Recuva img 15 | https://securityinabox.org/sbox/screen/recuva-en/20.png
+Recuva img 16 | https://securityinabox.org/sbox/screen/recuva-en/21.png
+Recuva img 17 | https://securityinabox.org/sbox/screen/recuva-en/22.png
+Recuva img 18 | https://securityinabox.org/sbox/screen/recuva-en/23.png
+Recuva img 19 | https://securityinabox.org/sbox/screen/recuva-en/24.png
+Recuva img 20 | https://securityinabox.org/sbox/screen/recuva-en/50.png
+Recuva img 21 | https://securityinabox.org/sbox/screen/recuva-en/51.png
+Recuva img 22 | https://securityinabox.org/sbox/screen/recuva-en/52.png
+Recuva img 23 | https://securityinabox.org/sbox/screen/recuva-en/53.png
+Recuva img 24 | https://securityinabox.org/sbox/screen/recuva-en/54.png
+Recuva img 25 | https://securityinabox.org/sbox/screen/recuva-en/55.png
+Recuva img 26 | https://securityinabox.org/sbox/screen/recuva-en/56.png
+Recuva img 27 | https://securityinabox.org/sbox/screen/recuva-en/57.png
+Recuva img 28 | https://securityinabox.org/sbox/screen/recuva-en/70.png
+Recuva img 29 | https://securityinabox.org/sbox/screen/recuva-en/73.png
+Recuva img 30 | https://securityinabox.org/sbox/screen/recuva-en/72.png
+Recuva img 31 | https://securityinabox.org/sbox/screen/recuva-en/74.png
+Recuva img 32 | https://securityinabox.org/sbox/screen/recuva-en/78.png
+Recuva img 33 | https://securityinabox.org/sbox/screen/recuva-en/71.png
+Recuva img 34 | https://securityinabox.org/sbox/screen/recuva-en/76.png
+Recuva img 35 | https://securityinabox.org/sbox/screen/recuva-en/75.png
+Recuva img 36 | https://securityinabox.org/sbox/screen/recuva-en/25.png
+Recuva img 37 | https://securityinabox.org/sbox/screen/recuva-en/27.png
+Recuva img 38 | https://securityinabox.org/sbox/screen/recuva-en/26.png
+Recuva img 39 | https://securityinabox.org/sbox/screen/recuva-en/30.png
+Recuva img 40 | https://securityinabox.org/sbox/screen/recuva-en/31.png
+Recuva img 41 | https://securityinabox.org/sbox/screen/recuva-en/32.png
+Recuva img 42 | https://securityinabox.org/sbox/screen/recuva-en/34.png
+Recuva img 43 | https://securityinabox.org/sbox/screen/recuva-en/35.png
+Recuva img 44 | https://securityinabox.org/sbox/screen/recuva-en/36.png
+Recuva img 45 | https://securityinabox.org/sbox/screen/recuva-en/37.png
+Recuva img 46 | https://securityinabox.org/sbox/screen/recuva-en/38.png
+Recuva img 47 | https://securityinabox.org/sbox/screen/recuvaportable-en/02.png
+Recuva img 48 | https://securityinabox.org/sbox/screen/recuvaportable-en/03.png
+Recuva img 49 | https://securityinabox.org/sbox/screen/recuvaportable-en/04.png
+Recuva img 50 | https://securityinabox.org/sbox/screen/recuvaportable-en/05.png
+Recuva img 51 | https://securityinabox.org/sbox/screen/recuvaportable-en/06.png
+Recuva img 52 | https://securityinabox.org/sbox/screen/recuvaportable-en/07.png
+Recuva img 53 | https://securityinabox.org/sbox/screen/recuvaportable-en/08.png
+Recuva img 54 | https://securityinabox.org/sbox/screen/recuvaportable-en/09.png
+Recuva img 55 | https://securityinabox.org/sbox/screen/recuvaportable-en/10.png
+Recuva img 56 | https://securityinabox.org/sbox/screen/recuvaportable-en/11.png
+
+Riseup img 01 | https://securityinabox.org/sbox/screen/riseup-en-1/01.png
+Riseup img 02 | https://securityinabox.org/sbox/screen/riseup-en-1/03.png
+Riseup img 03 | https://securityinabox.org/sbox/screen/riseup-en-1/04.png
+Riseup img 04 | https://securityinabox.org/sbox/screen/riseup-en-1/05.png
+Riseup img 05 | https://securityinabox.org/sbox/screen/riseup-en-1/06.png
+Riseup img 06 | https://securityinabox.org/sbox/screen/riseup-en-1/07.png
+Riseup img 07 | https://securityinabox.org/sbox/screen/riseup-en-1/08.png
+Riseup img 08 | https://securityinabox.org/sbox/screen/riseup-en-1/09.png
+Riseup img 09 | https://securityinabox.org/sbox/screen/riseup-en-1/10.png
+Riseup img 10 | https://securityinabox.org/sbox/screen/riseup-en-1/21.png
+Riseup img 11 | https://securityinabox.org/sbox/screen/riseup-en-1/22.png
+Riseup img 12 | https://securityinabox.org/sbox/screen/riseup-en-1/23.png
+Riseup img 13 | https://securityinabox.org/sbox/screen/riseup-en-1/24.png
+Riseup img 14 | https://securityinabox.org/sbox/screen/riseup-en-1/25.png
+Riseup img 15 | https://securityinabox.org/sbox/screen/riseup-en-1/26.png
+Riseup img 16 | https://securityinabox.org/sbox/screen/riseup-en-1/27.png
+Riseup img 17 | https://securityinabox.org/sbox/screen/riseup-en-1/28.png
+Riseup img 18 | https://securityinabox.org/sbox/screen/riseup-en-1/29.png
+Riseup img 19 | https://securityinabox.org/sbox/screen/riseup-en-1/30.png
+Riseup img 20 | https://securityinabox.org/sbox/screen/riseup-en-1/31.png
+Riseup img 21 | https://securityinabox.org/sbox/screen/riseup-en-1/32.png
+Riseup img 22 | https://securityinabox.org/sbox/screen/riseup-en-1/33.png
+Riseup img 23 | https://securityinabox.org/sbox/screen/riseup-en-1/34.png
+Riseup img 24 | https://securityinabox.org/sbox/screen/riseup-en-1/35.png
+Riseup img 25 | https://securityinabox.org/sbox/screen/riseup-en-1/36.png
+Riseup img 26 | https://securityinabox.org/sbox/screen/riseup-en-1/11.png
+Riseup img 27 | https://securityinabox.org/sbox/screen/riseup-en-1/12.png
+Riseup img 28 | https://securityinabox.org/sbox/screen/riseup-en-1/13.png
+Riseup img 29 | https://securityinabox.org/sbox/screen/riseup-en-1/14.png
+Riseup img 30 | https://securityinabox.org/sbox/screen/riseup-en-1/15.png
+Riseup img 31 | https://securityinabox.org/sbox/screen/riseup-en-1/16.png
+Riseup img 32 | https://securityinabox.org/sbox/screen/riseup-en-1/17.png
+Riseup img 33 | https://securityinabox.org/sbox/screen/riseup-en-1/18.png
+Riseup img 34 | https://securityinabox.org/sbox/screen/riseup-en-1/19.png
+
+TextSecure img 01 | https://securityinabox.org/sbox/screen/textsecure-en/02.png
+TextSecure img 02 | https://securityinabox.org/sbox/screen/textsecure-en/03.png
+TextSecure img 03 | https://securityinabox.org/sbox/screen/textsecure-en/04.png
+TextSecure img 04 | https://securityinabox.org/sbox/screen/textsecure-en/05.png
+TextSecure img 05 | https://securityinabox.org/sbox/screen/textsecure-en/06.png
+TextSecure img 06 | https://securityinabox.org/sbox/screen/textsecure-en/07.png
+TextSecure img 07 | https://securityinabox.org/sbox/screen/textsecure-en/08.png
+TextSecure img 08 | https://securityinabox.org/sbox/screen/textsecure-en/09.png
+TextSecure img 09 | https://securityinabox.org/sbox/screen/textsecure-en/10.png
+TextSecure img 10 | https://securityinabox.org/sbox/screen/textsecure-en/1011.png
+TextSecure img 11 | https://securityinabox.org/sbox/screen/textsecure-en/11.png
+TextSecure img 12 | https://securityinabox.org/sbox/screen/textsecure-en/12.png
+TextSecure img 13 | https://securityinabox.org/sbox/screen/textsecure-en/13.png
+TextSecure img 14 | https://securityinabox.org/sbox/screen/textsecure-en/14.png
+TextSecure img 15 | https://securityinabox.org/sbox/screen/textsecure-en/15.png
+TextSecure img 16 | https://securityinabox.org/sbox/screen/textsecure-en/16.png
+TextSecure img 17 | https://securityinabox.org/sbox/screen/textsecure-en/17.png
+TextSecure img 18 | https://securityinabox.org/sbox/screen/textsecure-en/18.png
+TextSecure img 19 | https://securityinabox.org/sbox/screen/textsecure-en/19.png
+TextSecure img 20 | https://securityinabox.org/sbox/screen/textsecure-en/20.png
+TextSecure img 21 | https://securityinabox.org/sbox/screen/textsecure-en/21.png
+TextSecure img 22 | https://securityinabox.org/sbox/screen/textsecure-en/2213.png
+
+
+
 
 
 Glossary | https://securityinabox.org/glossary
 Glossary #encryption | https://securityinabox.org/glossary#encryption
+Glossary #GNU_Linux | https://securityinabox.org/glossary#GNU_Linux
 Glossary #Orbot | https://securityinabox.org/glossary#orbot
 Glossary #OTR | https://securityinabox.org/glossary#OTR
 Glossary #Pidgin | https://securityinabox.org/glossary#Pidgin

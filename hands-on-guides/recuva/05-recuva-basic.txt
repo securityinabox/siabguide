@@ -19,7 +19,7 @@ Language: EN
 
 In this section, you will learn how to perform different types of scans, and be introduced to the *General* and *Actions* tabs in the *Options* screen.
 
-**Note**: A scan will simply retrieve and display the files which are potentially recoverable. The actual recovery procedures are discussed in [**4.0 How to Recover and Securely Overwrite Files Using Recuva**](/en/recuva_recover#4.0).
+**Note**: A scan will simply retrieve and display the files which are potentially recoverable. The actual recovery procedures are discussed in [**4.0 How to Recover and Securely Overwrite Files Using Recuva**](https://securityinabox.org/recuva_recover#4.0)[Recuva Recover].
 
 ## Perform a Scan Using the Recuva Wizard
 
@@ -29,19 +29,19 @@ To begin scanning for deleted files, perform the following steps:
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-15.png) or **select Start > Programs > Recuva > Recuva** to launch the program, and activate the following screen:
+**Click** ![Recuva icon](https://securityinabox.org/sbox/screen/recuva-en/15.png)[Recuva img 10] or **select Start > Programs > Recuva > Recuva** to launch the program, and activate the following screen:
 
-![Welcome to the Recuva Wizard](/sites/siabnext.ttc.io/files/media/recuva-win-16.png)
+![Welcome to the Recuva Wizard](https://securityinabox.org/sbox/screen/recuva-en/16.png)[Recuva img 11]
 
 *Figure 1: The Welcome to the Recuva Wizard screen*
 
-**Tip**: If you know the exact or even partial name of a file you would like to recover, **click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-17.png) to go to the *Piriform Recuva* main user interface, and then follow the steps in section **3.2 How to Perform a Scan without Using the Recuva Wizard**.
+**Tip**: If you know the exact or even partial name of a file you would like to recover, **click** ![Cancel](https://securityinabox.org/sbox/screen/recuva-en/17.png)[Recuva img 12] to go to the *Piriform Recuva* main user interface, and then follow the steps in section **3.2 How to Perform a Scan without Using the Recuva Wizard**.
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-18.png) to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/recuva-en/18.png)[Recuva img 13] to activate the following screen:
 
-![Recuva Wizard File type](/sites/siabnext.ttc.io/files/media/recuva-win-19.png)
+![Recuva Wizard File type](https://securityinabox.org/sbox/screen/recuva-en/19.png)[Recuva img 14]
 
 *Figure 2: The Recuva Wizard File type screen*
 
@@ -49,9 +49,9 @@ The *Recuva Wizard File type* displays a list of different file types, and descr
 
 ### Step 3
 
-**Check** the *Other* option as shown in *Figure 2*, and then **click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-18.png) to activate the following screen:
+**Check** the *Other* option as shown in *Figure 2*, and then **click** ![Next](https://securityinabox.org/sbox/screen/recuva-en/18.png)[Recuva img 13] to activate the following screen:
 
-![Recuva Wizard File Location](/sites/siabnext.ttc.io/files/media/recuva-win-20.png)
+![Recuva Wizard File Location](https://securityinabox.org/sbox/screen/recuva-en/20.png)[Recuva img 15]
 
 *Figure 3: The Recuva Wizard File Location screen*
 
@@ -61,9 +61,9 @@ Files are most frequently deleted from *Recycle Bin* in the **Windows** operatin
 
 ### Step 4
 
-**Check** the *In the Recycle Bin* option as shown in *Figure 3* above, and then **click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-18.png) to activate the following screen:
+**Check** the *In the Recycle Bin* option as shown in *Figure 3* above, and then **click** ![Next](https://securityinabox.org/sbox/screen/recuva-en/18.png)[Recuva img 13] to activate the following screen:
 
-![Recuva is now ready to search for your files](/sites/siabnext.ttc.io/files/media/recuva-win-21.png)
+![Recuva is now ready to search for your files](https://securityinabox.org/sbox/screen/recuva-en/21.png)[Recuva img 16]
 
 *Figure 4: Thank you, Recuva is now ready to search for your files*
 
@@ -71,11 +71,11 @@ Files are most frequently deleted from *Recycle Bin* in the **Windows** operatin
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-22.png) to begin recovering your deleted files. 
+**Click** ![Start](https://securityinabox.org/sbox/screen/recuva-en/22.png)[Recuva img 17] to begin recovering your deleted files. 
 
 During the file recovery process, two progress status bars appear in quick succession. The *Scanning the drive for deleted files* progress bar lists the deleted files. The *Analyzing the file contents* progress bar groups and sorts the deleted files into file types and degree of recoverability. They also display the duration of the scanning and analysis processes. Your *Piriform Recuva* main user interface may then resemble the following screen:
 
-![Piriform Recuva main user interface with deleted files](/sites/siabnext.ttc.io/files/media/recuva-win-23.png)
+![Piriform Recuva main user interface with deleted files](https://securityinabox.org/sbox/screen/recuva-en/23.png)[Recuva img 18]
 
 *Figure 5: The Piriform Recuva main user interface with deleted files*
 
@@ -95,7 +95,7 @@ The *Piriform Recuva* main user interface lists information about each deleted f
 
 Each file is associated with a coloured status icon which indicates the extent to which each file can be successfully recovered:
 
-![file status icons](/sites/siabnext.ttc.io/files/media/recuva-win-24.png)
+![file status icons](https://securityinabox.org/sbox/screen/recuva-en/24.png)[Recuva img 19]
 
 *Figure 6: The file status icons*
 
@@ -111,13 +111,13 @@ To access the **Recuva** main user interface directly, (that is, not use the *Re
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-15.png) or **select Start > Programs > Recuva > Recuva** to activate *Figure 1*.
+**Click** ![Recuva icon](https://securityinabox.org/sbox/screen/recuva-en/15.png)[Recuva img 10] or **select Start > Programs > Recuva > Recuva** to activate *Figure 1*.
 
 ### Step 2
 
-**Check** the *Do not show this Wizard on startup* option, then **click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-50.png) to activate the following screen:
+**Check** the *Do not show this Wizard on startup* option, then **click** ![Cancel](https://securityinabox.org/sbox/screen/recuva-en/50.png)[Recuva img 20] to activate the following screen:
 
-![Recuva main user interface](/sites/siabnext.ttc.io/files/media/recuva-win-51.png)
+![Recuva main user interface](https://securityinabox.org/sbox/screen/recuva-en/51.png)[Recuva img 21]
 
 *Figure 7: The Recuva main user interface*
 
@@ -127,13 +127,13 @@ The *Piriform Recuva* main user interface is divided into the results pane on th
 
 **Click** to activate the drop-down list and **select** the drive to be scanned; the *Local Disk (C:)* is the default and used in this example as follows: 
 
-![hard drive drop-down list](/sites/siabnext.ttc.io/files/media/recuva-win-52.png)
+![hard drive drop-down list](https://securityinabox.org/sbox/screen/recuva-en/52.png)[Recuva img 22]
 
 *Figure 8: The hard drive drop-down list*
 
 The *Filename or path* drop-down list lets you specify the kind of file you are looking for, and loosely corresponds to the *Recuva Wizard File type* screen displayed in *Figure 2*. 
 
-![File name or path drop-down list](/sites/siabnext.ttc.io/files/media/recuva-win-53.png)
+![File name or path drop-down list](https://securityinabox.org/sbox/screen/recuva-en/53.png)[Recuva img 23]
 
 *Figure 9: The File name or path drop-down list*
 
@@ -147,17 +147,17 @@ To begin scanning for a file of which all or part of the name is known, perform 
 
 **Type** in the name or partial name of a file you would like to recover as follows (in this example, the file *triangle.png* is being scanned):
 
-![](/sites/siabnext.ttc.io/files/media/recuva-win-54.png)
+![path drop-down list with triangle.png](https://securityinabox.org/sbox/screen/recuva-en/54.png)[Recuva img 24]
 
 *Figure 10: The File name or path drop-down list displaying triangle.png*
 
-**Tip**: **Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-55.png) to reset the *File name and path* (which appear greyed out).
+**Tip**: **Click** ![](https://securityinabox.org/sbox/screen/recuva-en/55.png)[Recuva img 25] to reset the *File name and path* (which appear greyed out).
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-56.png) to begin scanning for your deleted file(s); shortly thereafter, a screen will appear resembling the following:
+**Click** ![Scan](https://securityinabox.org/sbox/screen/recuva-en/56.png)[Recuva img 26] to begin scanning for your deleted file(s); shortly thereafter, a screen will appear resembling the following:
 
-![Recuva user interface with triangle.png file in Preview tab](/sites/siabnext.ttc.io/files/media/recuva-win-57.png)
+![Recuva user interface with triangle.png file in Preview tab](https://securityinabox.org/sbox/screen/recuva-en/57.png)[Recuva img 27]
 
 *Figure 11: The Recuva user interface displaying the triangle.png file in the Preview tab*
 
@@ -169,21 +169,21 @@ The **Recuva** *Deep Scan* option can be enabled either through **checking** the
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-70.png) to activate the *Options* screen, then **click** the *Actions* tab as follows:
+**Click** ![Options](https://securityinabox.org/sbox/screen/recuva-en/70.png)[Recuva img 28] to activate the *Options* screen, then **click** the *Actions* tab as follows:
 
-![Options screen displaying Actions tab](/sites/siabnext.ttc.io/files/media/recuva-win-73.png)
+![Options screen displaying Actions tab](https://securityinabox.org/sbox/screen/recuva-en/73.png)[Recuva img 29]
 
 *Figure 12: The Options screen displaying the Actions tab* 
 
 ### Step 2
 
-**Check** the *Deep Scan* *(increases scan time)* option, then **click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-72.png). 
+**Check** the *Deep Scan* *(increases scan time)* option, then **click** ![OK](https://securityinabox.org/sbox/screen/recuva-en/72.png)[Recuva img 30]. 
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-74.png) to begin scanning for deleted files using the *Deep Scan* option. As mentioned earlier, a deep scan can potentially take a few hours, depending on the size of your hard disk and computer speed:
+**Click** ![Scan](https://securityinabox.org/sbox/screen/recuva-en/74.png)[Recuva img 31] to begin scanning for deleted files using the *Deep Scan* option. As mentioned earlier, a deep scan can potentially take a few hours, depending on the size of your hard disk and computer speed:
 
-![Scan displaying estimated number of hours required for a deep scan](/sites/siabnext.ttc.io/files/media/recuva-win-78.png)
+![Scan displaying estimated number of hours required for a deep scan](https://securityinabox.org/sbox/screen/recuva-en/78.png)[Recuva img 32]
 
 *Figure 13: The Scan displaying the estimated number of hours required for a deep scan*
 
@@ -193,9 +193,9 @@ In this section, you will learn how to use the different settings to successfull
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-70.png) to activate the following screen:
+**Click** ![Options](https://securityinabox.org/sbox/screen/recuva-en/70.png)[Recuva img 28] to activate the following screen:
 
-![Options screen with General tab in default mode](/sites/siabnext.ttc.io/files/media/recuva-win-71.png)
+![Options screen - General tab in default mode](https://securityinabox.org/sbox/screen/recuva-en/71.png)[Recuva img 33]
 
 *Figure 14: The Options screen displaying the General tab in default mode*
 
@@ -203,7 +203,7 @@ The *Options* screen is divided into the *General*, *Actions* and *About* tabs.
 
 The *General* tab lets you define a number of important settings, including *Language* (**Recuva** supports a *spectacular* 37 languages seamlessly), *View mode* and disabling or enabling the *Recuva Wizard*. 
 
-![View mode drop-down list](/sites/siabnext.ttc.io/files/media/recuva-win-76.png)
+![View mode drop-down list](https://securityinabox.org/sbox/screen/recuva-en/76.png)[Recuva img 34]
 
 *Figure 15: The View mode drop-down list*
 
@@ -221,7 +221,7 @@ The *Secure overwriting* drop-down list displays four options for overwriting yo
 
 **Select** the *DOD 5220.22-M (3 passes)* option as follows:
 
-![Secure overwriting drop-down list with DOD 5220.22-M selected](/sites/siabnext.ttc.io/files/media/recuva-win-77.png) 
+![Secure overwriting drop-down list with DOD 5220.22-M selected](https://securityinabox.org/sbox/screen/recuva-en/77.png)[Recuva img 35]
 
 *Figure 16: The Secure overwriting drop-down list with the DOD 5220.22-M (3 passes) selected*
 
@@ -229,9 +229,9 @@ A single pass may prove quite effective in overwriting a given document, file or
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-72.png) to save your *General* tab configuration options. 
+**Click** ![OK](https://securityinabox.org/sbox/screen/recuva-en/72.png)[Recuva img 30] to save your *General* tab configuration options. 
 
-![Options screen with Actions tab](/sites/siabnext.ttc.io/files/media/recuva-win-75.png)
+![Options screen with Actions tab](https://securityinabox.org/sbox/screen/recuva-en/75.png)[Recuva img 31]
 
 *Figure 17: The Options screen displaying the Actions tab* 
 
@@ -249,7 +249,7 @@ A single pass may prove quite effective in overwriting a given document, file or
 
 The *About* tab displays version information, as well as links to the Piriform web site. 
 
-Now that you are more confident about performing different scans and familiar with the settings in the *General* and *Actions* tabs in the *Options* screen, you are ready to learn how to actually recover and/or securely overwrite your private or sensitive information in [**4.0 How to Recover and Securely Overwrite Files Using Recuva**](/en/recuva_recover#4.0)
+Now that you are more confident about performing different scans and familiar with the settings in the *General* and *Actions* tabs in the *Options* screen, you are ready to learn how to actually recover and/or securely overwrite your private or sensitive information in [**4.0 How to Recover and Securely Overwrite Files Using Recuva**](https://securityinabox.org/recuva_recover#4.0)[Recuva Recover]
 
 # Recover and Securely Overwrite Files Using Recuva
 
@@ -273,13 +273,13 @@ To begin recovering a deleted file, perform the following steps:
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-25.png) to activate the *Browse For Folder* screen.
+**Click** ![Recover](https://securityinabox.org/sbox/screen/recuva-en/25.png)[Recuva img 36] to activate the *Browse For Folder* screen.
 
 ### Step 4
 
-**Select** a destination and then **click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-27.png) to create your recovery folder as shown in *Figure 1* below. 
+**Select** a destination and then **click** ![Make New Folder](https://securityinabox.org/sbox/screen/recuva-en/27.png)[Recuva img 37] to create your recovery folder as shown in *Figure 1* below. 
 
-![Browse For Folder dialog box displaying newly created folder on a removable device](/sites/siabnext.ttc.io/files/media/recuva-win-26.png)
+![Browse For Folder dialog box displaying newly created folder on a removable device](https://securityinabox.org/sbox/screen/recuva-en/26.png)[Recuva img 38]
 
 *Figure 1: The Browse For Folder dialog box displaying the newly created folder on a removable device*
 
@@ -287,15 +287,15 @@ To begin recovering a deleted file, perform the following steps:
 
 ### Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-30.png) to begin the file recovery process; a progress status screen appears as follows:
+**Click** ![Yes](https://securityinabox.org/sbox/screen/recuva-en/30.png)[Recuva img 39] to begin the file recovery process; a progress status screen appears as follows:
 
-![Recovering files progress status](/sites/siabnext.ttc.io/files/media/recuva-win-31.png)
+![Recovering files progress status](https://securityinabox.org/sbox/screen/recuva-en/31.png)[Recuva img 40]
 
 *Figure 2: The Recovering files progress status screen*
 
 After the files have been recovered, a confirmation will appear resembling the following screen:
 
-![Operation Completed](/sites/siabnext.ttc.io/files/media/recuva-win-32.png)
+![Operation Completed](https://securityinabox.org/sbox/screen/recuva-en/32.png)[Recuva img 41]
 
 *Figure 3: The Operation Completed screen*
 
@@ -312,7 +312,7 @@ Now that you are comfortable with recovering a previously deleted file, you are 
 
 **Right click** on a deleted file displayed in the **Recuva** main to activate the following pop-up menu: 
 
-![pop-up menu](/sites/siabnext.ttc.io/files/media/recuva-win-34.png) 
+![pop-up menu](https://securityinabox.org/sbox/screen/recuva-en/34.png)[Recuva img 42]
 
 *Figure 4: The pop-up menu*
 
@@ -346,17 +346,17 @@ To securely overwrite a deleted file, perform the following steps:
 
 ### Step 2
 
-**Select** ![](/sites/siabnext.ttc.io/files/media/recuva-win-35.png) to activate the following confirmation dialog box:
+**Select** ![Secure Overwrite Checked](https://securityinabox.org/sbox/screen/recuva-en/35.png)[Recuva img 43] to activate the following confirmation dialog box:
 
-![Secure overwrite confirmation](/sites/siabnext.ttc.io/files/media/recuva-win-36.png)
+![Secure overwrite confirmation](https://securityinabox.org/sbox/screen/recuva-en/36.png)[Recuva img 44]
 
 *Figure 5: The Secure overwrite confirmation dialog box* 
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-37.png) to begin the overwriting process; depending on the size and status of the file as well as the *Secure overwriting* option you selected in the *General* tab in the *Options* screen, this could take some time. After the overwriting process has been completed, a screen resembling the following appears:
+**Click** ![Yes](https://securityinabox.org/sbox/screen/recuva-en/37.png)[Recuva img 45] to begin the overwriting process; depending on the size and status of the file as well as the *Secure overwriting* option you selected in the *General* tab in the *Options* screen, this could take some time. After the overwriting process has been completed, a screen resembling the following appears:
 
-![Operation complete](/sites/siabnext.ttc.io/files/media/recuva-win-38.png)
+![Operation complete](https://securityinabox.org/sbox/screen/recuva-en/38.png)[Recuva img 46]
 
 *Figure 6: The Operation complete screen*
 

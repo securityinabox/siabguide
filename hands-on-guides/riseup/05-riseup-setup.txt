@@ -26,7 +26,7 @@ create invite codes to help your friends and colleagues register their own **Ris
 
 **Open** the **RiseUp** *Account Settings* page as follows: [**https://user.riseup.net/**](https://user.riseup.net/)
 
-![RiseUp Account Settings](/sites/siabnext.ttc.io/files/media/riseup-all-21.png)
+![RiseUp Account Settings](https://securityinabox.org/sbox/screen/riseup-en-1/21.png)[Riseup img 10]
 
 *Figure 1: The user.riseup.net page*
 
@@ -36,21 +36,21 @@ create invite codes to help your friends and colleagues register their own **Ris
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-22.png) to open the following screen:
+**Click** ![Log in](https://securityinabox.org/sbox/screen/riseup-en-1/22.png)[Riseup img 11] to open the following screen:
 
-![user control page](/sites/siabnext.ttc.io/files/media/riseup-all-23.png)
+![user control page](https://securityinabox.org/sbox/screen/riseup-en-1/23.png)[Riseup img 12]
 
 *Figure 2: The riseup.net user control page*
 
 ## The My Settings page
 
-The *My Settings* page displays all the information that you originally entered in the [**Create a RiseUp Account**](/riseup_createaccount) page. 
+The *My Settings* page displays all the information that you originally entered in the [**Create a RiseUp Account**](https://securityinabox.org/riseup_createaccount)[Riseup Create] page. 
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-24.png) to open the following screen:
+**Click** ![My Settings](https://securityinabox.org/sbox/screen/riseup-en-1/24.png)[Riseup img 13] to open the following screen:
 
-![Settings page](/sites/siabnext.ttc.io/files/media/riseup-all-25.png)
+![Settings page](https://securityinabox.org/sbox/screen/riseup-en-1/25.png)[Riseup img 14]
 
 *Figure 3: The Settings page*
 
@@ -60,9 +60,9 @@ You can change your username on this screen, which will also change your email a
 
 ### Step 2
 
-**Type** in your new information, then **click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-26.png) to display this message:
+**Type** in your new information, then **click** ![Save Changes](https://securityinabox.org/sbox/screen/riseup-en-1/26.png)[Riseup img 15] to display this message:
 
-![Successfully updated your changes](/sites/siabnext.ttc.io/files/media/riseup-all-27.png)
+![Successfully updated your changes](https://securityinabox.org/sbox/screen/riseup-en-1/27.png)[Riseup img 16]
 
 *Figure 4: Successfully updated your changes*
 
@@ -72,9 +72,9 @@ The *Email settings* page lets you modify or view information related to email s
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-28.png) to open the following screen:
+**Click** ![Email](https://securityinabox.org/sbox/screen/riseup-en-1/28.png)[Riseup img 17] to open the following screen:
 
-![Email settings](/sites/siabnext.ttc.io/files/media/riseup-all-29.png)
+![Email settings](https://securityinabox.org/sbox/screen/riseup-en-1/29.png)[Riseup img 18]
 
 *Figure 5: The Email settings page*
 
@@ -86,7 +86,7 @@ The *Email settings* page lets you modify or view information related to email s
 
 You may also create aliases for your account on this page. An alias is like a nickname for your account. Whilst the main account will remain as before, people will be able to send email to your alias address as well. 
 
-![Aliases section](/sites/siabnext.ttc.io/files/media/riseup-all-30.png)
+![Aliases section](https://securityinabox.org/sbox/screen/riseup-en-1/30.png)[Riseup img 19]
 
 *Figure 6: The Aliases section of the Email settings page*
 
@@ -102,7 +102,7 @@ You may also create aliases for your account on this page. An alias is like a ni
 
 ### Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-26.png) to save your new settings.
+**Click** ![Save Changes](https://securityinabox.org/sbox/screen/riseup-en-1/26.png)[Riseup img 15] to save your new settings.
 
 ## The Invites page
 
@@ -112,17 +112,17 @@ The *Invites* page lets you generate *invite codes* that are used to invite your
 
 ### Step 1
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-31.png) to activate the following screen:
+**Click** ![Invites](https://securityinabox.org/sbox/screen/riseup-en-1/31.png)[Riseup img 20] to activate the following screen:
 
-![Invites page](/sites/siabnext.ttc.io/files/media/riseup-all-32.png)
+![Invites page](https://securityinabox.org/sbox/screen/riseup-en-1/32.png)[Riseup img 21]
 
 *Figure 7: The Invites page*
 
 ### Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-33.png) to generate invite codes as follows:
+**Click** ![Create a new invite code](https://securityinabox.org/sbox/screen/riseup-en-1/33.png)[Riseup img 22] to generate invite codes as follows:
 
-![generated invite codes](/sites/siabnext.ttc.io/files/media/riseup-all-34.png)
+![generated invite codes](https://securityinabox.org/sbox/screen/riseup-en-1/34.png)[Riseup img 23]
 
 *Figure 8: An example of generated invite codes*
 
@@ -130,8 +130,8 @@ The *Invites* page lets you generate *invite codes* that are used to invite your
 
 ### Step 3
 
-**Click** ![Print invites](/sites/siabnext.ttc.io/files/media/riseup-all-35.png) to print out a copy of the invite codes and give them to the person wishing to create a **RiseUp** email account.
+**Click** ![Print invites](https://securityinabox.org/sbox/screen/riseup-en-1/35.png)[Riseup img 24] to print out a copy of the invite codes and give them to the person wishing to create a **RiseUp** email account.
 
 ### Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-36.png) to log out of the user panel.
+**Click** ![Logout](https://securityinabox.org/sbox/screen/riseup-en-1/36.png)[Riseup img 25] to log out of the user panel.

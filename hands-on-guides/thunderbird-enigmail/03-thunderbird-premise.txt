@@ -8,7 +8,7 @@ Version: Thunderbird 3.1.5, Enigmail 1.1.2, GPG 2.0.4
 License: Free/Open Source Software
 System_requirements: Microsoft Windows
 Admin: false
-Alternatives: [gpg4usb](https://siabnext.ttc.io/hands-on-guide/gpg4usb-windows) for Windows; [Claws Mail](http://www.claws-mail.org/) for GNU Linux and Microsoft Windows; [Sylpheed](http://sylpheed.sraoss.jp/en/) for GNU Linux Mac OS and Microsoft Windows; [Alpine](http://www.washington.edu/alpine/) for GNU Linux Mac OS and Microsoft Windows
+Alternatives: [gpg4usb](https://securityinabox.org/gpg4usb_portable)[gpg4usb Main] for Windows; [Claws Mail](http://www.claws-mail.org/) for GNU Linux and Microsoft Windows; [Sylpheed](http://sylpheed.sraoss.jp/en/) for GNU Linux Mac OS and Microsoft Windows; [Alpine](http://www.washington.edu/alpine/) for GNU Linux Mac OS and Microsoft Windows
 Comments:
 Group: Basic Usage 
 Title: Important premise

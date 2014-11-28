@@ -21,27 +21,27 @@ Installing **Recuva** is a relatively easy and quick procedure. To begin install
 
 ## Step 1
 
-**Double click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-13.png); the *Open File - Security Warning* dialog box may appear. If it does, **click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-02.png) to activate the following dialog box:  
+**Double click** ![installer](https://securityinabox.org/sbox/screen/recuva-en/13.png)[Recuva img 01]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/recuva-en/02.png)[Recuva img 02] to activate the following dialog box:  
 
-![Installer Language dialog box](/sites/siabnext.ttc.io/files/media/recuva-win-03.png)
+![Installer Language dialog box](https://securityinabox.org/sbox/screen/recuva-en/03.png)[Recuva img 03]
 
 *Figure 1: The Installer Language dialog box*
 
 ## Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-04.png) to activate the *Welcome to the Recuva Setup Wizard* screen.
+**Click** ![OK](https://securityinabox.org/sbox/screen/recuva-en/04.png)[Recuva img 04] to activate the *Welcome to the Recuva Setup Wizard* screen.
 
 ## Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-06.png) to activate the *License Agreement* screen. Please read the *License Agreement* before proceeding with the rest of the installation process.
+**Click** ![Next](https://securityinabox.org/sbox/screen/recuva-en/06.png)[Recuva img 05] to activate the *License Agreement* screen. Please read the *License Agreement* before proceeding with the rest of the installation process.
 
 ## Step 4
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-07.png) to activate the *Choose Install Location* screen.
+**Click** ![I Agree](https://securityinabox.org/sbox/screen/recuva-en/07.png)[Recuva img 06] to activate the *Choose Install Location* screen.
 
 ## Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-06.png) to activate the *Install Options* screen.
+**Click** ![Next](https://securityinabox.org/sbox/screen/recuva-en/06.png)[Recuva img 05] to activate the *Install Options* screen.
 
 **Note**: The *Install Options* screen appears with the *Install optional Yahoo! toolbar* option enabled. Do *not* install the **Yahoo!** toolbar, which may compromise your Internet privacy and security. 
 
@@ -49,16 +49,16 @@ Installing **Recuva** is a relatively easy and quick procedure. To begin install
 
 **Check** the *Install optional Yahoo! toolbar* check box to disable it as shown in *Figure 2* below:
 
-![Install Options screen with optional Yahoo! toolbar disabled](/sites/siabnext.ttc.io/files/media/recuva-win-09.png)
+![Install Options screen with optional Yahoo! toolbar disabled](https://securityinabox.org/sbox/screen/recuva-en/09.png)[Recuva img 07]
 
 *Figure 2: The Install Options screen with the optional Yahoo! toolbar disabled*
 
 ## Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-10.png) to begin installing **Recuva**. This will activate the installation progress bar that will disappear after the installation has completed itself in a few minutes.
+**Click** ![Install](https://securityinabox.org/sbox/screen/recuva-en/10.png)[Recuva img 08] to begin installing **Recuva**. This will activate the installation progress bar that will disappear after the installation has completed itself in a few minutes.
 
 ## Step 8
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/recuva-win-12.png) to complete installing **Recuva**.
+**Click** ![Finish](https://securityinabox.org/sbox/screen/recuva-en/12.png)[Recuva img 09] to complete installing **Recuva**.
 
-Now that you have successfully installed **Recuva**, you are ready to begin recovering and/or overwriting private and sensitive information. Please continue to section [**3.0 How to Perform Different Scans Using Recuva**](/en/recuva_scan#3.0).
+Now that you have successfully installed **Recuva**, you are ready to begin recovering and/or overwriting private and sensitive information. Please continue to section [**3.0 How to Perform Different Scans Using Recuva**](https://securityinabox.org/recuva_scan#3.0)[Recuva Scans].

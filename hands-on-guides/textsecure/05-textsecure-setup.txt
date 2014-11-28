@@ -21,7 +21,7 @@ Language: EN
 
 **Click** on the TextSecure icon, and enter your TextSecure password.
 
-![Enter password or passphrase](/sites/siabnext.ttc.io/files/media/textsecure-and-06.png)
+![Enter password or passphrase](https://securityinabox.org/sbox/screen/textsecure-en/06.png)[TextSecure img 05]
 
 *Figure 5: Enter password or passphrase*
 
@@ -29,7 +29,7 @@ Language: EN
 
 The application will ask you if you want to copy the existing text message database on your device. It is recommended to **copy** your messages in order to have them encrypted, and **delete** them from the old location.
 
-![Migrating text message database](/sites/siabnext.ttc.io/files/media/textsecure-and-07.png) ![Migrating text message database](/sites/siabnext.ttc.io/files/media/textsecure-and-08.png)
+![Migrating text message database](https://securityinabox.org/sbox/screen/textsecure-en/07.png)[TextSecure img 06] ![Migrating text message database](https://securityinabox.org/sbox/screen/textsecure-en/08.png)[TextSecure img 07]
 
 *Figures 6 and 7: Migrating text message database*
 

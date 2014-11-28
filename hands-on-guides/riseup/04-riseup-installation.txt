@@ -21,7 +21,7 @@ Language: EN
 
 1. Directly request an account from the **RiseUp** team themselves. Bear in mind that **RiseUp** generally runs on donations and the enthusiasm and goodwill of its volunteers - this method can take longer to be approved for an account.  
 
-2. The recommended method is for individuals and/or organisations to be invited to join by two existing **RiseUp** account members. This method requires that each existing **RiseUp** member sends you an invite code. To see how such codes are generated, please refer to [**Section 4.3 The Invites Page**](http://security.ngoinabox.org/en/riseup_changingsettings#4.3) 
+2. The recommended method is for individuals and/or organisations to be invited to join by two existing **RiseUp** account members. This method requires that each existing **RiseUp** member sends you an invite code. To see how such codes are generated, please refer to [**Section 4.3 The Invites Page**](https://securityinabox.org/riseup_changingsettings#4.3)[Riseup Invites]
 
 After you have received your invite codes, perform the following steps to register your free **RiseUp** account as follows: 
 
@@ -29,25 +29,25 @@ After you have received your invite codes, perform the following steps to regist
 
 **Type** [**https://mail.riseup.net**](https://mail.riseup.net) into your web browser, to activate the **RiseUp** site as follows:
 
-![Riseup mail page](/sites/siabnext.ttc.io/files/media/riseup-all-01.png)
+![Riseup mail page](https://securityinabox.org/sbox/screen/riseup-en-1/01.png)[Riseup img 01]
 
 *Figure 1: The https://mail.riseup.net/ page*
 
 **Note**: The ***s*** in the *http**s**://* address indicates that you are now communicating through a **Secure Sockets Layer** (**SSL**) connection. 
 
-For more information about this, please refer to the **How-to Booklet** chapter [**7. Keeping your Internet Communication Private**](/chapter-7) or to [**https://help.riseup.net/security**](https://help.riseup.net/security).
+For more information about this, please refer to the **How-to Booklet** chapter [**7. Keeping your Internet Communication Private**](https://securityinabox.org/chapter-7)[Private Communication] or to [**https://help.riseup.net/security**](https://help.riseup.net/security).
 
 ## Step 2
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-03.png) to activate the *Request account* page as follows:
+**Click** ![Request account](https://securityinabox.org/sbox/screen/riseup-en-1/03.png)[Riseup img 02] to activate the *Request account* page as follows:
 
-![Request an email account](/sites/siabnext.ttc.io/files/media/riseup-all-04.png)
+![Request an email account](https://securityinabox.org/sbox/screen/riseup-en-1/04.png)[Riseup img 03]
 
 *Figure 2: The RiseUp Request an email account page*
 
 ## Step 3
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-05.png) to display the **RiseUp** *Request an email account - About our email service* page.
+**Click** ![Next](https://securityinabox.org/sbox/screen/riseup-en-1/05.png)[Riseup img 04] to display the **RiseUp** *Request an email account - About our email service* page.
 
 **Important**: You *must* agree to all terms and conditions stated on the *About our email service* page to proceed with the **RiseUp** account setup. 
 
@@ -57,7 +57,7 @@ Read the **RiseUp** *Social Contract*, *Privacy Policy* and *Terms of Service*. 
 
 ## Step 5
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-05.png) to begin creating your **RiseUp** account by filling out the following on-line forms: *Account information*, *Password* and *Activation*.
+**Click** ![Next](https://securityinabox.org/sbox/screen/riseup-en-1/05.png)[Riseup img 04] to begin creating your **RiseUp** account by filling out the following on-line forms: *Account information*, *Password* and *Activation*.
 
 ## Step 6
 
@@ -65,7 +65,7 @@ Read the **RiseUp** *Social Contract*, *Privacy Policy* and *Terms of Service*. 
 
 **Important**: Do not use commas, full stops or spaces in the username. 
 
-![completed Account information form](/sites/siabnext.ttc.io/files/media/riseup-all-06.png)
+![completed Account information form](https://securityinabox.org/sbox/screen/riseup-en-1/06.png)[Riseup img 05]
 
 *Figure 3: An example of a completed Account information form*
 
@@ -73,19 +73,19 @@ Read the **RiseUp** *Social Contract*, *Privacy Policy* and *Terms of Service*. 
 
 ## Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-05.png) to proceed to the *Password* form. 
+**Click** ![Next](https://securityinabox.org/sbox/screen/riseup-en-1/05.png)[Riseup img 04] to proceed to the *Password* form. 
 
 **Note**: If you chosen username is already taken, you will be prompted to create a different one.
 
 ## Step 8
 
-**Fill-in** the *Password* and *Retype password* fields and **click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-05.png) to proceed.
+**Fill-in** the *Password* and *Retype password* fields and **click** ![Next](https://securityinabox.org/sbox/screen/riseup-en-1/05.png)[Riseup img 04] to proceed.
 
-![completed Password form](/sites/siabnext.ttc.io/files/media/riseup-all-07.png)
+![completed Password form](https://securityinabox.org/sbox/screen/riseup-en-1/07.png)[Riseup img 06]
 
 *Figure 4: The completed Password form*
 
-**Important:** The password for your **RiseUp** account is the most important factor in the security of your account. To learn how to create a strong password, please refer to the How-to Booklet chapter [**3. How to Create and Maintain Good Passwords**](http://security.ngoinabox.org/en/chapter-3) and to the manual on [**KeePass**](http://security.ngoinabox.org/en/keepass_main).
+**Important:** The password for your **RiseUp** account is the most important factor in the security of your account. To learn how to create a strong password, please refer to the How-to Booklet chapter [**3. How to Create and Maintain Good Passwords**](https://securityinabox.org/chapter-3)[Secure Passwords] and to the manual on [**KeePass**](https://securityinabox.org/en/keepass_main)[KeePass Main].
 
 ## Step 9
 
@@ -95,20 +95,20 @@ If you have received Invite codes from **RiseUp** account users that you know pe
  
 **Type** the *Invite codes* into their respective text fields. 
 
-![completed Activation form](/sites/siabnext.ttc.io/files/media/riseup-all-08.png)
+![completed Activation form](https://securityinabox.org/sbox/screen/riseup-en-1/08.png)[Riseup img 07]
 
 *Figure 5: An example of a completed Activation form*
 
 ## Step 10
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-09.png) to request your **RiseUp** account or to finish creating your **RiseUp** account as follows:
+**Click** ![Finish](https://securityinabox.org/sbox/screen/riseup-en-1/09.png)[Riseup img 08] to request your **RiseUp** account or to finish creating your **RiseUp** account as follows:
 
-![account successfully created](/sites/siabnext.ttc.io/files/media/riseup-all-10.png)
+![account successfully created](https://securityinabox.org/sbox/screen/riseup-en-1/10.png)[Riseup img 09]
 
 *Figure 6: An example of an account successfully created confirmation*
 
 ## Step 11
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/riseup-all-05.png) to return to the **RiseUp** Mail Home Page (see *figure 1*).
+**Click** ![Next](https://securityinabox.org/sbox/screen/riseup-en-1/05.png)[Riseup img 04] to return to the **RiseUp** Mail Home Page (see *figure 1*).
 
 Congratulations! You have successfully created or requested your **RiseUp** email account.

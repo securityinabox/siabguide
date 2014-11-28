@@ -23,7 +23,7 @@ It is required to do a one-time secure connection per phone number with which yo
 
 Go to the *Menu*, and **click** on *secure session* 
 
-![Menu options](/sites/siabnext.ttc.io/files/media/textsecure-and-09.png)
+![Menu options](https://securityinabox.org/sbox/screen/textsecure-en/09.png)[TextSecure img 08]
 
 *Figure 8: Menu options*
 
@@ -31,7 +31,7 @@ Go to the *Menu*, and **click** on *secure session*
 
 **Enter** or **select** the desired contact to **Initiate Key Exchange**
 
-![Secure session initiation](/sites/siabnext.ttc.io/files/media/textsecure-and-10.png)     ![Secure session initiation](/sites/siabnext.ttc.io/files/media/textsecure-and-1011.png)
+![Secure session initiation](https://securityinabox.org/sbox/screen/textsecure-en/10.png)[TextSecure img 09]     ![Secure session initiation](https://securityinabox.org/sbox/screen/textsecure-en/1011.png)[TextSecure img 10]
 
 *Figures 9 and 10: Secure session initiation*
 
@@ -41,7 +41,7 @@ Go to the *Menu*, and **click** on *secure session*
 
 Your **TextSecure** app will send a message to the recipient, whose **TextSecure** app will **AUTOMATICALLY** respond with a message to establish a **secure connection**. This process must be carried out once for each phone number or contact.
 
-![Key exchange messages](/sites/siabnext.ttc.io/files/media/textsecure-and-11.png)     ![Key exchange messages](/sites/siabnext.ttc.io/files/media/textsecure-and-12.png)
+![Key exchange messages](https://securityinabox.org/sbox/screen/textsecure-en/11.png)[TextSecure img 11]     ![Key exchange messages](https://securityinabox.org/sbox/screen/textsecure-en/12.png)[TextSecure img 12] 
 
 *Figures 11 and 12: Key exchange messages*
 
@@ -49,13 +49,13 @@ Your **TextSecure** app will send a message to the recipient, whose **TextSecure
 
 When the secure connection with this contact is established, a locked padlock icon will appear on the top-left corner.
 
-![Key exchange message sent](/sites/siabnext.ttc.io/files/media/textsecure-and-13.png)
+![Key exchange message sent](https://securityinabox.org/sbox/screen/textsecure-en/13.png)[TextSecure img 13]
 
 *Figure 12: Key exchange message sent*
 
  **Note**: You can change the settings to prevent **TextSecure** from replying automatically by **choosing** *Menu*, and then *Settings*
 
-![Menu options](/sites/siabnext.ttc.io/files/media/textsecure-and-14.png)
+![Menu options](https://securityinabox.org/sbox/screen/textsecure-en/14.png)[TextSecure img 14]
 
 *Figure 13: Menu options*
 
@@ -63,7 +63,7 @@ When the secure connection with this contact is established, a locked padlock ic
 
 **Scroll** down to *Complete Key Exchanges*. This option will automatically complete key exchanges for new secure sessions or for existing sessions with the same identity key.
 
-![Settings](/sites/siabnext.ttc.io/files/media/textsecure-and-15.png)
+![Settings](https://securityinabox.org/sbox/screen/textsecure-en/15.png)[TextSecure img 15]
 
 *Figure 14: Settings*
 
@@ -71,7 +71,7 @@ When the secure connection with this contact is established, a locked padlock ic
 
 **Uncheck** the box to turn this option off as it appears below.
 
-![omplete Key Exchanges unchecked](/sites/siabnext.ttc.io/files/media/textsecure-and-16.png)
+![omplete Key Exchanges unchecked](https://securityinabox.org/sbox/screen/textsecure-en/16.png)[TextSecure img 16]
 
 *Figure 15: Complete Key Exchanges unchecked*
 
@@ -83,7 +83,7 @@ To verify that connection you established is with the right person, you can foll
 
 **Select** the text message that was automatically sent by **TextSecure** to establish the secure connection.
 
-![Sample selected text message](/sites/siabnext.ttc.io/files/media/textsecure-and-17.png)
+![Sample selected text message](https://securityinabox.org/sbox/screen/textsecure-en/17.png)[TextSecure img 17]
 
 *Figure 16: Sample selected text message*
 
@@ -91,7 +91,7 @@ To verify that connection you established is with the right person, you can foll
 
 **Select** *Menu* and then **tap** *Secure Session Options* to activate the following screen:
 
-![Menu options](/sites/siabnext.ttc.io/files/media/textsecure-and-18.png)
+![Menu options](https://securityinabox.org/sbox/screen/textsecure-en/18.png)[TextSecure img 18]
 
 *Figure 17: Menu options*
 
@@ -99,7 +99,7 @@ To verify that connection you established is with the right person, you can foll
 
 **Tap** *Verify Recipient Identity*. This will display a set of characters for you as well as the person on the other side.
 
-![Secure session options](/sites/siabnext.ttc.io/files/media/textsecure-and-19.png)
+![Secure session options](https://securityinabox.org/sbox/screen/textsecure-en/19.png)[TextSecure img 19]
  
 *Figure 18: Secure session options*
 
@@ -117,7 +117,7 @@ Contact the other person (via phone or other secure channels) and confirm they s
 
 **Compose** a new message.
 
-![Home screen](/sites/siabnext.ttc.io/files/media/textsecure-and-20.png)
+![Home screen](https://securityinabox.org/sbox/screen/textsecure-en/20.png)[TextSecure img 20]
 
 *Figure 19: Home screen*
 
@@ -125,7 +125,7 @@ Contact the other person (via phone or other secure channels) and confirm they s
 
 **Select** the desired contact.
 
-![Contact selection field](/sites/siabnext.ttc.io/files/media/textsecure-and-21.png)
+![Contact selection field](https://securityinabox.org/sbox/screen/textsecure-en/21.png)[TextSecure img 21]
 
 *Figure 20: Contact selection field*
 
@@ -133,7 +133,7 @@ Contact the other person (via phone or other secure channels) and confirm they s
 
 **Verify** the padlock appears in the send button to signify that your text will be secure.
 
-![Message composition field](/sites/siabnext.ttc.io/files/media/textsecure-and-2213.png)
+![Message composition field](https://securityinabox.org/sbox/screen/textsecure-en/2213.png)[TextSecure img 22]
 
 *Figure 21: Message composition field*
 
@@ -141,7 +141,7 @@ Contact the other person (via phone or other secure channels) and confirm they s
 
 **Write** the message.
 
-![Sample message](/sites/siabnext.ttc.io/files/media/textsecure-and-2313.png)
+![Sample message](https://securityinabox.org/sbox/screen/textsecure-en/2313.png)[TextSecure img 23]
 
 *Figure 22: Sample message*
 
