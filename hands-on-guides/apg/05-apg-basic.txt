@@ -19,7 +19,7 @@ Language: EN
 
 ## Step 1
 
-After opening **APG**, **press** ![](https://securityinabox.org/sbox/screen/apg-en/01.png)[APG img 01].
+After opening **APG**, **press** ![Encrypt File](https://securityinabox.org/sbox/screen/apg-en/01.png)[APG img 01].
 
 ## Step 2
 
