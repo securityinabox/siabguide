@@ -8,7 +8,7 @@ Version: N/A
 License: Proprietary Software
 System_requirements: Web browser; Internet connection
 Admin: 
-Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration)[Crabgrass Main]; [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
 Comment: read 03-twitter-security-premise before using this tool
 Group: Basic Usage 
 Title: Basic Howto
@@ -19,7 +19,7 @@ Language: EN
 
 ## General Guidelines on Clients and Apps
 
-**Twitter** users can allow various third-party applications, including other social networking and photo-sharing sites to interact with their **Twitter** accounts, for example in order to share photos uploaded via websites such as **Instagram**, or **TwitPic**. However as mentioned in [**How to protect yourself and your data when using social networking sites**](/en/chapter-9) you must be careful when integrating your profiles on different social networking sites. These third-party sites have their own terms of use, privacy policies and privacy settings which are not necessarily the same as **Twitter**'s. Therefore, although your **Twitter** account may be relatively secure, your profiles on third-party app websites may be completely exposed, and if you use the same username or email address for all such websites, you could easily be tracked down. The number of such websites and apps is vast, and only a few are explored in this guide. However it is vital that you research and update your security settings on all third-party appls linked to your **Twitter** page. If you do not consider them secure enough, delete your profile and revoke its access to your **Twitter** account.
+**Twitter** users can allow various third-party applications, including other social networking and photo-sharing sites to interact with their **Twitter** accounts, for example in order to share photos uploaded via websites such as **Instagram**, or **TwitPic**. However as mentioned in [**How to protect yourself and your data when using social networking sites**](https://securityinabox.org/chapter-9)[Social Networks] you must be careful when integrating your profiles on different social networking sites. These third-party sites have their own terms of use, privacy policies and privacy settings which are not necessarily the same as **Twitter**'s. Therefore, although your **Twitter** account may be relatively secure, your profiles on third-party app websites may be completely exposed, and if you use the same username or email address for all such websites, you could easily be tracked down. The number of such websites and apps is vast, and only a few are explored in this guide. However it is vital that you research and update your security settings on all third-party appls linked to your **Twitter** page. If you do not consider them secure enough, delete your profile and revoke its access to your **Twitter** account.
 
 Should you wish to revoke the access of an application to your **Twitter** profile:
 
@@ -27,21 +27,21 @@ Should you wish to revoke the access of an application to your **Twitter** profi
 
 Go to *Settings* of your account and **click** the *Apps* tab on the left-hand side.
 
-![Settings menu](/sites/siabnext.ttc.io/files/media/twitter-en-all-10.png)
+![Settings menu](https://securityinabox.org/sbox/screen/twitter-en-2/10.png)[Twitter img 08]
 
 *Figure 1: Settings menu*
 
 ### Step 2
 
-Having opened the list of apps connected to your **Twitter** account, **select** the app to which you wish to revoke access, click ![](/sites/siabnext.ttc.io/files/media/twitter-en-all-12.png).
+Having opened the list of apps connected to your **Twitter** account, **select** the app to which you wish to revoke access, click ![Revoke Access](https://securityinabox.org/sbox/screen/twitter-en/12.png)[Twitter img 09].
 
-![sample list of apps](/sites/siabnext.ttc.io/files/media/twitter-en-all-11.png)
+![sample list of apps](https://securityinabox.org/sbox/screen/twitter-en-2/11.png)[Twitter img 10]
 
 *Figure 2: A sample list of apps*
 
 ## Instagram
 
-**Instagram** is a popular image-sharing smartphone application which belongs to [**Facebook**](/en/Facebook_main) and is often used in conjunction with **Twitter**. Since it is primarily a mobile application, using **Instagram** with **Twitter** already associates your account to your mobile device, which may mean a lot of information such as your location will be shared with **Facebook**, **Instagram** and **Twitter**, all of whom may then share it with third parties including the State. It is therefore not reccommended that you use **Instagram** on the same account or even device through which any kind of sensitive information may pass.
+**Instagram** is a popular image-sharing smartphone application which belongs to [**Facebook**](https://securityinabox.org/facebook_main)[Facebook Main] and is often used in conjunction with **Twitter**. Since it is primarily a mobile application, using **Instagram** with **Twitter** already associates your account to your mobile device, which may mean a lot of information such as your location will be shared with **Facebook**, **Instagram** and **Twitter**, all of whom may then share it with third parties including the State. It is therefore not reccommended that you use **Instagram** on the same account or even device through which any kind of sensitive information may pass.
 
 ## TwitPic
 
@@ -53,7 +53,7 @@ Many **Twitter** users make use of the website **TwitPic** for uploading and sto
 
 **Login** to your **TwitPic** account using **Firefox** browser and **click** on *Settings* in the menu at the top right of the screen.
 
-![TwitPic homepage menu bar](/sites/siabnext.ttc.io/files/media/twitter-en-all-22.png)
+![TwitPic homepage menu bar](https://securityinabox.org/sbox/screen/twitter-en/22.png)[Twitter img 11]
 
 *Figure 3: The TwitPic homepage menu bar*
 
@@ -61,7 +61,7 @@ Many **Twitter** users make use of the website **TwitPic** for uploading and sto
 
 Under *privacy*, **uncheck** the box marked *Allow others to tag my photos* and **click** on *Save Changes* button.
 
-![Tagging options](/sites/siabnext.ttc.io/files/media/twitter-en-all-13.png)
+![Tagging options](https://securityinabox.org/sbox/screen/twitter-en/13.png)[Twitter img 12]
 
 *Figure 4: Tagging options*
 
@@ -75,7 +75,7 @@ If you would like to delete sensitive images from **TwitPic**:
 
 **Click** *Delete* beside the photo you wish to delete.
 
-![Image Options](/sites/siabnext.ttc.io/files/media/twitter-en-all-14.png)
+![Image Options](https://securityinabox.org/sbox/screen/twitter-en/14.png)[Twitter img 13]
 
 *Figure 5: Image Options*
 
@@ -89,14 +89,14 @@ If you would like to delete your **TwitPic** account.
 
 Under the *Delete Account* section, **type** the words from the "captcha" image into the box.
 
-!["captcha" image shown before you delete your profile](/sites/siabnext.ttc.io/files/media/twitter-en-all-15.png)
+!["captcha" image shown before you delete your profile](https://securityinabox.org/sbox/screen/twitter-en/15.png)[Twitter img 14]
 
 *Figure 6: This "captcha" image is shown before you can delete your profile*
 
 ### Step 7
 
-**Click** ![](/sites/siabnext.ttc.io/files/media/twitter-en-all-16.png)
+**Click** ![Delete Account](https://securityinabox.org/sbox/screen/twitter-en/16.png)[Twitter img 15]
 
 ## Smartphone Apps
 
-A number of Clients and Apps for interacting with **Twitter** are also available for smartphones such as the iPhone, Android, Blackberrys or Windows Phones. It is very important to keep in mind that smartphones have certain security issues which are inherent, and the use of these Apps or Clients on smartphones may be more insecure than using them on your computer: for example they may not connect to the Twitter server in encrypted way, leaving the content of your tweets exposed. For more information on how to reduce risk while using smartphones, see [**How to use smartphones as securely as possible**](/en/chapter-11).
+A number of Clients and Apps for interacting with **Twitter** are also available for smartphones such as the iPhone, Android, Blackberrys or Windows Phones. It is very important to keep in mind that smartphones have certain security issues which are inherent, and the use of these Apps or Clients on smartphones may be more insecure than using them on your computer: for example they may not connect to the Twitter server in encrypted way, leaving the content of your tweets exposed. For more information on how to reduce risk while using smartphones, see [**How to use smartphones as securely as possible**](https://securityinabox.org/en/chapter-11)[Smartphones].

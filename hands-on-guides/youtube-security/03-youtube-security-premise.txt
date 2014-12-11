@@ -8,7 +8,7 @@ Version: N/A
 License: Proprietary Software
 System_requirements: Web browser; Internet connection
 Admin: 
-Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration)[Crabgrass Main]; [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
 Comment:
 Group: Basic Usage 
 Title: Important premise
@@ -19,11 +19,11 @@ Language: EN
 
 These social networking security guides aim to help you navigate the privacy and security settings of a few popular social networking platforms, with a view toward making them more secure (though less insecure is perhaps a better way of putting it). Specifically, step-by step guides are provided for Facebook and Twitter, and some general guidelines are provided for YouTube and Flickr.
 
-These social networking websites are the most popular and widely used social networking tools. They are owned by private companies and, as noted in chapter [**9. How to protect yourself and your data when using social networking sites**](https://siabnext.ttc.io/en/chapter-9), these companies make their money by collecting information about users and selling it on to advertisers.
+These social networking websites are the most popular and widely used social networking tools. They are owned by private companies and, as noted in chapter [**9. How to protect yourself and your data when using social networking sites**](https://securityinabox.org/chapter-9)[Social Networks], these companies make their money by collecting information about users and selling it on to advertisers.
 
 Government crackdowns will target these sites first and block them, and the companies will cave into government pressures and censor when necessary. If they are not blocked, they are actively monitored by numerous governments who collect user metadata and make requests for private information about individuals of interest, often including human rights defenders. Note, in this regard, that companies managing social networking servers have access to **all your information**, including your private data and password.
 
-It may be worth looking at alternatives to these sites, such as [**Diaspora**](http://joindiaspora.com/), [**Crabgrass**](https://securityinabox.org/en/context/01/crabgrass-online-collaboration), [**Friendica**](http://friendica.com/), [**Pidder**](https://pidder.com/), or [**SecureShare**](http://secushare.org/) which have been designed with digital security and activism in mind. The [**Social Swarm**](http://socialswarm.net/) is a think-tank run by a not-for-profit organisation which carries out discussions, awareness-raising and campaigns related to privacy on social networks, and may be a useful learning resource.
+It may be worth looking at alternatives to these sites, such as [**Diaspora**](http://joindiaspora.com/), [**Crabgrass**](https://securityinabox.org/en/context/01/crabgrass-online-collaboration)[Crabgrass Main], [**Friendica**](http://friendica.com/), [**Pidder**](https://pidder.com/), or [**SecureShare**](http://secushare.org/) which have been designed with digital security and activism in mind. The [**Social Swarm**](http://socialswarm.net/) is a think-tank run by a not-for-profit organisation which carries out discussions, awareness-raising and campaigns related to privacy on social networks, and may be a useful learning resource.
 
 If you do not wish to associate your videos with your **Google profile**, there are a number of alternatives, such as [**Vimeo**](https://www.vimeo.com). Vimeo is frequented by a smaller community of users than **YouTube**. Like **YouTube**, it facilitates connection over **SSL**, and gives users numerous privacy options and control of creative commons licenses for their videos. Other similar sites may be popular in different regions, so you way wish to explore other options. Before choosing one you should consider the following points:
 

@@ -8,7 +8,7 @@ Version: N/A
 License: Proprietary Software
 System_requirements: Web browser; Internet connection
 Admin: 
-Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration); [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
+Alternatives: [Diaspora](http://joindiaspora.com/); [Crabgrass](https://securityinabox.org/en/context/01/crabgrass-online-collaboration)[Crabgrass Main]; [Friendica](http://friendica.com/); [Pidder](https://pidder.com/); [SecureShare](http://secushare.org/)
 Comment: read 03-twitter-security-premise before using this tool
 Group: Required Reading
 Title: Required Reading
