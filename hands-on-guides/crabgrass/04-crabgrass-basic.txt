@@ -25,7 +25,7 @@ Go to the [Crabgrass log-in page](https://we.riseup.net/). Crabgrass is configur
 
 Enter your user name and password.
 
-![log-in page - user name and password filled in](https://securityinabox.org/sbox/screen/crabgrass-en/crab-8_login2.png)[Crabgrass img 05]Crabgrass Dashboard
+![log-in page - user name and password filled in](https://securityinabox.org/sbox/screen/crabgrass-en/crab-8_login2.png)[Crabgrass img 05]
 
 *Figure 4: The log-in page with user name and password filled in*
 

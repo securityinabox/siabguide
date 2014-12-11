@@ -42,42 +42,42 @@ To begin downloading and extracting **Firefox Portable**, perform the following 
 
 ### Step 4
 
-**Double click** ![](https://securityinabox.org/sbox/screen/firefoxportable-en-1/03.png)[Firefox img 63]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/firefoxportable-en-1/04.png)[Firefox img 64] to activate the *Mozilla Firefox, Portable Edition | Portableapps.com Installer* window.
+**Double click** ![](https://securityinabox.org/sbox/screen/firefoxportable-en-1/03.png)[Firefox img 62]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/firefoxportable-en-1/04.png)[Firefox img 63] to activate the *Mozilla Firefox, Portable Edition | Portableapps.com Installer* window.
 
 ### Step 5
 
-**Click** ![Next](https://securityinabox.org/sbox/screen/firefoxportable-en-1/05.png)[Firefox img 65] to activate the following screen:
+**Click** ![Next](https://securityinabox.org/sbox/screen/firefoxportable-en-1/05.png)[Firefox img 64] to activate the following screen:
 
-![Choose Install Location](https://securityinabox.org/sbox/screen/firefoxportable-en-1/06.png)[Firefox img 66]
+![Choose Install Location](https://securityinabox.org/sbox/screen/firefoxportable-en-1/06.png)[Firefox img 65]
 
 *Figure 1: The Choose Install Location window*
 
 ### Step 6
 
-**Click** ![Browse](https://securityinabox.org/sbox/screen/firefoxportable-en-1/07.png)[Firefox img 67] to activate the *Browse for Folders* window as follows:
+**Click** ![Browse](https://securityinabox.org/sbox/screen/firefoxportable-en-1/07.png)[Firefox img 66] to activate the *Browse for Folders* window as follows:
 
-![Browse for Folder](https://securityinabox.org/sbox/screen/firefoxportable-en-1/08.png)[Firefox img 68]
+![Browse for Folder](https://securityinabox.org/sbox/screen/firefoxportable-en-1/08.png)[Firefox img 67]
 
 *Figure 2: The Browse for Folder window*
 
 ### Step 7
 
-**Navigate** to your destination external drive or USB memory stick, as shown in *Figure 3* above, then **click** ![OK](https://securityinabox.org/sbox/screen/firefoxportable-en-1/09.png)[Firefox img 69] to confirm the destination of the **Mozilla Firefox, Portable Edition** file, and return to the *Choose Install Location* window. 
+**Navigate** to your destination external drive or USB memory stick, as shown in *Figure 3* above, then **click** ![OK](https://securityinabox.org/sbox/screen/firefoxportable-en-1/09.png)[Firefox img 68] to confirm the destination of the **Mozilla Firefox, Portable Edition** file, and return to the *Choose Install Location* window. 
 
 ### Step 8
 
-**Click** ![Install](https://securityinabox.org/sbox/screen/firefoxportable-en-1/10.png)[Firefox img 70] to begin the extraction process, then **click** ![Finish](https://securityinabox.org/sbox/screen/firefoxportable-en-1/11.png)[Firefox img 71] to complete the installation process, and then **navigate** to the removable drive or USB memory stick which the **Mozilla Firefox, Portable Edition** file was saved.
+**Click** ![Install](https://securityinabox.org/sbox/screen/firefoxportable-en-1/10.png)[Firefox img 69] to begin the extraction process, then **click** ![Finish](https://securityinabox.org/sbox/screen/firefoxportable-en-1/11.png)[Firefox img 70] to complete the installation process, and then **navigate** to the removable drive or USB memory stick which the **Mozilla Firefox, Portable Edition** file was saved.
 
 ### Step 9
 
 **Open** your removable device or USB memory stick, and it should resemble the following:
 
-![newly installed Mozilla Firefox Portable Edition](https://securityinabox.org/sbox/screen/firefoxportable-en-1/12.png)[Firefox img 72]
+![newly installed Mozilla Firefox Portable Edition](https://securityinabox.org/sbox/screen/firefoxportable-en-1/12.png)[Firefox img 71]
 
 *Figure 3: The newly installed Mozilla Firefox Portable Edition with the Firefox Portable folder highlighted in blue*
 
 ### Step 10
 
-**Open** the **Firefox Portable** folder and then **double click** ![](https://securityinabox.org/sbox/screen/firefoxportable-en-1/13.png)[Firefox img 73] to begin using **Firefox Portable**.
+**Open** the **Firefox Portable** folder and then **double click** ![](https://securityinabox.org/sbox/screen/firefoxportable-en-1/13.png)[Firefox img 72] to begin using **Firefox Portable**.
 
 Please refer to the [**Firefox**](https://securityinabox.org/firefox_main)[Firefox Main] chapter to begin configuring and using it.

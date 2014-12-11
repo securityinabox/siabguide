@@ -19,14 +19,14 @@ Language: EN
 
 ## Step 1
 
-![Avast img 40](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.057_0.png)[Avast img 40]
+![Avast img 41](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.057_0.png)[Avast img 41]
 
 1. Click *Scan*
 2. Click *Scan for viruses*
 
 ## Step 2
 
-![Avast img 41](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.058.png)[Avast img 41]
+![Avast img 42](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.058.png)[Avast img 42]
 
 1. Click the contents of the *Scan* select box to choose which type of scan *avast!* should perform
 2. A *Quick scan* will scan the directories on your computer where malware is most likely to be present
@@ -37,34 +37,34 @@ Language: EN
 
 ## Step 3
 
-![Avast img 42](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.058_0.png)[Avast img 42]
+![Avast img 43](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.058_0.png)[Avast img 43]
 
 1. Select the *Quick scan* option
 2. Click *Start*
 
 ## Step 4
 
-![Avast img 43](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.059.png)[Avast img 43]
+![Avast img 44](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.059.png)[Avast img 44]
 
 1. The progress dial will track *avast!* as it carries out a *Quick scan* for malware on your computer.
 2. If you have a lot of files on your computer, the *Quick scan* might not be particularly quick. If necessary, you can pause the scan by clicking here.
 
 ## Step 5 (no malware detected)
 
-![Avast img 44](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.060.png)[Avast img 44]
+![Avast img 45](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.060.png)[Avast img 45]
 
 1. If the scan does not find any malware, you can click the *X* in the upper, right-hand corner to close the *avast!* window.
 
 ## Step 6 (malware detected)
 
-![Avast img 45](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.061_0.png)[Avast img 45]
+![Avast img 46](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.061_0.png)[Avast img 46]
 
 1. If the scan detects malware, *avast!* will ask you how to respond.
 2. Click *Show results*
 
 ## Step 7 (malware detected)
 
-![Avast img 46](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.062_0.png)[Avast img 46]
+![Avast img 47](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.062_0.png)[Avast img 47]
 
 * If your scan detects malware, you can usually just click *Apply*, and let *avast!* clean things up.
 1. *avast!* will show you the location of the infected file, along with the severity of the malware and its name. 
@@ -73,7 +73,7 @@ Language: EN
 
 ## Step 8 (malware detected)
 
-![Avast img 47](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.063.png)[Avast img 47]
+![Avast img 48](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.063.png)[Avast img 48]
 
 1. If *avast!* was able to deal with the infected file, you will see *Action successful* here.
 2. If you you chose the *Fix automatically* action, you will see how *avast!* was able to deal with the infected file here.
@@ -81,7 +81,7 @@ Language: EN
 
 ## Step 9 (malware detected)
 
-![Avast img 48](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.064.png)[Avast img 48]
+![Avast img 49](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.064.png)[Avast img 49]
 
 * After you close the *Scan Results* window, *avast!* might suggest that you perform a *boot-time scan*. If possible, you should do so. If you can not restart your computer immediately, you should schedule a *boot-time scan* and restart it as soon as possible.
 1. If you have time to carry out an immediate *boot-time scan*, click *Yes* (The scan could take an hour or more.)

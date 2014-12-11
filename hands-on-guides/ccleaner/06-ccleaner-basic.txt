@@ -150,19 +150,19 @@ As a precautionary measure before you begin fixing the **Windows Registry**, you
 
 ### Step 6
 
-**Click** ![<<](https://securityinabox.org/sbox/screen/ccleaner-en-1/40.png)[Ccleaner img 39] or ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/41.png)[Ccleaner img 40] to view each problem, and then **click** ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/40.png)[Ccleaner img 41] to fix only those you would like to.
+**Click** ![<<](https://securityinabox.org/sbox/screen/ccleaner-en-1/40.png)[Ccleaner img 39] or ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/41.png)[Ccleaner img 40] to view each problem, and then **click** ![](https://securityinabox.org/sbox/screen/ccleaner-en-1/42.png)[Ccleaner img 41] to fix only those you would like to.
 
 ### Step 7
 
 **Click** ![Fix All Selected Issues](https://securityinabox.org/sbox/screen/ccleaner-en-1/43.png)[Ccleaner img 42] to fix *all* the selected issues, and then **click** ![Close](https://securityinabox.org/sbox/screen/ccleaner-en-1/44.png)[Ccleaner img 43] to complete the cleaning process.
 
-**Tip**: Repeat ### Steps 2** to **7** until you no longer see any problems to be fixed.
+**Tip**: Repeat **Steps 2** to **7** until you no longer see any problems to be fixed.
 
 The **Windows Registry** has now been successfully cleaned.
 
 ## Recover a Windows Registry Backup File
 
-If you suspect that cleaning the **Windows Registry** has caused a problem with the functioning of your system, the registry backup file you created in ### Steps 3** to **5** in section **4.1** can be used to restore the original registry and reduce interference with your system.
+If you suspect that cleaning the **Windows Registry** has caused a problem with the functioning of your system, the registry backup file you created in **Steps 3** to **5** in section **4.1** can be used to restore the original registry and reduce interference with your system.
 
 To restore the original registry, perform the following steps:
 

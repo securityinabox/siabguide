@@ -27,7 +27,7 @@ Language: EN
   * Tell Jitsi not to keep such records in the future, and
   * Delete our existing history
 
-1. Click the *clock* button on the right side of the main application window
+    1. Click the *clock* button on the right side of the main application window
 
 ## Step 2
 
@@ -41,7 +41,7 @@ Language: EN
 
 * To access your IM chat history, you must have an active chat session with a Buddy. 
 
-1. Click the *hourglass* button
+    1. Click the *hourglass* button
 
 ## Step 4
 
@@ -55,9 +55,9 @@ Language: EN
 
 * To disable logging of IM text chats, voice calls and video calls, follow the Steps below
 
-1. Click *Tools*
+    1. Click *Tools*
 
-2. Click *Options*
+    2. Click *Options*
 
 ## Step 6
 
@@ -73,33 +73,33 @@ Language: EN
 
 * In addition to your chat history, Jitsi collects other data that may also be sensitive. To address this issue, follow the Steps below
 
-1. Click the *Advanced* button
+    1. Click the *Advanced* button
 
-2. Select *Logging* from the list on the left
+    2. Select *Logging* from the list on the left
 
-3. Uncheck *Enable packet logging*
+    3. Uncheck *Enable packet logging*
 
-4. Click the red *X* in the upper right-hand corner to close the *Options* window
+    4. Click the red *X* in the upper right-hand corner to close the *Options* window
 
-**These new settings will not take effect until you restart Jitsi!**
+* **These new settings will not take effect until you restart Jitsi!**
 
 ## Step 8
 
 * In order to remove *past* history data, follow the Steps below. (If you have not used Jisti for any significant IM text chats, voice calls or video calls, you can probably skip these Steps.)
 
-1. In Windows Explorer, go to
+    1. In Windows Explorer, go to
 
-  *C:\Documents and Settings\<username>\Application Data\Jitsi*
+        *C:\Documents and Settings\<username>\Application Data\Jitsi*
 
-2. Right-click on the *history_ver1.0* file
+    2. Right-click on the *history_ver1.0* file
 
-3. Click *Delete* 
+    3. Click *Delete* 
 
-  Or, if you prefer, you could:
+* Or, if you prefer, you could:
 
     * Drag the *history_ver1.0* file to the *Recycle Bin*, or 
     * Click it once and press the *Delete* key on your keyboard
 
 * Empty the *Recycle Bin*
 
-**See the [How to destroy sensitive information](https://securityinabox.org/chapter-6)[Sensitive Information] chapter for advice on disposing of data properly**
+* **See the [How to destroy sensitive information](https://securityinabox.org/chapter-6)[Sensitive Information] chapter for advice on disposing of data properly**

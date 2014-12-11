@@ -16,6 +16,13 @@ Title: Installation
 Language: EN
 
 
+**Firefox** has many easy-to-use settings for protecting your privacy and security whenever you access the Internet. How frequently you may have to configure these settings depends on your particular situation:
+
+* If you are using your personal computer, and do not allow others to use it for browsing purposes, you need only configure these settings once.
+* If you are in a public location or at work, you may have to repeatedly re-configure these settings for your own use.
+
+**Note**: You may also use a portable version of **Firefox** on a USB memory stick with you. This lets you configure **Firefox** according to your requirements, and you can use this version on any public computer. For more information about **Firefox** portable, please refer to [**Mozilla Firefox, Portable Edition**](https://securityinabox.org/en/firefox_portable)[Firefox Portable].
+
 # Install Firefox
 
 Installing **Firefox** is a simple and straightforward process. To begin installing **Firefox**, perform the following steps:

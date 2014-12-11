@@ -21,7 +21,7 @@ Before you can begin encrypting and decrypting email, text messages, documents a
 
 ### Step 1
 
-To run the **gpg4usb** program for the first time , **find and double click** ![gpg4usb folder](https://securityinabox.org/sbox/screen/gpg4usb-en-1/02.png)[gpg4usb img 02] to open the **gpg4usb** folder and then **double click** ![start_windows.exe](/sites/siabnext.ttc.io/files/media/gpg4usb-win-03.png)[gpg4usb img 03]. This will activate the *Getting Started* window. Select a language and click *Next*
+To run the **gpg4usb** program for the first time , **find and double click** ![gpg4usb folder](https://securityinabox.org/sbox/screen/gpg4usb-en-1/02.png)[gpg4usb img 02] to open the **gpg4usb** folder and then **double click** ![start_windows.exe](https://securityinabox.org/sbox/screen/gpg4usb-en-1/03.png)[gpg4usb img 03]. This will activate the *Getting Started* window. Select a language and click *Next*
 
 ### Step 2
 

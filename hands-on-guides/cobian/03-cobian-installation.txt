@@ -21,7 +21,7 @@ Language: EN
 
 Installing **Cobian Backup** is a relatively easy and quick procedure. To begin installing **Cobian Backup**, perform the following steps:
 
-## Step 1
+### Step 1
 
 **Double click** ![](https://securityinabox.org/sbox/screen/cobian-en/01.png)[Cobian img 01]; the *Open File - Security Warning* dialog box may appear. If it does, **click** ![Run](https://securityinabox.org/sbox/screen/cobian-en/02.png)[Cobian img 02] to activate the light blue *Extracting the resource* progress status bar, followed a few moments later by the following screen:
 
@@ -29,7 +29,7 @@ Installing **Cobian Backup** is a relatively easy and quick procedure. To begin 
 
 *Figure 1: The Cobian Setup Please select a language window*
 
-## Step 2
+### Step 2
 
 **Click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] to activate the *Please read and accept the license agreement* screen; **check** the *I accept* option, and then **click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] again to activate the following screen:
 
@@ -37,7 +37,7 @@ Installing **Cobian Backup** is a relatively easy and quick procedure. To begin 
 
 *Figure 2: The Select an installation directory window*
 
-## Step 3
+### Step 3
 
 **Click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] to activate the following screen:
 
@@ -45,13 +45,13 @@ Installing **Cobian Backup** is a relatively easy and quick procedure. To begin 
 
 *Figure 3: The Installation type and Service options window*
 
-## Step 4
+### Step 4
 
 **Check** the *Use Local System account* option in the *Service options* pane, so that your own resembles *Figure 3* above. 
 
 **Important**: This option ensures that **Cobian Backup** will be running silently in the background all the time, so that your backups will occur as scheduled.
 
-## Step 5
+### Step 5
 
 **Click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] to activate the following message prompt:
 
@@ -59,10 +59,10 @@ Installing **Cobian Backup** is a relatively easy and quick procedure. To begin 
 
 *Figure 4: The Cobian Backup 10 message prompt* 
 
-## Step 6
+### Step 6
 
 **Click** ![Yes](https://securityinabox.org/sbox/screen/cobian-en/08.png)[Cobian img 08] to activate the next installation screen, and then **click** ![Next](https://securityinabox.org/sbox/screen/cobian-en/04.png)[Cobian img 04] to continue with the installation process.
 
-## Step 7
+### Step 7
 
 **Click** ![Done](https://securityinabox.org/sbox/screen/cobian-en/09.png)[Cobian img 09] to complete the installation process. After the installation process has been completed, the **Cobian Backup** icon will appear in the **Windows System Tray** as follows: ![](https://securityinabox.org/sbox/screen/cobian-en/10.png)[Cobian img 10]

@@ -25,6 +25,6 @@ Although browser histories may be convenient, they also let someone identify the
 
 To remove temporary data created every time you use a program, you would have to open each individual program directory, identify and then manually delete its temporary program files from there. **CCleaner** simply displays a list of programs and lets you choose the program(s) from which all temporary files should be deleted. 
 
-**Important**: Although **CCleaner** only erases temporary files, and not the actual documents saved on your computer, it is **strongly recommended** that you keep an up-to-date backup of your documents (please refer to the **How-to Booklet** chapter [**5. How to Recover from Information Loss**](/en/chapter-5) for more information on how to perform a backup). 
+**Important**: Although **CCleaner** only erases temporary files, and not the actual documents saved on your computer, it is **strongly recommended** that you keep an up-to-date backup of your documents (please refer to the **How-to Booklet** chapter [**5. How to Recover from Information Loss**](https://securityinabox.org/chapter-5)[Information Loss] for more information on how to perform a backup). 
 
 After running **CCleaner** you may lose your all browser and recent document histories, and saved passwords. However, this is *precisely* the point of this tool - to minimize the different ways of infecting or monitoring your computer system.

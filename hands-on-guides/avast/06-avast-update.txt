@@ -42,31 +42,31 @@ The steps below will help you carry out a manual update of avast! using its main
 
 ## Step 3
 
-![Avast img 34](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.052.png)[Avast img 34]
+![Avast img 35](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.052.png)[Avast img 35]
 
 1. The progress bar will track the installation of new malware definitions
 
 ## Step 4
 
-![Avast img 35](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.053.png)[Avast img 35]
+![Avast img 36](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.053.png)[Avast img 36]
 
 1. When *avast!* says it is up-to-date, click *OK*
 
 ## Step 5
 
-![Avast img 36](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.054.png)[Avast img 36]
+![Avast img 37](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.054.png)[Avast img 37]
 
 1. To update the *avast!* software itself—rather than just the list of malware that it knows about—click the lower *Update* button in the *Program* pane.
 
 ## Step 6
 
-![Avast img 37](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.055.png)[Avast img 37]
+![Avast img 38](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.055.png)[Avast img 38]
 
 1. The progress bar will track the installation of updates for the *avast!* software itself
 
 ## Step 7
 
-![Avast img 38](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.056.png)[Avast img 38]
+![Avast img 39](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.056.png)[Avast img 39]
 
 1. When Avast is done updating its software, click *OK* in the *Program* pane
 2. Click *OK*
@@ -75,7 +75,7 @@ The steps below will help you carry out a manual update of avast! using its main
 
 You can also update *avast!* by right-clicking its system tray icon
 
-![Avast img 39](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.073.png)[Avast img 39]
+![Avast img 40](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.073.png)[Avast img 40]
 
 1. Right click the *avast!* icon in the *Windows* system tray
 2. Click *Update*

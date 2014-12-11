@@ -25,13 +25,13 @@ We recommend changing a few of Avast's default settings. The steps below will he
 
 ### Step 1
 
-![Avast img 49](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.066.png)[Avast img 49]
+![Avast img 50](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.066.png)[Avast img 50]
 
 1. Click the *Settings* tab
 
 ### Step 2
 
-![Avast img 50](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.067.png)[Avast img 50]
+![Avast img 51](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.067.png)[Avast img 51]
 
 1. Uncheck the box next to *Participate in the Avast community*
 2. Click *OK*
@@ -40,20 +40,20 @@ We recommend changing a few of Avast's default settings. The steps below will he
 
 By default, Avast's *Mail Shield* will scan all email, including messages sent or received through an encrypted connection. This can can cause issues for mail clients like **Thunderbird**. The following steps will help you disable the scanning of encrypted email connections to prevent **avast!** from interfering with your mail client.
 
-![Avast img 51](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.068.png)[Avast img 51]
+![Avast img 52](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.068.png)[Avast img 52]
 
 1. Click *Settings*
 
 ### Step 4
 
-![Avast img 52](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.069.png)[Avast img 52]
+![Avast img 53](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.069.png)[Avast img 53]
 
 1. Click *Active protection*
 2. Click the *Customize* link next to *Mail Shield*
 
 ### Step 5
 
-![Avast img 53](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.070.png)[Avast img 53]
+![Avast img 54](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.070.png)[Avast img 54]
 
 1. Click *SSL Scanning*
 2. **Uncheck** the box next to *Scan SSL Connections*
@@ -62,7 +62,7 @@ By default, Avast's *Mail Shield* will scan all email, including messages sent o
 
 The following Step will prevent *avast!* from adding text to your outgoing emails.
 
-![Avast img 54](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.072.png)[Avast img 54]
+![Avast img 55](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.072.png)[Avast img 55]
 
 1. Click *Behaviour*
 2. **Uncheck** the box next to *Insert note into clean message (outgoing)*
@@ -74,7 +74,7 @@ If you had the *Mozilla Firefox* browser on your computer when you installed *av
 
 ### Step 1 (Firefox)
 
-![Avast img 55](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.034.png)[Avast img 55]
+![Avast img 56](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.034.png)[Avast img 56]
 
 * Launch *Mozilla Firefox*
 1. Check the *Allow this installation* box
@@ -82,13 +82,13 @@ If you had the *Mozilla Firefox* browser on your computer when you installed *av
 
 ### Step 2 (Firefox)
 
-![Avast img 56](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.035.png)[Avast img 56]
+![Avast img 57](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.035.png)[Avast img 57]
 
 1. The *avast!* extension may be disabled on your browser's homepage. In order to configure it, you must visit an actual website
 
 ### Step 3 (Firefox)
 
-![Avast img 57](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.036.png)[Avast img 57]
+![Avast img 58](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.036.png)[Avast img 58]
 
 1. Go to any website.
 2. Click the *avast!* button
@@ -96,14 +96,14 @@ If you had the *Mozilla Firefox* browser on your computer when you installed *av
 
 ### Step 4 (Firefox)
 
-![Avast img 58](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.037.png)[Avast img 58]
+![Avast img 59](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.037.png)[Avast img 59]
 
 1. Check the box next to *Do not track*
 * Scroll down, if necessary, to see additional configuration options
 
 ### Step 5 (Firefox)
 
-![Avast img 59](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.038.png)[Avast img 59]
+![Avast img 60](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.038.png)[Avast img 60]
 
 1. **Uncheck** the box next to *SiteCorrect*
 2. **Uncheck** the box next to *Statistics*
@@ -113,7 +113,7 @@ If you had the *Mozilla Firefox* browser on your computer when you installed *av
 
 ### Step 6 (Firefox)
 
-![Avast img 60](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.039.png)[Avast img 60]
+![Avast img 61](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.039.png)[Avast img 61]
 
 1. Click the *X* in the upper, right-hand corner of the *avast!* window.
 
@@ -123,14 +123,14 @@ If you had the *Google Chrome* browser on your computer when you installed *avas
 
 ### Step 1 (Chrome)
 
-![Avast img 61](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.040.png)[Avast img 61]
+![Avast img 62](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.040.png)[Avast img 62]
 
 * Launch *Google Chrome*.
 1. Click *Enable extension*
 
 ### Step 2 (Chrome)
 
-![Avast img 62](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.041.png)[Avast img 62]
+![Avast img 63](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.041.png)[Avast img 63]
 
 1. If the *avast!* button is disabled, go to an actual webpage
 2. Click the *avast!* button
@@ -138,14 +138,14 @@ If you had the *Google Chrome* browser on your computer when you installed *avas
 
 ### Step 3 (Chrome)
 
-![Avast img 63](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.042.png)[Avast img 63]
+![Avast img 64](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.042.png)[Avast img 64]
 
 1. Check the box next to *Do not track*
 * Scroll down, if necessary, to see additional configuration options
 
 ### Step 4 (Chrome)
 
-![Avast img 64](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.043.png)[Avast img 64]
+![Avast img 65](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.043.png)[Avast img 65]
 
 1. **Uncheck** the box next to *SiteCorrect*
 2. **Uncheck** the box next to *Statistics*
@@ -154,7 +154,7 @@ If you had the *Google Chrome* browser on your computer when you installed *avas
 
 ### Step 5 (Chrome)
 
-![Avast img 65](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.044.png)[Avast img 65]
+![Avast img 66](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.044.png)[Avast img 66]
 
 1. Click the *X* in the upper, right-hand corner
 
@@ -164,33 +164,33 @@ When you installed *avast!*, the installer will have added a browser-specific ex
 
 ### Step 1 (Internet Explorer)
 
-![Avast img 66](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.045.png)[Avast img 66]
+![Avast img 67](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.045.png)[Avast img 67]
 
 * Launch *Microsoft Internet Explorer*.
 1. Click *Choose add-ons*
 
 ### Step 2 (Internet Explorer)
 
-![Avast img 67](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.046.png)[Avast img 67]
+![Avast img 68](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.046.png)[Avast img 68]
 
 1. Click the *Enable* button next to *avast! Online Security*
 2. Click *Done*
 
 ### Step 3 (Internet Explorer)
 
-![Avast img 68](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.047.png)[Avast img 68]
+![Avast img 69](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.047.png)[Avast img 69]
 
 1. Click the *avast!* button
 
 ### Step 4 (Internet Explorer)
 
-![Avast img 69](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.048.png)[Avast img 69]
+![Avast img 70](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.048.png)[Avast img 70]
 
 1. Click *Settings*
 
 ### Step 5 (Internet Explorer)
 
-![Avast img 70](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.049.png)[Avast img 70]
+![Avast img 71](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.049.png)[Avast img 71]
 
 1. **Uncheck** the box next to *Statistics*
 2. Check the box next to *Do not track*
@@ -198,7 +198,7 @@ When you installed *avast!*, the installer will have added a browser-specific ex
 
 ### Step 6 (Internet Explorer)
 
-![Avast img 71](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.065.png)[Avast img 71]
+![Avast img 72](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.065.png)[Avast img 72]
 
 1. **Uncheck** the box next to *SafePrice*
 2. **Uncheck** the box next to *Search engine results*

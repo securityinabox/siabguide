@@ -18,7 +18,7 @@ Language: EN
 
 # Install and launch Jitsi
 
-## Step 1
+### Step 1
 
 ![Windows Security Alert](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.001.en-win_0.png)[Jitsi img 01]
 
@@ -26,7 +26,7 @@ Language: EN
 
 1. Click Cancel
 
-## Step 2
+### Step 2
 
 ![Protocols](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.002.en-win.png)[Jitsi img 02]
 
@@ -38,7 +38,7 @@ Language: EN
 
 3. Click *Sign in*
 
-## Step 3
+### Step 3
 
 ![Main Application Window](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/jitsi-accounts.004.en-win.png)[Jitsi img 03]
 

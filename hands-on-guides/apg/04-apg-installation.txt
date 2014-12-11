@@ -19,7 +19,7 @@ Language: EN
 
 ## Step 1
 
-Download** the app from the [Google Play](https://play.google.com/store/apps/details?id=org.thialfihar.android.apg). Alternatively, you can download the app from the [project's homepage](http://www.thialfihar.org/projects/apg/).
+**Download** the app from the [Google Play](https://play.google.com/store/apps/details?id=org.thialfihar.android.apg). Alternatively, you can download the app from the [project's homepage](http://www.thialfihar.org/projects/apg/).
 
 ## Step 2
 

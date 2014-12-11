@@ -59,7 +59,7 @@ The device will begin to encrypt the selected file. Depending on the size of the
 
 ## Step 9
 
-To **decrypt**, **press** ![](https://securityinabox.org/sbox/screen/apg-en/04.png)
+To **decrypt**, **press** ![](https://securityinabox.org/sbox/screen/apg-en/04.png)[APG img 04]
 
 ## Step 10
 

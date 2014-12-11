@@ -17,39 +17,39 @@ Language: EN
 
 # Download and install avast!
 
-## Step 1
+### Step 1
 
 ![Avast img 01](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.001.png)[Avast img 01]
 
 1. Go to the [avast! website](http://www.avast.com/index)
 2. Click on *Go to Download*
 
-## Step 2
+### Step 2
 
 ![Avast img 02](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.002.png)[Avast img 02]
 
 1. Click *Free Download*
 
-## Step 3
+### Step 3
 
 ![Avast img 03](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.003.png)[Avast img 03]
 
 1. Click *Save File*
 
-## Step 4
+### Step 4
 
 ![Avast img 04](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.004.png)[Avast img 04]
 
 1. Go to your *Downloads* folder (or wherever you put the avast! installer)
 2. Double click the *avast_free_antivirus_setup_online* file
 
-## Step 5
+### Step 5
 
 ![Avast img 05](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.005.png)[Avast img 05]
 
 1. Click *Yes* to install avast!
 
-## Step 6
+### Step 6
 
 ![Avast img 06](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.006.png)[Avast img 06]
 
@@ -58,26 +58,26 @@ The *avast!* installer should appear
 1. **Uncheck** the *Yes, install Dropbox...* checkbox box
 2. Click *Regular installation*
 
-## Step 7
+### Step 7
 
 ![Avast img 07](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.007.png)[Avast img 07]
 
 1. We will walk through the process of "opting out" from this data collection after we install *avast!*
 2. Click *Continue*
 
-## Step 8
+### Step 8
 
 ![Avast img 08](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.008_0.png)[Avast img 08]
 
 1. The progress bar will track the installation of *avast!*
 
-## Step 9
+### Step 9
 
 ![Avast img 09](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.009.png)[Avast img 09]
 
 1. When the installation is complete, click *Done*
 
-## Step 10
+### Step 10
 
 ![Avast img 10](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.010.png)[Avast img 10]
 
@@ -86,45 +86,45 @@ The *avast!* installer should appear
 
 # Change the language of avast! (optional)
 
-## Step 1
+### Step 1
 
 ![Avast img 11](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.011.png)[Avast img 11]
 
 1. Click the *Settings* tab
 
-## Step 2
+### Step 2
 
 ![Avast img 12](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.025_1.png)[Avast img 12]
 
 1. Click the *General* tab
 2. Click *Install additional languages*
 
-## Step 3
+### Step 3
 
 ![Avast img 13](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.026.png)[Avast img 13]
 
 1. Check the box next to each language you would like to install
 2. Click *OK*
 
-## Step 4
+### Step 4
 
 ![Avast img 14](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.027.png)[Avast img 14]
 
 1. Allow *avast!* to install the additional language(s) by clicking *Yes*
 
-## Step 5
+### Step 5
 
 ![Avast img 15](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.028.png)[Avast img 15]
 
 1. The progress bar will track the installation of additional languages
 
-## Step 6
+### Step 6
 
 ![Avast img 16](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.029.png)[Avast img 16]
 
 1. When the installation is completed, click *Done*
 
-## Step 7
+### Step 7
 
 ![Avast img 17](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.030.png)[Avast img 17]
 
@@ -132,7 +132,7 @@ The *avast!* installer should appear
 2. Click on the language you would like to *avast!* to use
 3. Click *OK*
 
-## Step 8
+### Step 8
 
 ![Avast img 18](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.031.png)[Avast img 18]
 
@@ -140,13 +140,13 @@ The *avast!* installer should appear
 
 # Register avast! if you do not yet have an account
 
-## Step 1
+### Step 1
 
 ![Avast img 19](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.011_0.png)[Avast img 19]
 
 1. Click the *Settings* tab
 
-## Step 2
+### Step 2
 
 ![Avast img 20](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.014.png)[Avast img 20]
 
@@ -154,13 +154,13 @@ The *avast!* installer should appear
 2. Note that you will only be able to use *avast!* for 30 days unless you register. Registration, which is free, allows you to use the tool for a full year. After one year, you will have to renew your registration.
 3. Click *Register now*
 
-## Step 3
+### Step 3
 
 ![Avast img 21](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.015.png)[Avast img 21]
 
 1. Click the grey *Select* button under the *Standard protection* column
 
-## Step 4
+### Step 4
 
 ![Avast img 22](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.016.png)[Avast img 22]
 
@@ -168,13 +168,13 @@ The *avast!* installer should appear
 2. Enter a *working* email address . (You will have to visit an account-activation link that will be sent to you at this address.)
 3. Click *Register with email address*
 
-## Step 5
+### Step 5
 
 ![Avast img 23](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.017.png)[Avast img 23]
 
 1. Click *Stay with basic protection*
 
-## Step 6
+### Step 6
 
 ![Avast img 24](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.018.png)[Avast img 24]
 
@@ -182,13 +182,13 @@ The *avast!* installer should appear
 2. Note that you now have a full year before you must renew your registration
 3. Click *OK*
 
-## Step 7
+### Step 7
 
 ![Avast img 25](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.019.png)[Avast img 25]
 
 Sign in to the email account with which you registered *avast!*
 
-## Step 8
+### Step 8
 
 ![Avast img 26](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.020.png)[Avast img 26]
 
@@ -196,7 +196,7 @@ Sign in to the email account with which you registered *avast!*
 * **Before you click on a link that was sent to you by email, you should always scan the link address and look for anything suspicious. In this case, it is an *HTTPS* link that points to a site within the *avast.com* domain, so it's probably OK. (But you should still double check the URL in your browser, once you get there.)**
 2. Click the account verification link.
 
-## Step 9
+### Step 9
 
 ![Avast img 27](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.021.png)[Avast img 27]
 
@@ -207,14 +207,14 @@ Sign in to the email account with which you registered *avast!*
 * If you use a secure password manager, such as *KeePassX*, now would be a good time to create an entry for this account and save it. 
 4. Click *Set password*
 
-## Step 10
+### Step 10
 
 ![Avast img 28](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.022.png)[Avast img 28]
 
 1. If your are prompted to "Remember" your password, you should select *Never Remember Password for This Site,* unless you have chosen to trust your browser's built-in password manager.
 2. Click *Continue*
 
-## Step 11
+### Step 11
 
 ![Avast img 29](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.024.png)[Avast img 29]
 
@@ -222,14 +222,14 @@ Sign in to the email account with which you registered *avast!*
 
 # Register avast! if you already have an account
 
-## Step 1
+### Step 1
 
 ![Avast img 30](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.032.png)[Avast img 30]
 
 1. Click on the *Account* tab
 2. Click the *Sign in* link in the lower, left-hand corner
 
-## Step 2
+### Step 2
 
 ![Avast img 31](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.033.png)[Avast img 31]
 
@@ -237,7 +237,7 @@ Sign in to the email account with which you registered *avast!*
 2. Enter your *avast!* password
 3. Click the blue *Sign in* button
 
-## Step 3
+### Step 3
 
 ![Avast img 32](https://siabnext.ttc.io/sites/siabnext.ttc.io/files/media/avast-win-en.034_0.png)[Avast img 32]
 

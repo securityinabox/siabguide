@@ -124,7 +124,7 @@ To manually check for updates of plugins, perform the following steps:
 
 ### Step 1
 
-**Click** **https://www.mozilla.com/plugincheck** to activate the following site:
+**Click** [**https://www.mozilla.com/plugincheck**](https://www.mozilla.com/plugincheck) to activate the following site:
 
 ![Mozilla Firefox Plugin Check & Updates site](https://securityinabox.org/sbox/screen/firefox-en-1/38.png)[Firefox img 35]
 

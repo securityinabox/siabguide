@@ -16,4 +16,4 @@ Language: EN
 
 
 * The ability to encrypt files and text messages from wherever you are (for instance, an Internet café or at work)
-* The ability to encrypt the messages off-line or when Internet access is unavailable, and then send them from a computer connected to the Internet later.
+* The ability to encrypt the messages *off-line* or when Internet access is unavailable, and then send them from a computer connected to the Internet later.
